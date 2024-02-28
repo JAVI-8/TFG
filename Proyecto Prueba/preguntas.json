@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "pregunta": "\u00bfQu\u00e9 m\u00fasico fue conocido como \"El Rey del Pop\"?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 2,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
+        "tipo": "cultura general"
+    }
+]
