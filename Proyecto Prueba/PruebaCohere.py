@@ -38,11 +38,12 @@ respuestas = cargar_respuestas()
 indice_inicio = len(respuestas)  # Último índice de respuesta
 
 for pregunta in preguntas[indice_inicio:]:
-    prompt = "respuesta muy corta y en español, " + pregunta['pregunta']
+    prompt = "respuesta muy directa " + pregunta['pregunta']
     response = co.generate(
             prompt=prompt,
             temperature=0.0,
             num_generations=1,
+            end_sequences=["."],
         )
     respuesta_generada = response[0].text
     respuestas.append({
@@ -52,4 +53,4 @@ for pregunta in preguntas[indice_inicio:]:
         })
 guardar_respuestas(respuestas)
 
-print(response)
+print(respuesta_generada)
