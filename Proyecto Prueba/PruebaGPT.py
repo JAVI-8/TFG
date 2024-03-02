@@ -35,21 +35,44 @@ def guardar_pregunta_en_json(pregunta_id, pregunta, tipo):
         json.dump(preguntas, file, indent=4)
 
 
-completion = client.chat.completions.create(
-  model="gpt-3.5-turbo-0125",
-  messages=[
-    {"role": "system", "content": "Crea una pregunta concreta de cultura general"}
-  ]
-)
 
 
-pregunta_generada = completion.choices[0].message.content
-preguntas = cargar_preguntas()
-# Guardar la pregunta generada en el archivo JSON
-pregunta_id = len(preguntas) + 1 if os.path.exists("preguntas.json") else 1
-guardar_pregunta_en_json(pregunta_id, pregunta_generada, "cultura general")
+def generar_pregunta(tipo_pregunta):
+    
+    tipos = {
+        1: "cultura general",
+        2: "tipo test con 3 opciones",
+        3: "tipo lógica",
+        4: "verdadero o falso"
+    }
+
+    if tipo_pregunta not in tipos:
+        print("Tipo de pregunta no válido.")
+        return
+    
+    tipo = tipos[tipo_pregunta]
+
+    completion = client.chat.completions.create(
+      model="gpt-3.5-turbo-0125",
+      messages=[
+      {"role": "system", "content": f"Crea una pregunta de {tipo}"}
+      ]
+    )
+    pregunta_generada = completion.choices[0].message.content
+    preguntas = cargar_preguntas()
+    # Guardar la pregunta generada en el archivo JSON
+    pregunta_id = len(preguntas) + 1 if os.path.exists("preguntas.json") else 1
+    guardar_pregunta_en_json(pregunta_id, pregunta_generada, "cultura general")
+    print("Pregunta guardada exitosamente en el archivo JSON.")
+    print(completion.choices[0].message.content)
 
 
-print("Pregunta guardada exitosamente en el archivo JSON.")
 
-print(completion.choices[0].message.content)
+
+
+
+
+
+
+
+

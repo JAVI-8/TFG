@@ -8,5 +8,20 @@
         "id": 2,
         "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
         "tipo": "cultura general"
+    },
+    {
+        "id": 3,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del proceso mediante el cual las plantas convierten la luz del sol en energ\u00eda qu\u00edmica?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 4,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 5,
+        "pregunta": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio?\n\na) Rusia\nb) Canad\u00e1\nc) Estados Unidos",
+        "tipo": "cultura general"
     }
 ]
