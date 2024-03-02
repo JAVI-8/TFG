@@ -1,6 +1,7 @@
 import os
 import sys
 import PruebaGPT
+import PruebaCohere
 
 def mostrar_menu():
     print("Menú:")
@@ -26,8 +27,7 @@ def main():
            opcion_sub = input("Seleccione el tipo de pregunta: ")
            PruebaGPT.generar_pregunta(int(opcion_sub))
         elif opcion == "2":
-            # Llamar a la función para generar otro tipo de pregunta
-            print("Aún no implementado")
+            PruebaCohere.responder_preguntas()
         elif opcion == "3":
             print("Saliendo del programa...")
             break

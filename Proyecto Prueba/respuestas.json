@@ -8,5 +8,20 @@
         "id_respuesta": 2,
         "respuesta": " La Torre Eiffel se encuentra en Francia en el Parque Eiffel, en el centro de Paris",
         "id_pregunta": 2
+    },
+    {
+        "id_respuesta": 3,
+        "respuesta": " Responde: El proceso en cuesti\u00f3n es el photosynthesis",
+        "id_pregunta": 3
+    },
+    {
+        "id_respuesta": 4,
+        "respuesta": " La respuesta es Paris, en la ciudad de Par\u00eds, Francia",
+        "id_pregunta": 4
+    },
+    {
+        "id_respuesta": 5,
+        "respuesta": " A, Rusia es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio",
+        "id_pregunta": 5
     }
 ]
