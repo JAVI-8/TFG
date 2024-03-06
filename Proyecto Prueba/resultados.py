@@ -1,5 +1,5 @@
 import json
-
+import PruebaGPT
 def cargar_resultados():
     try:
         with open("resultados.json", "r") as file:
@@ -39,21 +39,18 @@ def verificar_respuestas():
 
         # Encontrar la respuesta correspondiente a la pregunta actual
         respuesta = next((r for r in respuestas if r["id_pregunta"] == pregunta_id), None)
-        if respuesta:
-            respuesta_generada = respuesta["respuesta"]
-            """
-            if respuesta_generada == respuesta_esperada:
-                resultado = {
+        print(pregunta["pregunta"])
+        print(respuesta["respuesta"])
+        if PruebaGPT.corregir(pregunta["pregunta"], respuesta["respuesta"]):
+            resultado = {
                     "id_pregunta": pregunta_id,
                     "id_respuesta": respuesta["id_respuesta"],
                     "resultado": "correcto"}
-            else:
-                resultado = {
+        else:
+            resultado = {
                     "id_pregunta": pregunta_id,
                     "id_respuesta": respuesta["id_respuesta"],
                     "resultado": "incorrecto"}
-            nuevos_resultados.append(resultado)
-            """
-    '''        
-    resultados += nuevos_resultados
-    guardar_resultados(resultados)'''
+        nuevos_resultados.append(resultado)    
+    guardar_resultados(nuevos_resultados)
+        

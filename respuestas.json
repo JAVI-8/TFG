@@ -1,0 +1,42 @@
+[
+    {
+        "id_respuesta": 1,
+        "respuesta": " a) Facilita la comunicaci\u00f3n entre el usuario y el hardware\n\nEste es una caracter\u00edstica de un sistema operativo, por eso es que es importante que se sepa el material de apoyo para que lo sepa usar de manera efectiva",
+        "id_pregunta": 1
+    },
+    {
+        "id_respuesta": 2,
+        "respuesta": " The result of the logical operation given, (3 AND 2) OR (4 OR 1), based on the rules of Boolean Algebra, is 7",
+        "id_pregunta": 2
+    },
+    {
+        "id_respuesta": 3,
+        "respuesta": " No, la Luna no es m\u00e1s grande que la Tierra",
+        "id_pregunta": 3
+    },
+    {
+        "id_respuesta": 4,
+        "respuesta": " La respuesta es que la ciudad de Machu Picchu se encuentra en el Per\u00fa",
+        "id_pregunta": 4
+    },
+    {
+        "id_respuesta": 5,
+        "respuesta": " La bandera m\u00e1s antigua del mundo que data del a\u00f1o 1190 es la de los Templos",
+        "id_pregunta": 5
+    },
+    {
+        "id_respuesta": 6,
+        "respuesta": " C) Par\u00eds es la respuesta correcta",
+        "id_pregunta": 6
+    },
+    {
+        "id_respuesta": 7,
+        "respuesta": " La famosa Torre Eiffel se encuentra en Francia y fue dise\u00f1ada por Gustave Eiffel",
+        "id_pregunta": 7
+    },
+    {
+        "id_respuesta": 8,
+        "respuesta": " La Torre Eiffel fue construida en 1889, pero se inaugur\u00f3 el 28 de abril de 1892",
+        "id_pregunta": 8
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes es una caracter\u00edstica de un sistema operativo?\n\na) Facilita la comunicaci\u00f3n entre el usuario y el hardware\nb) Permite la ejecuci\u00f3n de programas de edici\u00f3n de texto\nc) Es un tipo de software antivirus",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 2,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n l\u00f3gica? (3 AND 2) OR (4 OR 1)",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 3,
+        "pregunta": "\u00bfLa Luna es m\u00e1s grande que la Tierra?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 4,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa ciudad de Machu Picchu?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 5,
+        "pregunta": "\u00bfQu\u00e9 pa\u00eds tiene la bandera m\u00e1s antigua del mundo, que data del a\u00f1o 1190?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 6,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\na) Berl\u00edn\nb) Madrid\nc) Par\u00eds",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 7,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa Torre Eiffel y qui\u00e9n fue su dise\u00f1ador?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 8,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o fue inaugurada la Torre Eiffel de Par\u00eds?",
+        "tipo": "cultura general"
+    }
+]

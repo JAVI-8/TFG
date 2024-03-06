@@ -2,12 +2,14 @@ import os
 import sys
 import PruebaGPT
 import PruebaCohere
+import resultados
 
 def mostrar_menu():
     print("Menú:")
     print("1. Generar pregunta")
     print("2. Generar respuesta a las preguntas")
-    print("3. Salir")
+    print("3. Corregir las respuestas")
+    print("4. Salir")
 
 def mostrar_submenu():
     print("Seleccione el tipo de pregunta:")
@@ -29,6 +31,8 @@ def main():
         elif opcion == "2":
             PruebaCohere.responder_preguntas()
         elif opcion == "3":
+            resultados.verificar_respuestas()
+        elif opcion == "4":
             print("Saliendo del programa...")
             break
         else:
