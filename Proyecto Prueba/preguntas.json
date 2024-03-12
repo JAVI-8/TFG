@@ -23,5 +23,15 @@
         "id": 5,
         "pregunta": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio?\n\na) Rusia\nb) Canad\u00e1\nc) Estados Unidos",
         "tipo": "cultura general"
+    },
+    {
+        "id": 6,
+        "pregunta": "\u00bfCu\u00e1l es la \u00fanica letra que no aparece en la palabra \"paralelep\u00edpedo\"?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 7,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes animales es un mam\u00edfero: pez, caballo o serpiente?",
+        "tipo": "cultura general"
     }
 ]

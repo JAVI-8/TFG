@@ -23,5 +23,15 @@
         "id_respuesta": 5,
         "respuesta": " A, Rusia es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio",
         "id_pregunta": 5
+    },
+    {
+        "id_respuesta": 6,
+        "respuesta": " La letra \"s\" no aparece en la palabra \"paralelep\u00edpedo\"",
+        "id_pregunta": 6
+    },
+    {
+        "id_respuesta": 7,
+        "respuesta": " La respuesta es que s\u00f3lo el caballo pertenece a ese grupo, pues es un mam\u00edfero",
+        "id_pregunta": 7
     }
 ]
