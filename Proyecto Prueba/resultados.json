@@ -43,5 +43,20 @@
         "id_pregunta": 9,
         "id_respuesta": 9,
         "resultado": "incorrecto"
+    },
+    {
+        "id_pregunta": 10,
+        "id_respuesta": 10,
+        "resultado": "correcto"
+    },
+    {
+        "id_pregunta": 11,
+        "id_respuesta": 11,
+        "resultado": "correcto"
+    },
+    {
+        "id_pregunta": 12,
+        "id_respuesta": 12,
+        "resultado": "correcto"
     }
 ]

@@ -1,5 +1,6 @@
 import json
 import PruebaGPT
+
 def cargar_resultados():
     try:
         with open("resultados.json", "r") as file:
@@ -28,8 +29,6 @@ def verificar_respuestas():
     # Obtener el ID de la última pregunta verificada
     ultimo_id_verificado = resultados[-1]["id_pregunta"] if resultados else 0
 
-    nuevos_resultados = []
-
     for pregunta in preguntas:
 
         if pregunta["id"] <= ultimo_id_verificado:
@@ -51,6 +50,6 @@ def verificar_respuestas():
                     "id_pregunta": pregunta_id,
                     "id_respuesta": respuesta["id_respuesta"],
                     "resultado": "incorrecto"}
-        nuevos_resultados.append(resultado)    
-    guardar_resultados(nuevos_resultados)
+        resultados.append(resultado) 
+    guardar_resultados(resultados)
         

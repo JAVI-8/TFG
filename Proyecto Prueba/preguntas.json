@@ -43,5 +43,20 @@
         "id": 9,
         "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\n\na) Sydney\n\nb) Melbourne\n\nc) Canberra",
         "tipo": "cultura general"
+    },
+    {
+        "id": 10,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\n\nA) Londres\nB) Par\u00eds\nC) Madrid",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 11,
+        "pregunta": "\u00bfSi todos los gatos son mam\u00edferos y algunos mam\u00edferos son animales dom\u00e9sticos, es posible concluir que algunos gatos son animales dom\u00e9sticos?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 12,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "cultura general"
     }
 ]

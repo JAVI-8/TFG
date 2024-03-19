@@ -43,5 +43,20 @@
         "id_respuesta": 9,
         "respuesta": " La respuesta correcta es:\n\na) Sydney es la capital de Australia",
         "id_pregunta": 9
+    },
+    {
+        "id_respuesta": 10,
+        "respuesta": " B) Par\u00eds es la capital de Francia",
+        "id_pregunta": 10
+    },
+    {
+        "id_respuesta": 11,
+        "respuesta": " Si todos los gatos son mam\u00edferos, y todos los mam\u00edferos son animales dom\u00e9sticos, luego algunos gatos tambi\u00e9n ser\u00e1n animales dom\u00e9sticos",
+        "id_pregunta": 11
+    },
+    {
+        "id_respuesta": 12,
+        "respuesta": " La respuesta es Paris, en la ciudad de Par\u00eds, Francia",
+        "id_pregunta": 12
     }
 ]
