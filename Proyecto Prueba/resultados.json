@@ -1,7 +1,47 @@
 [
     {
+        "id_pregunta": 1,
+        "id_respuesta": 1,
+        "resultado": "correcto"
+    },
+    {
+        "id_pregunta": 2,
+        "id_respuesta": 2,
+        "resultado": "correcto"
+    },
+    {
+        "id_pregunta": 3,
+        "id_respuesta": 3,
+        "resultado": "correcto"
+    },
+    {
+        "id_pregunta": 4,
+        "id_respuesta": 4,
+        "resultado": "correcto"
+    },
+    {
+        "id_pregunta": 5,
+        "id_respuesta": 5,
+        "resultado": "correcto"
+    },
+    {
+        "id_pregunta": 6,
+        "id_respuesta": 6,
+        "resultado": "correcto"
+    },
+    {
         "id_pregunta": 7,
         "id_respuesta": 7,
         "resultado": "correcto"
+    },
+    {
+        "id_pregunta": 8,
+        "id_respuesta": 8,
+        "resultado": "correcto"
+    },
+    {
+        "id_pregunta": 9,
+        "id_respuesta": 9,
+        "resultado": "incorrecto"
     }
 ]

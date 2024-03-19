@@ -33,5 +33,15 @@
         "id": 7,
         "pregunta": "\u00bfCu\u00e1l de los siguientes animales es un mam\u00edfero: pez, caballo o serpiente?",
         "tipo": "cultura general"
+    },
+    {
+        "id": 8,
+        "pregunta": "\u00bfCu\u00e1l es la \u00fanica letra del alfabeto que no aparece en el nombre de ning\u00fan continente?",
+        "tipo": "cultura general"
+    },
+    {
+        "id": 9,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\n\na) Sydney\n\nb) Melbourne\n\nc) Canberra",
+        "tipo": "cultura general"
     }
 ]
