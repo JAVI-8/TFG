@@ -11,23 +11,37 @@ def mostrar_menu():
     print("3. Corregir las respuestas")
     print("4. Salir")
 
-def mostrar_submenu():
+def mostrar_submenuTipo():
     print("Seleccione el tipo de pregunta:")
+    print("1. Tipo respuesta corta")
+    print("2. Tipo test con 3 opciones")
+    print("3. Verdadero o falso")
+
+def mostrar_submenuTema():
+    print("Seleccione el tema de la pregunta:")
     print("1. Cultura general")
-    print("2. Tipo test")
-    print("3. Preguntas lógicas")
-    print("4. Verdadero o falso")
+    print("2. Codigo")
+    print("3. Operaciones matematicas")
+    print("4. Traducción")
+    print("5. Definiciones de palabras")
+
+
 
 def main():
     while True:
         mostrar_menu()
         opcion = input("Seleccione una opción: ")
+        print("\n")
 
         if opcion == "1":
             # Llamar a la función para generar pregunta de cultura general (desde pruebaGPT)
-           mostrar_submenu()
-           opcion_sub = input("Seleccione el tipo de pregunta: ")
-           PruebaGPT.generar_pregunta(int(opcion_sub))
+           mostrar_submenuTipo()
+           opcion_subTipo = input("Seleccione el número: ")
+           print("\n")
+           mostrar_submenuTema()
+           opcion_subTema = input("Seleccione el número: ")
+           print("\n")
+           PruebaGPT.generar_pregunta(int(opcion_subTipo),int(opcion_subTema))
         elif opcion == "2":
             PruebaCohere.responder_preguntas()
         elif opcion == "3":

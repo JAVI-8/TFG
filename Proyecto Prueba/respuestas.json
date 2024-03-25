@@ -58,5 +58,110 @@
         "id_respuesta": 12,
         "respuesta": " La respuesta es Paris, en la ciudad de Par\u00eds, Francia",
         "id_pregunta": 12
+    },
+    {
+        "id_respuesta": 13,
+        "respuesta": " Un bucle, en programaci\u00f3n, es una iteraci\u00f3n o vez repetida de algoritmos que se ejecuta mientras que una condici\u00f3n es verificada",
+        "id_pregunta": 13
+    },
+    {
+        "id_respuesta": 14,
+        "respuesta": " Esta palabra es \"validity\"",
+        "id_pregunta": 14
+    },
+    {
+        "id_respuesta": 15,
+        "respuesta": " Escribe un c\u00f3digo en Python que muestre la longitud de una lista llamada \"numeros\":\n\n```python\nnumeros = [1, 2, 3, 4, 5]\nprint(len(numeros))\n```\n\nResultado:\n```\n5\n```\n\nAl ejecutar este c\u00f3digo, se produce una salida de pantalla con la longitud de la lista `numeros`, es decir, 5",
+        "id_pregunta": 15
+    },
+    {
+        "id_respuesta": 16,
+        "respuesta": " La suma de 5 + 7 es 12",
+        "id_pregunta": 16
+    },
+    {
+        "id_respuesta": 17,
+        "respuesta": " La respuesta es el otorgado por la operaci\u00f3n de multiplicaci\u00f3n es 35",
+        "id_pregunta": 17
+    },
+    {
+        "id_respuesta": 18,
+        "respuesta": " La translaci\u00f3n inversa es otra caracter\u00edstica importante en la investigaci\u00f3n del aprendizaje de lenguas",
+        "id_pregunta": 18
+    },
+    {
+        "id_respuesta": 19,
+        "respuesta": " Transliteration is a type of translation that focuses on converting words or texts from one script to another, rather than translating the meaning of the words",
+        "id_pregunta": 19
+    },
+    {
+        "id_respuesta": 20,
+        "respuesta": " The word for \"hello\" in English is \"hello\"",
+        "id_pregunta": 20
+    },
+    {
+        "id_respuesta": 21,
+        "respuesta": " The formal way to say \"Hello, how are you?\" in Spanish is: \n\nHola, \u00bfC\u00f3mo est\u00e1s? \n\nThere are other informal variations like: \n\nHola, \u00bfQu\u00e9 tal? \n\nor \nHola, \u00bfQu\u00e9 hay? \n\nThere are also regional variations on how to say this depending on the Spanish dialect",
+        "id_pregunta": 21
+    },
+    {
+        "id_respuesta": 22,
+        "respuesta": " La opci\u00f3n **a) Voy a la tienda ma\u00f1ana** es la m\u00e1s adecuada a la frase en ingl\u00e9s original",
+        "id_pregunta": 22
+    },
+    {
+        "id_respuesta": 23,
+        "respuesta": " \ubaa9\uc801 \uac70\ub9ac \uc5b4\ub514\ucbe4 \uc788\uc5b4? \n\nEsta es una traducci\u00f3n directa de \"Where is the bathroom\" en un idioma coreano que es un idioma de origen china",
+        "id_pregunta": 23
+    },
+    {
+        "id_respuesta": 24,
+        "respuesta": " \n\"Buenos d\u00edas\" en coreano es \"\uc88b\uc740 \uc624\uc804\" (Jo-eun oh-je-n)",
+        "id_pregunta": 24
+    },
+    {
+        "id_respuesta": 25,
+        "respuesta": " \"Dove si trova la farmacia pi\u00f9 vicina?\"",
+        "id_pregunta": 25
+    },
+    {
+        "id_respuesta": 26,
+        "respuesta": " The translation of \"Hello, how are you today?\" in Japanese is:\n\n\u65e5\u672c\u8a9e: \u3053\u3093\u306b\u3061\u306f\u3001\u304a\u5143\u6c17\u3067\u3059\u304b?\n\nEach word is translated as follows:\n\n\u304a\u5143\u6c17\u3067\u3059\u304b?: How are you?\n\n\u304a\u306f\u3088\u3046\u304a\u3064\u3089\u305b\u3093\u305b\u3075\u304a\u3070\u3055\u3093: Hello, Mr",
+        "id_pregunta": 26
+    },
+    {
+        "id_respuesta": 27,
+        "respuesta": "\u6211\u662f\u5982\u6b64\u597d\u7684\u5417? \n\nEsto es la manera tradicional de decir \"\u00bfC\u00f3mo est\u00e1s?\" en chino mandar\u00edn",
+        "id_pregunta": 27
+    },
+    {
+        "id_respuesta": 28,
+        "respuesta": " The translation for \"Where is the nearest bus stop?\" in French is: O\u00f9 est la bus stop proche? \n\nIs there anything else I can help you with?  I can provide you with other common translations and vocabulary in case you need it! ",
+        "id_pregunta": 28
+    },
+    {
+        "id_respuesta": 29,
+        "respuesta": " The direct translation of \"\u00bfCu\u00e1l es tu comida favorita?\" would be \"Qu'est-ce que tu aimes manger le plus?\"",
+        "id_pregunta": 29
+    },
+    {
+        "id_respuesta": 30,
+        "respuesta": " La traducci\u00f3n directa de \u00abEl Sol gira alrededor de la Tierra\u00bb es:\n\n\"Le Soleil tourne autour de la Terre\"",
+        "id_pregunta": 30
+    },
+    {
+        "id_respuesta": 31,
+        "respuesta": " \u4f60\u597d\uff0c\u60a8\u600e\u4e48\u6837\uff1f\uff08N\u01d0 h\u01ceo, n\u00edn z\u011bn me y\u00e0ng\uff1f\uff09",
+        "id_pregunta": 31
+    },
+    {
+        "id_respuesta": 32,
+        "respuesta": " True",
+        "id_pregunta": 32
+    },
+    {
+        "id_respuesta": 33,
+        "respuesta": " Yes, the direct translation of the English phrase \"Hello, how are you?\" in Spanish is indeed \"Hola, \u00bfc\u00f3mo est\u00e1s?\" However, Spaniards might be more likely to use the informal pronoun \"tu\" rather than the formal \"usted\" in this context depending on the context and relationship",
+        "id_pregunta": 33
     }
 ]

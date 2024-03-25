@@ -21,13 +21,14 @@ def cargar_preguntas():
         return []
 
 # Función para guardar las preguntas en un archivo JSON
-def guardar_pregunta_en_json(pregunta_id, pregunta, tipo):
+def guardar_pregunta_en_json(pregunta_id, pregunta, tipo, tema):
     preguntas = cargar_preguntas()
     # Agregar nueva pregunta al archivo JSON
     nueva_pregunta = {
         "id": pregunta_id,
         "pregunta": pregunta,
-        "tipo": tipo
+        "tipo": tipo,
+        "tema" : tema
     }
     preguntas.append(nueva_pregunta)
 
@@ -38,34 +39,62 @@ def guardar_pregunta_en_json(pregunta_id, pregunta, tipo):
 
 
 
-def generar_pregunta(tipo_pregunta):
+def generar_pregunta(tipo_pregunta, tema_pregunta):
     
     tipos = {
+        1: "respuesta corta",
+        2: "test con 3 opciones",
+        3: "verdadero o falso"
+    }
+
+    temas = {
         1: "cultura general",
-        2: "tipo test con 3 opciones",
-        3: "tipo lógica",
-        4: "verdadero o falso"
+        2: "codigo",
+        3: "operaciones numericas complejas",
+        4: "traducción linguistica",
+        5: "definiciones de palabras"
     }
 
     if tipo_pregunta not in tipos:
         print("Tipo de pregunta no válido.")
         return
     
+    if tema_pregunta not in temas:
+        print("Tema de la pregunta no válido.")
+        return
+    
     tipo = tipos[tipo_pregunta]
+    tema = temas[tema_pregunta]
+
+    pregunta=f"Crea una pregunta de tipo {tipo} sobre {tema}"
+
+
+    if tema_pregunta == 2:
+       pregunta = f"Crea una pregunta de examen de tipo {tipo} sobre codigo, donde se proporciona un codigo en cualquier lenguaje"
+            
+    elif tema_pregunta == 4:
+        if tipo_pregunta == 1:
+            pregunta= "genera una pregunta de traduccion en un idioma al azar de una frase"
+        elif tipo_pregunta == 3:
+            pregunta = f"genera una pregunta de tipo verdadero o falso de traduccion en un idioma al azar de una frase"
+        else:
+            pregunta = f"genera una pregunta de traduccion en un idioma al azar de una frase"
+    
 
     completion = client.chat.completions.create(
-      model="gpt-3.5-turbo-0125",
-      messages=[
-      {"role": "system", "content": f"Crea una pregunta de {tipo}"}
-      ]
+        model="gpt-3.5-turbo-0125",
+        messages=[
+        {"role": "system", "content": pregunta}
+        ]
     )
     pregunta_generada = completion.choices[0].message.content
     preguntas = cargar_preguntas()
     # Guardar la pregunta generada en el archivo JSON`.`
     pregunta_id = len(preguntas) + 1 if os.path.exists("preguntas.json") else 1
-    guardar_pregunta_en_json(pregunta_id, pregunta_generada, "cultura general")
+    guardar_pregunta_en_json(pregunta_id, pregunta_generada, tipo, tema)
     print("Pregunta guardada exitosamente en el archivo JSON.")
     print(completion.choices[0].message.content)
+    print("\n")
 
 
 def corregir(pregunta, respuesta):

@@ -36,7 +36,7 @@ def responder_preguntas():
 
 
     for pregunta in preguntas[indice_inicio:]:
-        prompt = "respuesta muy directa " + pregunta['pregunta']
+        prompt = "respuesta muy directa y corta " + pregunta['pregunta']
         response = co.generate(
                 prompt=prompt,
                 temperature=0.0,

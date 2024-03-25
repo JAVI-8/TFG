@@ -58,5 +58,173 @@
         "id": 12,
         "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
         "tipo": "cultura general"
+    },
+    {
+        "id": 13,
+        "pregunta": "\u00bfQu\u00e9 es un bucle en programaci\u00f3n?",
+        "tipo": "respuesta corta",
+        "tema": "codigo"
+    },
+    {
+        "id": 14,
+        "pregunta": "\u00bfQu\u00e9 palabra se utiliza para describir el razonamiento que se basa en la consistencia de las premisas para llegar a una conclusi\u00f3n v\u00e1lida?",
+        "tipo": "respuesta corta",
+        "tema": "l\u00f3gica"
+    },
+    {
+        "id": 15,
+        "pregunta": "Escribe un c\u00f3digo en Python que muestre la longitud de una lista llamada \"numeros\":\n\n```python\nnumeros = [1, 2, 3, 4, 5]\nprint(len(numeros))\n```\n\n\u00bfQu\u00e9 resultado obtendr\u00edas al ejecutar este c\u00f3digo?",
+        "tipo": "respuesta corta",
+        "tema": "codigo, donde se proporciona un codigo en cualquier lenguaje"
+    },
+    {
+        "id": 16,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la suma de 5 + 7?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matematicas"
+    },
+    {
+        "id": 17,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la multiplicaci\u00f3n de 5 por 7?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matematicas"
+    },
+    {
+        "id": 18,
+        "pregunta": "\u00bfQu\u00e9 es la traducci\u00f3n inversa?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n"
+    },
+    {
+        "id": 19,
+        "pregunta": "\u00bfQu\u00e9 es la transliteration en t\u00e9rminos de traducci\u00f3n?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n"
+    },
+    {
+        "id": 20,
+        "pregunta": "\u00bfC\u00f3mo se dice \"hello\" en ingl\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 21,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hello, how are you?\" en espa\u00f1ol?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 22,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones traduce correctamente la frase \"I am going to the store tomorrow\" al espa\u00f1ol?\n\na) Voy a la tienda ma\u00f1ana.\nb) Fui a la tienda ma\u00f1ana.\nc) Voy a la tienda ayer.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 23,
+        "pregunta": "\u00bfC\u00f3mo se dice \"\u00bfD\u00f3nde est\u00e1 el ba\u00f1o?\" en coreano?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 24,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Buenos d\u00edas\" en coreano?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 25,
+        "pregunta": "How do you say \"Where is the nearest pharmacy?\" in Italian?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 26,
+        "pregunta": "What is the translation of \"Hello, how are you today?\" in Japanese?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 27,
+        "pregunta": "\u00bfC\u00f3mo se dir\u00eda \"\u00bfC\u00f3mo est\u00e1s?\" en chino mandar\u00edn?  ",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 28,
+        "pregunta": "How do you say \"Where is the nearest bus stop?\" in French?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 29,
+        "pregunta": "\u00bfC\u00f3mo se dice \"\u00bfCu\u00e1l es tu comida favorita?\" en franc\u00e9s?\na) Quel est ton plat pr\u00e9f\u00e9r\u00e9 ?\nb) Quelle est ta nourriture pr\u00e9f\u00e9r\u00e9e ?\nc) Qu'est-ce que tu aimes manger le plus ?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 30,
+        "pregunta": "\u00bfC\u00f3mo se dir\u00eda en franc\u00e9s \"El Sol gira alrededor de la Tierra\"?",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 31,
+        "pregunta": "\u00bfC\u00f3mo se dir\u00eda \"Hola, \u00bfc\u00f3mo est\u00e1s?\" en chino mandar\u00edn?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 32,
+        "pregunta": "\u00bfVerdadero o falso? \"La phrase 'Je ne sais pas' se traduit en anglais comme 'I don't know'.\"",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 33,
+        "pregunta": "\u00bfEs verdadero que \"Hello, how are you?\" en espa\u00f1ol se traduce como \"Hola, \u00bfc\u00f3mo est\u00e1s?\"?",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica"
+    },
+    {
+        "id": 34,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"ef\u00edmero\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras"
+    },
+    {
+        "id": 35,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones describe mejor el t\u00e9rmino \"ef\u00edmero\"?\n\na) Algo que dura mucho tiempo\nb) Algo que es breve y pasajero\nc) Algo que es constante y permanente\n\n\u00bfQu\u00e9 significa la palabra \"procrastinaci\u00f3n\"?\n\na) Realizar una tarea de forma inmediata\nb) Postergar o posponer una tarea\nc) Organizar eficientemente el tiempo de trabajo\n\n\u00bfCu\u00e1l es el significado de la palabra \"ub\u00e9rrimo\"?\n\na) Algo que es escaso o deficiente\nb) Algo que es abundante y f\u00e9rtil\nc) Algo que es desordenado y ca\u00f3tico",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras"
+    },
+    {
+        "id": 36,
+        "pregunta": "\u00bfEl t\u00e9rmino \"concomitante\" se refiere a algo que ocurre simult\u00e1neamente con otra cosa?",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras"
+    },
+    {
+        "id": 37,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef suma(a, b):\n    return a + b\n\nresultado = suma(3, 5)\nprint(resultado)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo"
+    },
+    {
+        "id": 38,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    return n * factorial(n - 1)\n\nprint(factorial(5))\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo"
+    },
+    {
+        "id": 39,
+        "pregunta": "\u00bfQu\u00e9 imprimir\u00e1 el siguiente c\u00f3digo en Python?\n\n```python\nx = 5\ny = 3\n\nif x > y:\n    print(\"x es mayor que y\")\nelif y > x:\n    print(\"y es mayor que x\")\nelse:\n    print(\"x es igual a y\")\n```\n\nA) \"x es mayor que y\"\n\nB) \"y es mayor que x\"\n\nC) \"x es igual a y\"",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo"
+    },
+    {
+        "id": 40,
+        "pregunta": "**Verdadero o falso: En el siguiente c\u00f3digo en Python, se muestra la forma correcta de declarar un diccionario con valores predefinidos:**\n\n```python\nmi_diccionario = {1: 'uno', 2: 'dos', 3: 'tres'}\n```\n",
+        "tipo": "verdadero o falso",
+        "tema": "codigo"
     }
 ]
