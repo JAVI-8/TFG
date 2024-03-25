@@ -21,14 +21,15 @@ def cargar_preguntas():
         return []
 
 # Función para guardar las preguntas en un archivo JSON
-def guardar_pregunta_en_json(pregunta_id, pregunta, tipo, tema):
+def guardar_pregunta_en_json(pregunta_id, pregunta, tipo, tema, dificultad):
     preguntas = cargar_preguntas()
     # Agregar nueva pregunta al archivo JSON
     nueva_pregunta = {
         "id": pregunta_id,
         "pregunta": pregunta,
         "tipo": tipo,
-        "tema" : tema
+        "tema" : tema,
+        "dificultad": dificultad
     }
     preguntas.append(nueva_pregunta)
 
@@ -39,7 +40,7 @@ def guardar_pregunta_en_json(pregunta_id, pregunta, tipo, tema):
 
 
 
-def generar_pregunta(tipo_pregunta, tema_pregunta):
+def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
     
     tipos = {
         1: "respuesta corta",
@@ -55,6 +56,12 @@ def generar_pregunta(tipo_pregunta, tema_pregunta):
         5: "definiciones de palabras"
     }
 
+    dificultades = {
+        1: "fácil",
+        2: "media",
+        3: "difícil"
+    }
+
     if tipo_pregunta not in tipos:
         print("Tipo de pregunta no válido.")
         return
@@ -63,23 +70,29 @@ def generar_pregunta(tipo_pregunta, tema_pregunta):
         print("Tema de la pregunta no válido.")
         return
     
+    if dificultad_pregunta not in dificultades:
+        print("Dificultad de la pregunta no válido.")
+        return
+    
     tipo = tipos[tipo_pregunta]
     tema = temas[tema_pregunta]
+    dificultad = dificultades[dificultad_pregunta]
 
-    pregunta=f"Crea una pregunta de tipo {tipo} sobre {tema}"
+    pregunta=f"Crea una pregunta de tipo {tipo} sobre {tema} con un nivel de dificultad {dificultad}"
 
 
     if tema_pregunta == 2:
-       pregunta = f"Crea una pregunta de examen de tipo {tipo} sobre codigo, donde se proporciona un codigo en cualquier lenguaje"
+       pregunta = f"Crea una pregunta de examen de tipo {tipo} sobre codigo, donde se proporciona un codigo en cualquier lenguaje con un nivel de dificultad {dificultad}"
             
     elif tema_pregunta == 4:
         if tipo_pregunta == 1:
-            pregunta= "genera una pregunta de traduccion en un idioma al azar de una frase"
+            pregunta= f"genera una pregunta de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}"
         elif tipo_pregunta == 3:
-            pregunta = f"genera una pregunta de tipo verdadero o falso de traduccion en un idioma al azar de una frase"
+            pregunta = f"genera una pregunta de tipo verdadero o falso de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}"
         else:
-            pregunta = f"genera una pregunta de traduccion en un idioma al azar de una frase"
-    
+            pregunta = f"genera una pregunta de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}"
+
+        
 
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo-0125",
@@ -88,12 +101,16 @@ def generar_pregunta(tipo_pregunta, tema_pregunta):
         ]
     )
     pregunta_generada = completion.choices[0].message.content
+
+    if tipo_pregunta == 3:
+       pregunta_generada = pregunta_generada + " Responder únicamente con Verdadero o Falso"         
+
     preguntas = cargar_preguntas()
     # Guardar la pregunta generada en el archivo JSON`.`
     pregunta_id = len(preguntas) + 1 if os.path.exists("preguntas.json") else 1
-    guardar_pregunta_en_json(pregunta_id, pregunta_generada, tipo, tema)
+    guardar_pregunta_en_json(pregunta_id, pregunta_generada, tipo, tema, dificultad)
     print("Pregunta guardada exitosamente en el archivo JSON.")
-    print(completion.choices[0].message.content)
+    print(pregunta_generada)
     print("\n")
 
 

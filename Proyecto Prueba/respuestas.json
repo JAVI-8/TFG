@@ -1,167 +1,152 @@
 [
     {
         "id_respuesta": 1,
-        "respuesta": " El Rey del Pop, es Michael Jackson",
+        "respuesta": " Russia is the largest country by far, with a total of 17",
         "id_pregunta": 1
     },
     {
         "id_respuesta": 2,
-        "respuesta": " La Torre Eiffel se encuentra en Francia en el Parque Eiffel, en el centro de Paris",
+        "respuesta": " Gabriel Garc\u00eda M\u00e1rquez",
         "id_pregunta": 2
     },
     {
         "id_respuesta": 3,
-        "respuesta": " Responde: El proceso en cuesti\u00f3n es el photosynthesis",
+        "respuesta": " La Universidad de Bolonia se fund\u00f3 en 1088 y es la m\u00e1s antigua de Europa occidental",
         "id_pregunta": 3
     },
     {
         "id_respuesta": 4,
-        "respuesta": " La respuesta es Par\u00eds, en la ciudad de Par\u00eds, Francia",
+        "respuesta": " Miguel de Cervantes Saavedra es el autor de la novela \"Don Quijote de la Mancha\"",
         "id_pregunta": 4
     },
     {
         "id_respuesta": 5,
-        "respuesta": " A, Rusia es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio",
+        "respuesta": " La Independencia de M\u00e9xico se realiz\u00f3 el 16 de septiembre de 1821",
         "id_pregunta": 5
     },
     {
         "id_respuesta": 6,
-        "respuesta": " La letra \"s\" no aparece en la palabra \"paralelep\u00edpedo\"",
+        "respuesta": " 1492",
         "id_pregunta": 6
     },
     {
         "id_respuesta": 7,
-        "respuesta": " La respuesta es que s\u00f3lo el caballo pertenece a ese grupo, pues es un mam\u00edfero",
+        "respuesta": " MTV was launched on August 1, 1981",
         "id_pregunta": 7
     },
     {
         "id_respuesta": 8,
-        "respuesta": " La respuesta es: \"Z\" ",
+        "respuesta": " La respuesta es que ese lugar adorado por muchos es la sede del Papado, la Bas\u00edlica de San Pedro en el Vaticano, y en ella se encuentra la famosa pi\u00e9ta de Miguel \u00c1ngel, el cu\u00e1l se situa en el lateral izquierdo de la catedral",
         "id_pregunta": 8
     },
     {
         "id_respuesta": 9,
-        "respuesta": " La respuesta correcta es:\n\na) Sydney es la capital de Australia",
+        "respuesta": " Teodora en a\u00f1o 324, fue la primer emperatria romana que converti\u00f3 a s\u00ed misma al cristianismo",
         "id_pregunta": 9
     },
     {
         "id_respuesta": 10,
-        "respuesta": " B) Par\u00eds es la capital de Francia",
+        "respuesta": " El drama m\u00e1s largo de William Shakespeare fue \"El Trofeo de Corona\"",
         "id_pregunta": 10
     },
     {
         "id_respuesta": 11,
-        "respuesta": " Si todos los gatos son mam\u00edferos, y todos los mam\u00edferos son animales dom\u00e9sticos, luego algunos gatos tambi\u00e9n ser\u00e1n animales dom\u00e9sticos",
+        "respuesta": " b) Par\u00eds es la respuesta correcta",
         "id_pregunta": 11
     },
     {
         "id_respuesta": 12,
-        "respuesta": " La respuesta es Paris, en la ciudad de Par\u00eds, Francia",
+        "respuesta": "c) China es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio",
         "id_pregunta": 12
     },
     {
         "id_respuesta": 13,
-        "respuesta": " Un bucle, en programaci\u00f3n, es una iteraci\u00f3n o vez repetida de algoritmos que se ejecuta mientras que una condici\u00f3n es verificada",
+        "respuesta": " C) Madrid es la respuesta correcta",
         "id_pregunta": 13
     },
     {
         "id_respuesta": 14,
-        "respuesta": " Esta palabra es \"validity\"",
+        "respuesta": " a) La vacuna contra la rabia es la primera vacuna desarrollada en la historia",
         "id_pregunta": 14
     },
     {
         "id_respuesta": 15,
-        "respuesta": " Escribe un c\u00f3digo en Python que muestre la longitud de una lista llamada \"numeros\":\n\n```python\nnumeros = [1, 2, 3, 4, 5]\nprint(len(numeros))\n```\n\nResultado:\n```\n5\n```\n\nAl ejecutar este c\u00f3digo, se produce una salida de pantalla con la longitud de la lista `numeros`, es decir, 5",
+        "respuesta": " A) 1904 - La respuesta es A, fue inaugurado el Canal de Panam\u00e1 en 1904",
         "id_pregunta": 15
     },
     {
         "id_respuesta": 16,
-        "respuesta": " La suma de 5 + 7 es 12",
+        "respuesta": " A) 1914 es el a\u00f1o correcto, la Primera Guerra Mundial comenz\u00f3 el 28 de Julio de este a\u00f1o",
         "id_pregunta": 16
     },
     {
         "id_respuesta": 17,
-        "respuesta": " La respuesta es el otorgado por la operaci\u00f3n de multiplicaci\u00f3n es 35",
+        "respuesta": " c) Suecia fue el primer pa\u00eds donde las mujeres dispusieron del derecho al voto a las mujeres",
         "id_pregunta": 17
     },
     {
         "id_respuesta": 18,
-        "respuesta": " La translaci\u00f3n inversa es otra caracter\u00edstica importante en la investigaci\u00f3n del aprendizaje de lenguas",
+        "respuesta": " A) 1886 es el a\u00f1o correcto",
         "id_pregunta": 18
     },
     {
         "id_respuesta": 19,
-        "respuesta": " Transliteration is a type of translation that focuses on converting words or texts from one script to another, rather than translating the meaning of the words",
+        "respuesta": " La respuesta es C) La \u00faltima cena fue creada por el pintor renacentista Leonardo da Vinci",
         "id_pregunta": 19
     },
     {
         "id_respuesta": 20,
-        "respuesta": " The word for \"hello\" in English is \"hello\"",
+        "respuesta": " La respuesta es B) La Gioconda (Mona Lisa) , es la m\u00e1s conocida y m\u00e1s famosa de todas las obras de Leonardo da Vinci, es muy popular en la cultura popular y se considera como una referencia iconica en el mundo de la pintura",
         "id_pregunta": 20
     },
     {
         "id_respuesta": 21,
-        "respuesta": " The formal way to say \"Hello, how are you?\" in Spanish is: \n\nHola, \u00bfC\u00f3mo est\u00e1s? \n\nThere are other informal variations like: \n\nHola, \u00bfQu\u00e9 tal? \n\nor \nHola, \u00bfQu\u00e9 hay? \n\nThere are also regional variations on how to say this depending on the Spanish dialect",
+        "respuesta": " Falso",
         "id_pregunta": 21
     },
     {
         "id_respuesta": 22,
-        "respuesta": " La opci\u00f3n **a) Voy a la tienda ma\u00f1ana** es la m\u00e1s adecuada a la frase en ingl\u00e9s original",
+        "respuesta": " Verdadero",
         "id_pregunta": 22
     },
     {
         "id_respuesta": 23,
-        "respuesta": " \ubaa9\uc801 \uac70\ub9ac \uc5b4\ub514\ucbe4 \uc788\uc5b4? \n\nEsta es una traducci\u00f3n directa de \"Where is the bathroom\" en un idioma coreano que es un idioma de origen china",
+        "respuesta": " Falso",
         "id_pregunta": 23
     },
     {
         "id_respuesta": 24,
-        "respuesta": " \n\"Buenos d\u00edas\" en coreano es \"\uc88b\uc740 \uc624\uc804\" (Jo-eun oh-je-n)",
+        "respuesta": " Verdadero",
         "id_pregunta": 24
     },
     {
         "id_respuesta": 25,
-        "respuesta": " \"Dove si trova la farmacia pi\u00f9 vicina?\"",
+        "respuesta": " Falso",
         "id_pregunta": 25
     },
     {
         "id_respuesta": 26,
-        "respuesta": " The translation of \"Hello, how are you today?\" in Japanese is:\n\n\u65e5\u672c\u8a9e: \u3053\u3093\u306b\u3061\u306f\u3001\u304a\u5143\u6c17\u3067\u3059\u304b?\n\nEach word is translated as follows:\n\n\u304a\u5143\u6c17\u3067\u3059\u304b?: How are you?\n\n\u304a\u306f\u3088\u3046\u304a\u3064\u3089\u305b\u3093\u305b\u3075\u304a\u3070\u3055\u3093: Hello, Mr",
+        "respuesta": " Verdadero",
         "id_pregunta": 26
     },
     {
         "id_respuesta": 27,
-        "respuesta": "\u6211\u662f\u5982\u6b64\u597d\u7684\u5417? \n\nEsto es la manera tradicional de decir \"\u00bfC\u00f3mo est\u00e1s?\" en chino mandar\u00edn",
+        "respuesta": " Verdadero",
         "id_pregunta": 27
     },
     {
         "id_respuesta": 28,
-        "respuesta": " The translation for \"Where is the nearest bus stop?\" in French is: O\u00f9 est la bus stop proche? \n\nIs there anything else I can help you with?  I can provide you with other common translations and vocabulary in case you need it! ",
+        "respuesta": " Verdadero",
         "id_pregunta": 28
     },
     {
         "id_respuesta": 29,
-        "respuesta": " The direct translation of \"\u00bfCu\u00e1l es tu comida favorita?\" would be \"Qu'est-ce que tu aimes manger le plus?\"",
+        "respuesta": " Falso",
         "id_pregunta": 29
     },
     {
         "id_respuesta": 30,
-        "respuesta": " La traducci\u00f3n directa de \u00abEl Sol gira alrededor de la Tierra\u00bb es:\n\n\"Le Soleil tourne autour de la Terre\"",
+        "respuesta": " Falso",
         "id_pregunta": 30
-    },
-    {
-        "id_respuesta": 31,
-        "respuesta": " \u4f60\u597d\uff0c\u60a8\u600e\u4e48\u6837\uff1f\uff08N\u01d0 h\u01ceo, n\u00edn z\u011bn me y\u00e0ng\uff1f\uff09",
-        "id_pregunta": 31
-    },
-    {
-        "id_respuesta": 32,
-        "respuesta": " True",
-        "id_pregunta": 32
-    },
-    {
-        "id_respuesta": 33,
-        "respuesta": " Yes, the direct translation of the English phrase \"Hello, how are you?\" in Spanish is indeed \"Hola, \u00bfc\u00f3mo est\u00e1s?\" However, Spaniards might be more likely to use the informal pronoun \"tu\" rather than the formal \"usted\" in this context depending on the context and relationship",
-        "id_pregunta": 33
     }
 ]

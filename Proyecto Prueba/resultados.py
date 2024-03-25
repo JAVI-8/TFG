@@ -44,12 +44,16 @@ def verificar_respuestas():
             resultado = {
                     "id_pregunta": pregunta_id,
                     "id_respuesta": respuesta["id_respuesta"],
-                    "resultado": "correcto"}
+                    "resultado": "correcto",
+                    "revision":""
+                    }
         else:
             resultado = {
                     "id_pregunta": pregunta_id,
                     "id_respuesta": respuesta["id_respuesta"],
-                    "resultado": "incorrecto"}
+                    "resultado": "incorrecto",
+                    "revision":""
+                    }
         resultados.append(resultado) 
     guardar_resultados(resultados)
         

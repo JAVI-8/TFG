@@ -25,6 +25,12 @@ def mostrar_submenuTema():
     print("4. Traducción")
     print("5. Definiciones de palabras")
 
+def mostrar_submenuDificultad():
+    print("Seleccione la dificultad de la pregunta:")
+    print("1. Fácil")
+    print("2. Medio")
+    print("3. Difícil")
+
 
 
 def main():
@@ -41,7 +47,10 @@ def main():
            mostrar_submenuTema()
            opcion_subTema = input("Seleccione el número: ")
            print("\n")
-           PruebaGPT.generar_pregunta(int(opcion_subTipo),int(opcion_subTema))
+           mostrar_submenuDificultad()
+           opcion_subDificultad = input("Seleccione el número: ")
+           print("\n")
+           PruebaGPT.generar_pregunta(int(opcion_subTipo),int(opcion_subTema), int(opcion_subDificultad))
         elif opcion == "2":
             PruebaCohere.responder_preguntas()
         elif opcion == "3":
