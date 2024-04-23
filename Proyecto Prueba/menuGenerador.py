@@ -1,16 +1,19 @@
+import json
 import os
-import sys
 import PruebaGPT
 import PruebaCohere
-from tkinter import Menu
 import resultados
 import tkinter as tk
 from tkinter import messagebox
+from tkinter import Toplevel, Text, Scrollbar, RIGHT, Y, END
 from tkinter import ttk
 import time
 
 class App:
     def __init__(self, master):
+
+        self.hora_inicio = time.time()
+
         self.master = master
         self.master.title("Creación de Preguntas")
         self.master.geometry("400x400")  # Cambiar el tamaño de la ventana
@@ -56,8 +59,11 @@ class App:
 
         self.formulario()
 
+
     def formulario(self):
+
         # Etiqueta de título
+
         self.title_label = ttk.Label(self.form_frame, text="Crear Pregunta")
         self.title_label.pack(pady=10)
 
@@ -82,16 +88,6 @@ class App:
         self.dificultad_option_menu = ttk.OptionMenu(self.form_frame, self.dificultad_var, "", "Fácil", "Medio", "Difícil")
         self.dificultad_option_menu.pack(pady=5, padx=10)
 
-        # Selector de cantidad de preguntas
-        self.cantidad_label = ttk.Label(self.form_frame, text="Cantidad de preguntas:")
-        self.cantidad_label.pack(anchor="w", padx=10)
-
-        self.cantidad_var = tk.StringVar()
-        self.cantidad_var.set("1")  # Establecer valor inicial en 1
-
-        self.cantidad_option_menu = ttk.OptionMenu(self.form_frame, self.cantidad_var, "1", "1", "2", "3", "4", "5")
-        self.cantidad_option_menu.pack(pady=5, padx=10)
-
         # Botón para generar pregunta
         self.generate_button = ttk.Button(self.form_frame, text="Aceptar", command=self.generar_pregunta)
         self.generate_button.pack(pady=10)
@@ -105,37 +101,35 @@ class App:
 
     def mostrar_formulario(self):
         # Ocultar los botones principales y mostrar el formulario cuando se selecciona "Generar pregunta"
-        self.buttons_frame.pack_forget()
-        self.form_frame.pack()
+        self.hora_inicio = time.time()
+        try:
+            with open('hora.txt', 'r') as f:
+                ultima_hora = float(f.read())
+        except FileNotFoundError:
+            ultima_hora = 0
+
+        if ultima_hora == 0 or self.hora_inicio - ultima_hora > 60:
+            self.buttons_frame.pack_forget()
+            self.form_frame.pack()
+        else:
+            messagebox.showerror("Error", "Por favor, espere un minuto antes de volver a intentarlo")
+            return
 
     def ocultar_formulario(self):
         # Mostrar los botones principales y ocultar el formulario cuando se selecciona "Volver"
         self.form_frame.pack_forget()
         self.buttons_frame.pack(pady=50)
+        self.hora_inicio = time.time()
 
     def generar_pregunta(self):
+
+        #guardar horas.txt
+        with open('hora.txt', 'w') as f:
+            f.write(str(time.time()))
+
         tipo = self.tipo_var.get()
         tema = self.tema_var.get()
         dificultad = self.dificultad_var.get()
-        cantidad = self.cantidad_var.get()
-        # Obtén el tiempo actual
-        current_time = time.time()
-
-        # Agrega el tiempo actual a la lista de tiempos de interacción
-        self.interaction_times.append(current_time)
-
-        # Elimina los tiempos que ocurrieron hace más de un minuto
-        self.interaction_times = [t for t in self.interaction_times if current_time - t <= 60]
-
-        # Verifica si se ha excedido el límite de interacciones en el último minuto
-        if len(self.interaction_times) > 5:
-            self.generate_button.config(state="disabled")  # Deshabilita el botón "Aceptar"
-            messagebox.showerror("Error", "Se ha excedido el límite de interacciones por minuto.")
-            return
-        
-         # Restaura el botón "Aceptar" si no se ha excedido el límite de interacciones
-        self.generate_button.config(state="enabled")
-
 
         if tipo == "" or tema == "" or dificultad == "":
             messagebox.showerror("Error", "Por favor, seleccione todas las opciones.")
@@ -144,14 +138,51 @@ class App:
         tipo_int = self.opciones_tipo[tipo]
         tema_int = self.opciones_tema[tema]
         dificultad_int = self.opciones_dificultad[dificultad]
-        cantidad_int = int(cantidad)
 
         print(f"Generando pregunta de tipo {tipo}, tema {tema}, dificultad {dificultad}")
-        for _ in range(cantidad_int):
+        for _ in range(5):
             PruebaGPT.generar_pregunta(tipo_int, tema_int, dificultad_int)
 
         PruebaCohere.responder_preguntas()
         resultados.verificar_respuestas()
+
+        self.ocultar_formulario()
+        self.mostrar_preguntas()
+
+        
+
+    def mostrar_preguntas(self):
+        # Create a new window
+        resultadosVentana = Toplevel(self.master)
+        resultadosVentana.title("Resumen de las preguntas generadas")
+
+        texto = Text(resultadosVentana, wrap='word')  # wrap='word' will wrap text at word boundaries
+        scrollbar = Scrollbar(resultadosVentana, command=texto.yview)
+        texto.configure(yscrollcommand=scrollbar.set)
+
+        scrollbar.pack(side=RIGHT, fill=Y)
+        texto.pack(fill='both', expand=True)
+
+        with open("preguntas.json", 'r') as f:
+            preguntas = json.load(f)[-5:]  # Obtener las últimas 5 preguntas
+
+        with open("respuestas.json", 'r') as f:
+            respuestas = json.load(f)[-5:]  # Obtener las últimas 5 respuestas
+
+        with open("resultados.json", 'r') as f:
+            resultados = json.load(f)[-5:]  # Obtener los últimos 5 resultados
+
+        # Mostrar preguntas, respuestas y resultados
+        for pregunta, respuesta, resultado in zip(preguntas, respuestas, resultados):
+            texto.insert(END, "Pregunta: {}\n".format(pregunta['pregunta']))
+            texto.insert(END, "Respuesta: {}\n".format(respuesta['respuesta']))
+            texto.insert(END, "Resultado: {}\n\n".format(resultado['resultado']))            
+
+            texto.insert(END, "\n\n")
+
+        # Scroll back to the top
+        texto.yview_moveto(0)
+        resultadosVentana.mainloop()
 
     def ver_estadisticas(self):
         print("")

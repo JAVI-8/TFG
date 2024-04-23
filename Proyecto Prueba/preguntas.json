@@ -162,7 +162,7 @@
     },
     {
         "id": 24,
-        "pregunta": "Los hipopótamos sudan una sustancia roja? Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "pregunta": "Los hipop\u00c3\u00b3tamos sudan una sustancia roja? Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
         "tipo": "verdadero o falso",
         "tema": "cultura general",
         "dificultad": "media"
@@ -208,5 +208,572 @@
         "tipo": "verdadero o falso",
         "tema": "cultura general",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 31,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 32,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad italiana se encuentra el Coliseo?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 33,
+        "pregunta": "\u00bfQu\u00e9 famoso artista pint\u00f3 \"La Gioconda\" tambi\u00e9n conocida como la Mona Lisa?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 34,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 35,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 36,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la ciudad de Petra, famosa por sus antiguas ruinas de piedra?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 37,
+        "pregunta": "\u00bfEn qu\u00e9 continente se encuentra el r\u00edo Nilo?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 38,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del rey de la selva en la mayor\u00eda de las historias de animales?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 39,
+        "pregunta": "\u00bfQu\u00e9 famosa pintura fue creada por Leonardo da Vinci y se encuentra en el Museo del Louvre en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 40,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 41,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 42,
+        "pregunta": "\u00bfQui\u00e9n fue el primer presidente de Estados Unidos?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 43,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 44,
+        "pregunta": "\u00bfQu\u00e9 pintor espa\u00f1ol es famoso por su obra \"Guernica\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 45,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad italiana se encuentra la famosa torre inclinada?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 46,
+        "pregunta": "\u00bfQui\u00e9n pint\u00f3 la Mona Lisa?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 47,
+        "pregunta": "\u00bfQu\u00e9 famoso pintor cre\u00f3 la obra \"La noche estrellada\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 48,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 49,
+        "pregunta": "\u00bfQui\u00e9n pint\u00f3 la Mona Lisa?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 50,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 51,
+        "pregunta": "\u00bfCu\u00e1l es el nombre de la capital de Italia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 52,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 53,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 54,
+        "pregunta": "\u00bfQu\u00e9 famoso pintor cre\u00f3 la obra \"La noche estrellada\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 55,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la novela \"Cien a\u00f1os de soledad\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 56,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 57,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 58,
+        "pregunta": "\u00bfQu\u00e9 famosa pintura cre\u00f3 Leonardo da Vinci?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 59,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la famosa novela \"Don Quijote de la Mancha\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 60,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 61,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 62,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 63,
+        "pregunta": "\u00bfQui\u00e9n pint\u00f3 la Mona Lisa?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 64,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 65,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 66,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 67,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 68,
+        "pregunta": "\u00bfC\u00f3mo se llama la capital de Francia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 69,
+        "pregunta": "\u00bfQu\u00e9 r\u00edo atraviesa la ciudad de Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 70,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 71,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 72,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 73,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 74,
+        "pregunta": "\u00bfQui\u00e9n pint\u00f3 la Mona Lisa?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 75,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 76,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 77,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 78,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad italiana se encuentra la famosa torre inclinada?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 79,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 80,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 81,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 82,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hola, \u00bfc\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 83,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hola, \u00bfc\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 84,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hello\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 85,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hola, \u00bfc\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 86,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hola, \u00bfc\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 87,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del r\u00edo m\u00e1s largo del mundo?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 88,
+        "pregunta": "\u00bfQu\u00e9 instrumento musical popularizado por Bob Marley es originario de Jamaica?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 89,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa torre inclinada de Pisa?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 90,
+        "pregunta": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 91,
+        "pregunta": "\u00bfQu\u00e9 famoso pintor neerland\u00e9s fue el autor de la obra \"La noche estrellada\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 92,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes fil\u00f3sofos fue contempor\u00e1neo de Nietzsche?\n\nA) Immanuel Kant\n\nB) Jean-Paul Sartre\n\nC) John Locke",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 93,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes civilizaciones antiguas invent\u00f3 la escritura cuneiforme?\n\na) Los egipcios\nb) Los chinos\nc) Los sumerios",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 94,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pintores del Renacimiento italiano es conocido por su obra \"El nacimiento de Venus\"?\n\na) Rafael Sanzio\nb) Sandro Botticelli\nc) Tiziano Vecellio",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 95,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes civilizaciones antiguas no desarroll\u00f3 la escritura?\n\na) Los egipcios\nb) Los mayas\nc) Los vikingos",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 96,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes astronomos no formo parte del grupo que desarrollo el modelo helioc\u00e9ntrico?\n\na) Aristarco de Samos\nb) Nicol\u00e1s Cop\u00e9rnico\nc) Hipatia de Alejandr\u00eda",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 97,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 98,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la obra \"Romeo y Julieta\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 99,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la obra \"Romeo y Julieta\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 100,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 101,
+        "pregunta": "\u00bfQu\u00e9 famosa pintura fue creada por Leonardo da Vinci y muestra a una mujer sonriendo en una misteriosa expresi\u00f3n?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 102,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 103,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 104,
+        "pregunta": "\u00bfCu\u00e1l es el nombre completo del autor de la famosa novela \"Don Quijote de la Mancha\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 105,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 106,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 107,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\na) Melbourne\nb) Sidney\nc) Canberra",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 108,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\na) Nilo  \nb) Amazonas  \nc) Yangts\u00e9  ",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 109,
+        "pregunta": "\u00bfQui\u00e9n es el autor de la famosa novela \"Cien a\u00f1os de soledad\"?\n\na) Mario Vargas Llosa\nb) Gabriel Garc\u00eda M\u00e1rquez\nc) Isabel Allende",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 110,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la ciudad de Petra, conocida por sus antiguas ruinas y tumbas talladas en la roca?\n\na) Egipto\nb) Jordania\nc) Grecia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 111,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del r\u00edo m\u00e1s largo del mundo?\n\nA) Amazonas\nB) Nilo\nC) Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
     }
 ]

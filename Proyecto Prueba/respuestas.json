@@ -148,5 +148,410 @@
         "id_respuesta": 30,
         "respuesta": " Falso",
         "id_pregunta": 30
+    },
+    {
+        "id_respuesta": 31,
+        "respuesta": " Canberra es la capital de Australia",
+        "id_pregunta": 31
+    },
+    {
+        "id_respuesta": 32,
+        "respuesta": " La respuesta es: Roma",
+        "id_pregunta": 32
+    },
+    {
+        "id_respuesta": 33,
+        "respuesta": " Leonardo da Vinci cre\u00f3 la obra maestra \"La Gioconda\" en 1503",
+        "id_pregunta": 33
+    },
+    {
+        "id_respuesta": 34,
+        "respuesta": " La Torre Eiffel se inaugur\u00f3 en 1889",
+        "id_pregunta": 34
+    },
+    {
+        "id_respuesta": 35,
+        "respuesta": " La Torre Eiffel se inaugur\u00f3 en 1889",
+        "id_pregunta": 35
+    },
+    {
+        "id_respuesta": 36,
+        "respuesta": " Petra is located in Jordan",
+        "id_pregunta": 36
+    },
+    {
+        "id_respuesta": 37,
+        "respuesta": " R\u00edo Nilo o Nilo busca el Nilo que est\u00e1 en Asia, en particular en el este de \u00c1frica, donde se encuentra el lago estrecho del Nilo",
+        "id_pregunta": 37
+    },
+    {
+        "id_respuesta": 38,
+        "respuesta": " El rey de la selva, o el drag\u00f3n de la selva, se refiere a Gato de la Selva, que en la mayor\u00eda de historias o contados de hadas es el due\u00f1o de la selva",
+        "id_pregunta": 38
+    },
+    {
+        "id_respuesta": 39,
+        "respuesta": " La pintura \"Mona Lisa\" fue creada por Leonardo da Vinci y se encuentra en el Museo del Louvre en Par\u00eds",
+        "id_pregunta": 39
+    },
+    {
+        "id_respuesta": 40,
+        "respuesta": " La Torre Eiffel, m\u00e1s conocida como la Torre Eiffel en Par\u00eds, Francia",
+        "id_pregunta": 40
+    },
+    {
+        "id_respuesta": 41,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en la capital, Paris",
+        "id_pregunta": 41
+    },
+    {
+        "id_respuesta": 42,
+        "respuesta": " George Washington, fue el primer presidente de los Estados Unidos en 1789",
+        "id_pregunta": 42
+    },
+    {
+        "id_respuesta": 43,
+        "respuesta": " La respuesta es: Par\u00eds es la capital de Francia",
+        "id_pregunta": 43
+    },
+    {
+        "id_respuesta": 44,
+        "respuesta": " Pablo Ruiz Picasso es el pintor espa\u00f1ol que ha realizado la obra \"Guernica\"",
+        "id_pregunta": 44
+    },
+    {
+        "id_respuesta": 45,
+        "respuesta": " La torre inclinada se encuentra en la ciudad italiana de Pisa, en el Piazza dei Miracoli",
+        "id_pregunta": 45
+    },
+    {
+        "id_respuesta": 46,
+        "respuesta": " Leonardo da Vinci es el artista que la dipinti",
+        "id_pregunta": 46
+    },
+    {
+        "id_respuesta": 47,
+        "respuesta": " El pintor que cre\u00f3 la obra \"La noche estrellada\" es el famoso Vincent Willem van Gogh, que compuso muchas de las obras m\u00e1s conocidas de todos los tiempos",
+        "id_pregunta": 47
+    },
+    {
+        "id_respuesta": 48,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en el parque del Trocadero en la Ciudad de Paris, Francia",
+        "id_pregunta": 48
+    },
+    {
+        "id_respuesta": 49,
+        "respuesta": " Leonardo da Vinci es el artista que la dipinti",
+        "id_pregunta": 49
+    },
+    {
+        "id_respuesta": 50,
+        "respuesta": " La Torre Eiffel se encuentra en Par\u00eds, Francia",
+        "id_pregunta": 50
+    },
+    {
+        "id_respuesta": 51,
+        "respuesta": " Si",
+        "id_pregunta": 51
+    },
+    {
+        "id_respuesta": 52,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 52
+    },
+    {
+        "id_respuesta": 53,
+        "respuesta": " La Torre Eiffel se encuentra en Par\u00eds, Francia",
+        "id_pregunta": 53
+    },
+    {
+        "id_respuesta": 54,
+        "respuesta": " El pintor que cre\u00f3 la obra \"La noche estrellada\" es el famoso Vincent Willem van Gogh, que compuso muchas de las obras m\u00e1s conocidas de todos los tiempos",
+        "id_pregunta": 54
+    },
+    {
+        "id_respuesta": 55,
+        "respuesta": " Gabriel Garc\u00eda M\u00e1rquez",
+        "id_pregunta": 55
+    },
+    {
+        "id_respuesta": 56,
+        "respuesta": " La capital de Espa\u00f1a es Madrid desde el siglo XVI",
+        "id_pregunta": 56
+    },
+    {
+        "id_respuesta": 57,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 57
+    },
+    {
+        "id_respuesta": 58,
+        "respuesta": " Leonardo da Vinci created the famous painting \"Mona Lisa\" between 1503 and 1506",
+        "id_pregunta": 58
+    },
+    {
+        "id_respuesta": 59,
+        "respuesta": " Miguel de Cervantes Saavedra es el autor de la novela \"Don Quijote de la Mancha\"",
+        "id_pregunta": 59
+    },
+    {
+        "id_respuesta": 60,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 60
+    },
+    {
+        "id_respuesta": 61,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 61
+    },
+    {
+        "id_respuesta": 62,
+        "respuesta": " La Torre Eiffel se encuentra en Par\u00eds, Francia",
+        "id_pregunta": 62
+    },
+    {
+        "id_respuesta": 63,
+        "respuesta": " Leonardo da Vinci es el artista que la dipinti",
+        "id_pregunta": 63
+    },
+    {
+        "id_respuesta": 64,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en el parque del Trocadero en la Ciudad de Paris, Francia",
+        "id_pregunta": 64
+    },
+    {
+        "id_respuesta": 65,
+        "respuesta": " El r\u00edo m\u00e1s largo del mundo es el Amazonas",
+        "id_pregunta": 65
+    },
+    {
+        "id_respuesta": 66,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en la capital, Paris",
+        "id_pregunta": 66
+    },
+    {
+        "id_respuesta": 67,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 67
+    },
+    {
+        "id_respuesta": 68,
+        "respuesta": " La capital de Francia es Paris",
+        "id_pregunta": 68
+    },
+    {
+        "id_respuesta": 69,
+        "respuesta": " El r\u00edo que atraviesa la ciudad de Par\u00eds es el R\u00edo Seine",
+        "id_pregunta": 69
+    },
+    {
+        "id_respuesta": 70,
+        "respuesta": " La capital de Espa\u00f1a es Madrid desde el siglo XVI",
+        "id_pregunta": 70
+    },
+    {
+        "id_respuesta": 71,
+        "respuesta": " La respuesta es: Par\u00eds es la capital de Francia",
+        "id_pregunta": 71
+    },
+    {
+        "id_respuesta": 72,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en el parque del Trocadero en la Ciudad de Paris, Francia",
+        "id_pregunta": 72
+    },
+    {
+        "id_respuesta": 73,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 73
+    },
+    {
+        "id_respuesta": 74,
+        "respuesta": " Leonardo da Vinci es el artista que la dipinti",
+        "id_pregunta": 74
+    },
+    {
+        "id_respuesta": 75,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 75
+    },
+    {
+        "id_respuesta": 76,
+        "respuesta": " La capital de Espa\u00f1a es Madrid desde el siglo XVI",
+        "id_pregunta": 76
+    },
+    {
+        "id_respuesta": 77,
+        "respuesta": " La Torre Eiffel se inaugur\u00f3 en 1889",
+        "id_pregunta": 77
+    },
+    {
+        "id_respuesta": 78,
+        "respuesta": " La torre inclinada se encuentra en la ciudad italiana de Pisa, en el Piazza dei Miracoli",
+        "id_pregunta": 78
+    },
+    {
+        "id_respuesta": 79,
+        "respuesta": " Canberra es la capital de Australia",
+        "id_pregunta": 79
+    },
+    {
+        "id_respuesta": 80,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en la capital, Paris",
+        "id_pregunta": 80
+    },
+    {
+        "id_respuesta": 81,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 81
+    },
+    {
+        "id_respuesta": 82,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\nBonjour, \u00e7a va?",
+        "id_pregunta": 82
+    },
+    {
+        "id_respuesta": 83,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\nBonjour, \u00e7a va?",
+        "id_pregunta": 83
+    },
+    {
+        "id_respuesta": 84,
+        "respuesta": " Bonjour",
+        "id_pregunta": 84
+    },
+    {
+        "id_respuesta": 85,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\nBonjour, \u00e7a va?",
+        "id_pregunta": 85
+    },
+    {
+        "id_respuesta": 86,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\nBonjour, \u00e7a va?",
+        "id_pregunta": 86
+    },
+    {
+        "id_respuesta": 87,
+        "respuesta": " The longest river in the world is the Nile, which is approximately 4,135 miles (6,658 kilometers) long",
+        "id_pregunta": 87
+    },
+    {
+        "id_respuesta": 88,
+        "respuesta": " The musical instrument popularized by Bob Marley and originally from Jamaica is the Maracas",
+        "id_pregunta": 88
+    },
+    {
+        "id_respuesta": 89,
+        "respuesta": " Pisa, Italia",
+        "id_pregunta": 89
+    },
+    {
+        "id_respuesta": 90,
+        "respuesta": " Russia is the largest country by far, with a total of 17,098,242 hectares (17,098,242,000 m\u00b2)",
+        "id_pregunta": 90
+    },
+    {
+        "id_respuesta": 91,
+        "respuesta": " Vincent Willem van Gogh, quien fue un famoso pintor neerland\u00e9s, cre\u00f3 la obra \"La noche estrellada\"",
+        "id_pregunta": 91
+    },
+    {
+        "id_respuesta": 92,
+        "respuesta": " A) Immanuel Kant",
+        "id_pregunta": 92
+    },
+    {
+        "id_respuesta": 93,
+        "respuesta": " C) Los sumerios",
+        "id_pregunta": 93
+    },
+    {
+        "id_respuesta": 94,
+        "respuesta": " b) Sandro Botticelli es conocido por su obra \"El nacimiento de Venus\"",
+        "id_pregunta": 94
+    },
+    {
+        "id_respuesta": 95,
+        "respuesta": " El patrimonio arqueol\u00f3gico de los mayas, que incluye las estructuras de las pir\u00e1mides mayas, no contiene evidencia de uso de la escritura",
+        "id_pregunta": 95
+    },
+    {
+        "id_respuesta": 96,
+        "respuesta": " Hipatia de Alejandr\u00eda",
+        "id_pregunta": 96
+    },
+    {
+        "id_respuesta": 97,
+        "respuesta": " La torre Eiffel se encuentra en Par\u00eds, Francia",
+        "id_pregunta": 97
+    },
+    {
+        "id_respuesta": 98,
+        "respuesta": " William Shakespeare es el autor de la obra Romeo y Julieta",
+        "id_pregunta": 98
+    },
+    {
+        "id_respuesta": 99,
+        "respuesta": " William Shakespeare es el autor de la obra Romeo y Julieta",
+        "id_pregunta": 99
+    },
+    {
+        "id_respuesta": 100,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en la capital, Paris",
+        "id_pregunta": 100
+    },
+    {
+        "id_respuesta": 101,
+        "respuesta": " La pintura de Leonardo da Vinci que replica una mujer sonriendo en una misteriosa expresi\u00f3n es \"Mona Lisa\"",
+        "id_pregunta": 101
+    },
+    {
+        "id_respuesta": 102,
+        "respuesta": " Canberra es la capital de Australia",
+        "id_pregunta": 102
+    },
+    {
+        "id_respuesta": 103,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en la capital, Paris",
+        "id_pregunta": 103
+    },
+    {
+        "id_respuesta": 104,
+        "respuesta": " Miguel de Cervantes Saavedra   ",
+        "id_pregunta": 104
+    },
+    {
+        "id_respuesta": 105,
+        "respuesta": " La Torre Eiffel se inaugur\u00f3 en 1889",
+        "id_pregunta": 105
+    },
+    {
+        "id_respuesta": 106,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 106
+    },
+    {
+        "id_respuesta": 107,
+        "respuesta": " La respuesta es b) Sidney es la capital de Australia",
+        "id_pregunta": 107
+    },
+    {
+        "id_respuesta": 108,
+        "respuesta": "The correct answer is: c) Yangts\u00e9 (Ch\u00e1ngq\u00ecng in Chinese, also known as Yangtze River)\n\nThe Yangts\u00e9 is the longest river in China and the third longest in the world, stretching about 6,300 kilometers (3,900 miles) from its source in the Tibetan Plateau to its outlet at the East China Sea",
+        "id_pregunta": 108
+    },
+    {
+        "id_respuesta": 109,
+        "respuesta": " b) Gabriel Garc\u00eda M\u00e1rquez",
+        "id_pregunta": 109
+    },
+    {
+        "id_respuesta": 110,
+        "respuesta": " b) Jordania",
+        "id_pregunta": 110
+    },
+    {
+        "id_respuesta": 111,
+        "respuesta": " A) Amazonas es el mayor rio del mundo en t\u00e9rminos de largo, cuenta un total de 4",
+        "id_pregunta": 111
     }
 ]
