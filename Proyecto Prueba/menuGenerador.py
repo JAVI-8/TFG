@@ -5,121 +5,162 @@ import PruebaCohere
 from tkinter import Menu
 import resultados
 import tkinter as tk
+from tkinter import messagebox
+from tkinter import ttk
+import time
 
 class App:
     def __init__(self, master):
         self.master = master
         self.master.title("Creación de Preguntas")
-        self.master.geometry("500x400")
+        self.master.geometry("400x400")  # Cambiar el tamaño de la ventana
 
-        # Configurar el menú principal
-        self.menu_bar = Menu(self.master)
-        self.master.config(menu=self.menu_bar)
+        # Configuración de estilos
+        self.style = ttk.Style()
+        self.style.configure("TButton", padding=10, font=("Helvetica", 12))
+        self.style.configure("TFrame", background="#f0f0f0")
+        self.style.configure("TLabel", font=("Helvetica", 14))
 
-        # Menú para crear preguntas
-        self.menu_preguntas = Menu(self.menu_bar, tearoff=0)
-        self.menu_bar.add_cascade(label="Crear Pregunta", menu=self.menu_preguntas)
-        self.menu_bar.add_command(label="Generar respuesta a las preguntas", command=PruebaCohere.responder_preguntas)
-        self.menu_bar.add_command(label="Corregir las respuestas", command=resultados.verificar_respuestas)
-        self.menu_bar.add_command(label="Salir", command=lambda: master.destroy)
-        # Submenú para seleccionar el tipo de pregunta
-        self.menu_tipo = Menu(self.menu_preguntas, tearoff=0)
-        self.menu_preguntas.add_cascade(label="Seleccionar Tipo", menu=self.menu_tipo)
+        # Contenedor principal
+        self.container = ttk.Frame(self.master)
+        self.container.pack(fill="both", expand=True)
 
-        # Opciones de tipo de pregunta
-        self.menu_tipo.add_command(label="Tipo respuesta corta", command=lambda: self.seleccionar_tema(1))
-        self.menu_tipo.add_command(label="Tipo test con 3 opciones", command=lambda: self.seleccionar_tema(2))
-        self.menu_tipo.add_command(label="Verdadero o falso", command=lambda: self.seleccionar_tema(3))
+        # Frame para los botones principales
+        self.buttons_frame = ttk.Frame(self.container)
+        self.buttons_frame.pack(pady=50)  # Ajustar el relleno vertical para centrar los botones
 
-    def seleccionar_tema(self, tipo):
-        self.menu_tema = Menu(self.menu_bar, tearoff=0)
-        self.master.config(menu=self.menu_tema)
+        # Botones principales
+        self.generate_button = ttk.Button(self.buttons_frame, text="Generar pregunta", command=self.mostrar_formulario)
+        self.generate_button.pack(fill="x", pady=5)
 
-        self.menu_tema.add_command(label="Cultura general", command=lambda: self.seleccionar_dificultad(tipo, 1))
-        self.menu_tema.add_command(label="Codigo", command=lambda: self.seleccionar_dificultad(tipo, 2))
-        self.menu_tema.add_command(label="Operaciones matematicas", command=lambda: self.seleccionar_dificultad(tipo, 3))
-        self.menu_tema.add_command(label="Traducción", command=lambda: self.seleccionar_dificultad(tipo, 4))
-        self.menu_tema.add_command(label="Definiciones de palabras", command=lambda: self.seleccionar_dificultad(tipo, 5))
+        self.response_button = ttk.Button(self.buttons_frame, text="Ver estadisticas", command=self.ver_estadisticas)
+        self.response_button.pack(fill="x", pady=5)
 
-        self.menu_tema.add_command(label="Volver", command=lambda: self.volver_a_tipo())
+        self.exit_button = ttk.Button(self.buttons_frame, text="Salir", command=self.master.destroy)
+        self.exit_button.pack(fill="x", pady=5)
 
-    def seleccionar_dificultad(self, tipo, tema):
-        self.menu_dificultad = Menu(self.menu_bar, tearoff=0)
-        self.master.config(menu=self.menu_dificultad)
+        # Frame para el formulario
+        self.form_frame = ttk.Frame(self.container)
 
-        self.menu_dificultad.add_command(label="Fácil", command=lambda: self.finalizar_pregunta(tipo, tema, 1))
-        self.menu_dificultad.add_command(label="Medio", command=lambda: self.finalizar_pregunta(tipo, tema, 2))
-        self.menu_dificultad.add_command(label="Difícil", command=lambda: self.finalizar_pregunta(tipo, tema, 3))
+        # Variables para opciones seleccionadas
+        self.tipo_var = tk.StringVar()
+        self.tema_var = tk.StringVar()
+        self.dificultad_var = tk.StringVar()
 
-        self.menu_dificultad.add_command(label="Volver", command=lambda: self.seleccionar_tema(tipo))
+        self.opciones_tipo = {"Tipo respuesta corta": 1, "Tipo test con 3 opciones": 2, "Verdadero o falso": 3}
+        self.opciones_tema = {"Cultura general": 1, "Codigo": 2, "Operaciones matematicas": 3, "Traducción": 4, "Definiciones de palabras": 5}
+        self.opciones_dificultad = {"Fácil": 1, "Medio": 2, "Difícil": 3}
 
-    def finalizar_pregunta(self, tipo, tema, dificultad):
-        PruebaGPT.generar_pregunta(int(tipo),int(tema), int(dificultad))
-        self.volver_a_tipo()
+        self.interaction_times = []  # Lista para almacenar los tiempos de interacción
+        self.generate_button_state = "enabled"  # Estado inicial del botón "Aceptar"
 
-    def volver_a_tipo(self):
-        self.master.config(menu=self.menu_bar)
+        self.formulario()
+
+    def formulario(self):
+        # Etiqueta de título
+        self.title_label = ttk.Label(self.form_frame, text="Crear Pregunta")
+        self.title_label.pack(pady=10)
+
+        # Selector de tipo de pregunta
+        self.tipo_label = ttk.Label(self.form_frame, text="Tipo de pregunta:")
+        self.tipo_label.pack(anchor="w", padx=10)
+
+        self.tipo_option_menu = ttk.OptionMenu(self.form_frame, self.tipo_var, "", "Tipo respuesta corta", "Tipo test con 3 opciones", "Verdadero o falso")
+        self.tipo_option_menu.pack(pady=5, padx=10)
+
+        # Selector de tema
+        self.tema_label = ttk.Label(self.form_frame, text="Tema de la pregunta:")
+        self.tema_label.pack(anchor="w", padx=10)
+
+        self.tema_option_menu = ttk.OptionMenu(self.form_frame, self.tema_var, "", "Cultura general", "Codigo", "Operaciones matematicas", "Traducción", "Definiciones de palabras")
+        self.tema_option_menu.pack(pady=5, padx=10)
+
+        # Selector de dificultad
+        self.dificultad_label = ttk.Label(self.form_frame, text="Dificultad:")
+        self.dificultad_label.pack(anchor="w", padx=10)
+
+        self.dificultad_option_menu = ttk.OptionMenu(self.form_frame, self.dificultad_var, "", "Fácil", "Medio", "Difícil")
+        self.dificultad_option_menu.pack(pady=5, padx=10)
+
+        # Selector de cantidad de preguntas
+        self.cantidad_label = ttk.Label(self.form_frame, text="Cantidad de preguntas:")
+        self.cantidad_label.pack(anchor="w", padx=10)
+
+        self.cantidad_var = tk.StringVar()
+        self.cantidad_var.set("1")  # Establecer valor inicial en 1
+
+        self.cantidad_option_menu = ttk.OptionMenu(self.form_frame, self.cantidad_var, "1", "1", "2", "3", "4", "5")
+        self.cantidad_option_menu.pack(pady=5, padx=10)
+
+        # Botón para generar pregunta
+        self.generate_button = ttk.Button(self.form_frame, text="Aceptar", command=self.generar_pregunta)
+        self.generate_button.pack(pady=10)
+
+        # Botón para volver
+        self.back_button = ttk.Button(self.form_frame, text="Volver", command=self.ocultar_formulario)
+        self.back_button.pack(pady=10)
+
+        # Ocultar el formulario al inicio
+        self.form_frame.pack_forget()
+
+    def mostrar_formulario(self):
+        # Ocultar los botones principales y mostrar el formulario cuando se selecciona "Generar pregunta"
+        self.buttons_frame.pack_forget()
+        self.form_frame.pack()
+
+    def ocultar_formulario(self):
+        # Mostrar los botones principales y ocultar el formulario cuando se selecciona "Volver"
+        self.form_frame.pack_forget()
+        self.buttons_frame.pack(pady=50)
+
+    def generar_pregunta(self):
+        tipo = self.tipo_var.get()
+        tema = self.tema_var.get()
+        dificultad = self.dificultad_var.get()
+        cantidad = self.cantidad_var.get()
+        # Obtén el tiempo actual
+        current_time = time.time()
+
+        # Agrega el tiempo actual a la lista de tiempos de interacción
+        self.interaction_times.append(current_time)
+
+        # Elimina los tiempos que ocurrieron hace más de un minuto
+        self.interaction_times = [t for t in self.interaction_times if current_time - t <= 60]
+
+        # Verifica si se ha excedido el límite de interacciones en el último minuto
+        if len(self.interaction_times) > 5:
+            self.generate_button.config(state="disabled")  # Deshabilita el botón "Aceptar"
+            messagebox.showerror("Error", "Se ha excedido el límite de interacciones por minuto.")
+            return
+        
+         # Restaura el botón "Aceptar" si no se ha excedido el límite de interacciones
+        self.generate_button.config(state="enabled")
 
 
-def mostrar_menu():
-    print("Menú:")
-    print("1. Generar pregunta")
-    print("2. Generar respuesta a las preguntas")
-    print("3. Corregir las respuestas")
-    print("4. Salir")
+        if tipo == "" or tema == "" or dificultad == "":
+            messagebox.showerror("Error", "Por favor, seleccione todas las opciones.")
+            return
 
-def mostrar_submenuTipo():
-    print("Seleccione el tipo de pregunta:")
-    print("1. Tipo respuesta corta")
-    print("2. Tipo test con 3 opciones")
-    print("3. Verdadero o falso")
+        tipo_int = self.opciones_tipo[tipo]
+        tema_int = self.opciones_tema[tema]
+        dificultad_int = self.opciones_dificultad[dificultad]
+        cantidad_int = int(cantidad)
 
-def mostrar_submenuTema():
-    print("Seleccione el tema de la pregunta:")
-    print("1. Cultura general")
-    print("2. Codigo")
-    print("3. Operaciones matematicas")
-    print("4. Traducción")
-    print("5. Definiciones de palabras")
+        print(f"Generando pregunta de tipo {tipo}, tema {tema}, dificultad {dificultad}")
+        for _ in range(cantidad_int):
+            PruebaGPT.generar_pregunta(tipo_int, tema_int, dificultad_int)
 
-def mostrar_submenuDificultad():
-    print("Seleccione la dificultad de la pregunta:")
-    print("1. Fácil")
-    print("2. Medio")
-    print("3. Difícil")
+        PruebaCohere.responder_preguntas()
+        resultados.verificar_respuestas()
 
-
+    def ver_estadisticas(self):
+        print("")
 
 def main():
    
-    while True:
-        mostrar_menu()
-        opcion = input("Seleccione una opción: ")
-        print("\n")
-
-        if opcion == "1":
-            # Llamar a la función para generar pregunta de cultura general (desde pruebaGPT)
-           mostrar_submenuTipo()
-           opcion_subTipo = input("Seleccione el número: ")
-           print("\n")
-           mostrar_submenuTema()
-           opcion_subTema = input("Seleccione el número: ")
-           print("\n")
-           mostrar_submenuDificultad()
-           opcion_subDificultad = input("Seleccione el número: ")
-           print("\n")
-           PruebaGPT.generar_pregunta(int(opcion_subTipo),int(opcion_subTema), int(opcion_subDificultad))
-        elif opcion == "2":
-            PruebaCohere.responder_preguntas()
-        elif opcion == "3":
-            resultados.verificar_respuestas()
-        elif opcion == "4":
-            print("Saliendo del programa...")
-            break
-        else:
-            print("Opción inválida. Por favor, seleccione una opción válida.")
-
-if __name__ == "__main__":
     root = tk.Tk()
     app = App(root)
     root.mainloop()
+
+if __name__ == "__main__":
+    main()

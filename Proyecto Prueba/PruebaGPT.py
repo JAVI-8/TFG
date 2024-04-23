@@ -78,7 +78,7 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
     tema = temas[tema_pregunta]
     dificultad = dificultades[dificultad_pregunta]
 
-    pregunta=f"Crea una pregunta de tipo {tipo} sobre {tema} con un nivel de dificultad {dificultad}"
+    pregunta=f"Crea una pregunta de tipo {tipo} sobre {tema} con un nivel de dificultad {dificultad}, sin poner la solución"
 
 
     if tema_pregunta == 2:
@@ -86,11 +86,11 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
             
     elif tema_pregunta == 4:
         if tipo_pregunta == 1:
-            pregunta= f"genera una pregunta de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}"
+            pregunta= f"genera una pregunta de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
         elif tipo_pregunta == 3:
-            pregunta = f"genera una pregunta de tipo verdadero o falso de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}"
+            pregunta = f"genera una pregunta de tipo verdadero o falso de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
         else:
-            pregunta = f"genera una pregunta de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}"
+            pregunta = f"genera una pregunta de traduccion de tipo test, con 3 opciones, en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
 
         
 
