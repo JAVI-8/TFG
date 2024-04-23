@@ -122,8 +122,17 @@ class App:
         self.hora_inicio = time.time()
 
     def generar_pregunta(self):
+        # Crear ventana para mostrar el mensaje de espera
+        wait_window = tk.Toplevel()
+        wait_window.title("Generando, respondiendo y corrigiendo")
 
-        #guardar horas.txt
+        wait_label = tk.Label(wait_window, text="Espera unos segundos mientras serealiza el proceso...")
+        wait_label.pack(padx=20, pady=20)
+
+        # Forzar la actualización de la interfaz gráfica para mostrar el mensaje
+        wait_window.update()
+
+        # guardar horas.txt
         with open('hora.txt', 'w') as f:
             f.write(str(time.time()))
 
@@ -146,10 +155,11 @@ class App:
         PruebaCohere.responder_preguntas()
         resultados.verificar_respuestas()
 
+        wait_window.destroy()
+
         self.ocultar_formulario()
         self.mostrar_preguntas()
 
-        
 
     def mostrar_preguntas(self):
         # Create a new window

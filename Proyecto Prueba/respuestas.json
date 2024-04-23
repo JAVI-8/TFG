@@ -553,5 +553,330 @@
         "id_respuesta": 111,
         "respuesta": " A) Amazonas es el mayor rio del mundo en t\u00e9rminos de largo, cuenta un total de 4",
         "id_pregunta": 111
+    },
+    {
+        "id_respuesta": 112,
+        "respuesta": " Russia is the largest country by far, with a total of 17",
+        "id_pregunta": 112
+    },
+    {
+        "id_respuesta": 113,
+        "respuesta": " Miguel de Cervantes Saavedra es considerado el autor de la novela \"Don Quijote de la Mancha\"",
+        "id_pregunta": 113
+    },
+    {
+        "id_respuesta": 114,
+        "respuesta": " La pir\u00e1mide de Chich\u00e9n Itz\u00e1 se encuentra en M\u00e9xico",
+        "id_pregunta": 114
+    },
+    {
+        "id_respuesta": 115,
+        "respuesta": " El libro m\u00e1s antiguo de los encontrados hasta la actualidad en occidente es el Codex Mendoza, impreso en Mexico en 1541",
+        "id_pregunta": 115
+    },
+    {
+        "id_respuesta": 116,
+        "respuesta": " La Revoluci\u00f3n Francesa se realiz\u00f3 en 1789",
+        "id_pregunta": 116
+    },
+    {
+        "id_respuesta": 117,
+        "respuesta": " Havanna, la capital de Cuba, la ciudad de las luces",
+        "id_pregunta": 117
+    },
+    {
+        "id_respuesta": 118,
+        "respuesta": " La capital de Espa\u00f1a es Madrid desde el siglo XVI",
+        "id_pregunta": 118
+    },
+    {
+        "id_respuesta": 119,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 119
+    },
+    {
+        "id_respuesta": 120,
+        "respuesta": " La Torre Eiffel se encuentra en Par\u00eds, Francia",
+        "id_pregunta": 120
+    },
+    {
+        "id_respuesta": 121,
+        "respuesta": " La Torre Eiffel se encuentra en Par\u00eds, Francia",
+        "id_pregunta": 121
+    },
+    {
+        "id_respuesta": 122,
+        "respuesta": " El padre del psicoan\u00e1lisis, entendido como esquema de enfoque en el estudio de la psique, es Sigmund Freud",
+        "id_pregunta": 122
+    },
+    {
+        "id_respuesta": 123,
+        "respuesta": " El es\u00f3fago es el \u00f3rgano reproductor masculino",
+        "id_pregunta": 123
+    },
+    {
+        "id_respuesta": 124,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 124
+    },
+    {
+        "id_respuesta": 125,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en el parque del Trocadero en la Ciudad de Paris, Francia",
+        "id_pregunta": 125
+    },
+    {
+        "id_respuesta": 126,
+        "respuesta": " La isla de Pascua se encuentra en el oc\u00e9ano Pac\u00edfico, perteneciente a la regi\u00f3n de Mo\u00e1i, en el extremo oriente de la Isla Isla, pa\u00eds de la Rep\u00fablica de Chile",
+        "id_pregunta": 126
+    },
+    {
+        "id_respuesta": 127,
+        "respuesta": " Machu Picchu is located in Peru",
+        "id_pregunta": 127
+    },
+    {
+        "id_respuesta": 128,
+        "respuesta": " Pisa, Italia",
+        "id_pregunta": 128
+    },
+    {
+        "id_respuesta": 129,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 129
+    },
+    {
+        "id_respuesta": 130,
+        "respuesta": " Rio de Janeiro",
+        "id_pregunta": 130
+    },
+    {
+        "id_respuesta": 131,
+        "respuesta": " The longest river in the world is the Nile, which is approximately 4,135 miles (6,658 kilometers) long",
+        "id_pregunta": 131
+    },
+    {
+        "id_respuesta": 132,
+        "respuesta": " Verdadero",
+        "id_pregunta": 132
+    },
+    {
+        "id_respuesta": 133,
+        "respuesta": " Falso",
+        "id_pregunta": 133
+    },
+    {
+        "id_respuesta": 134,
+        "respuesta": " Falso",
+        "id_pregunta": 134
+    },
+    {
+        "id_respuesta": 135,
+        "respuesta": " Verdadero",
+        "id_pregunta": 135
+    },
+    {
+        "id_respuesta": 136,
+        "respuesta": " Falso",
+        "id_pregunta": 136
+    },
+    {
+        "id_respuesta": 137,
+        "respuesta": " Canberra es la capital de Australia",
+        "id_pregunta": 137
+    },
+    {
+        "id_respuesta": 138,
+        "respuesta": " The first edition of the Oscars awards ceremony took place on May 16, 1929, in Hollywood, California",
+        "id_pregunta": 138
+    },
+    {
+        "id_respuesta": 139,
+        "respuesta": " Miguel de Cervantes Saavedra es el autor de la famosa obra literaria \"Don Quijote de la Mancha",
+        "id_pregunta": 139
+    },
+    {
+        "id_respuesta": 140,
+        "respuesta": " El 20 de julio de 1969, el Apollo 11 spacecraft, lanzado por el NASA, lleg\u00f3 a la luna",
+        "id_pregunta": 140
+    },
+    {
+        "id_respuesta": 141,
+        "respuesta": " La pir\u00e1mide de Chich\u00e9n Itz\u00e1 se encuentra en M\u00e9xico",
+        "id_pregunta": 141
+    },
+    {
+        "id_respuesta": 142,
+        "respuesta": " Pop art de los Estados Unidos",
+        "id_pregunta": 142
+    },
+    {
+        "id_respuesta": 143,
+        "respuesta": " The name of Gustav Holst's composition from 1916, based on the planets of the Solar System, is The Planets Suite",
+        "id_pregunta": 143
+    },
+    {
+        "id_respuesta": 144,
+        "respuesta": " Pierre Lou\u00ffs, es conocido por haber escrito \"A la sombra de las muchachas en flor\"",
+        "id_pregunta": 144
+    },
+    {
+        "id_respuesta": 145,
+        "respuesta": " Samuel Beckett es el autor de la obra de teatro \"Esperando a Godot\"",
+        "id_pregunta": 145
+    },
+    {
+        "id_respuesta": 146,
+        "respuesta": " El fundador de la filosof\u00eda c\u00ednica es el fil\u00f3sofo griego Socrates, que habl\u00f3 sobre su teor\u00eda en sus conversaciones con sus concitados estudiantes, como Plato y Xen\u00f3fano, que registraron sus ideas en sus libros",
+        "id_pregunta": 146
+    },
+    {
+        "id_respuesta": 147,
+        "respuesta": " La Torre Eiffel se inaugur\u00f3 en 1889",
+        "id_pregunta": 147
+    },
+    {
+        "id_respuesta": 148,
+        "respuesta": " Gabriel Garc\u00eda M\u00e1rquez",
+        "id_pregunta": 148
+    },
+    {
+        "id_respuesta": 149,
+        "respuesta": " Canberra es la capital de Australia",
+        "id_pregunta": 149
+    },
+    {
+        "id_respuesta": 150,
+        "respuesta": " Canberra es la capital de Australia",
+        "id_pregunta": 150
+    },
+    {
+        "id_respuesta": 151,
+        "respuesta": " La Torre Eiffel se inaugur\u00f3 en 1889",
+        "id_pregunta": 151
+    },
+    {
+        "id_respuesta": 152,
+        "respuesta": " Here's a very direct and short answer using Python:\n```python\n# This code prints the sum of numbers from 1 to 10 using a for loop",
+        "id_pregunta": 152
+    },
+    {
+        "id_respuesta": 153,
+        "respuesta": " El c\u00f3digo responde muy directamente a la solicitud, calcualando la suma de los primeros 10 n\u00fameros naturales y mostrando el resultado",
+        "id_pregunta": 153
+    },
+    {
+        "id_respuesta": 154,
+        "respuesta": " El c\u00f3digo en Python calcula la suma de los n\u00fameros pares entre 1 y 10 (inclusive)",
+        "id_pregunta": 154
+    },
+    {
+        "id_respuesta": 155,
+        "respuesta": " La salida del c\u00f3digo ser\u00eda la suma de los n\u00fameros del 1 al 10",
+        "id_pregunta": 155
+    },
+    {
+        "id_respuesta": 156,
+        "respuesta": " The following Python code provides a simple calculation that adds the numbers from 1 to 10 and presents the sum:\n```python\nsum(range(1, 11))\n```\nThis code uses the built-in `sum` function in Python to add the numbers from 1 to 10",
+        "id_pregunta": 156
+    },
+    {
+        "id_respuesta": 157,
+        "respuesta": " b) Koala es el animal nacional de Australia",
+        "id_pregunta": 157
+    },
+    {
+        "id_respuesta": 158,
+        "respuesta": " b) Argentina es un pa\u00eds que no forma parte de Europa, pero situado en Am\u00e9rica del Sur",
+        "id_pregunta": 158
+    },
+    {
+        "id_respuesta": 159,
+        "respuesta": " The correct answer is: a) Oc\u00e9ano Pac\u00edfico\n\nThe Pacific Ocean is the largest and deepest of the world ocean basins",
+        "id_pregunta": 159
+    },
+    {
+        "id_respuesta": 160,
+        "respuesta": " c) La Gran Pir\u00e1mide de Giza",
+        "id_pregunta": 160
+    },
+    {
+        "id_respuesta": 161,
+        "respuesta": " Here are the answers to your questions:\n\n1",
+        "id_pregunta": 161
+    },
+    {
+        "id_respuesta": 162,
+        "respuesta": " El viol\u00edn es el instrumento musical que usando cuerdas se toca con arco",
+        "id_pregunta": 162
+    },
+    {
+        "id_respuesta": 163,
+        "respuesta": " La respuesta es: Par\u00eds es la capital de Francia",
+        "id_pregunta": 163
+    },
+    {
+        "id_respuesta": 164,
+        "respuesta": " La respuesta es Paris, en Francia",
+        "id_pregunta": 164
+    },
+    {
+        "id_respuesta": 165,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en la capital, Paris",
+        "id_pregunta": 165
+    },
+    {
+        "id_respuesta": 166,
+        "respuesta": " Leonardo da Vinci es famoso por muchos cuadros, pero El Gran Canal del Rinascimento, es el cuadro con el que ha firmado la mayor\u00eda de las historias de arte",
+        "id_pregunta": 166
+    },
+    {
+        "id_respuesta": 167,
+        "respuesta": " La Torre Eiffel se encuentra en Par\u00eds, Francia",
+        "id_pregunta": 167
+    },
+    {
+        "id_respuesta": 168,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en la capital, Paris",
+        "id_pregunta": 168
+    },
+    {
+        "id_respuesta": 169,
+        "respuesta": " El cuadro m\u00e1s conocido y famoso de Leonardo da Vinci es el Gran Cavallo o Juramento",
+        "id_pregunta": 169
+    },
+    {
+        "id_respuesta": 170,
+        "respuesta": " Russia is the largest country by far, with a total of 17,098,242 hectares (17,098,242,000 m\u00b2)",
+        "id_pregunta": 170
+    },
+    {
+        "id_respuesta": 171,
+        "respuesta": " La Torre Eiffel se encuentra en Francia en la capital, Paris",
+        "id_pregunta": 171
+    },
+    {
+        "id_respuesta": 172,
+        "respuesta": " Verdadero",
+        "id_pregunta": 172
+    },
+    {
+        "id_respuesta": 173,
+        "respuesta": " Verdadero",
+        "id_pregunta": 173
+    },
+    {
+        "id_respuesta": 174,
+        "respuesta": " True",
+        "id_pregunta": 174
+    },
+    {
+        "id_respuesta": 175,
+        "respuesta": " Verdadero",
+        "id_pregunta": 175
+    },
+    {
+        "id_respuesta": 176,
+        "respuesta": " True",
+        "id_pregunta": 176
     }
 ]

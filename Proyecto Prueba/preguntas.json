@@ -775,5 +775,460 @@
         "tipo": "test con 3 opciones",
         "tema": "cultura general",
         "dificultad": "media"
+    },
+    {
+        "id": 112,
+        "pregunta": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de superficie?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 113,
+        "pregunta": "\u00bfQui\u00e9n es considerado el autor de la novela \"Don Quijote de la Mancha\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 114,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa pir\u00e1mide de Chich\u00e9n Itz\u00e1?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 115,
+        "pregunta": "\u00bfCu\u00e1l fue la primera obra literaria en ser impresa en occidente?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 116,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se llev\u00f3 a cabo la Revoluci\u00f3n Francesa?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 117,
+        "pregunta": "\u00bfQu\u00e9 ciudad es conocida como la \"Ciudad de las luces\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 118,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 119,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 120,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 121,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 122,
+        "pregunta": "\u00bfQui\u00e9n es considerado el padre del psicoan\u00e1lisis?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 123,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del \u00f3rgano reproductor masculino en los seres humanos?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 124,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 125,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 126,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa isla de Pascua?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 127,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa ciudad de Machu Picchu?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 128,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa torre inclinada de Pisa?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 129,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 130,
+        "pregunta": "\u00bfCu\u00e1l fue la primera capital de Brasil antes de que se trasladara a Brasilia en 1960?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 131,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del r\u00edo m\u00e1s largo del mundo?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 132,
+        "pregunta": "\u00bfEl famoso Mona Lisa fue pintado por Leonardo da Vinci? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 133,
+        "pregunta": "\u00bfLa Gran Muralla China es visible desde el espacio? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 134,
+        "pregunta": "\u00bfWilliam Shakespeare fue un famoso escritor y dramaturgo del siglo XVIII? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 135,
+        "pregunta": "El Gran Ca\u00f1\u00f3n del Colorado se encuentra en Estados Unidos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 136,
+        "pregunta": "La Mona Lisa fue pintada por el artista espa\u00f1ol Pablo Picasso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 137,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 138,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se celebr\u00f3 la primera edici\u00f3n de los premios Oscar?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 139,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la famosa obra literaria \"Don Quijote de la Mancha\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 140,
+        "pregunta": "\u00bfQu\u00e9 importante evento hist\u00f3rico tuvo lugar el 20 de julio de 1969?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 141,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa pir\u00e1mide de Chich\u00e9n Itz\u00e1?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 142,
+        "pregunta": "\u00bfCu\u00e1l es el nombre de la corriente art\u00edstica que surgi\u00f3 en la d\u00e9cada de 1960 y se caracteriza por el uso de elementos cotidianos en las obras de arte?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 143,
+        "pregunta": "\u00bfCu\u00e1l es el nombre de la obra de Gustav Holst compuesta en 1916 basada en los planetas del sistema solar?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 144,
+        "pregunta": "\u00bfQu\u00e9 escritor franc\u00e9s es conocido por su obra \"A la sombra de las muchachas en flor\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 145,
+        "pregunta": "\u00bfQui\u00e9n fue el autor de la obra de teatro \"Esperando a Godot\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 146,
+        "pregunta": "\u00bfQu\u00e9 fil\u00f3sofo griego es conocido por ser el fundador de la escuela de filosof\u00eda c\u00ednica?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 147,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 148,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la famosa obra literaria \"Cien a\u00f1os de soledad\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 149,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 150,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 151,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 152,
+        "pregunta": "Escribe un c\u00f3digo en Python que imprima la suma de los n\u00fameros del 1 al 10 utilizando un bucle for.",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 153,
+        "pregunta": "Escribe un c\u00f3digo en Python que calcule la suma de los primeros 10 n\u00fameros naturales y muestre el resultado. \n\n```python\ndef suma_naturales(n):\n    suma = 0\n    for i in range(1, n+1):\n        suma += i\n    return suma\n\nresultado = suma_naturales(10)\nprint(resultado)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 154,
+        "pregunta": "Escribe un c\u00f3digo en Python que calcule la suma de los n\u00fameros pares del 1 al 10. \n\nC\u00f3digo en Python:\n\n```python\nsuma_pares = 0\n\nfor i in range(1, 11):\n    if i % 2 == 0:\n        suma_pares += i\n\nprint(suma_pares)\n```\n\n\u00bfCu\u00e1l es el resultado de la suma de los n\u00fameros pares del 1 al 10 utilizando este c\u00f3digo?",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 155,
+        "pregunta": "Escribe un c\u00f3digo en Python que imprima la suma de los n\u00fameros del 1 al 10.\n```python\nsuma = 0\nfor i in range(1, 11):\n    suma += i\nprint(suma)\n``` \n\n\u00bfCu\u00e1l ser\u00eda la salida de este c\u00f3digo?",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 156,
+        "pregunta": "Escribe un c\u00f3digo en Python que sume los n\u00fameros del 1 al 10 y muestre el resultado.",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 157,
+        "pregunta": "\u00bfCu\u00e1l es el animal nacional de Australia?\n\na) Canguro\nb) Koala\nc) Emu\n",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 158,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pa\u00edses no forma parte de Europa?\n\na) Italia\n\nb) Argentina\n\nc) Francia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 159,
+        "pregunta": "\u00bfCu\u00e1l es el oc\u00e9ano m\u00e1s grande del mundo?\na) Oc\u00e9ano Pac\u00edfico\nb) Oc\u00e9ano Atl\u00e1ntico\nc) Oc\u00e9ano \u00cdndico",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 160,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes obras es considerada una de las Siete Maravillas del Mundo Antiguo?\n\na) La Torre Eiffel\nb) El Coliseo Romano\nc) La Gran Pir\u00e1mide de Giza",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 161,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?\na) Londres\nb) Berl\u00edn\nc) Par\u00eds\n\nEn la pel\u00edcula \"El Rey Le\u00f3n\", \u00bfc\u00f3mo se llama el cachorro protagonista?\na) Simba\nb) Tim\u00f3n\nc) Mufasa\n\n\u00bfQu\u00e9 pa\u00eds es famoso por sus tulipanes y molinos de viento?\na) Espa\u00f1a\nb) Pa\u00edses Bajos\nc) Italia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 162,
+        "pregunta": "\u00bfQu\u00e9 instrumento musical tiene cuerdas y se toca con arco?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 163,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 164,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 165,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 166,
+        "pregunta": "\u00bfQu\u00e9 famoso cuadro pint\u00f3 Leonardo da Vinci?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 167,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 168,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 169,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del famoso cuadro de Leonardo da Vinci que se encuentra en el Museo del Louvre en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 170,
+        "pregunta": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 171,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 172,
+        "pregunta": "\u00bfLa Mona Lisa de Leonardo da Vinci fue robada del Louvre en 1911 y recuperada dos a\u00f1os despu\u00e9s? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 173,
+        "pregunta": "La Gran Muralla China es visible desde la Luna. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 174,
+        "pregunta": "La ciudad de Agra, en India, es famosa por albergar el Taj Mahal, un mausoleo construido en m\u00e1rmol blanco por el emperador Shah Jahan en memoria de su esposa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 175,
+        "pregunta": "\u00bfLa Mona Lisa de Leonardo da Vinci es considerada una de las obras de arte m\u00e1s famosas del mundo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 176,
+        "pregunta": "La Torre Eiffel fue dise\u00f1ada por Gustave Eiffel para la Exposici\u00f3n Universal de Par\u00eds en 1889. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
     }
 ]
