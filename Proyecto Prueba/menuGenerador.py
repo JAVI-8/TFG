@@ -126,7 +126,7 @@ class App:
         wait_window = tk.Toplevel()
         wait_window.title("Generando, respondiendo y corrigiendo")
 
-        wait_label = tk.Label(wait_window, text="Espera unos segundos mientras serealiza el proceso...")
+        wait_label = tk.Label(wait_window, text="Espera unos segundos mientras se realiza el proceso...")
         wait_label.pack(padx=20, pady=20)
 
         # Forzar la actualización de la interfaz gráfica para mostrar el mensaje

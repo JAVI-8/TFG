@@ -51,7 +51,7 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
     temas = {
         1: "cultura general",
         2: "codigo",
-        3: "operaciones numericas complejas",
+        3: "operaciones matemáticas numericas",
         4: "traducción linguistica",
         5: "definiciones de palabras"
     }

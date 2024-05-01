@@ -878,5 +878,230 @@
         "id_respuesta": 176,
         "respuesta": " True",
         "id_pregunta": 176
+    },
+    {
+        "id_respuesta": 177,
+        "respuesta": " La respuesta es 75",
+        "id_pregunta": 177
+    },
+    {
+        "id_respuesta": 178,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 178
+    },
+    {
+        "id_respuesta": 179,
+        "respuesta": " The result of the operation is that 107 should be the answer",
+        "id_pregunta": 179
+    },
+    {
+        "id_respuesta": 180,
+        "respuesta": " 8 x 4 + 3 = 33\n\nEl resultado es 33",
+        "id_pregunta": 180
+    },
+    {
+        "id_respuesta": 181,
+        "respuesta": " La suma de 25 + 14 es 39",
+        "id_pregunta": 181
+    },
+    {
+        "id_respuesta": 182,
+        "respuesta": " The result of the mathematical operation is 56",
+        "id_pregunta": 182
+    },
+    {
+        "id_respuesta": 183,
+        "respuesta": " El resultado de la operaci\u00f3n es 154",
+        "id_pregunta": 183
+    },
+    {
+        "id_respuesta": 184,
+        "respuesta": " Keep in mind, in order to obtain the correct solution, you must first, solve the operations in the parentheses",
+        "id_pregunta": 184
+    },
+    {
+        "id_respuesta": 185,
+        "respuesta": " La multiplicaci\u00f3n entre 35 y 6 result\u00f3 en 210",
+        "id_pregunta": 185
+    },
+    {
+        "id_respuesta": 186,
+        "respuesta": " The result of the mathematical operation 52 + 37 - 19 is 100",
+        "id_pregunta": 186
+    },
+    {
+        "id_respuesta": 187,
+        "respuesta": " The direct and short answer is -11608",
+        "id_pregunta": 187
+    },
+    {
+        "id_respuesta": 188,
+        "respuesta": " El resultado final de la divisi\u00f3n es el numero integro de 15",
+        "id_pregunta": 188
+    },
+    {
+        "id_respuesta": 189,
+        "respuesta": " The direct and short answer to the mathematical operation shown is 444",
+        "id_pregunta": 189
+    },
+    {
+        "id_respuesta": 190,
+        "respuesta": " The result of the given mathematical operation is 168",
+        "id_pregunta": 190
+    },
+    {
+        "id_respuesta": 191,
+        "respuesta": " The result of dividing 987654321 by 123456789 is approximately 0",
+        "id_pregunta": 191
+    },
+    {
+        "id_respuesta": 192,
+        "respuesta": " El resultado de la operaci\u00f3n matem\u00e1tica 5 + 8 es 13",
+        "id_pregunta": 192
+    },
+    {
+        "id_respuesta": 193,
+        "respuesta": " El resultado de la operaci\u00f3n matem\u00e1tica 5 + 3 es: A) 7",
+        "id_pregunta": 193
+    },
+    {
+        "id_respuesta": 194,
+        "respuesta": " The result of the mathematical operation is A) 10",
+        "id_pregunta": 194
+    },
+    {
+        "id_respuesta": 195,
+        "respuesta": " The result of the mathematical operation is a) 18",
+        "id_pregunta": 195
+    },
+    {
+        "id_respuesta": 196,
+        "respuesta": " The result of the mathematical operation is A) 42, which is the correct answer",
+        "id_pregunta": 196
+    },
+    {
+        "id_respuesta": 197,
+        "respuesta": " The result of the mathematical operation is A) 11",
+        "id_pregunta": 197
+    },
+    {
+        "id_respuesta": 198,
+        "respuesta": " The result of the mathematical operation is 36",
+        "id_pregunta": 198
+    },
+    {
+        "id_respuesta": 199,
+        "respuesta": "The result of the mathematical operation of 4 + 5 x 2 is:\n\nA) 14\n\nMathematically, this is known as PEMDAS",
+        "id_pregunta": 199
+    },
+    {
+        "id_respuesta": 200,
+        "respuesta": " The result of the mathematical operation is A) 56",
+        "id_pregunta": 200
+    },
+    {
+        "id_respuesta": 201,
+        "respuesta": " The result of the mathematical operation is option b) 98",
+        "id_pregunta": 201
+    },
+    {
+        "id_respuesta": 202,
+        "respuesta": " A) 660\n\nLa respuesta es A) 660",
+        "id_pregunta": 202
+    },
+    {
+        "id_respuesta": 203,
+        "respuesta": " The result of the mathematical operation is a) 732",
+        "id_pregunta": 203
+    },
+    {
+        "id_respuesta": 204,
+        "respuesta": " C) 38, es el resultado final de la ecuaci\u00f3n matem\u00e1tica",
+        "id_pregunta": 204
+    },
+    {
+        "id_respuesta": 205,
+        "respuesta": "The result of the mathematical operation is A)  800",
+        "id_pregunta": 205
+    },
+    {
+        "id_respuesta": 206,
+        "respuesta": " The result of the mathematical operation is A) 125",
+        "id_pregunta": 206
+    },
+    {
+        "id_respuesta": 207,
+        "respuesta": " True",
+        "id_pregunta": 207
+    },
+    {
+        "id_respuesta": 208,
+        "respuesta": " Verdadero",
+        "id_pregunta": 208
+    },
+    {
+        "id_respuesta": 209,
+        "respuesta": " True",
+        "id_pregunta": 209
+    },
+    {
+        "id_respuesta": 210,
+        "respuesta": " True",
+        "id_pregunta": 210
+    },
+    {
+        "id_respuesta": 211,
+        "respuesta": " True",
+        "id_pregunta": 211
+    },
+    {
+        "id_respuesta": 212,
+        "respuesta": " Falso",
+        "id_pregunta": 212
+    },
+    {
+        "id_respuesta": 213,
+        "respuesta": " Falso",
+        "id_pregunta": 213
+    },
+    {
+        "id_respuesta": 214,
+        "respuesta": " Verdadero",
+        "id_pregunta": 214
+    },
+    {
+        "id_respuesta": 215,
+        "respuesta": " Verdadero",
+        "id_pregunta": 215
+    },
+    {
+        "id_respuesta": 216,
+        "respuesta": " Verdadero",
+        "id_pregunta": 216
+    },
+    {
+        "id_respuesta": 217,
+        "respuesta": " True",
+        "id_pregunta": 217
+    },
+    {
+        "id_respuesta": 218,
+        "respuesta": " Falso",
+        "id_pregunta": 218
+    },
+    {
+        "id_respuesta": 219,
+        "respuesta": " Verdadero",
+        "id_pregunta": 219
+    },
+    {
+        "id_respuesta": 220,
+        "respuesta": " True",
+        "id_pregunta": 220
+    },
+    {
+        "id_respuesta": 221,
+        "respuesta": " Falso",
+        "id_pregunta": 221
     }
 ]
