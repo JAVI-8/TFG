@@ -1545,5 +1545,355 @@
         "tipo": "verdadero o falso",
         "tema": "operaciones matem\u00e1ticas numericas",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 222,
+        "pregunta": "\u00bfCu\u00e1l es el animal que camina con cuatro patas por la ma\u00f1ana, dos patas al mediod\u00eda y tres patas por la tarde?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 223,
+        "pregunta": "\u00bfCu\u00e1l es la palabra que empieza con \"t\" y termina con \"t\" pero solo tiene una letra?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 224,
+        "pregunta": "\u00bfCu\u00e1ntos meses del a\u00f1o tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 225,
+        "pregunta": "\u00bfQu\u00e9 palabra en ingl\u00e9s se escribe con tres letras, pero al quitarle una, sigue pronunci\u00e1ndose igual?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 226,
+        "pregunta": "\u00bfCu\u00e1ntos meses tienen 28 d\u00edas al a\u00f1o?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 227,
+        "pregunta": "\u00bfQu\u00e9 es lo que siempre est\u00e1 llegando pero nunca llega?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 228,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"ninguna\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 229,
+        "pregunta": "\u00bfCu\u00e1l es la palabra m\u00e1s larga en espa\u00f1ol?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 230,
+        "pregunta": "\u00bfCu\u00e1ntos meses tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 231,
+        "pregunta": "\u00bfQu\u00e9 es m\u00e1s grande, un elefante o la luna?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 232,
+        "pregunta": "\u00bfCu\u00e1l es el animal que tiene tres letras y uno dice una cosa, otro dice otra y el tercero no dice nada?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 233,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"naranja\" si se escribe correctamente?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 234,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"incorrectamente\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 235,
+        "pregunta": "\u00bfCu\u00e1ntos meses del a\u00f1o tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 236,
+        "pregunta": "\u00bfCu\u00e1l es el animal que se puede escribir con tres letras?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 237,
+        "pregunta": "\u00bfCu\u00e1l es la palabra m\u00e1s larga en ingl\u00e9s que se puede escribir utilizando solamente la primera fila del teclado de una computadora est\u00e1ndar?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 238,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"catorce\" si se escribe con letras?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 239,
+        "pregunta": "\u00bfCu\u00e1l es el animal m\u00e1s peligroso del mundo que tiene cuatro patas y una trompa?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 240,
+        "pregunta": "\u00bfCu\u00e1l es la palabra que contiene todas las vocales, pero solo una vez cada una?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 241,
+        "pregunta": "\u00bfCu\u00e1ntos animales de cada especie llevaba Mois\u00e9s en el arca?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 242,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente pregunta l\u00f3gica: \"Si un reloj se detiene, \u00bfse adelanta o se atrasa?\"?\n\nA) Se adelanta\nB) Se atrasa\nC) No se puede determinar",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 243,
+        "pregunta": "\u00bfQu\u00e9 es lo que todo el mundo tiene, pero siempre se utiliza de manera diferente?\n\na) Un nombre\nb) Una mano\nc) Un m\u00f3vil",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 244,
+        "pregunta": "\u00bfCu\u00e1l es el animal que est\u00e1 siempre en lo alto de la colina, pero nunca sube ni baja?\n\nA) La cabra\nB) El \u00e1guila\nC) La mariposa",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 245,
+        "pregunta": "\u00bfQu\u00e9 n\u00famero sigue en la siguiente secuencia?\n\n2, 4, 8, ?\n\nA. 10\nB. 12\nC. 16",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 246,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente pregunta l\u00f3gica?\n\nSi un tren sale de la estaci\u00f3n a las 3:00 p.m. y llega a su destino a las 5:00 p.m., \u00bfcu\u00e1ntas horas ha tardado en llegar?\n\nA) 1 hora\nB) 2 horas\nC) 5 horas",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 247,
+        "pregunta": "\u00bfCu\u00e1l es la afirmaci\u00f3n correcta sobre la l\u00f3gica con trampa?\na) Si una declaraci\u00f3n es falsa, entonces la siguiente debe ser verdadera.\nb) Si una declaraci\u00f3n es verdadera, entonces la siguiente debe ser falsa.\nc) Si una declaraci\u00f3n es falsa, no necesariamente la siguiente debe ser verdadera.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 248,
+        "pregunta": "\u00bfCu\u00e1l es el n\u00famero que sigue en esta serie l\u00f3gica?\n2, 6, 12, 20, 30, ...\n\na) 42\nb) 40\nc) 36",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 249,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es verdadera seg\u00fan la l\u00f3gica?\n\nA) Todas las manzanas son frutas.\nB) Algunas manzanas son frutas.\nC) Ninguna manzana es una fruta.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 250,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente afirmaci\u00f3n correcta sobre la l\u00f3gica con trampa?\na) Si siempre dices la verdad, nunca caer\u00e1s en una trampa.\nb) Siempre que alguien miente, est\u00e1 tratando de enga\u00f1arte.\nc) En un enunciado con trampa, la verdad y la mentira pueden estar entremezcladas.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 251,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es cierta sobre la l\u00f3gica con trampa?\nA) La l\u00f3gica con trampa busca confundir al interlocutor con argumentos falsos.\nB) En la l\u00f3gica con trampa siempre se llega a una conclusi\u00f3n l\u00f3gica y verdadera.\nC) La l\u00f3gica con trampa es una herramienta \u00fatil para resolver problemas de forma objetiva.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 252,
+        "pregunta": "\u00bfEn cu\u00e1l de las siguientes afirmaciones no hay trampa?\n\nA) Todos los gatos son animales\nB) Algunos perros son gatos\nC) Ning\u00fan perro es un animal",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 253,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta?\n\na) Todas las afirmaciones son falsas.\nb) Solo una de las afirmaciones es verdadera.\nc) Dos de las afirmaciones son falsas.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 254,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta?\n\nA) La respuesta A\nB) La respuesta B\nC) La respuesta C",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 255,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente pregunta?\n\nJuan tiene 4 manzanas y se come 3, \u00bfcu\u00e1ntas manzanas le quedan?\n\nA) 1\n\nB) 4\n\nC) No quedan manzanas",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 256,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente cifra en la secuencia?\n\n4, 7, 11, 16, 22, ?\n\na) 29\nb) 28\nc) 27",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 257,
+        "pregunta": "\u00bfEl siguiente enunciado es verdadero o falso? \"La respuesta a esta pregunta es falsa\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 258,
+        "pregunta": "La paradoja del mentiroso es un ejemplo de una proposici\u00f3n auto-referencial en la l\u00f3gica. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 259,
+        "pregunta": "Los n\u00fameros pares son siempre divisibles entre 2. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 260,
+        "pregunta": "Los leones son animales que vuelan. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 261,
+        "pregunta": "La paradoja del mentiroso se basa en afirmaciones verdaderas. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 262,
+        "pregunta": "\u00bfLa paradoja del mentiroso afirma que todas las afirmaciones son falsas? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 263,
+        "pregunta": "El principio de explosi\u00f3n establece que si de una premisa falsa se sigue cualquier otra afirmaci\u00f3n, entonces todas las afirmaciones son verdaderas. (Verdadero/Falso) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 264,
+        "pregunta": "Cierto o falso: En un argumento v\u00e1lido, si las premisas son verdaderas, la conclusi\u00f3n tambi\u00e9n debe ser verdadera. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 265,
+        "pregunta": "Verdadero o falso: En el siguiente enunciado, \"Si todos los perros ladran, y Fido ladra, entonces Fido es un perro\", la conclusi\u00f3n l\u00f3gica no necesariamente es verdadera. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 266,
+        "pregunta": "Un silogismo es un razonamiento l\u00f3gico compuesto por tres proposiciones: una premisa mayor, una premisa menor y una conclusi\u00f3n. (Verdadero/Falso) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 267,
+        "pregunta": "\u00bfExiste un n\u00famero que sea al mismo tiempo par e impar? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 268,
+        "pregunta": "La afirmaci\u00f3n \"Esta frase es falsa\" es verdadera. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 269,
+        "pregunta": "La paradoja del mentiroso es un ejemplo de una proposici\u00f3n l\u00f3gica que puede ser tratada como verdadera o falsa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 270,
+        "pregunta": "Los enigmas l\u00f3gicos siempre tienen una soluci\u00f3n clara y definitiva. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 271,
+        "pregunta": "\u00bfPuedes encontrar la falla l\u00f3gica en la siguiente afirmaci\u00f3n: \"Este enunciado es falso\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
     }
 ]

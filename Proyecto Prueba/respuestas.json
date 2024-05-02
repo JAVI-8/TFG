@@ -1103,5 +1103,255 @@
         "id_respuesta": 221,
         "respuesta": " Falso",
         "id_pregunta": 221
+    },
+    {
+        "id_respuesta": 222,
+        "respuesta": " El animal que responde es el cerdo, por lo que camina utilizando sus cuatro patas por la ma\u00f1ana, luego solamente usando dos patas al mediod\u00eda y por la tarde, usando tres patas",
+        "id_pregunta": 222
+    },
+    {
+        "id_respuesta": 223,
+        "respuesta": " The word that meets that description is \"tuck\"",
+        "id_pregunta": 223
+    },
+    {
+        "id_respuesta": 224,
+        "respuesta": " Se trata de un n\u00famero especial, por lo que no hay meses con 28 d\u00edas, la raz\u00f3n es que para poder obtener ese n\u00famero de d\u00edas se tiene que usar todos los d\u00edgitos del calendario:\n\nmeses = 31 (31 d\u00edas)\n\nmeses = 28 (d\u00edas)\n\nmeses = 30 (d\u00edas)\n\nAs\u00ed, la suma de este trio de meses consigue la cantidad de 88 d\u00edas, la raz\u00f3n es que en cada a\u00f1o hay 4 meses con 28 d\u00edas, los nombres de esos meses son: enero, febrero, marzo y abril",
+        "id_pregunta": 224
+    },
+    {
+        "id_respuesta": 225,
+        "respuesta": " The answer is 'free'",
+        "id_pregunta": 225
+    },
+    {
+        "id_respuesta": 226,
+        "respuesta": " Sin embargo, los meses de un a\u00f1o son exactamente 12, por lo que el n\u00famero de meses que tienen 28 d\u00edas al a\u00f1o es 0",
+        "id_pregunta": 226
+    },
+    {
+        "id_respuesta": 227,
+        "respuesta": " La respuesta muy directa y corta para la pregunta es: \"la hora\"",
+        "id_pregunta": 227
+    },
+    {
+        "id_respuesta": 228,
+        "respuesta": " La palabra \"ninguna\" contiene cuatro letras",
+        "id_pregunta": 228
+    },
+    {
+        "id_respuesta": 229,
+        "respuesta": " The longest word in Spanish is \"pante\u00f3n\" which means \"graveyard\" or \"cemetery\"",
+        "id_pregunta": 229
+    },
+    {
+        "id_respuesta": 230,
+        "respuesta": " Sin embargo, los meses no son necesariamente destinados a tener 28 d\u00edas",
+        "id_pregunta": 230
+    },
+    {
+        "id_respuesta": 231,
+        "respuesta": " Sin dudas, un elefante es mucho m\u00e1s grande que la luna, por lo tanto, la respuesta es: \"Elefante\"",
+        "id_pregunta": 231
+    },
+    {
+        "id_respuesta": 232,
+        "respuesta": " The animal that has three letters and one says one thing, another says another thing, and the third doesn't say anything is the \" Mink \"",
+        "id_pregunta": 232
+    },
+    {
+        "id_respuesta": 233,
+        "respuesta": " Naranja es una palabra que contiene siete letras",
+        "id_pregunta": 233
+    },
+    {
+        "id_respuesta": 234,
+        "respuesta": " There are eight letters in the word \"incorrectamente\"",
+        "id_pregunta": 234
+    },
+    {
+        "id_respuesta": 235,
+        "respuesta": " Se trata de un n\u00famero especial, por lo que no hay meses con 28 d\u00edas, la raz\u00f3n es que para poder obtener ese n\u00famero de d\u00edas se tiene que usar todos los d\u00edgitos del calendario:\n\nmeses = 31 (31 d\u00edas)\n\nmeses = 28 (d\u00edas)\n\nmeses = 30 (d\u00edas)\n\nAs\u00ed, la suma de este trio de meses consigue la cantidad de 88 d\u00edas, la raz\u00f3n es que en cada a\u00f1o hay 4 meses con 28 d\u00edas, los nombres de esos meses son: enero, febrero, marzo y abril",
+        "id_pregunta": 235
+    },
+    {
+        "id_respuesta": 236,
+        "respuesta": " The answer is the \"GNU\" which is a animal listed in the dictionary with three letters",
+        "id_pregunta": 236
+    },
+    {
+        "id_respuesta": 237,
+        "respuesta": " The longest word that can be typed on the first row of a standard computer keyboard in English is \"typewriter\", which has 11 characters",
+        "id_pregunta": 237
+    },
+    {
+        "id_respuesta": 238,
+        "respuesta": " La palabra \"catorce\" tiene cuatro letras",
+        "id_pregunta": 238
+    },
+    {
+        "id_respuesta": 239,
+        "respuesta": " El leopardo es el animal m\u00e1s peligroso del mundo que tiene cuatro patas y una trompa",
+        "id_pregunta": 239
+    },
+    {
+        "id_respuesta": 240,
+        "respuesta": " The word that contains all the vowels, each one only once, is \"facetiously\"",
+        "id_pregunta": 240
+    },
+    {
+        "id_respuesta": 241,
+        "respuesta": " Para los animalitos, Mois\u00e9s llev\u00f3 dos de cada especie (EXCEPTUARILY los \u00f1ibes, que llev\u00f3 siendo un animal de gran peque\u00f1idad)",
+        "id_pregunta": 241
+    },
+    {
+        "id_respuesta": 242,
+        "respuesta": " B) Se atrasa is the correct answer",
+        "id_pregunta": 242
+    },
+    {
+        "id_respuesta": 243,
+        "respuesta": " c) Un m\u00f3vil",
+        "id_pregunta": 243
+    },
+    {
+        "id_respuesta": 244,
+        "respuesta": " La respuesta es A) La cabra",
+        "id_pregunta": 244
+    },
+    {
+        "id_respuesta": 245,
+        "respuesta": " La siguiente cantidad en la secuencia despu\u00e9s de 8 es 16, por lo que la correcta es opci\u00f3n C",
+        "id_pregunta": 245
+    },
+    {
+        "id_respuesta": 246,
+        "respuesta": " B) 2 horas \n\nLa respuesta es correcta si se considera la hora en que sale del originate en la misma ciudad, desconocemos si hay un recorrido previo por la ciudad",
+        "id_pregunta": 246
+    },
+    {
+        "id_respuesta": 247,
+        "respuesta": " c) Si una declaraci\u00f3n es falsa, no necesariamente la siguiente debe ser verdadera",
+        "id_pregunta": 247
+    },
+    {
+        "id_respuesta": 248,
+        "respuesta": " b) 40, es el n\u00famero que sigue en la serie l\u00f3gica",
+        "id_pregunta": 248
+    },
+    {
+        "id_respuesta": 249,
+        "respuesta": " La respuesta A) Todas las manzanas son frutas es verdadera seg\u00fan la l\u00f3gica",
+        "id_pregunta": 249
+    },
+    {
+        "id_respuesta": 250,
+        "respuesta": " c) En un enunciado con trampa, la verdad y la mentira pueden estar entremezcladas",
+        "id_pregunta": 250
+    },
+    {
+        "id_respuesta": 251,
+        "respuesta": " The correct answer is A) La l\u00f3gica con trampa busca confundir al interlocutor con argumentos falsos",
+        "id_pregunta": 251
+    },
+    {
+        "id_respuesta": 252,
+        "respuesta": " There is no trap in Statement A) Todos los gatos son animales",
+        "id_pregunta": 252
+    },
+    {
+        "id_respuesta": 253,
+        "respuesta": " b) Solo una de las afirmaciones es verdadera",
+        "id_pregunta": 253
+    },
+    {
+        "id_respuesta": 254,
+        "respuesta": " La respuesta correcta es: ***C) La respuesta C***\n\nEspero que esta informaci\u00f3n sirva de ayuda",
+        "id_pregunta": 254
+    },
+    {
+        "id_respuesta": 255,
+        "respuesta": " A) 1 is the correct answer",
+        "id_pregunta": 255
+    },
+    {
+        "id_respuesta": 256,
+        "respuesta": " La siguiente cifra en la secuencia es A) 29",
+        "id_pregunta": 256
+    },
+    {
+        "id_respuesta": 257,
+        "respuesta": " Falso",
+        "id_pregunta": 257
+    },
+    {
+        "id_respuesta": 258,
+        "respuesta": " Falso",
+        "id_pregunta": 258
+    },
+    {
+        "id_respuesta": 259,
+        "respuesta": " True",
+        "id_pregunta": 259
+    },
+    {
+        "id_respuesta": 260,
+        "respuesta": " Falso",
+        "id_pregunta": 260
+    },
+    {
+        "id_respuesta": 261,
+        "respuesta": " True",
+        "id_pregunta": 261
+    },
+    {
+        "id_respuesta": 262,
+        "respuesta": " Falso",
+        "id_pregunta": 262
+    },
+    {
+        "id_respuesta": 263,
+        "respuesta": " Falso",
+        "id_pregunta": 263
+    },
+    {
+        "id_respuesta": 264,
+        "respuesta": " Verdadero",
+        "id_pregunta": 264
+    },
+    {
+        "id_respuesta": 265,
+        "respuesta": " True",
+        "id_pregunta": 265
+    },
+    {
+        "id_respuesta": 266,
+        "respuesta": " Falso",
+        "id_pregunta": 266
+    },
+    {
+        "id_respuesta": 267,
+        "respuesta": " Falso",
+        "id_pregunta": 267
+    },
+    {
+        "id_respuesta": 268,
+        "respuesta": " Verdadero",
+        "id_pregunta": 268
+    },
+    {
+        "id_respuesta": 269,
+        "respuesta": " Verdadero",
+        "id_pregunta": 269
+    },
+    {
+        "id_respuesta": 270,
+        "respuesta": " True",
+        "id_pregunta": 270
+    },
+    {
+        "id_respuesta": 271,
+        "respuesta": " Falso",
+        "id_pregunta": 271
     }
 ]

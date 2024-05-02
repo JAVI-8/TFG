@@ -53,7 +53,8 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
         2: "codigo",
         3: "operaciones matemáticas numericas",
         4: "traducción linguistica",
-        5: "definiciones de palabras"
+        5: "definiciones de palabras",
+        6: "logica con trampa, para adivinar"
     }
 
     dificultades = {

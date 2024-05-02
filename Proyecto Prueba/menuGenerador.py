@@ -51,7 +51,7 @@ class App:
         self.dificultad_var = tk.StringVar()
 
         self.opciones_tipo = {"Tipo respuesta corta": 1, "Tipo test con 3 opciones": 2, "Verdadero o falso": 3}
-        self.opciones_tema = {"Cultura general": 1, "Codigo": 2, "Operaciones matematicas": 3, "Traducción": 4, "Definiciones de palabras": 5}
+        self.opciones_tema = {"Cultura general": 1, "Codigo": 2, "Operaciones matematicas": 3, "Traducción": 4, "Definiciones de palabras": 5, "Preguntas lógicas":6}
         self.opciones_dificultad = {"Fácil": 1, "Medio": 2, "Difícil": 3}
 
         self.interaction_times = []  # Lista para almacenar los tiempos de interacción
@@ -78,7 +78,7 @@ class App:
         self.tema_label = ttk.Label(self.form_frame, text="Tema de la pregunta:")
         self.tema_label.pack(anchor="w", padx=10)
 
-        self.tema_option_menu = ttk.OptionMenu(self.form_frame, self.tema_var, "", "Cultura general", "Codigo", "Operaciones matematicas", "Traducción", "Definiciones de palabras")
+        self.tema_option_menu = ttk.OptionMenu(self.form_frame, self.tema_var, "", "Cultura general", "Codigo", "Operaciones matematicas", "Traducción", "Definiciones de palabras", "Preguntas lógicas")
         self.tema_option_menu.pack(pady=5, padx=10)
 
         # Selector de dificultad
