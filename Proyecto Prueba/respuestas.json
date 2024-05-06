@@ -1893,5 +1893,105 @@
         "id_respuesta": 379,
         "respuesta": " True",
         "id_pregunta": 379
+    },
+    {
+        "id_respuesta": 380,
+        "respuesta": " Verdadero",
+        "id_pregunta": 380
+    },
+    {
+        "id_respuesta": 381,
+        "respuesta": " Verdadero",
+        "id_pregunta": 381
+    },
+    {
+        "id_respuesta": 382,
+        "respuesta": " True",
+        "id_pregunta": 382
+    },
+    {
+        "id_respuesta": 383,
+        "respuesta": " True\r\n\r\nEl m\u00e9todo reduce de JavaScript procesa el conjunto de valores en la matriz de forma que sea posible usar el m\u00e9todo modulo para averiguar si es impar o par",
+        "id_pregunta": 383
+    },
+    {
+        "id_respuesta": 384,
+        "respuesta": " Verdadero",
+        "id_pregunta": 384
+    },
+    {
+        "id_respuesta": 385,
+        "respuesta": " A) Calcula el factorial de un n\u00famero y lo imprime",
+        "id_pregunta": 385
+    },
+    {
+        "id_respuesta": 386,
+        "respuesta": " A) 15\n\nLa presi\u00f3n de llamada de la funcionalidad `main` imprimir\u00e1 como resultado final 15",
+        "id_pregunta": 386
+    },
+    {
+        "id_respuesta": 387,
+        "respuesta": " A) Calcula el producto de todos los elementos de una lista",
+        "id_pregunta": 387
+    },
+    {
+        "id_respuesta": 388,
+        "respuesta": " A) Imprime los n\u00fameros pares hasta el n\u00famero 5",
+        "id_pregunta": 388
+    },
+    {
+        "id_respuesta": 389,
+        "respuesta": " A) La clase SumArray calcular\u00e1 la suma de todos los elementos en un array de enteros",
+        "id_pregunta": 389
+    },
+    {
+        "id_respuesta": 390,
+        "respuesta": " The given code prints:\n```java\nAABAB\n```\n\nThe code uses a for loop to go from 0 up to, but not including, the value stored in the `num` variable",
+        "id_pregunta": 390
+    },
+    {
+        "id_respuesta": 391,
+        "respuesta": " A) Encripta el texto sumando 3 al valor ASCII de cada car\u00e1cter",
+        "id_pregunta": 391
+    },
+    {
+        "id_respuesta": 392,
+        "respuesta": "A) 0 1 2 3 4 \n\nLa condici\u00f3n de la sentencia `if` en el for es: `if(i%2 == 0)`",
+        "id_pregunta": 392
+    },
+    {
+        "id_respuesta": 393,
+        "respuesta": " B) Determina si el n\u00famero es par o impar",
+        "id_pregunta": 393
+    },
+    {
+        "id_respuesta": 394,
+        "respuesta": " A) Especifique correctamente el operador de multiplicaci\u00f3n para obtener el doble del numero",
+        "id_pregunta": 394
+    },
+    {
+        "id_respuesta": 395,
+        "respuesta": " A) Imprimir\u00e1 el valor 10",
+        "id_pregunta": 395
+    },
+    {
+        "id_respuesta": 396,
+        "respuesta": " A) La respuesta es A, la codifica genera un patr\u00f3n de asteriscos en forma de X, dado que el c\u00f3digo incluye un for loop iterando desde 0 a n-1, adem\u00e1s de una condici\u00f3n que verifica si la variable i o i + j es el final de la fila (n-1), en donde la variable i representa la posici\u00f3n horizontal y la variable j la posici\u00f3n vertical, por lo que la condici\u00f3n i == j o i + j == n-1 ser\u00eda el final de una fila, en donde el c\u00f3digo imprime un asterisco (*)",
+        "id_pregunta": 396
+    },
+    {
+        "id_respuesta": 397,
+        "respuesta": " The provided Java code aims to find and return the duplicate number in a given array of integers using the two-pointer technique:\n```java\npublic static int findDuplicate(int[] nums) {\n    int slow = nums[0];\n    int fast = nums[0];\n    \n    do {\n        slow = nums[slow];\n        fast = nums[nums[fast]];\n    } while (slow != fast);\n    \n    fast = nums[0];\n    \n    while (slow != fast) {\n        slow = nums[slow];\n        fast = nums[fast];\n    }\n    \n    return slow;\n}\n```\n\nHere's how the code works:\n1",
+        "id_pregunta": 397
+    },
+    {
+        "id_respuesta": 398,
+        "respuesta": " The given code defines a function that implements the recursive formulation of the Fibonacci sequence",
+        "id_pregunta": 398
+    },
+    {
+        "id_respuesta": 399,
+        "respuesta": " A) Calcula la suma de los cuadrados de los n\u00fameros del 1 al 5",
+        "id_pregunta": 399
     }
 ]
