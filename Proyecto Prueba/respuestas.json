@@ -1828,5 +1828,25 @@
         "id_respuesta": 366,
         "respuesta": " El resultado de la funci\u00f3n `sumArray` es la suma de todos los elementos de `numbers` arrray",
         "id_pregunta": 366
+    },
+    {
+        "id_respuesta": 367,
+        "respuesta": " EJEMPLO 1: Operaciones Binarias (C):\nEl c\u00f3digo C demostrado abajo ejecutar\u00e1 una operaci\u00f3n binaria simple en las cuales se compare la segunda operando con la primera usando la operaci\u00f3n de exclusi\u00f3n (`>`)",
+        "id_pregunta": 367
+    },
+    {
+        "id_respuesta": 368,
+        "respuesta": "El c\u00f3digo reci\u00e9n escribido introduce una funci\u00f3n llamada mysteryFunction que recibe una matriz de n\u00fameros enteros como argumento arr",
+        "id_pregunta": 368
+    },
+    {
+        "id_respuesta": 369,
+        "respuesta": " El c\u00f3digo proporcionado calcula el resultado de multiplicar enteramente de 1 a 5",
+        "id_pregunta": 369
+    },
+    {
+        "id_respuesta": 370,
+        "respuesta": " El c\u00f3digo en C anterior ejecuta la operaci\u00f3n de exclusi\u00f3n de enteros (modifica el operado para que sea el complemento seg\u00fan la operaci\u00f3n de inclusi\u00f3n) para ambos valores de i y j, lo que refleja un ciclo iterativo en la variable i mientras que j se mantiene constante",
+        "id_pregunta": 370
     }
 ]

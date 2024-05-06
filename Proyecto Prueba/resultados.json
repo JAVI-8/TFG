@@ -2194,5 +2194,29 @@
         "id_respuesta": 366,
         "resultado": "correcto",
         "revision": "correcto"
+    },
+    {
+        "id_pregunta": 367,
+        "id_respuesta": 367,
+        "resultado": "correcto",
+        "revision": "incorrecto"
+    },
+    {
+        "id_pregunta": 368,
+        "id_respuesta": 368,
+        "resultado": "correcto",
+        "revision": "incorrecto"
+    },
+    {
+        "id_pregunta": 369,
+        "id_respuesta": 369,
+        "resultado": "correcto",
+        "revision": "correcto"
+    },
+    {
+        "id_pregunta": 370,
+        "id_respuesta": 370,
+        "resultado": "correcto",
+        "revision": "incorrecto"
     }
 ]

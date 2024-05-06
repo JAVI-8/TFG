@@ -2560,5 +2560,33 @@
         "tipo": "respuesta corta",
         "tema": "codigo",
         "dificultad": "media"
+    },
+    {
+        "id": 367,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int num1 = 10, num2 = 20, result;\n\n    result = (num1 > num2) ? (num1 + num2) : (num1 - num2);\n\n    printf(\"El resultado es: %d\", result);\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 368,
+        "pregunta": "Describe lo que hace el siguiente c\u00f3digo:\n\n```\nfunction mysteryFunction(arr) {\n  let result = [];\n  for (let i = 0; i < arr.length; i++) {\n    if (arr[i] % 2 !== 0) {\n      result.push(arr[i] ** 2);\n    }\n  }\n  return result;\n}\n```  ",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 369,
+        "pregunta": "```java\npublic class CodeExam {\n    public static void main(String[] args) {\n        int n = 5;\n        \n        int result = 1;\n        for (int i = 1; i <= n; i++) {\n            result *= i;\n        }\n        \n        System.out.println(result);\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo proporcionado?",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 370,
+        "pregunta": "Describe qu\u00e9 hace el siguiente c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int i = 3;\n    int j = 5;\n\n    i = i ^ j;\n    j = i ^ j;\n    i = i ^ j;\n\n    printf(\"i = %d, j = %d\", i, j);\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
     }
 ]
