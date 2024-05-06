@@ -1778,5 +1778,30 @@
         "id_respuesta": 356,
         "respuesta": " True ",
         "id_pregunta": 356
+    },
+    {
+        "id_respuesta": 357,
+        "respuesta": " El c\u00f3digo proporciona una funci\u00f3n llamada `sumTwoNumbers` que recibe dos n\u00fameros, `a` y `b`, y devuelve la suma de los dos n\u00fameros",
+        "id_pregunta": 357
+    },
+    {
+        "id_respuesta": 358,
+        "respuesta": " ```c++\n#include <iostream>\n\nint main() {\n    std::cout << \"Hola, mundo\" << std::endl;\n    return 0;\n}\n```\nEste programa en C++ es muy sencillo e intr\u00edngulo",
+        "id_pregunta": 358
+    },
+    {
+        "id_respuesta": 359,
+        "respuesta": " El c\u00f3digo en C++ definir\u00eda un n\u00famero para ser usado en un for, y luego imprimir\u00e1 ese n\u00famero entero en una l\u00ednea separada",
+        "id_pregunta": 359
+    },
+    {
+        "id_respuesta": 360,
+        "respuesta": " El c\u00f3digo Python encapsula una funci\u00f3n llamada `contar_vocales` que cuenta el n\u00famero de vocal en un string despu\u00e9s de su cadena especificada",
+        "id_pregunta": 360
+    },
+    {
+        "id_respuesta": 361,
+        "respuesta": " El c\u00f3digo C reci\u00e9n ejecutado es un ejemplo de cuatro iteraciones de un loop for",
+        "id_pregunta": 361
     }
 ]
