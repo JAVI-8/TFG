@@ -1803,5 +1803,30 @@
         "id_respuesta": 361,
         "respuesta": " El c\u00f3digo C reci\u00e9n ejecutado es un ejemplo de cuatro iteraciones de un loop for",
         "id_pregunta": 361
+    },
+    {
+        "id_respuesta": 362,
+        "respuesta": " El c\u00f3digo ejecuta una loop f\u00fcr en la variable `num` (de 0 a 4 inclusivo), y en cada iteration, imprime en la salida de texto el valor de `i` si es pares, con la salida final separado por un salto de l\u00ednea",
+        "id_pregunta": 362
+    },
+    {
+        "id_respuesta": 363,
+        "respuesta": " Este c\u00f3digo reversa una string en Java",
+        "id_pregunta": 363
+    },
+    {
+        "id_respuesta": 364,
+        "respuesta": " Escribe un loop para imprimir en la salida de ejecuci\u00f3n en una l\u00ednea con un espacio entre los \u00edndices del array",
+        "id_pregunta": 364
+    },
+    {
+        "id_respuesta": 365,
+        "respuesta": " Ese c\u00f3digo en s\u00ed solo ejecuta una acci\u00f3n y es el siguiente: \n\nEscribe el resultado de la ecuaci\u00f3n para producir n\u00fameros infinitos",
+        "id_pregunta": 365
+    },
+    {
+        "id_respuesta": 366,
+        "respuesta": " El resultado de la funci\u00f3n `sumArray` es la suma de todos los elementos de `numbers` arrray",
+        "id_pregunta": 366
     }
 ]

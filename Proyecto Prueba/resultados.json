@@ -2164,5 +2164,35 @@
         "id_respuesta": 361,
         "resultado": "correcto",
         "revision": "incorrecto"
+    },
+    {
+        "id_pregunta": 362,
+        "id_respuesta": 362,
+        "resultado": "correcto",
+        "revision": "correcto"
+    },
+    {
+        "id_pregunta": 363,
+        "id_respuesta": 363,
+        "resultado": "correcto",
+        "revision": "correcto"
+    },
+    {
+        "id_pregunta": 364,
+        "id_respuesta": 364,
+        "resultado": "correcto",
+        "revision": "incorrecto"
+    },
+    {
+        "id_pregunta": 365,
+        "id_respuesta": 365,
+        "resultado": "correcto",
+        "revision": "incorrecto"
+    },
+    {
+        "id_pregunta": 366,
+        "id_respuesta": 366,
+        "resultado": "correcto",
+        "revision": "correcto"
     }
 ]

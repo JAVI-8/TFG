@@ -83,7 +83,7 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
 
 
     if tema_pregunta == 2:
-       pregunta = f"Crea una pregunta de examen de tipo {tipo} sobre codigo (puede ser cualquier codigo no solo python), donde se proporciona un codigo en cualquier lenguaje con un nivel de dificultad {dificultad} y que pregunta que hace el codigo. No des ninguna pista de lo que hace"
+       pregunta = f"Crea una pregunta de examen de tipo {tipo} sobre codigo (puede ser cualquier codigo no solo python), donde se proporciona un codigo en cualquier lenguaje con un nivel de dificultad {dificultad} y que pregunta que hace el codigo (no digas escribe el codigo si lo has puesto). No des ninguna pista de lo que hace"
             
     elif tema_pregunta == 4:
         if tipo_pregunta == 1:
