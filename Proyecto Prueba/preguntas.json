@@ -2588,5 +2588,68 @@
         "tipo": "respuesta corta",
         "tema": "codigo",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 371,
+        "pregunta": "Verdadero o Falso:\n\n```javascript\nfunction sum(a, b) {\n   return a + b;\n}\n```\n\nEste c\u00f3digo realiza operaci\u00f3n de suma entre dos n\u00fameros.\n Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 372,
+        "pregunta": "C\u00f3digo en Python:\n\n```\nx = 5\ny = 3\nz = x + y\nprint(z)\n```\n\n\u00bfQu\u00e9 imprime este c\u00f3digo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 373,
+        "pregunta": "Verdadero o falso:\n\n```js\nfunction suma(a, b) {\n  return a + b;\n}\n\nvar resultado = suma(3, 5);\n```\n\nEste c\u00f3digo realiza una operaci\u00f3n de suma entre dos n\u00fameros. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 374,
+        "pregunta": "C\u00f3digo en Python:\n\n```python\nnumero = 5\n\nif numero % 2 == 0:\n    print(\"El n\u00famero es par\")\nelse:\n    print(\"El n\u00famero es impar\")\n```\n\nVerdadero o falso: El c\u00f3digo determina si el n\u00famero es par o impar. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 375,
+        "pregunta": "**Verdadero o falso:**\n\nEl siguiente c\u00f3digo en Python imprime la frase \"Hello World\" en la consola:\n\n```python\nprint(\"Hello World\")\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 376,
+        "pregunta": "```c\n#include <stdio.h>\n\nint main() {\n    int num1 = 10;\n    int num2 = 5;\n    int result = num1 + num2;\n\n    printf(\"El resultado es: %d\\n\", result);\n\n    return 0;\n}\n```\n\nEste c\u00f3digo realiza alguna operaci\u00f3n matem\u00e1tica con dos variables y muestra el resultado por pantalla. \u00bfVerdadero o Falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 377,
+        "pregunta": "**Verdadero o falso:**\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        x = x + y;\n        y = x - y;\n        x = x - y;\n        \n        System.out.println(\"El valor de x es: \" + x);\n        System.out.println(\"El valor de y es: \" + y);\n    }\n}\n```\n\nEl programa intercambia los valores de las variables `x` y `y`. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 378,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo devuelve como resultado un n\u00famero primo?\n\n```java\npublic static boolean esPrimo(int numero) {\n   if (numero <= 1) {\n       return false;\n   }\n   for (int i = 2; i <= Math.sqrt(numero); i++) {\n       if (numero % i == 0) {\n           return false;\n       }\n   }\n   return true;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 379,
+        "pregunta": "Verdadero o falso:\n\n```javascript\nfunction fibonacci(n) {\n    if (n <= 1)\n        return n;\n    else\n        return fibonacci(n - 1) + fibonacci(n - 2);\n}\n\nlet result = fibonacci(5);\n```\n\nEste c\u00f3digo calcula el n\u00famero Fibonacci para el valor 5. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
     }
 ]

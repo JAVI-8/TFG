@@ -1848,5 +1848,50 @@
         "id_respuesta": 370,
         "respuesta": " El c\u00f3digo en C anterior ejecuta la operaci\u00f3n de exclusi\u00f3n de enteros (modifica el operado para que sea el complemento seg\u00fan la operaci\u00f3n de inclusi\u00f3n) para ambos valores de i y j, lo que refleja un ciclo iterativo en la variable i mientras que j se mantiene constante",
         "id_pregunta": 370
+    },
+    {
+        "id_respuesta": 371,
+        "respuesta": " True",
+        "id_pregunta": 371
+    },
+    {
+        "id_respuesta": 372,
+        "respuesta": " Verdadero, el c\u00f3digo imprime 8",
+        "id_pregunta": 372
+    },
+    {
+        "id_respuesta": 373,
+        "respuesta": " Verdadero",
+        "id_pregunta": 373
+    },
+    {
+        "id_respuesta": 374,
+        "respuesta": " True",
+        "id_pregunta": 374
+    },
+    {
+        "id_respuesta": 375,
+        "respuesta": " Verdadero",
+        "id_pregunta": 375
+    },
+    {
+        "id_respuesta": 376,
+        "respuesta": " Verdadero",
+        "id_pregunta": 376
+    },
+    {
+        "id_respuesta": 377,
+        "respuesta": " Verdadero",
+        "id_pregunta": 377
+    },
+    {
+        "id_respuesta": 378,
+        "respuesta": " Verdadero",
+        "id_pregunta": 378
+    },
+    {
+        "id_respuesta": 379,
+        "respuesta": " True",
+        "id_pregunta": 379
     }
 ]
