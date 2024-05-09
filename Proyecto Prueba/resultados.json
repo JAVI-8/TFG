@@ -1629,7 +1629,7 @@
         "id_pregunta": 272,
         "id_respuesta": 272,
         "resultado": "correcto",
-        "revision": "correcto"
+        "revision": "incorrecto"
     },
     {
         "id_pregunta": 273,
@@ -1641,7 +1641,7 @@
         "id_pregunta": 274,
         "id_respuesta": 274,
         "resultado": "correcto",
-        "revision": "correcto"
+        "revision": "incorrecto"
     },
     {
         "id_pregunta": 275,
@@ -1653,7 +1653,7 @@
         "id_pregunta": 276,
         "id_respuesta": 276,
         "resultado": "incorrecto",
-        "revision": "incorrecto"
+        "revision": "correcto"
     },
     {
         "id_pregunta": 277,
@@ -1701,7 +1701,7 @@
         "id_pregunta": 284,
         "id_respuesta": 284,
         "resultado": "incorrecto",
-        "revision": "incorrecto"
+        "revision": "correcto"
     },
     {
         "id_pregunta": 285,
