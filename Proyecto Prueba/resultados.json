@@ -1809,7 +1809,7 @@
         "id_pregunta": 302,
         "id_respuesta": 302,
         "resultado": "correcto",
-        "revision": "verdadero"
+        "revision": "correcto"
     },
     {
         "id_pregunta": 303,
