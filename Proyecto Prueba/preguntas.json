@@ -4065,5 +4065,152 @@
         "tipo": "respuesta corta",
         "tema": "cultura general",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 582,
+        "pregunta": "\u00bfCu\u00e1l es el principal ingrediente del guacamole?\na) Aguacate\nb) Tomate\nc) Lim\u00f3n",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 583,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pa\u00edses tiene como capital Bruselas?\na) Francia\nb) B\u00e9lgica\nc) Holanda",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 584,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes ciudades es la capital de Francia?\n\nA) Berl\u00edn\n\nB) Roma\n\nC) Par\u00eds",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 585,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\na) Nilo\nb) Amazonas\nc) Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 586,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?\n\na) Madrid\n\nb) Barcelona\n\nc) Sevilla",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 587,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\na) Roma\nb) Madrid\nc) Par\u00eds",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 588,
+        "pregunta": "\u00bfQui\u00e9n es la autora de \"Harry Potter\"?\n\na) J.K. Rowling\n\nb) Stephenie Meyer\n\nc) Suzanne Collins",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 589,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\na) Nilo\nb) Amazonas\nc) Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 590,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\nA) Amazonas\nB) Nilo\nC) Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 591,
+        "pregunta": "\u00bfCu\u00e1l es el deporte nacional de Jap\u00f3n?\n\na) Sumo\n\nb) F\u00fatbol\n\nc) Tenis",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 592,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa torre inclinada de Pisa?\n\nA) Italia\n\nB) Francia\n\nC) Espa\u00f1a",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 593,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\n\nA) Londres\n\nB) Par\u00eds\n\nC) Roma",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 594,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?\n\na) Barcelona\nb) Madrid\nc) Sevilla",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 595,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?\n\na) Par\u00eds\n\nb) Londres\n\nc) Madrid",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 596,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?\n\na) Barcelona\nb) Madrid\nc) Valencia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 597,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\na) Londres\nb) Madrid\nc) Par\u00eds",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 598,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?\n\nA) Londres\nB) Par\u00eds\nC) Roma",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 599,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?\na) Par\u00eds\nb) Madrid\nc) Roma",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 600,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\n\na) Madrid\nb) Londres\nc) Par\u00eds",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 601,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?\n\nA) Madrid\nB) Barcelona\nC) Valencia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 602,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?\n\na) Barcelona\nb) Madrid\nc) Sevilla",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
     }
 ]
