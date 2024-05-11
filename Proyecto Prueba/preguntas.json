@@ -3806,5 +3806,264 @@
         "tipo": "verdadero o falso",
         "tema": "operaciones matem\u00e1ticas numericas",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 545,
+        "pregunta": "\u00bfCu\u00e1l es el significado de la expresi\u00f3n latina \"Veni, vidi, vici\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 546,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la Capilla Sixtina?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 547,
+        "pregunta": "\u00bfCu\u00e1l es el cuadro m\u00e1s famoso de Leonardo da Vinci?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 548,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se fund\u00f3 la ciudad de Constantinopla?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 549,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se fund\u00f3 la ciudad de Tenochtitl\u00e1n?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 550,
+        "pregunta": "\u00bfCu\u00e1l es la capital m\u00e1s alta del mundo?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 551,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad italiana se encuentra la famosa Capilla Sixtina?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 552,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 553,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del elemento qu\u00edmico n\u00famero 99 de la tabla peri\u00f3dica?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 554,
+        "pregunta": "\u00bfCu\u00e1l es la pintura m\u00e1s famosa de Leonardo da Vinci?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 555,
+        "pregunta": "\u00bfQui\u00e9n fue el autor de la obra literaria \"El Aleph\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 556,
+        "pregunta": "\u00bfCu\u00e1l es la capital del Reino de But\u00e1n?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 557,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa pintura \"La \u00faltima cena\" de Leonardo da Vinci?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 558,
+        "pregunta": "\u00bfCu\u00e1l poeta chileno recibi\u00f3 el Premio Nobel de Literatura en 1971?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 559,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se firm\u00f3 el Tratado de Versalles que puso fin a la Primera Guerra Mundial?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 560,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se complet\u00f3 la construcci\u00f3n de la Catedral de Notre Dame en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 561,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 562,
+        "pregunta": "\u00bfQu\u00e9 escritor franc\u00e9s es conocido por su obra \"En busca del tiempo perdido\"?.",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 563,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del compositor ruso conocido por sus sinfon\u00edas, conciertos para piano y ballets, quien vivi\u00f3 en el siglo XIX?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 564,
+        "pregunta": "\u00bfQu\u00e9 grupo de rock brit\u00e1nico lanz\u00f3 el \u00e1lbum \"The Wall\" en 1979?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 565,
+        "pregunta": "\u00bfQu\u00e9 famoso museo de arte contempor\u00e1neo se encuentra en la ciudad de Bilbao, Espa\u00f1a?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 566,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad italiana se encuentra la famosa obra maestra de Leonardo da Vinci, \"La \u00faltima cena\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 567,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o comenz\u00f3 la Guerra de los Treinta A\u00f1os?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 568,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se fund\u00f3 la ciudad de Constantinopla?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 569,
+        "pregunta": "\u00bfCu\u00e1l es el nombre completo del famoso pintor surrealista conocido como Salvador Dal\u00ed?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 570,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la obra de teatro \"La cantante calva\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 571,
+        "pregunta": "\u00bfCu\u00e1l es el nombre de la antigua ciudad maya ubicada en la pen\u00ednsula de Yucat\u00e1n, en M\u00e9xico, que fue declarada Patrimonio de la Humanidad por la UNESCO en 1988?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 572,
+        "pregunta": "\u00bfCu\u00e1l es la \u00d3pera considerada la m\u00e1s larga de la historia en duraci\u00f3n?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 573,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo de \u00c1frica?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 574,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del quinto planeta del sistema solar?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 575,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 el famoso Museo del Louvre en Par\u00eds?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 576,
+        "pregunta": "\u00bfQui\u00e9n fue el primer cient\u00edfico en formular la teor\u00eda de la relatividad general?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 577,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la famosa Torre Eiffel de Par\u00eds, Francia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 578,
+        "pregunta": "\u00bfCu\u00e1l es la longitud en kil\u00f3metros de la Gran Muralla China?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 579,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la cueva de Lascaux, famosa por sus pinturas rupestres?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 580,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del navegante portugu\u00e9s que lider\u00f3 la primera vuelta al mundo en 1519-1522?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 581,
+        "pregunta": "\u00bfCu\u00e1l es el metal m\u00e1s raro y precioso del mundo?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
     }
 ]
