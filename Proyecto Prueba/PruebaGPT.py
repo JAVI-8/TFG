@@ -93,6 +93,9 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
         else:
             pregunta = f"genera una pregunta de traduccion de tipo test, con 3 opciones, en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
 
+    elif tema_pregunta == 3:
+        if tipo_pregunta == 2:
+            pregunta = pregunta + " Haz bien el calculo y pon la solucion en una de las tres opciones del test, para que siempre haya una opcion correcta."
         
 
     completion = client.chat.completions.create(

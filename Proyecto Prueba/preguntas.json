@@ -3771,5 +3771,40 @@
         "tipo": "respuesta corta",
         "tema": "cultura general",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 540,
+        "pregunta": "\u00bfEs cierto que la suma de los primeros 100 n\u00fameros naturales es un n\u00famero par? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 541,
+        "pregunta": "La expresi\u00f3n matem\u00e1tica 5! - 4! = 96, es verdadera. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 542,
+        "pregunta": "Verdadero o falso: En la aritm\u00e9tica modular, si dos n\u00fameros son congruentes m\u00f3dulo n, entonces su suma y su resta tambi\u00e9n ser\u00e1n congruentes m\u00f3dulo n. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 543,
+        "pregunta": "El resultado de la multiplicaci\u00f3n de dos n\u00fameros primos es siempre un n\u00famero primo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 544,
+        "pregunta": "El resultado de la resta de dos n\u00fameros primos siempre ser\u00e1 un n\u00famero primo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
     }
 ]

@@ -2693,5 +2693,30 @@
         "id_respuesta": 539,
         "respuesta": " La esfinge de Giza se encuentra en Giza, provincia de El Ca\u00f1ar, departamento de Ca\u00f1ar, Ecuador",
         "id_pregunta": 539
+    },
+    {
+        "id_respuesta": 540,
+        "respuesta": " Falso",
+        "id_pregunta": 540
+    },
+    {
+        "id_respuesta": 541,
+        "respuesta": " Verdadero",
+        "id_pregunta": 541
+    },
+    {
+        "id_respuesta": 542,
+        "respuesta": " True",
+        "id_pregunta": 542
+    },
+    {
+        "id_respuesta": 543,
+        "respuesta": " True",
+        "id_pregunta": 543
+    },
+    {
+        "id_respuesta": 544,
+        "respuesta": " True",
+        "id_pregunta": 544
     }
 ]
