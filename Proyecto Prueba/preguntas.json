@@ -7152,5 +7152,362 @@
         "tipo": "test con 3 opciones",
         "tema": "definiciones de palabras",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1023,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del famoso pintor que cre\u00f3 la Mona Lisa?\n\nA) Pablo Picasso\nB) Leonardo da Vinci\nC) Vincent van Gogh",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1024,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\na) Madrid\nb) Par\u00eds\nc) Roma",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1025,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pa\u00edses es conocido por la danza del tango?\na) Espa\u00f1a\nb) Argentina\nc) Francia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1026,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?\n\nA) Barcelona\nB) Madrid\nC) Valencia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1027,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\na) Londres\nb) Madrid\nc) Par\u00eds",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1028,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa Torre Eiffel?\n\nA) Italia\nB) Francia\nC) Alemania",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1029,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se celebr\u00f3 la independencia de M\u00e9xico?\n\nA) 1810\nB) 1821\nC) 1910",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1030,
+        "pregunta": "\u00bfCu\u00e1l es la monta\u00f1a m\u00e1s alta del mundo?\n\na) Monte Kilimanjaro\nb) Monte Everest\nc) Monte Fuji",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1031,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\na) Nilo\nb) Amazonas\nc) Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1032,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?\n\nA) Londres\nB) Par\u00eds\nC) Roma",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1033,
+        "pregunta": "\u00bfCu\u00e1l es el animal nacional de Australia?\n\nA) Koala\nB) Canguro\nC) Em\u00fa",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1034,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\n\nA) Roma\nB) Par\u00eds\nC) Madrid",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1035,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?\n\nA) Londres\nB) Par\u00eds\nC) Roma",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1036,
+        "pregunta": "\u00bfCu\u00e1l es el oc\u00e9ano m\u00e1s grande del mundo?\n\nA) Atl\u00e1ntico\nB) \u00cdndico\nC) Pac\u00edfico \n",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1037,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Torre Eiffel?\n\nA) Italia\nB) Francia\nC) Espa\u00f1a",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1038,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?\n\na) Londres\n\nb) Par\u00eds\n\nc) Berl\u00edn",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1039,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?\na) Roma\nb) Par\u00eds\nc) Londres",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1040,
+        "pregunta": "\u00bfQui\u00e9n pint\u00f3 la Mona Lisa?\n\na) Vincent van Gogh\n\nb) Leonardo da Vinci\n\nc) Pablo Picasso",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1041,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\na) Amazonas\nb) Nilo\nc) Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1042,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?\n\nA) Roma \n\nB) Madrid \n\nC) Par\u00eds  ",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1043,
+        "pregunta": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio?\n\na) Estados Unidos\nb) Rusia\nc) China",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1044,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes planetas es el m\u00e1s grande del sistema solar?\n\nA) Marte\n\nB) J\u00fapiter\n\nC) Venus",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1045,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?\n\na) Berl\u00edn\nb) Madrid\nc) Par\u00eds",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1046,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del personaje principal de la obra literaria \"Don Quijote de la Mancha\" de Miguel de Cervantes Saavedra?\n\nA) Sancho Panza\nB) Don Quijote\nC) Dulcinea",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1047,
+        "pregunta": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s poblado del mundo?\n\na) India\nb) China\nc) Estados Unidos",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1048,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\na) S\u00eddney\nb) Melbourne\nc) Canberra",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1049,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se celebra la festividad de Diwali?\n\nA) China\nB) India\nC) Jap\u00f3n",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1050,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\nA) Amazonas\nB) Nilo\nC) Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1051,
+        "pregunta": "\u00bfCu\u00e1l es el nombre de la famosa pintura de Leonardo da Vinci que muestra a una mujer con una sonrisa enigm\u00e1tica?\n\na) La Gioconda\nb) La Venus de Milo\nc) La \u00faltima cena",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1052,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa torre inclinada de Pisa?\n\na) Francia\nb) Italia\nc) Espa\u00f1a",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1053,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pintores es conocido por su obra \"La persistencia de la memoria\"?\n\na) Vincent van Gogh\nb) Pablo Picasso\nc) Salvador Dal\u00ed",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1054,
+        "pregunta": "\u00bfQu\u00e9 escritor es conocido por su obra \"Cien a\u00f1os de soledad\"?\n\na) Paulo Coelho\nb) Gabriel Garc\u00eda M\u00e1rquez\nc) Mario Vargas Llosa",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1055,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\na) Nilo\nb) Amazonas\nc) Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1056,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\nA) S\u00eddney\nB) Melbourne\nC) Canberra",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1057,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 el famoso libro \"Don Quijote de la Mancha\"?\n\na) William Shakespeare\nb) Miguel de Cervantes\nc) Gabriel Garc\u00eda M\u00e1rquez",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1058,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes escritores no pertenece al movimiento literario del Realismo?\n\nA) Gustave Flaubert\nB) Fi\u00f3dor Dostoyevski\nC) Virginia Woolf",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1059,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Gran Muralla China?\nA) Jap\u00f3n\nB) China\nC) India",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1060,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\na) El r\u00edo Amazonas\nb) El r\u00edo Nilo\nc) El r\u00edo Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1061,
+        "pregunta": "\u00bfQu\u00e9 pa\u00eds es conocido como \"La tierra del sol naciente\"?\n\nA) China\nB) Jap\u00f3n\nC) Corea del Sur",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1062,
+        "pregunta": "\u00bfQui\u00e9n pint\u00f3 la famosa obra \"La persistencia de la memoria\"?\n\nA) Vincent van Gogh\nB) Salvador Dal\u00ed\nC) Pablo Picasso",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1063,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se estren\u00f3 la pel\u00edcula \"El padrino\"?\n\nA) 1972\nB) 1984\nC) 1999",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1064,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pa\u00edses tiene una monarqu\u00eda constitucional?\n\nA) Estados Unidos\nB) Jap\u00f3n\nC) Argentina",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1065,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\na) Sydney\nb) Melbourne\nc) Canberra",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1066,
+        "pregunta": "\u00bfCu\u00e1l es el nombre del r\u00edo m\u00e1s largo de Am\u00e9rica del Norte?\n\nA) Mississippi\nB) Amazonas\nC) Missouri",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1067,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\na) Nilo\nb) Amazonas\nc) Misisipi",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1068,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa Torre Eiffel?\n\nA) Londres\nB) Roma\nC) Par\u00eds",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1069,
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo del mundo?\n\nA) Nilo\nB) Amazonas\nC) Yangts\u00e9",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1070,
+        "pregunta": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de territorio?\n\nA) Estados Unidos\nB) Rusia\nC) China",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1071,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se celebr\u00f3 la primera edici\u00f3n de los Juegos Ol\u00edmpicos modernos?\n\nA) 1896\n\nB) 1904\n\nC) 1924",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1072,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes inventos se atribuye a Thomas Edison?\n\na) La bombilla el\u00e9ctrica\n\nb) La radio\n\nc) El tel\u00e9fono\n\n",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1073,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se proclam\u00f3 la Declaraci\u00f3n Universal de Derechos Humanos?\n\nA) 1948\nB) 1956\nC) 1962",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
     }
 ]
