@@ -7509,5 +7509,33 @@
         "tipo": "test con 3 opciones",
         "tema": "cultura general",
         "dificultad": "media"
+    },
+    {
+        "id": 1074,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes obras literarias fue escrita por el autor Vladimir Nabokov?\n\na) \"Crimen y castigo\"\nb) \"El Gran Gatsby\"\nc) \"Lolita\"",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1075,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes obras literarias fue escrita por el autor ruso Fi\u00f3dor Dostoyevski?\n\na) \"Guerra y paz\"\nb) \"El idiota\"\nc) \"Matar a un ruise\u00f1or\"",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1076,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pintores del Renacimiento no era italiano?\n\nA) Leonardo da Vinci\nB) Rafael\nC) Pieter Bruegel",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1077,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes culturas antiguas fue la primera en inventar la escritura?\n\na) Cultura Inca\nb) Cultura Egipcia\nc) Cultura Maya",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
     }
 ]

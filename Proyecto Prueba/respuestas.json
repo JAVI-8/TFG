@@ -5363,5 +5363,30 @@
         "id_respuesta": 1073,
         "respuesta": " A) 1948",
         "id_pregunta": 1073
+    },
+    {
+        "id_respuesta": 1074,
+        "respuesta": " C) \"Lolita\" fue escrita por Vladimir Nabokov",
+        "id_pregunta": 1074
+    },
+    {
+        "id_respuesta": 1075,
+        "respuesta": " C) \"Matar a un ruise\u00f1or\" (\u0423\u0431\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0433\u043e\u043b\u0443\u0431\u0430) es una pieza de Fiodor Dostoievski",
+        "id_pregunta": 1075
+    },
+    {
+        "id_respuesta": 1076,
+        "respuesta": " C) Pieter Bruegel es el pintor del Renacimiento no era italiano",
+        "id_pregunta": 1076
+    },
+    {
+        "id_respuesta": 1077,
+        "respuesta": " b) Cultura Egipcia\u200b",
+        "id_pregunta": 1077
+    },
+    {
+        "id_respuesta": 1078,
+        "respuesta": "b) Los Aztecas construyeron las pir\u00e1mides de Teotihuac\u00e1n",
+        "id_pregunta": 1078
     }
 ]
