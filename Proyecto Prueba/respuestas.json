@@ -4183,5 +4183,930 @@
         "id_respuesta": 837,
         "respuesta": " There are 4 letters in the word \"cien\" in English, which is the spelling for the number \"one hundred\" in Spanish",
         "id_pregunta": 837
+    },
+    {
+        "id_respuesta": 838,
+        "respuesta": " Sin letras ela se queda la misma",
+        "id_pregunta": 838
+    },
+    {
+        "id_respuesta": 839,
+        "respuesta": " The incorrect word would be \"siguiente\" (next) since the sequence is actually: 3, 5, 7, 9, 11, 13, 15",
+        "id_pregunta": 839
+    },
+    {
+        "id_respuesta": 840,
+        "respuesta": " That would be \"gnome\"",
+        "id_pregunta": 840
+    },
+    {
+        "id_respuesta": 841,
+        "respuesta": " Si se le corta una de sus patas, el perro tendr\u00e1 por lo menos una patilla despu\u00e9s de la operaci\u00f3n",
+        "id_pregunta": 841
+    },
+    {
+        "id_respuesta": 842,
+        "respuesta": " La palabra es \"collaboraci\u00f3n\"",
+        "id_pregunta": 842
+    },
+    {
+        "id_respuesta": 843,
+        "respuesta": " Se trata de un n\u00famero especial, por lo que no hay meses con 28 d\u00edas, la raz\u00f3n es que para poder obtener ese n\u00famero de d\u00edas se tiene que usar todos los d\u00edgitos del calendario:\n\nmeses = 31 (31 d\u00edas)\n\nmeses = 28 (d\u00edas)\n\nmeses = 30 (d\u00edas)\n\nAs\u00ed, la suma de este trio de meses consigue la cantidad de 88 d\u00edas, la raz\u00f3n es que en cada a\u00f1o hay 4 meses con 28 d\u00edas, los nombres de esos meses son: enero, febrero, marzo y abril",
+        "id_pregunta": 843
+    },
+    {
+        "id_respuesta": 844,
+        "respuesta": " Se necesita m\u00e1s plomo para obtener un kilogramo, por lo que el kilogramo de plomo puede ser m\u00e1s pesado que el de algod\u00f3n",
+        "id_pregunta": 844
+    },
+    {
+        "id_respuesta": 845,
+        "respuesta": " The word \"sound\" has five letters and, when spelled incorrectly, it looks like \"saund\" but is still pronounced the same",
+        "id_pregunta": 845
+    },
+    {
+        "id_respuesta": 846,
+        "respuesta": " Se trata de un n\u00famero especial, por lo que no hay meses con 28 d\u00edas, la raz\u00f3n es que para poder obtener ese n\u00famero de d\u00edas se tiene que usar todos los d\u00edgitos del calendario:\n\nmeses = 31 (31 d\u00edas)\n\nmeses = 28 (d\u00edas)\n\nmeses = 30 (d\u00edas)\n\nAs\u00ed, la suma de este trio de meses consigue la cantidad de 88 d\u00edas, la raz\u00f3n es que en cada a\u00f1o hay 4 meses con 28 d\u00edas, los nombres de esos meses son: enero, febrero, marzo y abril",
+        "id_pregunta": 846
+    },
+    {
+        "id_respuesta": 847,
+        "respuesta": " Sin embargo, los meses no son necesariamente destinados a tener 28 d\u00edas",
+        "id_pregunta": 847
+    },
+    {
+        "id_respuesta": 848,
+        "respuesta": " The only word that fits that criteria is \"empty\"",
+        "id_pregunta": 848
+    },
+    {
+        "id_respuesta": 849,
+        "respuesta": " The first letter of the alphabet is \"A\"",
+        "id_pregunta": 849
+    },
+    {
+        "id_respuesta": 850,
+        "respuesta": " No, you cannot be pregnant and have your period at the same time",
+        "id_pregunta": 850
+    },
+    {
+        "id_respuesta": 851,
+        "respuesta": " Sure, here's a response with a direct and short answer, followed by a reasoning behind it for clarity",
+        "id_pregunta": 851
+    },
+    {
+        "id_respuesta": 852,
+        "respuesta": " There are 14 letters in the word \"incorrectamente\" without repeating any letters",
+        "id_pregunta": 852
+    },
+    {
+        "id_respuesta": 853,
+        "respuesta": " La respuesta a tu pregunta tiene una sola letra: \"Y\"",
+        "id_pregunta": 853
+    },
+    {
+        "id_respuesta": 854,
+        "respuesta": " Un kilogramo de plomo pesa m\u00e1s que un kilogramo de paja",
+        "id_pregunta": 854
+    },
+    {
+        "id_respuesta": 855,
+        "respuesta": " Sin embargo, los meses no son necesariamente destinados a tener 28 d\u00edas",
+        "id_pregunta": 855
+    },
+    {
+        "id_respuesta": 856,
+        "respuesta": " El animal que responde es el cerdo, por lo que camina utilizando sus cuatro patas por la ma\u00f1ana, luego solamente usando dos patas al mediod\u00eda y por la tarde, usando tres patas",
+        "id_pregunta": 856
+    },
+    {
+        "id_respuesta": 857,
+        "respuesta": " Un a\u00f1o bisiesto tiene 365 d\u00edas",
+        "id_pregunta": 857
+    },
+    {
+        "id_respuesta": 858,
+        "respuesta": " Yes, if you remove the first and last character from the three-letter English word, it still sounds the same",
+        "id_pregunta": 858
+    },
+    {
+        "id_respuesta": 859,
+        "respuesta": " The word that contains the letter \"e\" three times and is the longest in the dictionary is \"Tripleness\"",
+        "id_pregunta": 859
+    },
+    {
+        "id_respuesta": 860,
+        "respuesta": " The English word that sounds the same backward is \"spa\"",
+        "id_pregunta": 860
+    },
+    {
+        "id_respuesta": 861,
+        "respuesta": " There are 3 letters in the word \"nunca\" without including the letter \"u\"",
+        "id_pregunta": 861
+    },
+    {
+        "id_respuesta": 862,
+        "respuesta": " La respuesta a esta afirmaci\u00f3n l\u00f3gica ser\u00eda la siguiente:\n\"Este es un ejemplo de frase l\u00f3gica fals\u00edfica, pues la verdad es que es una frase que est\u00e1 bien formada, pero contiene un contrato en su concordancia, ya que la frase \"Esta frase es falsa\" es verdadero porque si se refiere a si misma, lo que hace que sea una frase verdaderamente",
+        "id_pregunta": 862
+    },
+    {
+        "id_respuesta": 863,
+        "respuesta": " One example of a four-letter word that is difficult to pronounce, even when read correctly, is \"ouch",
+        "id_pregunta": 863
+    },
+    {
+        "id_respuesta": 864,
+        "respuesta": " Se trata de un n\u00famero especial, por lo que no hay meses con 28 d\u00edas, la raz\u00f3n es que para poder obtener ese n\u00famero de d\u00edas se tiene que usar todos los d\u00edgitos del calendario:\n\nmeses = 31 (31 d\u00edas)\n\nmeses = 28 (d\u00edas)\n\nmeses = 30 (d\u00edas)\n\nAs\u00ed, la suma de este trio de meses consigue la cantidad de 88 d\u00edas, la raz\u00f3n es que en cada a\u00f1o hay 4 meses con 28 d\u00edas, los nombres de esos meses son: enero, febrero, marzo y abril",
+        "id_pregunta": 864
+    },
+    {
+        "id_respuesta": 865,
+        "respuesta": " La palabra \"ninguna\" contiene cuatro letras",
+        "id_pregunta": 865
+    },
+    {
+        "id_respuesta": 866,
+        "respuesta": " El animal que responde es el cerdo, por lo que camina utilizando sus cuatro patas por la ma\u00f1ana, luego solamente usando dos patas al mediod\u00eda y por la tarde, usando tres patas",
+        "id_pregunta": 866
+    },
+    {
+        "id_respuesta": 867,
+        "respuesta": " El siguiente n\u00famero en la secuencia es 11122112111",
+        "id_pregunta": 867
+    },
+    {
+        "id_respuesta": 868,
+        "respuesta": " La siguiente cantidad en la secuencia es A) 12",
+        "id_pregunta": 868
+    },
+    {
+        "id_respuesta": 869,
+        "respuesta": " C) \u00a1El mosquito! Es el animal m\u00e1s peligroso del mundo porque transmite enfermedades como el malaria, la fiebre amarilla, la dengue y el Zika",
+        "id_pregunta": 869
+    },
+    {
+        "id_respuesta": 870,
+        "respuesta": " c) Ning\u00fan huevo",
+        "id_pregunta": 870
+    },
+    {
+        "id_respuesta": 871,
+        "respuesta": " C) El b\u00faho es el animal m\u00e1s sabio en la selva",
+        "id_pregunta": 871
+    },
+    {
+        "id_respuesta": 872,
+        "respuesta": " c) Falacia de l\u00f3gica correcta es lo opuesto a una falacia l\u00f3gica as\u00ed es una estrategia de argumentaci\u00f3n m\u00e1s que una falacia l\u00f3gica",
+        "id_pregunta": 872
+    },
+    {
+        "id_respuesta": 873,
+        "respuesta": " La siguiente palabra en la secuencia l\u00f3gica es A) Gato, porque en un circuito l\u00f3gico de preguntas, la pregunta es: \"\u00bfEs un animal dom\u00e9stico?\" y las opciones a responder son si o no",
+        "id_pregunta": 873
+    },
+    {
+        "id_respuesta": 874,
+        "respuesta": "El n\u00famero que sigue en la secuencia es A) 36",
+        "id_pregunta": 874
+    },
+    {
+        "id_respuesta": 875,
+        "respuesta": " La respuesta es A) 12, porque la secuencia 2, 4, 6, 8, 10, es una secuencia aritm\u00e9tica recta y las secuencias aritm\u00e9ticas rectas cambian de unidad en cada paso",
+        "id_pregunta": 875
+    },
+    {
+        "id_respuesta": 876,
+        "respuesta": " A) Un gato tiene cuatro patas",
+        "id_pregunta": 876
+    },
+    {
+        "id_respuesta": 877,
+        "respuesta": " A respuesta es A, 2 patas",
+        "id_pregunta": 877
+    },
+    {
+        "id_respuesta": 878,
+        "respuesta": " b) 16 \n\nSi presumes que todos los perros tienen 4 patas, entonces 5 perros tendr\u00edan 5 x 4 = 20 patas; pero tambi\u00e9n tendr\u00eda 1 + 5 = 6 pares de patas, y 6 x 2 = 12 patas de las pares, con lo que la respuesta final ser\u00eda 20 - 12 = 8 patas por lo que la respuesta correcta es b)",
+        "id_pregunta": 878
+    },
+    {
+        "id_respuesta": 879,
+        "respuesta": " The result of the logical statement is a) Todos los peces viven en el oc\u00e9ano",
+        "id_pregunta": 879
+    },
+    {
+        "id_respuesta": 880,
+        "respuesta": " C) La tercera opci\u00f3n",
+        "id_pregunta": 880
+    },
+    {
+        "id_respuesta": 881,
+        "respuesta": " La siguiente cantidad en la secuencia l\u00f3gica es 64",
+        "id_pregunta": 881
+    },
+    {
+        "id_respuesta": 882,
+        "respuesta": " c) 2 + 2 = 5\" is the short and direct answer that stands out from the rest",
+        "id_pregunta": 882
+    },
+    {
+        "id_respuesta": 883,
+        "respuesta": " La respuesta correcta a esta pregunta es: a) La opci\u00f3n b",
+        "id_pregunta": 883
+    },
+    {
+        "id_respuesta": 884,
+        "respuesta": " C) Ninguna de las anteriores",
+        "id_pregunta": 884
+    },
+    {
+        "id_respuesta": 885,
+        "respuesta": " b) La l\u00f3gica con trampa busca enga\u00f1ar al receptor con informaci\u00f3n falsa o confusa",
+        "id_pregunta": 885
+    },
+    {
+        "id_respuesta": 886,
+        "respuesta": " a) \u00a1Nada! \n\nLa opci\u00f3n a) es la respuesta correcta a la pregunta l\u00f3gica por lo que el pez no dice nada, simbolizando con \u00a1nada! la contradicci\u00f3n o el pato en la argentina",
+        "id_pregunta": 886
+    },
+    {
+        "id_respuesta": 887,
+        "respuesta": " C) Ninguna de las anteriores",
+        "id_pregunta": 887
+    },
+    {
+        "id_respuesta": 888,
+        "respuesta": " a) Si todos los gatos son animales, y algunos animales son perros, entonces algunos gatos son perros",
+        "id_pregunta": 888
+    },
+    {
+        "id_respuesta": 889,
+        "respuesta": " b) Si una declaraci\u00f3n es verdadera, entonces su opuesto tambi\u00e9n debe ser verdadero",
+        "id_pregunta": 889
+    },
+    {
+        "id_respuesta": 890,
+        "respuesta": " La respuesta correcta es: B) La serie de n\u00fameros l\u00f3gicos incorrecta es: 96, 192, 384, 768",
+        "id_pregunta": 890
+    },
+    {
+        "id_respuesta": 891,
+        "respuesta": " c) La respuesta correcta est\u00e1 en la primera opci\u00f3n",
+        "id_pregunta": 891
+    },
+    {
+        "id_respuesta": 892,
+        "respuesta": " La \u00fanica afirmaci\u00f3n verdadera de las opciones proporcionadas es: \u00abNing\u00fan perro ladra\u00bb, porque es un verbo al infinitivo que es una forma adverbial de expresar una acci\u00f3n que no se hace (no hay ning\u00fan perro que ladre)",
+        "id_pregunta": 892
+    },
+    {
+        "id_respuesta": 893,
+        "respuesta": " B) \"\u00bfQui\u00e9n es el mentiroso?\" is the correct question to find the liar in a group of people",
+        "id_pregunta": 893
+    },
+    {
+        "id_respuesta": 894,
+        "respuesta": " b) Jirafa: es la palabra l\u00f3gica que completa la secuencia, siendo un animal similar a los otros animales mencionados en la secuencia, ya que todos son mam\u00edferos",
+        "id_pregunta": 894
+    },
+    {
+        "id_respuesta": 895,
+        "respuesta": " b) Depende del tama\u00f1o",
+        "id_pregunta": 895
+    },
+    {
+        "id_respuesta": 896,
+        "respuesta": " The correct answer is A, 12",
+        "id_pregunta": 896
+    },
+    {
+        "id_respuesta": 897,
+        "respuesta": " c) L\u00f3gica circular",
+        "id_pregunta": 897
+    },
+    {
+        "id_respuesta": 898,
+        "respuesta": " A) 12 piratas\n\nLa opci\u00f3n A es la correcta ya que cuando uno lea la pregunta se da la informaci\u00f3n que el barco solo posee 10 piratas y los summila al haber subido a 2 m\u00e1s",
+        "id_pregunta": 898
+    },
+    {
+        "id_respuesta": 899,
+        "respuesta": " B) Leer detenidamente el enunciado y analizar las posibles trampas",
+        "id_pregunta": 899
+    },
+    {
+        "id_respuesta": 900,
+        "respuesta": "La pr\u00f3xima en la secuencia es 25, la respuesta es a)\n\n1,4,9,16,25,36,49",
+        "id_pregunta": 900
+    },
+    {
+        "id_respuesta": 901,
+        "respuesta": " The correct answer is b) Se basa en la utilizaci\u00f3n de premisas falsas para llegar a conclusiones l\u00f3gicas",
+        "id_pregunta": 901
+    },
+    {
+        "id_respuesta": 902,
+        "respuesta": " La siguiente cifra en esta secuencia l\u00f3gica es A) 9",
+        "id_pregunta": 902
+    },
+    {
+        "id_respuesta": 903,
+        "respuesta": " C) No hay humo",
+        "id_pregunta": 903
+    },
+    {
+        "id_respuesta": 904,
+        "respuesta": " A) Si alguien te dice que un razonamiento es v\u00e1lido simplemente porque la persona que lo diferencia es autoridad, est\u00e1s siendo enga\u00f1ado por una falacia de l\u00f3gica",
+        "id_pregunta": 904
+    },
+    {
+        "id_respuesta": 905,
+        "respuesta": " B) No, la respuesta es No",
+        "id_pregunta": 905
+    },
+    {
+        "id_respuesta": 906,
+        "respuesta": " B) 1 persona",
+        "id_pregunta": 906
+    },
+    {
+        "id_respuesta": 907,
+        "respuesta": " B) Falso - La mejor respuesta a esta pregunta es \"Falso\" porque la afirmaci\u00f3n en s\u00ed es verdadera",
+        "id_pregunta": 907
+    },
+    {
+        "id_respuesta": 908,
+        "respuesta": " A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z \n\nLa siguiente palabra es: Mi\u00e9rcoles",
+        "id_pregunta": 908
+    },
+    {
+        "id_respuesta": 909,
+        "respuesta": " La respuesta correcta a esta pregunta es:\nB) En l\u00f3gica proposicional, la doble negaci\u00f3n de una proposici\u00f3n siempre es equivalente a la proposici\u00f3n original",
+        "id_pregunta": 909
+    },
+    {
+        "id_respuesta": 910,
+        "respuesta": " b) En la l\u00f3gica con trampa, las apariencias suelen ser enga\u00f1osas",
+        "id_pregunta": 910
+    },
+    {
+        "id_respuesta": 911,
+        "respuesta": " c) Todos los animales son gatos es la afirmaci\u00f3n falsa",
+        "id_pregunta": 911
+    },
+    {
+        "id_respuesta": 912,
+        "respuesta": " A) Manzana, es la siguiente palabra en la secuencia l\u00f3gica, porque A es el alfabeto inicial de \"Manzana\" y B es el inicial de \"Naranja\"",
+        "id_pregunta": 912
+    },
+    {
+        "id_respuesta": 913,
+        "respuesta": " La siguiente figura l\u00f3gica en esta secuencia es A) 3",
+        "id_pregunta": 913
+    },
+    {
+        "id_respuesta": 914,
+        "respuesta": " A) 37, siguiente numero en la secuencia esperada",
+        "id_pregunta": 914
+    },
+    {
+        "id_respuesta": 915,
+        "respuesta": " c) Ning\u00fan mam\u00edfero vuela - Esta afirmaci\u00f3n es la correcta, pues solo el grupo de los mam\u00edferos posee un grado de conocimiento para volar",
+        "id_pregunta": 915
+    },
+    {
+        "id_respuesta": 916,
+        "respuesta": " c) Dejar el primer interruptor tal como est\u00e1 y encender el segundo interruptor por unos minutos, luego apagarlo y encender el tercer interruptor para determinar cu\u00e1l controla la l\u00e1mpara encendida",
+        "id_pregunta": 916
+    },
+    {
+        "id_respuesta": 917,
+        "respuesta": " A) Verdadero, la afirmaci\u00f3n es l\u00f3gica y se deduce de los supuestos que la manifiesta",
+        "id_pregunta": 917
+    },
+    {
+        "id_respuesta": 918,
+        "respuesta": " B) 3 gatos\n\nLa raz\u00f3n es que los gatos no son m\u00e1s eficaces matando ratones que el resto de gatos, as\u00ed que todos los gatos ser\u00edan necesarios para matar a los ratones",
+        "id_pregunta": 918
+    },
+    {
+        "id_respuesta": 919,
+        "respuesta": " b) La siguiente cifra es 9",
+        "id_pregunta": 919
+    },
+    {
+        "id_respuesta": 920,
+        "respuesta": " La respuesta C) Al menos una afirmaci\u00f3n es falsa",
+        "id_pregunta": 920
+    },
+    {
+        "id_respuesta": 921,
+        "respuesta": " La siguiente serie l\u00f3gica es una secuencia geom\u00e9trica en aritm\u00e9tica geom\u00e9trica, por lo que la siguiente opci\u00f3n es correcta:\na) 13\n\nLa raz\u00f3n: Esta serie es un incremento geom\u00e9trico, por lo que cada n\u00famero se suma al anterior",
+        "id_pregunta": 921
+    },
+    {
+        "id_respuesta": 922,
+        "respuesta": " A) 9 personas",
+        "id_pregunta": 922
+    },
+    {
+        "id_respuesta": 923,
+        "respuesta": " La opci\u00f3n B es la respuesta correcta a este acertijo l\u00f3gico, por lo que la respuesta m\u00e1s directa y corta ser\u00eda:\nB) La opci\u00f3n C",
+        "id_pregunta": 923
+    },
+    {
+        "id_respuesta": 924,
+        "respuesta": " La siguiente figura l\u00f3gica en la secuencia es C) Cuadrado",
+        "id_pregunta": 924
+    },
+    {
+        "id_respuesta": 925,
+        "respuesta": " La siguiente figura l\u00f3gica en la secuencia es C) C\u00edrculo",
+        "id_pregunta": 925
+    },
+    {
+        "id_respuesta": 926,
+        "respuesta": " C) Hacia ninguna direcci\u00f3n, el p\u00e1jaro ya no podr\u00e1 volar\n\nLa opci\u00f3n C es la respuesta correcta a la pregunta l\u00f3gica por lo que el p\u00e1jaro no tendr\u00e1 el suficiente espacio para volar debido a que cae desde un lugar m\u00e1s alto y no tendr\u00e1 ning\u00fan otro lugar adicional para volar",
+        "id_pregunta": 926
+    },
+    {
+        "id_respuesta": 927,
+        "respuesta": " La opci\u00f3n C, la afirmaci\u00f3n \"Exactamente dos de las anteriores son correctas\", lleva a la respuesta incorrecta debido a que la verdadera respuesta es \"Al menos una de las anteriores es correcta\", por lo tanto la opci\u00f3n B es la l\u00f3gica correcta",
+        "id_pregunta": 927
+    },
+    {
+        "id_respuesta": 928,
+        "respuesta": " b) Las trampas l\u00f3gicas se basan en hacer inferencias incorrectas a partir de premisas verdaderas",
+        "id_pregunta": 928
+    },
+    {
+        "id_respuesta": 929,
+        "respuesta": " La respuesta es A) Si la secuencia busca un patr\u00f3n, la siguiente numeraci\u00f3n ser\u00edan los n\u00fameros cuadrats",
+        "id_pregunta": 929
+    },
+    {
+        "id_respuesta": 930,
+        "respuesta": " La respuesta correcta es: B) La opci\u00f3n A",
+        "id_pregunta": 930
+    },
+    {
+        "id_respuesta": 931,
+        "respuesta": " a) Si alguien siempre miente, es imposible saber cu\u00e1ndo dice la verdad",
+        "id_pregunta": 931
+    },
+    {
+        "id_respuesta": 932,
+        "respuesta": " La siguiente cifra en la secuencia es A) 25",
+        "id_pregunta": 932
+    },
+    {
+        "id_respuesta": 933,
+        "respuesta": " True",
+        "id_pregunta": 933
+    },
+    {
+        "id_respuesta": 934,
+        "respuesta": " Falso",
+        "id_pregunta": 934
+    },
+    {
+        "id_respuesta": 935,
+        "respuesta": " Falso",
+        "id_pregunta": 935
+    },
+    {
+        "id_respuesta": 936,
+        "respuesta": " True",
+        "id_pregunta": 936
+    },
+    {
+        "id_respuesta": 937,
+        "respuesta": " Verdadero",
+        "id_pregunta": 937
+    },
+    {
+        "id_respuesta": 938,
+        "respuesta": " Falso",
+        "id_pregunta": 938
+    },
+    {
+        "id_respuesta": 939,
+        "respuesta": " Falso",
+        "id_pregunta": 939
+    },
+    {
+        "id_respuesta": 940,
+        "respuesta": " Verdadero",
+        "id_pregunta": 940
+    },
+    {
+        "id_respuesta": 941,
+        "respuesta": " Falso",
+        "id_pregunta": 941
+    },
+    {
+        "id_respuesta": 942,
+        "respuesta": " Falso",
+        "id_pregunta": 942
+    },
+    {
+        "id_respuesta": 943,
+        "respuesta": " Verdadero",
+        "id_pregunta": 943
+    },
+    {
+        "id_respuesta": 944,
+        "respuesta": " Falso",
+        "id_pregunta": 944
+    },
+    {
+        "id_respuesta": 945,
+        "respuesta": " Falso",
+        "id_pregunta": 945
+    },
+    {
+        "id_respuesta": 946,
+        "respuesta": " Falso",
+        "id_pregunta": 946
+    },
+    {
+        "id_respuesta": 947,
+        "respuesta": " Falso",
+        "id_pregunta": 947
+    },
+    {
+        "id_respuesta": 948,
+        "respuesta": " Falso",
+        "id_pregunta": 948
+    },
+    {
+        "id_respuesta": 949,
+        "respuesta": " Falso",
+        "id_pregunta": 949
+    },
+    {
+        "id_respuesta": 950,
+        "respuesta": " Falso",
+        "id_pregunta": 950
+    },
+    {
+        "id_respuesta": 951,
+        "respuesta": " Falso",
+        "id_pregunta": 951
+    },
+    {
+        "id_respuesta": 952,
+        "respuesta": " Falso",
+        "id_pregunta": 952
+    },
+    {
+        "id_respuesta": 953,
+        "respuesta": " Falso",
+        "id_pregunta": 953
+    },
+    {
+        "id_respuesta": 954,
+        "respuesta": " Verdadero",
+        "id_pregunta": 954
+    },
+    {
+        "id_respuesta": 955,
+        "respuesta": " Falso",
+        "id_pregunta": 955
+    },
+    {
+        "id_respuesta": 956,
+        "respuesta": " Falso",
+        "id_pregunta": 956
+    },
+    {
+        "id_respuesta": 957,
+        "respuesta": " True",
+        "id_pregunta": 957
+    },
+    {
+        "id_respuesta": 958,
+        "respuesta": " Falso",
+        "id_pregunta": 958
+    },
+    {
+        "id_respuesta": 959,
+        "respuesta": " Falso",
+        "id_pregunta": 959
+    },
+    {
+        "id_respuesta": 960,
+        "respuesta": " Verdadero",
+        "id_pregunta": 960
+    },
+    {
+        "id_respuesta": 961,
+        "respuesta": " True",
+        "id_pregunta": 961
+    },
+    {
+        "id_respuesta": 962,
+        "respuesta": " Verdadero",
+        "id_pregunta": 962
+    },
+    {
+        "id_respuesta": 963,
+        "respuesta": " B) Relaci\u00f3n de confianza y afecto entre amigos",
+        "id_pregunta": 963
+    },
+    {
+        "id_respuesta": 964,
+        "respuesta": " A) Sentimiento de afecto, simpat\u00eda y confianza que se tiene hacia una persona",
+        "id_pregunta": 964
+    },
+    {
+        "id_respuesta": 965,
+        "respuesta": " B) Divertido",
+        "id_pregunta": 965
+    },
+    {
+        "id_respuesta": 966,
+        "respuesta": " B) Que demuestra cortes\u00eda y buen trato",
+        "id_pregunta": 966
+    },
+    {
+        "id_respuesta": 967,
+        "respuesta": " a) Relaci\u00f3n entre dos personas que se quieren y se apoyan mutuamente",
+        "id_pregunta": 967
+    },
+    {
+        "id_respuesta": 968,
+        "respuesta": " La palabra \"alegr\u00eda\" en espa\u00f1ol significa felicidad, y es una palabra muy positiva que refleja la experiencia de sentirse de buen humor, satisfecho o placentero",
+        "id_pregunta": 968
+    },
+    {
+        "id_respuesta": 969,
+        "respuesta": " b) Sorprendido defina mejor la palabra \"abrumado\"",
+        "id_pregunta": 969
+    },
+    {
+        "id_respuesta": 970,
+        "respuesta": " Amable es una palabra en la que se refiere a la persona amable, que es una persona con car\u00e1cter agradable, amigable, con talante para captar los sentimientos de los dem\u00e1s y ser un compa\u00f1ero relajado y agradable para interactuar",
+        "id_pregunta": 970
+    },
+    {
+        "id_respuesta": 971,
+        "respuesta": " A) Simp\u00e1tico",
+        "id_pregunta": 971
+    },
+    {
+        "id_respuesta": 972,
+        "respuesta": " B) Relaci\u00f3n de afecto, simpat\u00eda y confianza entre personas",
+        "id_pregunta": 972
+    },
+    {
+        "id_respuesta": 973,
+        "respuesta": " A) Brillar intensamente",
+        "id_pregunta": 973
+    },
+    {
+        "id_respuesta": 974,
+        "respuesta": " a) Amable es una persona que es cort\u00e9s y cordial con los dem\u00e1s",
+        "id_pregunta": 974
+    },
+    {
+        "id_respuesta": 975,
+        "respuesta": " B) V\u00ednculo o relaci\u00f3n de afecto, simpat\u00eda y confianza entre dos personas",
+        "id_pregunta": 975
+    },
+    {
+        "id_respuesta": 976,
+        "respuesta": " b) Que es agradable y gentil \n\nLa palabra \"amable\" significa tener car\u00e1cter agradable, cort\u00e9s, y gentil, ya que esa persona es amable para el del otro lado",
+        "id_pregunta": 976
+    },
+    {
+        "id_respuesta": 977,
+        "respuesta": " B) Persona que realiza ejercicios acrob\u00e1ticos",
+        "id_pregunta": 977
+    },
+    {
+        "id_respuesta": 978,
+        "respuesta": " A) Que tiene buenas intenciones",
+        "id_pregunta": 978
+    },
+    {
+        "id_respuesta": 979,
+        "respuesta": " a) Relaci\u00f3n entre dos personas basada en el cari\u00f1o y la confianza mutua",
+        "id_pregunta": 979
+    },
+    {
+        "id_respuesta": 980,
+        "respuesta": " B) Que tiene buen sabor",
+        "id_pregunta": 980
+    },
+    {
+        "id_respuesta": 981,
+        "respuesta": " A) Sentimiento de afecto y cari\u00f1o hacia otra persona",
+        "id_pregunta": 981
+    },
+    {
+        "id_respuesta": 982,
+        "respuesta": " b) Que experimenta alegr\u00eda",
+        "id_pregunta": 982
+    },
+    {
+        "id_respuesta": 983,
+        "respuesta": " a) Algo que dura poco tiempo",
+        "id_pregunta": 983
+    },
+    {
+        "id_respuesta": 984,
+        "respuesta": " Efectivamente, la palabra \"ef\u00edmero\" significa \"breve\"",
+        "id_pregunta": 984
+    },
+    {
+        "id_respuesta": 985,
+        "respuesta": " a) Situaci\u00f3n en la que una afirmaci\u00f3n parece contradecir la l\u00f3gica",
+        "id_pregunta": 985
+    },
+    {
+        "id_respuesta": 986,
+        "respuesta": " A) Sentimiento de confusi\u00f3n o desconcierto",
+        "id_pregunta": 986
+    },
+    {
+        "id_respuesta": 987,
+        "respuesta": " B) Que dura muy poco tiempo",
+        "id_pregunta": 987
+    },
+    {
+        "id_respuesta": 988,
+        "respuesta": " The correct answer is a) redundant means having more than what is necessary",
+        "id_pregunta": 988
+    },
+    {
+        "id_respuesta": 989,
+        "respuesta": " a) Que dura poco tiempo",
+        "id_pregunta": 989
+    },
+    {
+        "id_respuesta": 990,
+        "respuesta": " A) Algo que dura poco tiempo",
+        "id_pregunta": 990
+    },
+    {
+        "id_respuesta": 991,
+        "respuesta": " b) Que dura un per\u00edodo corto de tiempo",
+        "id_pregunta": 991
+    },
+    {
+        "id_respuesta": 992,
+        "respuesta": " a) dura poco tiempo",
+        "id_pregunta": 992
+    },
+    {
+        "id_respuesta": 993,
+        "respuesta": " B) Que dura poco tiempo",
+        "id_pregunta": 993
+    },
+    {
+        "id_respuesta": 994,
+        "respuesta": " a) Algo que dura poco tiempo",
+        "id_pregunta": 994
+    },
+    {
+        "id_respuesta": 995,
+        "respuesta": " A) Algo que dura poco tiempo",
+        "id_pregunta": 995
+    },
+    {
+        "id_respuesta": 996,
+        "respuesta": " Breve es la opci\u00f3n correcta",
+        "id_pregunta": 996
+    },
+    {
+        "id_respuesta": 997,
+        "respuesta": " A) Algo que dura solo un instante",
+        "id_pregunta": 997
+    },
+    {
+        "id_respuesta": 998,
+        "respuesta": " The correct answer is (a) something that lasts for a short time is ef\u00edmero",
+        "id_pregunta": 998
+    },
+    {
+        "id_respuesta": 999,
+        "respuesta": " A) Que dura poco tiempo",
+        "id_pregunta": 999
+    },
+    {
+        "id_respuesta": 1000,
+        "respuesta": " A) Una afirmaci\u00f3n que parece contradictoria, pero que puede ser verdadera",
+        "id_pregunta": 1000
+    },
+    {
+        "id_respuesta": 1001,
+        "respuesta": " a) Que dura poco tiempo",
+        "id_pregunta": 1001
+    },
+    {
+        "id_respuesta": 1002,
+        "respuesta": " a) Que dura poco tiempo",
+        "id_pregunta": 1002
+    },
+    {
+        "id_respuesta": 1003,
+        "respuesta": " a) Que tiene una longitud excesiva en relaci\u00f3n con su anchura",
+        "id_pregunta": 1003
+    },
+    {
+        "id_respuesta": 1004,
+        "respuesta": " a) Costumbres o creencias que han quedado obsoletas con el paso del tiempo",
+        "id_pregunta": 1004
+    },
+    {
+        "id_respuesta": 1005,
+        "respuesta": " A) Restauraci\u00f3n de algo a su estado original",
+        "id_pregunta": 1005
+    },
+    {
+        "id_respuesta": 1006,
+        "respuesta": " The correct answer is option a) Immarcesible is a word that describes something that cannot be marked or damaged",
+        "id_pregunta": 1006
+    },
+    {
+        "id_respuesta": 1007,
+        "respuesta": " La palabra \"meticuloso\" significa b) demostrar minuciosidad y cuidado extremo en el trabajo",
+        "id_pregunta": 1007
+    },
+    {
+        "id_respuesta": 1008,
+        "respuesta": " A) Extremadamente f\u00e9rtil o abundante es la definici\u00f3n correcta de la palabra \"ub\u00e9rrimo\"",
+        "id_pregunta": 1008
+    },
+    {
+        "id_respuesta": 1009,
+        "respuesta": " A) Figura ret\u00f3rica que consiste en la repetici\u00f3n innecesaria de palabras o ideas",
+        "id_pregunta": 1009
+    },
+    {
+        "id_respuesta": 1010,
+        "respuesta": " A) Juego amoroso entre dos personas",
+        "id_pregunta": 1010
+    },
+    {
+        "id_respuesta": 1011,
+        "respuesta": " B) Construcci\u00f3n gramatical en la que se expresa con varias palabras lo que se podr\u00eda decir con una sola",
+        "id_pregunta": 1011
+    },
+    {
+        "id_respuesta": 1012,
+        "respuesta": " B) Que tiene una longitud excesiva",
+        "id_pregunta": 1012
+    },
+    {
+        "id_respuesta": 1013,
+        "respuesta": " A) La tendencia a utilizar palabras largas y complicadas",
+        "id_pregunta": 1013
+    },
+    {
+        "id_respuesta": 1014,
+        "respuesta": " A) Que no puede ser expresado con palabras",
+        "id_pregunta": 1014
+    },
+    {
+        "id_respuesta": 1015,
+        "respuesta": " c) Gases o vapores nocivos que se desprenden de ciertas sustancias",
+        "id_pregunta": 1015
+    },
+    {
+        "id_respuesta": 1016,
+        "respuesta": " B) Que burbujea o desprende burbujas de gas",
+        "id_pregunta": 1016
+    },
+    {
+        "id_respuesta": 1017,
+        "respuesta": " b) Magnitud que mide el grado de desorden de un sistema \n\nEntrop\u00eda es una palabra que en ciencia est\u00e1 relacionada con el grado de desorden de una persona o un sistema",
+        "id_pregunta": 1017
+    },
+    {
+        "id_respuesta": 1018,
+        "respuesta": " b) Que tiene una palabra o frase excesivamente larga",
+        "id_pregunta": 1018
+    },
+    {
+        "id_respuesta": 1019,
+        "respuesta": " The correct definition for the word \"ameliorar\" is: \"mejorar\"\n\n\tAmeliorar is a verb that means to improve or to make better",
+        "id_pregunta": 1019
+    },
+    {
+        "id_respuesta": 1020,
+        "respuesta": " B) Miedo a las palabras largas",
+        "id_pregunta": 1020
+    },
+    {
+        "id_respuesta": 1021,
+        "respuesta": " b) Que produce burbujas de gas",
+        "id_pregunta": 1021
+    },
+    {
+        "id_respuesta": 1022,
+        "respuesta": " A) Una tendencia a usar palabras largas y complejas",
+        "id_pregunta": 1022
     }
 ]
