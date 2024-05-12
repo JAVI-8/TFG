@@ -5857,5 +5857,1300 @@
         "tipo": "respuesta corta",
         "tema": "logica con trampa, para adivinar",
         "dificultad": "media"
+    },
+    {
+        "id": 838,
+        "pregunta": "\u00bfQu\u00e9 palabra de cinco letras queda la misma si le quitamos dos letras?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 839,
+        "pregunta": "\u00bfCu\u00e1l es la palabra incorrecta en la siguiente secuencia l\u00f3gica: 3, 6, 9, 12, 15, 18, 20?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 840,
+        "pregunta": "\u00bfQu\u00e9 palabra en ingl\u00e9s es una pronunciaci\u00f3n correcta aunque est\u00e1 escrita incorrectamente?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 841,
+        "pregunta": "\u00bfCu\u00e1ntas patas tiene un perro si le cortamos una?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 842,
+        "pregunta": "\u00bfQu\u00e9 palabra en espa\u00f1ol es la m\u00e1s larga si se quita una letra?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 843,
+        "pregunta": "\u00bfCu\u00e1ntos meses del a\u00f1o tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 844,
+        "pregunta": "\u00bfQu\u00e9 pesa m\u00e1s, un kilogramo de algod\u00f3n o un kilogramo de plomo?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 845,
+        "pregunta": "\u00bfQu\u00e9 palabra de cinco letras se escribe mal pero sigue sonando igual?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 846,
+        "pregunta": "\u00bfCu\u00e1ntos meses del a\u00f1o tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 847,
+        "pregunta": "\u00bfCu\u00e1ntos meses tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 848,
+        "pregunta": "\u00bfCu\u00e1l es la palabra de siete letras que si le quitas una, sigue siendo una?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 849,
+        "pregunta": "\u00bfCu\u00e1l es la primera letra del alfabeto?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 850,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta a esta pregunta?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 851,
+        "pregunta": "\u00bfQu\u00e9 palabra de cuatro letras, aunque escrita mal, se lee igual al rev\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 852,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"incorrectamente\" sin repetir ninguna letra?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 853,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la respuesta a esta pregunta?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 854,
+        "pregunta": "\u00bfQu\u00e9 pesa m\u00e1s: un kilogramo de paja o un kilogramo de plomo?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 855,
+        "pregunta": "\u00bfCu\u00e1ntos meses tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 856,
+        "pregunta": "\u00bfCu\u00e1l es el animal que camina con cuatro patas por la ma\u00f1ana, dos patas al mediod\u00eda y tres patas por la tarde?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 857,
+        "pregunta": "\u00bfCu\u00e1ntos d\u00edas dura un a\u00f1o bisiesto?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 858,
+        "pregunta": "\u00bfQu\u00e9 palabra de tres letras en ingl\u00e9s suena igual si se quita el primer y \u00faltimo caracter?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 859,
+        "pregunta": "\u00bfCu\u00e1l es la palabra m\u00e1s larga del diccionario que contiene tres veces la letra \"e\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 860,
+        "pregunta": "\u00bfCu\u00e1l es la palabra en ingl\u00e9s que suena igual si se deletrea hacia atr\u00e1s?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 861,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"nunca\" sin incluir la letra \"u\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 862,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta a la siguiente afirmaci\u00f3n l\u00f3gica?\n\n\"Esta frase es falsa.\"",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 863,
+        "pregunta": "\u00bfQu\u00e9 palabra de cuatro letras se pronuncia mal incluso cuando se lee correctamente?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 864,
+        "pregunta": "\u00bfCu\u00e1ntos meses del a\u00f1o tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 865,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"ninguna\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 866,
+        "pregunta": "\u00bfCu\u00e1l es el animal que camina con cuatro patas por la ma\u00f1ana, dos patas al mediod\u00eda y tres patas por la tarde?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 867,
+        "pregunta": "\u00bfCu\u00e1l es el siguiente n\u00famero en la siguiente secuencia? 1, 11, 21, 1211, 111221, ...",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 868,
+        "pregunta": "\u00bfQu\u00e9 n\u00famero sigue en la siguiente secuencia?\n\n2, 4, 6, 8, 10, ?\n\nA) 12\n\nB) 14\n\nC) 16",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 869,
+        "pregunta": "\u00bfCu\u00e1l es el animal m\u00e1s peligroso del mundo?\na) El le\u00f3n\nb) El tibur\u00f3n\nc) \u00a1El mosquito!",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 870,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente afirmaci\u00f3n? \"Si un p\u00e1jaro tiene 3 huevos y pone uno en cada nido, \u00bfcu\u00e1ntos huevos quedan?\"\n\na) 2 huevos  \nb) 1 huevo  \nc) Ning\u00fan huevo",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 871,
+        "pregunta": "\u00bfCu\u00e1l es el animal m\u00e1s sabio en la selva?\n\na) El le\u00f3n\nb) La jirafa\nc) El b\u00faho",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 872,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones no es un tipo de falacia l\u00f3gica?\n\na) Falacia ad hominem\nb) Falacia de falsa causa\nc) Falacia de l\u00f3gica correcta",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 873,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente palabra en la secuencia l\u00f3gica?\n\nA) Gato\nB) Perro\nC) Elefante",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 874,
+        "pregunta": "\u00bfCu\u00e1l es el n\u00famero que sigue en la siguiente secuencia? \n\n1, 4, 9, 16, 25, ...\n\nA) 36 \n\nB) 31 \n\nC) 30 ",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 875,
+        "pregunta": "\u00bfQu\u00e9 n\u00famero sigue en la siguiente secuencia?\n\n2, 4, 6, 8, 10, ____\n\nA) 12\nB) 14\nC) 16",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 876,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es falsa?\n\nA) Un gato tiene cuatro patas.\nB) El sol es una estrella.\nC) Dos m\u00e1s dos son cinco.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 877,
+        "pregunta": "\u00bfCu\u00e1ntas patas tiene un perro?\na) 2\nb) 3\nc) 4",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 878,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente afirmaci\u00f3n?\n\nSi un perro tiene 4 patas, \u00bfcu\u00e1ntas patas tendr\u00edan 5 perros?\n\na) 20\nb) 16\nc) 24",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 879,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente enunciado l\u00f3gico?\n\nSi todos los peces son animales marinos y todos los animales marinos viven en el oc\u00e9ano, entonces:\n\na) Todos los peces viven en el oc\u00e9ano.\nb) Todos los animales viven en el oc\u00e9ano.\nc) Todos los animales marinos son peces.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 880,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a esta pregunta?\n\nA) La primera opci\u00f3n\nB) La segunda opci\u00f3n\nC) La tercera opci\u00f3n",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 881,
+        "pregunta": "\u00bfQu\u00e9 n\u00famero sigue en la siguiente secuencia l\u00f3gica?\n\n2, 4, 8, 16, __\n\na) 24\nb) 32\nc) 64",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 882,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta?\n\na) La l\u00f3gica es una ciencia exacta\nb) Un gato tiene cuatro patas\nc) 2 + 2 = 5",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 883,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a esta pregunta?\n\na) La opci\u00f3n b\n\nb) Ninguna de las anteriores\n\nc) La opci\u00f3n a",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 884,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente afirmaci\u00f3n l\u00f3gica?\n\nSi todas las flores son plantas, y todas las plantas son verdes, entonces:\n\nA) Todas las flores son verdes\nB) Algunas flores son verdes\nC) Ninguna de las anteriores.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 885,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones es cierta sobre la l\u00f3gica con trampa?\n\na) Siempre se puede confiar en la informaci\u00f3n proporcionada en un enunciado con trampa.\nb) La l\u00f3gica con trampa busca enga\u00f1ar al receptor con informaci\u00f3n falsa o confusa.\nc) En la l\u00f3gica con trampa, es mejor no cuestionar la veracidad de la informaci\u00f3n recibida.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 886,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente pregunta l\u00f3gica?\n\nSi un pato dice \"cuac\", un perro dice \"guau\" y un gato dice \"miau\", \u00bfqu\u00e9 dice un pez?\n\na) \u00a1Nada!\nb) \u00a1Blub!\nc) \u00a1Cua!",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 887,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente afirmaci\u00f3n?\n\nSi un pato es igual a un pato, y un gato es igual a un gato, \u00bfcu\u00e1l es la conclusi\u00f3n? \n\nA) Que un pato es un gato.\nB) Que un gato es un pato.\nC) Ninguna de las anteriores.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 888,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es falsa?\na) Si todos los gatos son animales, y algunos animales son perros, entonces algunos gatos son perros.\nb) Si todos los gatos son animales, y ning\u00fan animal es un pez, entonces ning\u00fan gato es un pez.\nc) Si todos los perros son animales, y algunos animales son gatos, entonces algunos perros son gatos.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 889,
+        "pregunta": "\u00bfCu\u00e1l es la afirmaci\u00f3n correcta sobre la l\u00f3gica con trampa?\na) Si una declaraci\u00f3n es falsa, entonces su opuesto debe ser verdadero.\nb) Si una declaraci\u00f3n es verdadera, entonces su opuesto tambi\u00e9n debe ser verdadero.\nc) No existe una regla espec\u00edfica para determinar si una declaraci\u00f3n con trampa es verdadera o falsa.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 890,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente serie de n\u00fameros l\u00f3gica incorrecta?\n\n2, 4, 8, 16, 32, 64, 128\n\nA) 256, 512, 1024, 2048  \nB) 96, 192, 384, 768  \nC) 123, 246, 492, 984",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 891,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta?\n\na) Todas las opciones son incorrectas  \nb) La opci\u00f3n correcta es la letra c  \nc) La respuesta correcta est\u00e1 en la primera opci\u00f3n",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 892,
+        "pregunta": "\u00bfCu\u00e1l es la \u00fanica afirmaci\u00f3n verdadera?\n\na) Todas las jirafas son animales.\n\nb) Algunos peces son ballenas.\n\nc) Ning\u00fan perro ladra.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 893,
+        "pregunta": "\u00bfCu\u00e1l es la pregunta correcta para encontrar al mentiroso entre un grupo de personas?\n\nA) \"\u00bfEres el mentiroso?\"\nB) \"\u00bfQui\u00e9n es el mentiroso?\"\nC) \"\u00bfQu\u00e9 hora es?\"",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 894,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente palabra l\u00f3gica en la secuencia: gato, perro, rat\u00f3n, elefante, ____?\na) Oso\nb) Jirafa\nc) Loro",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 895,
+        "pregunta": "\u00bfCu\u00e1ntas piezas tiene un rompecabezas?\n\na) 100\nb) Depende del tama\u00f1o\nc) Siempre son 50",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 896,
+        "pregunta": "\u00bfCu\u00e1l es el siguiente n\u00famero en esta secuencia l\u00f3gica?\n\n2, 4, 6, 8, 10, ...\n\nA) 12\nB) 14\nC) 16",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 897,
+        "pregunta": "\u00bfCu\u00e1l es la l\u00f3gica detr\u00e1s de este enunciado falso? \"Si un perro ladra, entonces es un animal dom\u00e9stico\"\na) L\u00f3gica condicional\nb) L\u00f3gica disyuntiva\nc) L\u00f3gica circular",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 898,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente pregunta?\n\nSi un barco tiene 10 piratas y se suben 2 m\u00e1s, \u00bfcu\u00e1ntos piratas quedan en el barco?\n\nA) 12 piratas\nB) 10 piratas\nC) Ninguno, los piratas se suben al barcoF",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 899,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones es la correcta para resolver una trampa l\u00f3gica?\n\nA) Seguir siempre la primera respuesta que se te venga a la mente.\nB) Leer detenidamente el enunciado y analizar las posibles trampas.\nC) Dejar que alguien m\u00e1s resuelva el problema por ti.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 900,
+        "pregunta": "\u00bfCu\u00e1l es el n\u00famero que sigue en esta secuencia l\u00f3gica?  \n\n1, 4, 9, 16, \u00bf...?\n\na) 25  \nb) 36  \nc) 49  ",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 901,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es correcta sobre la l\u00f3gica con trampa?\n\na) Consiste en utilizar argumentos falsos para enga\u00f1ar a los dem\u00e1s.\nb) Se basa en la utilizaci\u00f3n de premisas falsas para llegar a conclusiones l\u00f3gicas.\nc) Es una t\u00e9cnica de enga\u00f1o que no tiene fundamentos en la l\u00f3gica formal.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 902,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente cifra en esta secuencia l\u00f3gica?\n2, 4, 6, 8, ____\n\nA) 9\nB) 10\nC) 12",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 903,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente pregunta l\u00f3gica? \n\nSi un tren el\u00e9ctrico viaja de la estaci\u00f3n A a la estaci\u00f3n B a una velocidad constante, \u00bfen qu\u00e9 direcci\u00f3n se dirige el humo de la chimenea del tren? \n\nA) Hacia la derecha \nB) Hacia la izquierda \nC) No hay humo",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 904,
+        "pregunta": "\u00bfEn cu\u00e1l de las siguientes situaciones estar\u00edas siendo enga\u00f1ado por una falacia de l\u00f3gica?\n\nA) Siempre que alguien te diga que un razonamiento es v\u00e1lido porque lo dijo una persona con autoridad.\nB) Cuando utilizas premisas v\u00e1lidas para llegar a una conclusi\u00f3n l\u00f3gica.\nC) Siempre que sigues un razonamiento basado en evidencias y pruebas s\u00f3lidas.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 905,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente afirmaci\u00f3n?\n\nSi todas las flores son rosas y algunas rosas son blancas, \u00bftodas las flores son blancas?\n\nA) S\u00ed\nB) No\nC) Depende",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 906,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente afirmaci\u00f3n?\n\"En una sala hay 10 personas. Si cada persona se presenta a la persona que est\u00e1 a su derecha, \u00bfcu\u00e1ntas personas tendr\u00e1n que presentarse a s\u00ed mismas?\"\n\nA) 0 personas\nB) 1 persona\nC) 10 personas",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 907,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente afirmaci\u00f3n?: \"Este enunciado es falso\".\n\nA) Verdadero\nB) Falso\nC) Ambas respuestas son correctas",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 908,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente palabra en la secuencia l\u00f3gica? \n\nS\u00e1bado, Lunes, Martes, Mi\u00e9rcoles, _______ \n\nA) Jueves \nB) Viernes \nC) Domingo",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 909,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a este enunciado l\u00f3gico?\n\nEn esta lista hay 3 afirmaciones sobre l\u00f3gica. Dos de ellas son falsas y una es verdadera. Debes identificar cu\u00e1l es la afirmaci\u00f3n verdadera:\n\nA) La paradoja del mentiroso es un ejemplo de una afirmaci\u00f3n que no se puede clasificar como verdadera ni falsa.\nB) En l\u00f3gica proposicional, la doble negaci\u00f3n de una proposici\u00f3n siempre es equivalente a la proposici\u00f3n original.\nC) La falacia de afirmaci\u00f3n del consecuente consiste en inferir una proposici\u00f3n verdadera a partir de otra verdadera.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 910,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es falsa sobre la l\u00f3gica con trampa?\n\na) La l\u00f3gica con trampa se centra en la b\u00fasqueda de respuestas enga\u00f1osas.\nb) En la l\u00f3gica con trampa, las apariencias suelen ser enga\u00f1osas.\nc) La l\u00f3gica con trampa es una herramienta \u00fatil para tomar decisiones informadas.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 911,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es falsa?\n\na) Todos los gatos son animales\nb) Algunos perros son animales\nc) Todos los animales son gatos",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 912,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente palabra en la secuencia l\u00f3gica?\n\nA) Manzana\nB) Naranja\nC) \u00bf?",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 913,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente figura l\u00f3gica en esta secuencia?\n\nA) 3\n\nB) 5\n\nC) 9",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 914,
+        "pregunta": "\u00bfQu\u00e9 n\u00famero sigue en la siguiente secuencia?\n\n2, 5, 10, 17, 26, ...\n\nA) 37\n\nB) 41\n\nC) 50",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 915,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es la correcta?\n\na) Todos los p\u00e1jaros vuelan\nb) Algunos peces vuelan\nc) Ning\u00fan mam\u00edfero vuela",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 916,
+        "pregunta": "\u00bfCu\u00e1l es la afirmaci\u00f3n correcta sobre la siguiente situaci\u00f3n l\u00f3gica?\n\nEn una habitaci\u00f3n hay tres interruptores, cada uno de los cuales controla una l\u00e1mpara en una habitaci\u00f3n adyacente. Solo una de las l\u00e1mparas est\u00e1 encendida y se permiten realizar solo una vez movimientos cultiales de los interruptores de la siguiente manera: apagar un interruptor, encender otro interruptor o dejar un interruptor tal como est\u00e1. Al ingresar a la habitaci\u00f3n donde est\u00e1n los interruptores, \u00bfcu\u00e1l es la acci\u00f3n que se debe realizar para determinar cu\u00e1l interruptor controla la l\u00e1mpara encendida?\n\na) Apagar uno de los interruptores y esperar unos minutos para ver qu\u00e9 luz se apaga.\n\nb) Encender uno de los interruptores y esperar unos minutos para ver qu\u00e9 luz se enciende.\n\nc) Dejar el primer interruptor tal como est\u00e1 y encender el segundo interruptor por unos minutos, luego apagarlo y encender el tercer interruptor para determinar cu\u00e1l controla la l\u00e1mpara encendida.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 917,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente afirmaci\u00f3n l\u00f3gica?\n\nSi todas las manzanas son frutas y algunas frutas son rojas, entonces algunas manzanas son rojas.\n\nA) Verdadero\nB) Falso\nC) No se puede determinar",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 918,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente pregunta l\u00f3gica con trampa?\n\nSi tres gatos matan a tres ratones en tres minutos, \u00bfcu\u00e1ntos gatos se necesitar\u00edan para matar a cien ratones en cien minutos?\n\nA) 100 gatos\nB) 3 gatos\nC) 1 gato",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 919,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente cifra de la secuencia 2, 4, 6, 8, ...?\na) 10\nb) 9\nc) 12",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 920,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es verdadera?\n\nA) Todas las afirmaciones son falsas.\nB) Todas las afirmaciones son ciertas.\nC) Al menos una afirmaci\u00f3n es falsa.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 921,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente secuencia l\u00f3gica?\n\n1, 1, 2, 3, 5, 8, ?? \n\na) 13\nb) 10\nc) 21",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 922,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente pregunta?\n\nSi en un barco hay 10 personas y se cae una de ellas al agua, \u00bfcu\u00e1ntas personas quedan en el barco?\nA) 9 personas\nB) 10 personas\nC) Ninguna persona",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 923,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a este acertijo l\u00f3gico?\n\nA) La opci\u00f3n A\nB) La opci\u00f3n C\nC) La opci\u00f3n B",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 924,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente figura l\u00f3gica en la secuencia?\n\nA) Tri\u00e1ngulo\nB) C\u00edrculo\nC) Cuadrado",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 925,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente figura l\u00f3gica en la secuencia?\n\nA) Tri\u00e1ngulo\nB) Cuadrado\nC) C\u00edrculo",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 926,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a la siguiente pregunta l\u00f3gica con trampa?\n\nSi un p\u00e1jaro est\u00e1 en el aire y cae al suelo, \u00bfen qu\u00e9 direcci\u00f3n volar\u00e1 el p\u00e1jaro?\n\nA) Hacia el norte\nB) Hacia el sur\nC) Hacia ninguna direcci\u00f3n, el p\u00e1jaro ya no podr\u00e1 volar",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 927,
+        "pregunta": "\u00bfCu\u00e1l opci\u00f3n l\u00f3gica lleva a la respuesta incorrecta?\n\nA) La afirmaci\u00f3n \"Ninguna de las anteriores es correcta\"\nB) La afirmaci\u00f3n \"Al menos una de las anteriores es correcta\"\nC) La afirmaci\u00f3n \"Exactamente dos de las anteriores son correctas\"",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 928,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es verdadera sobre la l\u00f3gica con trampa?\n\na) Si una declaraci\u00f3n es falsa, entonces su opuesto debe ser verdadero.\nb) Las trampas l\u00f3gicas se basan en hacer inferencias incorrectas a partir de premisas verdaderas.\nc) La paradoja del mentiroso es un ejemplo de l\u00f3gica con trampa.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 929,
+        "pregunta": "\u00bfCu\u00e1l es el n\u00famero que falta en la siguiente secuencia?\n1, 4, 9, 16, 25, ? \n\nA) 36\nB) 49\nC) 64",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 930,
+        "pregunta": "\u00bfCu\u00e1l es la respuesta correcta a esta pregunta?\n\nA) La opci\u00f3n B\nB) La opci\u00f3n A\nC) La opci\u00f3n C",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 931,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes afirmaciones es falsa sobre la l\u00f3gica con trampas?\na) Si alguien siempre miente, es imposible saber cu\u00e1ndo dice la verdad.\nb) Si alguien siempre dice la verdad, es imposible saber cu\u00e1ndo miente.\nc) Solo los mentirosos utilizan la l\u00f3gica con trampas.",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 932,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente cifra en la secuencia l\u00f3gica?\n\n1, 4, 9, 16, ...\n\nA) 25\n\nB) 36\n\nC) 49",
+        "tipo": "test con 3 opciones",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 933,
+        "pregunta": "Los unicornios son animales reales en la vida cotidiana. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 934,
+        "pregunta": "Los elefantes son animales que pueden volar. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 935,
+        "pregunta": "Los unicornios existen en la vida real. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 936,
+        "pregunta": "Verdadero o falso: En la l\u00f3gica, una proposici\u00f3n bicondicional es aquella en la que una afirmaci\u00f3n implica l\u00f3gicamente a la otra y viceversa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 937,
+        "pregunta": "Verdadero o falso: En l\u00f3gica, una doble negaci\u00f3n siempre cancela la negaci\u00f3n original. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 938,
+        "pregunta": "1. La paradoja del mentiroso se basa en afirmaciones que contradicen la l\u00f3gica formal. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 939,
+        "pregunta": "Los murci\u00e9lagos son aves. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 940,
+        "pregunta": "Verdadero o falso: En la l\u00f3gica, la doble negaci\u00f3n de una proposici\u00f3n siempre es equivalente a la proposici\u00f3n original. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 941,
+        "pregunta": "\u00bfEs posible que una afirmaci\u00f3n l\u00f3gica sea falsa aunque todos sus componentes sean verdaderos? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 942,
+        "pregunta": "\u00bfEs posible que una afirmaci\u00f3n l\u00f3gica sea verdadera y falsa al mismo tiempo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 943,
+        "pregunta": "Las afirmaciones en l\u00f3gica s\u00f3lo pueden ser verdaderas o falsas, nunca ambas a la vez. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 944,
+        "pregunta": "La afirmaci\u00f3n \"Todos los p\u00e1jaros vuelan, por lo tanto todos los aviones vuelan\" es verdadera. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 945,
+        "pregunta": "\u00bfEs posible demostrar la existencia de unicornios rosados con cuernos brillantes utilizando la l\u00f3gica formal? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 946,
+        "pregunta": "En l\u00f3gica, la negaci\u00f3n de la afirmaci\u00f3n \"Todos los gatos son mam\u00edferos\" ser\u00eda \"Algunos gatos no son mam\u00edferos\". \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 947,
+        "pregunta": "Verdadero o falso: En la l\u00f3gica, una afirmaci\u00f3n es v\u00e1lida si es cierta en todas las situaciones posibles. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 948,
+        "pregunta": "Verdadero o falso: En la l\u00f3gica, una negaci\u00f3n siempre lleva a una respuesta falsa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 949,
+        "pregunta": "Verdadero o falso: En el siguiente enunciado, todas las letras son consonantes: \"El gato tiene tres patas\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 950,
+        "pregunta": "Es posible que una afirmaci\u00f3n l\u00f3gica sea verdadera y falsa al mismo tiempo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 951,
+        "pregunta": "Verdadero o falso: En la l\u00f3gica, una implicaci\u00f3n es lo mismo que una equivalencia. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 952,
+        "pregunta": "Verdadero o falso: En la l\u00f3gica, un argumento v\u00e1lido puede tener premisas verdaderas pero una conclusi\u00f3n falsa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 953,
+        "pregunta": "Los cuadrados son c\u00edrculos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 954,
+        "pregunta": "Verdadero o falso: En la l\u00f3gica, una premisa es una proposici\u00f3n que se asume como verdadera sin necesidad de ser demostrada. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 955,
+        "pregunta": "En l\u00f3gica, la doble negaci\u00f3n de una proposici\u00f3n siempre es equivalente a la proposici\u00f3n original. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 956,
+        "pregunta": "Los c\u00edrculos son siempre cuadrados. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 957,
+        "pregunta": "La afirmaci\u00f3n \"Todos los p\u00e1jaros vuelan, y los patos son p\u00e1jaros, por lo tanto, los patos vuelan\" es verdadera. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 958,
+        "pregunta": "\u00bfEs posible construir una afirmaci\u00f3n l\u00f3gica que sea verdadera y falsa al mismo tiempo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 959,
+        "pregunta": "\u00bfEs posible encontrar una respuesta l\u00f3gica correcta a la siguiente pregunta: \"\u00bfLa respuesta a esta pregunta es falsa\"? (Verdadero/ Falso) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 960,
+        "pregunta": "Los unicornios son animales reales. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 961,
+        "pregunta": "Los n\u00fameros pares son siempre mayores que los n\u00fameros impares. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 962,
+        "pregunta": "En un silogismo v\u00e1lido, si las premisas son falsas, la conclusi\u00f3n tambi\u00e9n ser\u00e1 falsa. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 963,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"amistad\"?\n\nA) Relaci\u00f3n amorosa entre dos personas\nB) Relaci\u00f3n de confianza y afecto entre amigos\nC) Enfrentamiento o rivalidad entre personas",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 964,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"amistad\"?\n\nA) Sentimiento de afecto, simpat\u00eda y confianza que se tiene hacia una persona.\nB) Acci\u00f3n de evitar o rehuir a alguien o algo.\nC) Estado de deseo de poseer o lograr algo.",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 965,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"alegre\"?\n\nA) Triste\nB) Divertido\nC) Aburrido",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 966,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"amable\"?\n\nA) Que act\u00faa con rudeza\nB) Que demuestra cortes\u00eda y buen trato\nC) Que muestra indiferencia ante los dem\u00e1s",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 967,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"amistad\"?\n\na) Relaci\u00f3n entre dos personas que se quieren y se apoyan mutuamente.\nb) Sensaci\u00f3n desagradable que causa rechazo o disgusto.\nc) Percepci\u00f3n mental de un objeto, persona o situaci\u00f3n.",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 968,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"alegr\u00eda\"?\na) Tristeza\nb) Felicidad\nc) Enfado",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 969,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones define mejor la palabra \"abrumado\"?\n\na) Contento\nb) Sorprendido\nc) Cansado",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 970,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"amable\"?\n\nA) Fuerte\nB) Educado\nC) R\u00e1pido",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 971,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"amable\"?\n\nA) Simp\u00e1tico\nB) Triste\nC) Aburrido",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 972,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"amistad\"?\n\nA) Aborrecimiento\nB) Relaci\u00f3n de afecto, simpat\u00eda y confianza entre personas\nC) Soledad",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 973,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"resplandecer\"?\n\nA) Brillar intensamente\nB) Dormir profundamente\nC) Correr velozmente",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 974,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"amable\"?\na) Que muestra cortes\u00eda y buen trato hacia los dem\u00e1s\nb) Que siente miedo o ansiedad\nc) Que se enfada f\u00e1cilmente",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 975,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"amistad\"? \n\nA) Relaci\u00f3n amorosa entre dos personas.\nB) V\u00ednculo o relaci\u00f3n de afecto, simpat\u00eda y confianza entre dos personas.\nC) Sentimiento de tristeza o melancol\u00eda.",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 976,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"amable\"?\n\na) Que es f\u00e1cil de romper\nb) Que es agradable y gentil\nc) Que es dif\u00edcil de comprender",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 977,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"acr\u00f3bata\"?\n\nA) Persona que se dedica a la interpretaci\u00f3n de un personaje en una obra de teatro\nB) Persona que realiza ejercicios acrob\u00e1ticos\nC) Profesional encargado de cuidar la salud bucal de las personas",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 978,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"amable\"?\n\nA) Que tiene buenas intenciones\nB) Que tiene malas intenciones\nC) Que no tiene intenciones",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 979,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"amistad\"?\n\na) Relaci\u00f3n entre dos personas basada en el cari\u00f1o y la confianza mutua.\nb) Sentimiento de enamoramiento hacia otra persona.\nc) Dibujo o representaci\u00f3n gr\u00e1fica de algo.",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 980,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"sabroso\"?\n\nA) Dif\u00edcil de digerir\nB) Que tiene buen sabor\nC) Muy amargo",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 981,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"amor\"?\n\nA) Sentimiento de afecto y cari\u00f1o hacia otra persona\nB) Miedo intenso y repentino\nC) Estado de bienestar f\u00edsico y mental",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 982,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"feliz\"?\na) Que siente tristeza\nb) Que experimenta alegr\u00eda\nc) Que se encuentra frustrado",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 983,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"ef\u00edmero\"?\n\na) Algo que dura poco tiempo\nb) Algo de gran tama\u00f1o\nc) Algo que carece de importancia",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 984,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"ef\u00edmero\"?\n\na) Duradero\nb) Breve\nc) Eterno",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 985,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"paradoja\"?\n\na) Situaci\u00f3n en la que una afirmaci\u00f3n parece contradecir la l\u00f3gica\nb) Persona que tiene una actitud pasiva ante la vida\nc) Sensaci\u00f3n de mareo al levantarse bruscamente",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 986,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"perplejo\"?\n\nA) Sentimiento de confusi\u00f3n o desconcierto\nB) Alegr\u00eda desbordante y excesiva\nC) Extrema agilidad y destreza",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 987,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"ef\u00edmero\"?\n\nA) Que ocurre una sola vez en la vida\nB) Que dura muy poco tiempo\nC) Que es dif\u00edcil de comprender",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 988,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"redundante\"?\n\na) Que tiene m\u00e1s de lo necesario\nb) Que es esencial\nc) Que carece de sentido",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 989,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"ef\u00edmero\"?\n\na) Que dura poco tiempo\nb) Que es muy resistente\nc) Que es muy abundante",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 990,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"ef\u00edmero\"?\n\nA) Algo que dura poco tiempo\nB) Algo que perdura en el tiempo\nC) Algo que es f\u00e1cil de comprender",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 991,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"ef\u00edmero\"?\n\na) Extremadamente duradero\nb) Que dura un per\u00edodo corto de tiempo\nc) Que permanece inalterable con el paso del tiempo",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 992,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"ef\u00edmero\"?\n\na) Que dura poco tiempo\nb) Que es muy valioso\nc) Que tiene un color brillante",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 993,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"ef\u00edmero\"?\n\nA) Que tiene mucha fuerza\nB) Que dura poco tiempo\nC) Que es muy brillante",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 994,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"ef\u00edmero\"?\n\na) Algo que dura poco tiempo\nb) Algo que es f\u00e1cil de recordar\nc) Algo que es dif\u00edcil de alcanzar\n\n",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 995,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"ef\u00edmero\"?\n\nA) Algo que dura poco tiempo\nB) Alguien que es muy sociable\nC) Un tipo de insecto volador",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 996,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones define de manera correcta la palabra \"ef\u00edmero\"?\n\nA) Duradero\nB) Breve\nC) Abundante",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 997,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"ef\u00edmero\"?\n\nA) Algo que dura solo un instante\nB) Una circunferencia perfecta\nC) Un ser mitol\u00f3gico del bosque",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 998,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"ef\u00edmero\"?\n\na) Algo que dura poco tiempo\nb) Algo que es permanente\nc) Algo que es valioso",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 999,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"ef\u00edmero\"?\n\nA) Que dura poco tiempo\nB) Que es abundante\nC) Que es muy valioso",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 1000,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"paradoja\"?\n\nA) Una afirmaci\u00f3n que parece contradictoria, pero que puede ser verdadera\nB) Una expresi\u00f3n exagerada para enfatizar una idea\nC) Un conjunto de ideas relacionadas con un tema espec\u00edfico",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 1001,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"ef\u00edmero\"?\n\na) Que dura poco tiempo\nb) Que es muy resistente\nc) Que es extremadamente peligroso",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 1002,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"ef\u00edmero\"?\n\na) Que dura poco tiempo\nb) Que es muy brillante y llamativo\nc) Que es muy resistente",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 1003,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones define de forma correcta la palabra \"sesquipedal\"?\n\na) Que tiene una longitud excesiva en relaci\u00f3n con su anchura\nb) Que tiene un pie y medio de altura\nc) Que habla con palabras largas y poco claras",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1004,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"anacronismo\"?\n\na) Costumbres o creencias que han quedado obsoletas con el paso del tiempo\nb) Error interno de una narraci\u00f3n que sit\u00faa un hecho en una \u00e9poca diferente a la real\nc) Figura ret\u00f3rica que consiste en la repetici\u00f3n de una misma palabra al principio de varias frases o versos",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1005,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"apocat\u00e1stasis\"?\n\nA) Restauraci\u00f3n de algo a su estado original\nB) Idea de que el tiempo es c\u00edclico y se repite infinitamente\nC) Creencia en la existencia de seres mitol\u00f3gicos con forma de caballo y cola de pez",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1006,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"inmarcesible\"?\n\na) Que no se puede marcar ni deteriorar\nb) Que no se puede marchitar ni envejecer\nc) Que no se puede imaginar ni concebir",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1007,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"meticuloso\"?\n\na) Que act\u00faa con impaciencia y falta de cuidado\nb) Que demuestra minuciosidad y cuidado extremo en su trabajo\nc) Que es desordenado y descuidado",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1008,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"ub\u00e9rrimo\"?\n\nA) Extremadamente f\u00e9rtil o abundante\nB) Dicho de una cosa: Que tiene exceso de agua y humedad\nC) Que tiene aspecto amarillento o p\u00e1lido",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1009,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"pleonasmia\"?\n\nA) Figura ret\u00f3rica que consiste en la repetici\u00f3n innecesaria de palabras o ideas.\nB) Exceso de capacidad en un \u00f3rgano o estructura del cuerpo.\nC) Sensaci\u00f3n de desorientaci\u00f3n causada por un est\u00edmulo visual o auditivo.",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1010,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones define correctamente la palabra \"escarceo\"?\n\nA) Juego amoroso entre dos personas.\nB) Aglomeraci\u00f3n de gente en un lugar.\nC) Expresi\u00f3n de asombro o sorpresa.",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1011,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"per\u00edfrasis\"?\n\nA) Figura ret\u00f3rica que consiste en la repetici\u00f3n de sonidos similares al principio de varias palabras en un verso.\nB) Construcci\u00f3n gramatical en la que se expresa con varias palabras lo que se podr\u00eda decir con una sola.\nC) G\u00e9nero po\u00e9tico en el que se exaltan las virtudes de una persona o cosa.",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1012,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"sesquipedal\u00edan\"?\n\nA) Cualidad de ser extravagante\nB) Que tiene una longitud excesiva\nC) Persona que habla con fluidez y elocuencia",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1013,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"sesquipedalianismo\"?\n\nA) La tendencia a utilizar palabras largas y complicadas.\nB) La aversi\u00f3n a las palabras de m\u00e1s de dos s\u00edlabas.\nC) La habilidad para recordar r\u00e1pidamente el significado de palabras poco comunes.",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1014,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"inefable\"?\n\nA) Que no puede ser expresado con palabras\nB) Que es dif\u00edcil de entender\nC) Que carece de sentido",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1015,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"efluvios\"?\n\na) Residuos de cenizas generados por la combusti\u00f3n de materiales org\u00e1nicos\nb) Sustancias de olor agradable que se desprenden de ciertas plantas\nc) Gases o vapores nocivos que se desprenden de ciertas sustancias",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1016,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"effervescente\"?\n\nA) Que brilla con intensidad\nB) Que burbujea o desprende burbujas de gas\nC) Que produce un sonido agudo y penetrante.",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1017,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"entrop\u00eda\"?\n\na) Energ\u00eda potencial de un sistema termodin\u00e1mico\nb) Magnitud que mide el grado de desorden de un sistema\nc) Cantidad de calor transferida en un proceso isot\u00e9rmico",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1018,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"sesquipedaliano\"?\n\na) Que tiene una longitud considerable\n\nb) Que tiene una palabra o frase excesivamente larga\n\nc) Que se caracteriza por ser muy cauteloso y precavido",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1019,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"ameliorar\"?\n\na) Empeorar\nb) Mejorar\nc) Mantener sin cambios",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1020,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"sesquipedalofobia\"?\n\nA) Miedo a las serpientes venenosas\nB) Miedo a las palabras largas\nC) Miedo a los lugares elevados",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1021,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n correcta de la palabra \"effervescente\"?\n\na) Que se desvanece r\u00e1pidamente\nb) Que produce burbujas de gas\nc) Que es vol\u00e1til y explosivo",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1022,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"sesquipedalianismo\"?\n\nA) Una tendencia a usar palabras largas y complejas\nB) Una enfermedad que afecta la memoria a corto plazo\nC) Un tipo de danza tradicional africana",
+        "tipo": "test con 3 opciones",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
     }
 ]
