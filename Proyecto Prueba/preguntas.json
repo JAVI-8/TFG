@@ -4212,5 +4212,1650 @@
         "tipo": "test con 3 opciones",
         "tema": "cultura general",
         "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 603,
+        "pregunta": "\u00bfC\u00f3mo se define la palabra \"r\u00e1pido\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 604,
+        "pregunta": "\u00bfQu\u00e9 es un sin\u00f3nimo?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 605,
+        "pregunta": "\u00bfQu\u00e9 es un sin\u00f3nimo de la palabra \"r\u00e1pido\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 606,
+        "pregunta": "\u00bfQu\u00e9 es la definici\u00f3n de la palabra \"amistad\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 607,
+        "pregunta": "\u00bfQu\u00e9 es un sin\u00f3nimo de la palabra \"alegr\u00eda\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 608,
+        "pregunta": "\u00bfQu\u00e9 es un sin\u00f3nimo de la palabra \"feliz\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 609,
+        "pregunta": "\u00bfQu\u00e9 es la palabra que se utiliza para describir la acci\u00f3n de declarar formalmente la guerra?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 610,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"felicidad\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 611,
+        "pregunta": "\u00bfQu\u00e9 es un sin\u00f3nimo de la palabra \"r\u00e1pido\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 612,
+        "pregunta": "\u00bfQu\u00e9 es un sin\u00f3nimo?\n\n",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 613,
+        "pregunta": "\u00bfQu\u00e9 es un sin\u00f3nimo?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 614,
+        "pregunta": "\u00bfQu\u00e9 es un sin\u00f3nimo de la palabra \"alegre\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 615,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"amistad\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 616,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"sutil\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 617,
+        "pregunta": "\u00bfQu\u00e9 es un sin\u00f3nimo de la palabra \"alegr\u00eda\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 618,
+        "pregunta": "\u00bfQu\u00e9 es el sin\u00f3nimo de la palabra \"ef\u00edmero\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 619,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"ef\u00edmero\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 620,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"procrastinaci\u00f3n\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 621,
+        "pregunta": "\u00bfQu\u00e9 es la onomatopeya?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 622,
+        "pregunta": "\u00bfQu\u00e9 es la palabra que se utiliza para describir la incapacidad de dormir, tambi\u00e9n conocida como insomnio?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 623,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"ef\u00edmero\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 624,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"ef\u00edmero\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 625,
+        "pregunta": "\u00bfQu\u00e9 significa la palabra \"ef\u00edmero\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 626,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"ef\u00edmero\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 627,
+        "pregunta": "\u00bfC\u00f3mo se define el t\u00e9rmino \"paradigma\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 628,
+        "pregunta": "\u00bfQu\u00e9 palabra se utiliza para referirse a la capacidad de comprender y compartir los sentimientos de otra persona?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 629,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"utop\u00eda\" en filosof\u00eda y literatura?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 630,
+        "pregunta": "\u00bfQu\u00e9 es la onomatopeya?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 631,
+        "pregunta": "\u00bfQu\u00e9 es la palabra que se utiliza para referirse a un conjunto de normas o principios sobre una ciencia o arte en particular?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 632,
+        "pregunta": "\u00bfQu\u00e9 es la sin\u00e9cdoque?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 633,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"sesquipedalio\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 634,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"sesquipedaliofobia\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 635,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"anaclisis\" en psicoan\u00e1lisis?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 636,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"escotoma\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 637,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"onirismo\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 638,
+        "pregunta": "\u00bfQu\u00e9 significa el t\u00e9rmino \"ox\u00edmoron\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 639,
+        "pregunta": "\u00bfCu\u00e1l es la definici\u00f3n de la palabra \"sesquipedalio\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 640,
+        "pregunta": "\u00bfQu\u00e9 es la limerencia?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 641,
+        "pregunta": "\u00bfCu\u00e1l es el t\u00e9rmino que se refiere a la adivinaci\u00f3n del futuro a trav\u00e9s de la interpretaci\u00f3n de los patrones formados por la escarcha o la cera derretida?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 642,
+        "pregunta": "\u00bfCu\u00e1l es el significado de la palabra \"sesquipedalio\"?",
+        "tipo": "respuesta corta",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 643,
+        "pregunta": "\u00bfVerdadero o falso? La palabra \"florecer\" significa crecer y desarrollarse de manera vigorosa y saludable. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 644,
+        "pregunta": "La palabra \"amistad\" se refiere a la relaci\u00f3n de enemistad entre dos personas. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 645,
+        "pregunta": "La palabra \"perplejo\" significa estar sorprendido o desconcertado. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 646,
+        "pregunta": "La palabra \"ef\u00edmero\" significa algo que dura mucho tiempo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 647,
+        "pregunta": "La palabra \"bicicleta\" se refiere a un medio de transporte con dos ruedas. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 648,
+        "pregunta": "Las palabras hom\u00f3nimas son aquellas que se escriben de la misma manera pero tienen diferentes significados. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 649,
+        "pregunta": "El t\u00e9rmino \"inflamable\" se refiere a algo que no puede arder. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 650,
+        "pregunta": "Los pulmones son \u00f3rganos internos del cuerpo humano. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 651,
+        "pregunta": "Los sin\u00f3nimos son palabras que tienen significados opuestos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 652,
+        "pregunta": "La astronom\u00eda es la ciencia que se encarga del estudio de los planetas y su influencia en la vida de las personas. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 653,
+        "pregunta": "La palabra \"ambiguo\" se refiere a algo que es claro y f\u00e1cil de interpretar. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 654,
+        "pregunta": "\u00bfLa palabra \"avaricia\" se refiere a un deseo desmedido por poseer riquezas? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 655,
+        "pregunta": "\u00bfEs cierto que el vocablo \"perplejo\" se refiere a un estado de confusi\u00f3n o desconcierto? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 656,
+        "pregunta": "\u00bfVerdadero o falso? La palabra \"ef\u00edmero\" se refiere a algo que dura poco tiempo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 657,
+        "pregunta": "\u00bfVerdadero o falso? El vocablo \"ef\u00edmero\" se refiere a algo que tiene una duraci\u00f3n corta y fugaz. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 658,
+        "pregunta": "La palabra \"veterinario\" se refiere a una persona que se encarga de cuidar la salud de los animales. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 659,
+        "pregunta": "La palabra \"abstemio\" se refiere a una persona que bebe alcohol en exceso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 660,
+        "pregunta": "La palabra \"benevolencia\" se refiere a la falta de bondad en una persona. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 661,
+        "pregunta": "El t\u00e9rmino \"s\u00edmil\" se refiere a una figura ret\u00f3rica que consiste en realizar una comparaci\u00f3n directa entre dos elementos utilizando palabras como \"como\" o \"cual\". \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 662,
+        "pregunta": "Los sin\u00f3nimos son palabras que tienen significados opuestos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 663,
+        "pregunta": "\u00bfVerdadero o falso? La palabra \"ef\u00edmero\" se refiere a algo que tiene una duraci\u00f3n prolongada en el tiempo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 664,
+        "pregunta": "\u00bfVerdadero o falso? El t\u00e9rmino \"d\u00e9spota\" se refiere a una persona que abusa de su autoridad o poder de manera tir\u00e1nica. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 665,
+        "pregunta": "\u00bfEs cierto que la palabra \"perplejo\" se refiere a una sensaci\u00f3n de confusi\u00f3n o desconcierto? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 666,
+        "pregunta": "La palabra \"atroz\" se refiere a algo agradable o placentero. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 667,
+        "pregunta": "\u00bfVerdadero o falso? La palabra \"efluvio\" se refiere a un flujo o salida de algo, especialmente de un l\u00edquido. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 668,
+        "pregunta": "El t\u00e9rmino \"hipoteca\" hace referencia a un pr\u00e9stamo que se garantiza con un bien inmueble. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 669,
+        "pregunta": "La palabra \"escultura\" se refiere exclusivamente a obras art\u00edsticas realizadas en metal. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 670,
+        "pregunta": "\u00bfVerdadero o falso? La palabra \"ef\u00edmero\" se refiere a algo que dura poco tiempo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 671,
+        "pregunta": "La palabra \"eufemismo\" se utiliza para referirse a la sustituci\u00f3n de una expresi\u00f3n que puede resultar ofensiva o desagradable por otra m\u00e1s suave o decorosa. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 672,
+        "pregunta": "La palabra \"ef\u00edmero\" se refiere a aquello que tiene una duraci\u00f3n corta o pasajera. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "media"
+    },
+    {
+        "id": 673,
+        "pregunta": "\u00bfEl t\u00e9rmino \"sesquipedaliofobia\" se refiere al miedo irracional a personas con pies grandes? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 674,
+        "pregunta": "El t\u00e9rmino \"sesquipedaliofobia\" se refiere al miedo irracional a las palabras de origen griego. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 675,
+        "pregunta": "\u00bfEs verdadero o falso que el t\u00e9rmino \"limerencia\" se refiere al estado de obsesi\u00f3n y deseo intenso por alguien, con un componente de ansiedad ante la posibilidad de no ser correspondido? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 676,
+        "pregunta": "La palabra \"escarabajo\" se refiere \u00fanicamente a un insecto del orden de los cole\u00f3pteros. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 677,
+        "pregunta": "\u00bfEs cierto que la palabra \"perdulero\" se refiere a una persona derrochadora y despilfarradora en su vida cotidiana? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 678,
+        "pregunta": "\u00bfLa palabra \"sesquipedalio\" se refiere a algo que tiene una longitud excesiva? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 679,
+        "pregunta": "\u00bfVerdadero o falso? En la m\u00fasica, el t\u00e9rmino \"legato\" se refiere a tocar las notas de forma separada y distintas entre s\u00ed. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 680,
+        "pregunta": "\u00bfEs verdadero que el t\u00e9rmino \"ap\u00f3crifo\" se refiere a algo falso o de dudosa autenticidad? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 681,
+        "pregunta": "\u00bfEl t\u00e9rmino \"sesquipedalofobia\" se refiere al miedo irracional a las letras largas? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 682,
+        "pregunta": "\u00bfEs cierto que el vocablo \"sesquipedaliofobia\" se refiere al miedo irracional a las palabras largas? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 683,
+        "pregunta": "La palabra \"equ\u00edvoco\" se refiere a algo que es claro y sin ambig\u00fcedades. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 684,
+        "pregunta": "La palabra \"ataraxia\" se refiere a una sensaci\u00f3n de tranquilidad y serenidad total. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 685,
+        "pregunta": "\u00bfLa palabra \"efluvios\" se refiere a las emanaciones o vapores que desprenden los cuerpos org\u00e1nicos en descomposici\u00f3n? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 686,
+        "pregunta": "El vocablo \"sesquipedaliofobia\" se utiliza para referirse al miedo irracional a las palabras largas. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 687,
+        "pregunta": "\u00bfLa palabra \"preterit\" se refiere a un tipo de tiempo verbal en ingl\u00e9s que expresa acciones pasadas completas y sin relaci\u00f3n con el presente? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "definiciones de palabras",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 688,
+        "pregunta": "\u00bfC\u00f3mo se dice \"\u00bfC\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 689,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hola, \u00bfc\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 690,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hola, \u00bfc\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 691,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hola, \u00bfc\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 692,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hola\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 693,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Buenos d\u00edas\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 694,
+        "pregunta": "\u00bfC\u00f3mo se dice \"\u00bfC\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 695,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hola, \u00bfc\u00f3mo est\u00e1s?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 696,
+        "pregunta": "\u00bfC\u00f3mo se dice \"I love you\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 697,
+        "pregunta": "\u00bfC\u00f3mo se dice \"Hello, how are you?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 698,
+        "pregunta": "\u00bfC\u00f3mo se dir\u00eda \"I need to go to the doctor because I am not feeling well\" en ruso?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 699,
+        "pregunta": "\u00bfC\u00f3mo se dice \"I have a lot of homework to do this weekend\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 700,
+        "pregunta": "\u00bfC\u00f3mo se traduce al franc\u00e9s la frase \"I'm looking forward to hearing from you soon\"?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 701,
+        "pregunta": "\u00bfC\u00f3mo se dir\u00eda \"\u00bfD\u00f3nde est\u00e1 la estaci\u00f3n de tren m\u00e1s cercana?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 702,
+        "pregunta": "\u00bfC\u00f3mo se dir\u00eda \"I love you\" en finland\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 703,
+        "pregunta": "\u00bfC\u00f3mo se dice \"I am looking forward to seeing you again\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 704,
+        "pregunta": "\u00bfC\u00f3mo se dice \"I have a lot of homework to do this weekend\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 705,
+        "pregunta": "\u00bfC\u00f3mo se dice \"I need to buy a bus ticket to go to the airport\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 706,
+        "pregunta": "\u00bfC\u00f3mo se dice \"I would like to order a coffee and a croissant\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 707,
+        "pregunta": "\u00bfC\u00f3mo se dice \"\u00bfD\u00f3nde est\u00e1 la estaci\u00f3n de tren m\u00e1s cercana?\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 708,
+        "pregunta": "\u00bfC\u00f3mo se traduce al ruso la siguiente frase con un nivel de dificultad dif\u00edcil: \"The complexity of quantum physics is overwhelming even for experts\"?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 709,
+        "pregunta": "\u00bfC\u00f3mo se dir\u00eda \"No hay mal que por bien no venga\" en griego?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 710,
+        "pregunta": "\u00bfC\u00f3mo se traduce al ruso la frase \"el tiempo cura todas las heridas\"?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 711,
+        "pregunta": "\u00bfC\u00f3mo se traduce la frase \"No hay rosas sin espinas\" al alem\u00e1n de manera idiom\u00e1tica y fiel al significado original?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 712,
+        "pregunta": "\u00bfC\u00f3mo se dice \"La felicidad es un estado mental, no una destinaci\u00f3n\" en japon\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 713,
+        "pregunta": "\u00bfC\u00f3mo se traducir\u00eda la frase \"The intricacies of quantum mechanics are still not fully understood\" al franc\u00e9s de forma correcta y natural?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 714,
+        "pregunta": "\u00bfC\u00f3mo se traduce al japon\u00e9s la frase \"El secreto de la felicidad no es hacer siempre lo que se quiere, sino querer siempre lo que se hace\"?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 715,
+        "pregunta": "\u00bfC\u00f3mo se dir\u00eda \"The intricacies of quantum mechanics perplex even the most astute scientists\" en franc\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 716,
+        "pregunta": "\u00bfC\u00f3mo se traduce al alem\u00e1n la siguiente frase: \"La felicidad no se mide por lo que se posee, sino por lo que se es\"?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 717,
+        "pregunta": "\u00bfC\u00f3mo se dir\u00eda \"The intricacies of quantum mechanics baffled even the most astute scientists\" en ruso?",
+        "tipo": "respuesta corta",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 718,
+        "pregunta": "\u00bfLa traducci\u00f3n al franc\u00e9s de la frase \"Hello, how are you?\" es \"Bonjour, comment \u00e7a va?\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 719,
+        "pregunta": "\u00bfLa frase \"Je suis tr\u00e8s heureux\" se traduce al espa\u00f1ol como \"Estoy muy feliz\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 720,
+        "pregunta": "\u00bf\"Bonjour\" en franc\u00e9s se traduce como \"Hola\" en espa\u00f1ol? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 721,
+        "pregunta": "\u00bf\"Bonjour\" en franc\u00e9s se traduce como \"Buenos d\u00edas\" en espa\u00f1ol? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 722,
+        "pregunta": "\u00bf\"La casa\" en franc\u00e9s se traduce como \"la maison\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 723,
+        "pregunta": "\u00bfVerdadero o falso? \"Bonjour\" en franc\u00e9s se traduce al espa\u00f1ol como \"Hola\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 724,
+        "pregunta": "\u00bf\"Bonjour\" se traduce al espa\u00f1ol como \"Buenos d\u00edas\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 725,
+        "pregunta": "\u00bfEs cierto que la traducci\u00f3n al franc\u00e9s de la frase \"Hola, \u00bfc\u00f3mo est\u00e1s?\" es \"Bonjour, comment \u00e7a va?\" Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 726,
+        "pregunta": "\u00bf\"Hello, how are you?\" se traduce al franc\u00e9s como \"Bonjour, comment \u00e7a va?\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 727,
+        "pregunta": "\u00bf\"Bonjour\" en franc\u00e9s se traduce a \"hello\" en ingl\u00e9s? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 728,
+        "pregunta": "\u00bf\"Bonjour\" en franc\u00e9s se traduce al espa\u00f1ol como \"Buenos d\u00edas\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 729,
+        "pregunta": "\u00bf\"Bonjour\" en franc\u00e9s se traduce como \"Hola\" en espa\u00f1ol? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 730,
+        "pregunta": "\u00bfLa traducci\u00f3n al espa\u00f1ol de la frase \"I am hungry\" es \"Estoy hambriento\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 731,
+        "pregunta": "\u00bf\"Buenos d\u00edas\" en franc\u00e9s se traduce como \"Bonjour\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 732,
+        "pregunta": "\u00bf\"Bonjour\" en franc\u00e9s se traduce como \"goodbye\" en ingl\u00e9s? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 733,
+        "pregunta": "\u00bfLa traducci\u00f3n al franc\u00e9s de \"Hello, how are you?\" es \"Bonjour, comment \u00e7a va?\" Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 734,
+        "pregunta": "\u00bfVerdadero o falso? \"Bonjour\" en franc\u00e9s se traduce como \"hello\" en ingl\u00e9s. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 735,
+        "pregunta": "\u00bfLa traducci\u00f3n al espa\u00f1ol de la frase inglesa \"I love you\" es \"Te amo\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 736,
+        "pregunta": "\u00bfLa frase \"Bonjour\" se traduce al ingl\u00e9s como \"Hello\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 737,
+        "pregunta": "\u00bfEs cierto que la frase \"Je suis fatigu\u00e9\" en franc\u00e9s se traduce como \"Soy cansado\" en espa\u00f1ol? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 738,
+        "pregunta": "\u00bfLa traducci\u00f3n al franc\u00e9s de la frase \"I will see you tomorrow\" es \"Je te verrai demain\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 739,
+        "pregunta": "\u00bf\"Je suis en train de manger\" se traduce como \"Estoy corriendo\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 740,
+        "pregunta": "\u00bfEs cierto que \"Je ne comprends pas\" en franc\u00e9s se traduce como \"I don't understand\" en ingl\u00e9s? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 741,
+        "pregunta": "\u00bfLa traducci\u00f3n al franc\u00e9s de la frase \"I have a dog and a cat\" es \"J'ai un chien et un chat\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 742,
+        "pregunta": "\u00bfEs cierto que \"Ich m\u00f6chte gerne ein Bier bestellen\" se traduce al ingl\u00e9s como \"I would like to order a beer\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 743,
+        "pregunta": "La frase a traducir es: \"Je suis en train de manger.\" (franc\u00e9s) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 744,
+        "pregunta": "\u00bfEs cierto que \"Je ne parle pas fran\u00e7ais\" se traduce al ingl\u00e9s como \"I don't speak French\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 745,
+        "pregunta": "\u00bfEs correcta la siguiente traducci\u00f3n al franc\u00e9s de la frase \"Are you coming to the party tomorrow?\": \"Viens-tu \u00e0 la f\u00eate demain?\" Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 746,
+        "pregunta": "\u00bfEs cierto que la traducci\u00f3n al alem\u00e1n de la frase \"Me gustar\u00eda pedir una pizza margarita\" es \"Ich w\u00fcrde gerne eine Margherita-Pizza bestellen\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 747,
+        "pregunta": "\u00bfLa traducci\u00f3n al chino mandar\u00edn de la frase \"I love learning new languages\" es \u6211\u559c\u6b22\u5b66\u4e60\u65b0\u8bed\u8a00? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 748,
+        "pregunta": "\u00bfEs cierto que la frase \"Je ne sais quoi\" en franc\u00e9s se puede traducir al espa\u00f1ol como \"No s\u00e9 qu\u00e9\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 749,
+        "pregunta": "\u00bfEs cierto que la traducci\u00f3n al franc\u00e9s de la frase \"I will always love you\" es \"Je t'aimerai toujours\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 750,
+        "pregunta": "\u00bfEs cierto que la frase \"I m\u00f3dh\u00ebsuar, \u00e7eljet-mbylljet e lapsit jan\u00eb t\u00eb p\u00ebrshpejta\" se traduce al espa\u00f1ol como \"Modificado, los clics de apertura y cierre del l\u00e1piz est\u00e1n acelerados\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 751,
+        "pregunta": "\u00bfLa frase \"Je ne sais quoi\" se traduce al espa\u00f1ol como \"No s\u00e9 qu\u00e9\" en ingl\u00e9s? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 752,
+        "pregunta": "\u00bf\"Je ne sais pas si je pourrai y arriver\" se traduce al ingl\u00e9s como \"I don't know if I will be able to make it\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 753,
+        "pregunta": "\u00bfEs cierto que la traducci\u00f3n al franc\u00e9s de la frase \"It's raining cats and dogs\" es \"Il pleut des cordes\"?\n Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 754,
+        "pregunta": "\u00bfLa frase \"Je ne sais quoi\" se traduce al espa\u00f1ol como \"No s\u00e9 qu\u00e9\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 755,
+        "pregunta": "\u00bf\"Je ne sais quoi\" en franc\u00e9s se traduce como \"No s\u00e9 qu\u00e9\" en espa\u00f1ol? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 756,
+        "pregunta": "\u00bfEs cierto que la frase en alem\u00e1n \"Das Stehaufm\u00e4nnchen hat einen langen Schnabel\" se traduce al espa\u00f1ol como \"El juguete inflable tiene una nariz larga\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 757,
+        "pregunta": "\u00bfEs verdadero o falso que la frase \"Je suis tomb\u00e9 amoureux de toi\" se traduce como \"Me enamor\u00e9 de ti\" en espa\u00f1ol? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 758,
+        "pregunta": "\u00bfC\u00f3mo se traduce al ingl\u00e9s la frase \"Hola, \u00bfc\u00f3mo est\u00e1s?\"?\n\na) Hello, how are you?\nb) Hi, how do you do?\nc) Goodbye, see you later",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 759,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al espa\u00f1ol de la siguiente frase en franc\u00e9s?\n\n\"Bonjour, comment \u00e7a va?\"\n\nA) \u00a1Adi\u00f3s!\nB) \u00bfQu\u00e9 tal?\nC) Buenas tardes.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 760,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al espa\u00f1ol de la siguiente frase en franc\u00e9s?\n\n\"Je suis content\": \n\na) Estoy triste \nb) Estoy contento \nc) Estoy enfadado",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 761,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al espa\u00f1ol de la frase \"Bonjour, comment \u00e7a va?\"?\n\nA) \u00bfC\u00f3mo te llamas?\nB) \u00bfC\u00f3mo est\u00e1s?\nC) \u00bfD\u00f3nde est\u00e1s?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 762,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n al espa\u00f1ol de la siguiente frase en italiano?\n\n\"Feliz cumplea\u00f1os\"  \n\na) Happy birthday\nb) Bon anniversaire\nc) Buon compleanno",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 763,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al ingl\u00e9s de la siguiente frase en espa\u00f1ol: \"Me gusta mucho la m\u00fasica\"?\n\na) I like a lot the music\nb) I like a lot of music\nc) I really like music",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 764,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones es la traducci\u00f3n correcta de la frase \"Je ne comprends pas\"? \n\na) I don't understand\nb) No entiendo\nc) Ich verstehe nicht",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 765,
+        "pregunta": "Traduzca al ingl\u00e9s la frase: \"\u00bfD\u00f3nde queda la estaci\u00f3n de tren?\" \n\na) Where is the train station located?\nb) How far is the train station?\nc) What time does the train station close?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 766,
+        "pregunta": "\u00bfCu\u00e1l es la mejor traducci\u00f3n al ingl\u00e9s de la frase \"No puedo esperar para verte de nuevo\"?\n\na) I can't wait to see you again\nb) I don't want to see you anymore\nc) I will always wait for you",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 767,
+        "pregunta": "Como se traduce al espa\u00f1ol la frase en franc\u00e9s \"Comment \u00e7a va ?\"\nA) \u00bfC\u00f3mo te llamas?\nB) \u00bfQu\u00e9 hora es?\nC) \u00bfC\u00f3mo est\u00e1s?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 768,
+        "pregunta": "How do you say \"Hello\" in French?\nA) Hola\nB) Bonjour\nC) Ciao",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 769,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta de \"house\" al franc\u00e9s?\n\na) casa\nb) maison\nc) hogar",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 770,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n al espa\u00f1ol de la siguiente frase en franc\u00e9s?\n\n\"Bonjour, comment \u00e7a va?\"\nA) \u00a1Hola, \u00bfc\u00f3mo est\u00e1s?\nB) Adi\u00f3s, \u00bfc\u00f3mo te va?\nC) Buenos d\u00edas, \u00bfc\u00f3mo fue el d\u00eda?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 771,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al ingl\u00e9s de la frase \"Hola, \u00bfc\u00f3mo est\u00e1s?\"?\n\na) Hello, how are you?\nb) Hi, how do you do?\nc) Hey, what's up?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 772,
+        "pregunta": "Traduce al ingl\u00e9s la siguiente frase: \"\u00bfC\u00f3mo est\u00e1s?\".\n\nA) How are you?\nB) What is your name?\nC) Where are you from?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 773,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta de la frase \"I am hungry\" al italiano?\n\nA) Sono affamato\nB) Sto bevendo\nC) Mi piace nuotare",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 774,
+        "pregunta": "What is the translation of \"Hello\" in French?\nA) Bonjour\nB) Hola\nC) Ciao",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 775,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al ingl\u00e9s de la frase \"Hola, \u00bfc\u00f3mo est\u00e1s?\"? \n\na) Hello, how are you?\nb) Hi, how is it going?\nc) Hey, how do you do?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 776,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta de \"house\" al espa\u00f1ol?\n\na) casa\nb) perro\nc) libro",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 777,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al espa\u00f1ol de la frase \"I am hungry\"?\n\na) Estoy cansado\nb) Tengo hambre\nc) Soy alto",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 778,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al ingl\u00e9s de la frase \"Me gustar\u00eda comer sushi esta noche\"? \n\na) I would like to eat sushi tonight. \nb) I like to eat sushi this night. \nc) I want to eating sushi today.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 779,
+        "pregunta": "Quelle est la traduction en anglais de \"Je ne sais pas\"?\na) I don't know\nb) I am not sure\nc) I can't remember",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 780,
+        "pregunta": "Traduce al ingl\u00e9s la siguiente frase: \"Me gustar\u00eda reservar una habitaci\u00f3n para dos personas, por favor.\"\n\nA) I would like to book a room for two people, please.\nB) I want to sleep in a hotel room.\nC) Can you show me the way to the bathroom?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 781,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta de la frase \"I don't understand\" al espa\u00f1ol?\n\na) Yo no entiendo\nb) No entender\nc) Yo comprendo",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 782,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al ingl\u00e9s de la frase \"\u00bfD\u00f3nde est\u00e1 la biblioteca?\"?\n\na) Where is the library?\nb) How are you?\nc) What time is it?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 783,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones es la traducci\u00f3n correcta de la frase \"Je suis en train de manger un sandwich\" al espa\u00f1ol?\n\na) Soy un sandwich en movimiento\nb) Estoy comiendo un sandwich\nc) Soy un sandwich delicioso",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 784,
+        "pregunta": "C\u00f3mo se dice \"\u00bfD\u00f3nde est\u00e1 la parada de autob\u00fas m\u00e1s cercana?\" en alem\u00e1n?\n\nA) Wo ist die n\u00e4chste Bushaltestelle?\nB) Wo ist der n\u00e4chste Flughafen?\nC) Wo ist das n\u00e4chste Restaurant?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 785,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones es la traducci\u00f3n correcta de la frase \"Je ne comprends pas\" al espa\u00f1ol?\n\na) I don't understand\n\nb) Yo no entiendo\n\nc) Yo no comprendo",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 786,
+        "pregunta": "\u00bfC\u00f3mo se traduce al ingl\u00e9s la frase \"Estoy aprendiendo a hablar franc\u00e9s\"?\na) I am learning to speak French\nb) I am learning how to speak French\nc) I am studying speaking French",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 787,
+        "pregunta": "\u00bfC\u00f3mo se traduce al ingl\u00e9s la siguiente frase? \"Me gustar\u00eda reservar una habitaci\u00f3n doble para dos noches\".\na) I would like to book a double room for two nights.\nb) I want to reserve a single room for one night.\nc) Could I have a triple room for three nights, please?",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "media"
+    },
+    {
+        "id": 788,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al espa\u00f1ol de la siguiente frase en franc\u00e9s?\n\n\"Je n'ai jamais vu un tel d\u00e9sastre.\"\n\nA) Nunca he visto una situaci\u00f3n tan desastrosa.\nB) Nunca he experimentado semejante cat\u00e1strofe.\nC) Nunca he presenciado tal desastre.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 789,
+        "pregunta": "\u00bfQu\u00e9 opci\u00f3n traduce correctamente la siguiente frase al ingl\u00e9s?\n\n\"La felicidad es un estado mental que surge cuando se logra un equilibrio interno.\"\n\nA) Happiness is a mental state that arises when internal balance is achieved.\nB) Happiness is a internal balance that arises when mental state is achieved.\nC) Happiness is an achieved state that arises when mental internal balance is.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 790,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta de la siguiente frase al ingl\u00e9s?\n\n\"Fue un desaf\u00edo encontrar la soluci\u00f3n a ese problema tan complicado.\"\n\na) It was a challenge to find the solution to that very complicated problem.\nb) It was a struggle to find the answer to that simple problem.\nc) It was a quest to find the resolution to that challenging problem.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 791,
+        "pregunta": "Traduce la frase al espa\u00f1ol: \"Je ne sais quoi\"\n\na) No s\u00e9 qu\u00e9\nb) No s\u00e9 por qu\u00e9\nc) No tengo ni idea",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 792,
+        "pregunta": "What is the correct translation to English of the following sentence?\n\n\"El anhelo de libertad siempre perdurar\u00e1 en el coraz\u00f3n humano.\"\n\nA) The longing for freedom will always endure in the human heart.\nB) The desire for freedom will never last in the human heart.\nC) The dream of freedom fades away in the human heart.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 793,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al idioma espa\u00f1ol de la siguiente frase en franc\u00e9s?\n\n\"Je ne sais quoi faire avec ce probl\u00e8me complexe.\"\n\na) No s\u00e9 qu\u00e9 hacer con este problema complicado.\nb) No s\u00e9 c\u00f3mo resolver este asunto dif\u00edcil.\nc) No entiendo c\u00f3mo abordar este tema complicado.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 794,
+        "pregunta": "Traduce al espa\u00f1ol: \"Je ne sais pas o\u00f9 est la biblioth\u00e8que.\"\n\nA) No s\u00e9 d\u00f3nde est\u00e1 el supermercado.\nB) No s\u00e9 d\u00f3nde est\u00e1 la biblioteca.\nC) No s\u00e9 d\u00f3nde est\u00e1 la estaci\u00f3n de tren.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 795,
+        "pregunta": "\u00bfQu\u00e9 opci\u00f3n es la correcta?\n\nFrase: \"\u6211\u89c9\u5f97\u8fd9\u4e2a\u95ee\u9898\u975e\u5e38\u590d\u6742\u3002\"\n\nA) \"Creo que este problema es muy dif\u00edcil.\"\nB) \"Pienso que esta cuesti\u00f3n es bastante compleja.\"\nC) \"Considero que esta interrogante es verdaderamente enrevesada.\"",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 796,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al ingl\u00e9s de la siguiente frase en franc\u00e9s?\n\n\"Fais de ta vie un r\u00eave, et d'un r\u00eave, une r\u00e9alit\u00e9.\"\n\nA) Make your life a dream, and a dream, a reality.\nB) Turn your life into a dream, and a dream, into a reality.\nC) Do a dream life, and turn a dream into reality.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 797,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta de la siguiente frase al espa\u00f1ol?\n\n\"Je ne sais pas quoi faire de ma vie.\"\n\nA) No s\u00e9 qu\u00e9 hacer con mi vida.\nB) No s\u00e9 c\u00f3mo pasar el tiempo.\nC) No entiendo qu\u00e9 significa mi existencia.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 798,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al ingl\u00e9s de la frase \"No es oro todo lo que reluce\"? \n\na) All that glitters is not gold. \n\nb) All glitters is not gold. \n\nc) Not all that glitters is gold.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 799,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n m\u00e1s correcta al ingl\u00e9s de la frase \"La f\u00f3rmula qu\u00edmica del \u00e1cido clorh\u00eddrico es HCl\"?\n\na) The chemical formula of hydrochloric acid is ClH.\nb) The chemical formula of hydrochloric acid is HCI.\nc) The chemical formula of hydrochloric acid is HCl.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 800,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta de la siguiente frase al ingl\u00e9s?\n\n\"Fui a nadar en el mar y vi una ballena saltando cerca de la costa.\"\n\na) \"I went to swim in the sea and I saw a whale jumping close to the shore.\"\nb) \"I went to swim in the ocean and I saw a whale swimming near the beach.\"\nc) \"I swam in the sea and I saw a dolphin jumping close to the coast.\"",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 801,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al ingl\u00e9s de la frase \"Je ne sais quoi\"? \n\na) I don't know what \nb) I have no idea\nc) A certain something",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 802,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes opciones es la traducci\u00f3n correcta de la siguiente frase al ingl\u00e9s?\n\n\"Fue un desaf\u00edo encontrar la respuesta exacta en medio de tanta confusi\u00f3n.\"\n\na) \"It was a hard challenge to find the exact answer in the midst of so much confusion.\"\nb) \"Finding the exact answer in the midst of so much confusion was a challenge.\"\nc) \"It was a challenge to find the exact answer in the middle of such confusion.\"",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 803,
+        "pregunta": "What is the best translation of the phrase \"Je ne sais quoi\" into English?\n\nA) I don't know what\nB) I have no idea\nC) A certain something",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 804,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al ingl\u00e9s de la frase \"Me parece que he visto un lindo gatito\"? \n\na) I think I see a lovely kitten  \nb) It seems to me that I have seen a cute cat  \nc) I believe I have spotted a pretty kitty",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 805,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta de la siguiente frase al ingl\u00e9s? \"El sentimiento de saudade es dif\u00edcil de explicar\".\n\na) The feeling of saudade is difficult to explain.\nb) The sentiment of saudade is hard to explain.\nc) The sensation of saudade is complicated to clarify.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 806,
+        "pregunta": "\u00bfQu\u00e9 opci\u00f3n traduce correctamente la siguiente frase al ingl\u00e9s?\n\n\"Me gustar\u00eda saber cu\u00e1ndo llegar\u00e1 el pr\u00f3ximo tren\"\n\nA) I would like to know when the next train will arrive\nB) I would want to know when will arrive the next train\nC) I would like to know when the next train will come",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 807,
+        "pregunta": "\u00bfCu\u00e1l es la traducci\u00f3n correcta al espa\u00f1ol de la siguiente frase en italiano?\n\n\"Faccio fatica a capire il significato di questo testo complicato.\"\n\nA) Tengo dificultades para entender el significado de este texto complicado.\n\nB) Me cuesta comprender el significado de este texto complicado.\n\nC) No logro entender el significado de este texto complicado.",
+        "tipo": "test con 3 opciones",
+        "tema": "traducci\u00f3n linguistica",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 808,
+        "pregunta": "\u00bfCu\u00e1ntas patas tiene un perro si colgamos su cola en un \u00e1rbol?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 809,
+        "pregunta": "\u00bfQu\u00e9 palabra en espa\u00f1ol se lee igual al derecho que al rev\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 810,
+        "pregunta": "\u00bfQu\u00e9 palabra en ingl\u00e9s comienza con \"E\", termina con \"E\" y solo contiene una letra?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 811,
+        "pregunta": "\u00bfCu\u00e1ntos meses del a\u00f1o tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 812,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"incorrecto\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 813,
+        "pregunta": "\u00bfCu\u00e1ntos meses del a\u00f1o tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 814,
+        "pregunta": "\u00bfQu\u00e9 n\u00famero sigue en esta secuencia l\u00f3gica? 2, 4, 8, 16, 32, ___",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 815,
+        "pregunta": "\u00bfCu\u00e1ntas veces se puede restar 10 de 100?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 816,
+        "pregunta": "\u00bfQu\u00e9 palabra se vuelve m\u00e1s corta cuando le agregamos dos letras?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 817,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"uno\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 818,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"emoji\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 819,
+        "pregunta": "\u00bfQu\u00e9 pesa m\u00e1s, un kilogramo de algod\u00f3n o un kilogramo de plomo?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 820,
+        "pregunta": "\u00bfQu\u00e9 pesa m\u00e1s, un kilo de plumas o un kilo de piedras?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 821,
+        "pregunta": "\u00bfQu\u00e9 tiene hojas pero no es una planta?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 822,
+        "pregunta": "\u00bfCu\u00e1ntos meses tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 823,
+        "pregunta": "\u00bfQu\u00e9 pesa m\u00e1s, un kilo de algod\u00f3n o un kilo de plomo?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 824,
+        "pregunta": "\u00bfCu\u00e1l es el animal que tiene cuatro patas por la ma\u00f1ana, dos patas al mediod\u00eda y tres patas por la noche?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 825,
+        "pregunta": "\u00bfQu\u00e9 pesa m\u00e1s, un kilo de algod\u00f3n o un kilo de hierro?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 826,
+        "pregunta": "\u00bfCu\u00e1l es la l\u00f3gica detr\u00e1s de la frase \"La respuesta a esta pregunta es no\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 827,
+        "pregunta": "\u00bfCu\u00e1ntos meses tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 828,
+        "pregunta": "\u00bfCu\u00e1l es la palabra m\u00e1s larga en espa\u00f1ol?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 829,
+        "pregunta": "\u00bfQu\u00e9 pesa m\u00e1s, un kilogramo de algod\u00f3n o un kilogramo de hierro?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 830,
+        "pregunta": "\u00bfCu\u00e1l es la forma de comunicarse con un pez?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 831,
+        "pregunta": "\u00bfQu\u00e9 tiene 4 patas por la ma\u00f1ana, 2 patas por la tarde y 3 patas por la noche?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 832,
+        "pregunta": "\u00bfCu\u00e1l es el \u00fanico animal cuyo nombre se lee igual de derecha a izquierda que de izquierda a derecha?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 833,
+        "pregunta": "\u00bfQu\u00e9 palabra de tres letras hay en ingl\u00e9s que termina en \"g\" y tiene el sentido opuesto a la palabra \"right\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 834,
+        "pregunta": "\u00bfCu\u00e1ntas patas tiene un perro si le cortamos la mitad de una de ellas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 835,
+        "pregunta": "\u00bfCu\u00e1l es la pr\u00f3xima letra en la secuencia l\u00f3gica: A, E, I, O, U, ...?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 836,
+        "pregunta": "\u00bfQu\u00e9 palabra en ingl\u00e9s es siempre deletreada incorrectamente por todas las personas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 837,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"cien\" en ingl\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
     }
 ]
