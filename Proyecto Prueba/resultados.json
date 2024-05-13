@@ -6267,7 +6267,7 @@
         "id_pregunta": 1048,
         "id_respuesta": 1048,
         "resultado": "correcto",
-        "revision": "correcto"
+        "revision": ""
     },
     {
         "id_pregunta": 1049,
@@ -6279,7 +6279,7 @@
         "id_pregunta": 1050,
         "id_respuesta": 1050,
         "resultado": "incorrecto",
-        "revision": "correcto"
+        "revision": ""
     },
     {
         "id_pregunta": 1051,
@@ -6291,7 +6291,7 @@
         "id_pregunta": 1052,
         "id_respuesta": 1052,
         "resultado": "correcto",
-        "revision": "correcto"
+        "revision": ""
     },
     {
         "id_pregunta": 1053,
@@ -6315,7 +6315,7 @@
         "id_pregunta": 1056,
         "id_respuesta": 1056,
         "resultado": "correcto",
-        "revision": "correcto"
+        "revision": ""
     },
     {
         "id_pregunta": 1057,
@@ -7551,6 +7551,30 @@
         "id_pregunta": 1262,
         "id_respuesta": 1262,
         "resultado": "correcto",
-        "revision": "incorrecto"
+        "revision": ""
+    },
+    {
+        "id_pregunta": 1263,
+        "id_respuesta": 1263,
+        "resultado": "correcto",
+        "revision": ""
+    },
+    {
+        "id_pregunta": 1264,
+        "id_respuesta": 1264,
+        "resultado": "incorrecto",
+        "revision": ""
+    },
+    {
+        "id_pregunta": 1265,
+        "id_respuesta": 1265,
+        "resultado": "correcto",
+        "revision": ""
+    },
+    {
+        "id_pregunta": 1266,
+        "id_respuesta": 1266,
+        "resultado": "correcto",
+        "revision": ""
     }
 ]

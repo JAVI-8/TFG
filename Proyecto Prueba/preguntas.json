@@ -8832,5 +8832,33 @@
         "tipo": "respuesta corta",
         "tema": "operaciones matem\u00e1ticas numericas",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1263,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la Gran Muralla China?\n\na) Jap\u00f3n\nb) India\nc) China",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1264,
+        "pregunta": "\u00bfQui\u00e9n pint\u00f3 \"La \u00faltima cena\"?\n\na) Vincent van Gogh\nb) Leonardo da Vinci\nc) Pablo Picasso",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1265,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\n\na) S\u00eddney\nb) Canberra\nc) Melbourne",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1266,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?\n\nA) 1889\nB) 1901\nC) 1920",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
     }
 ]

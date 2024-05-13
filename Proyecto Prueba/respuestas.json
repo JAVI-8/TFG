@@ -6308,5 +6308,25 @@
         "id_respuesta": 1262,
         "respuesta": " The result of the mathematical operation is `379`",
         "id_pregunta": 1262
+    },
+    {
+        "id_respuesta": 1263,
+        "respuesta": " C) China",
+        "id_pregunta": 1263
+    },
+    {
+        "id_respuesta": 1264,
+        "respuesta": " A) Vincent van Gogh",
+        "id_pregunta": 1264
+    },
+    {
+        "id_respuesta": 1265,
+        "respuesta": " b) Canberra",
+        "id_pregunta": 1265
+    },
+    {
+        "id_respuesta": 1266,
+        "respuesta": " A) 1889\n\nLa respuesta correcta es A) 1889, ya que el verano de 1889 fue dedicado a las Jornadas de Paris, conmemorando el centenario de la batalla de Poitiers y la toma de Francia por los anglicos",
+        "id_pregunta": 1266
     }
 ]
