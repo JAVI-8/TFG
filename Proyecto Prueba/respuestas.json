@@ -6913,5 +6913,620 @@
         "id_respuesta": 1383,
         "respuesta": " True",
         "id_pregunta": 1383
+    },
+    {
+        "id_respuesta": 1384,
+        "respuesta": " b) Salvador Dal\u00ed fue un importante exponente del movimiento art\u00edstico surrealista en la d\u00e9cada de 1920",
+        "id_pregunta": 1384
+    },
+    {
+        "id_respuesta": 1385,
+        "respuesta": " C) Incas",
+        "id_pregunta": 1385
+    },
+    {
+        "id_respuesta": 1386,
+        "respuesta": " A) Tokio es la ciudad m\u00e1s poblada del mundo, con una poblaci\u00f3n de cerca de 9 millones de personas",
+        "id_pregunta": 1386
+    },
+    {
+        "id_respuesta": 1387,
+        "respuesta": " Suiza no es un pa\u00eds miembro de la UE",
+        "id_pregunta": 1387
+    },
+    {
+        "id_respuesta": 1388,
+        "respuesta": " C) Los sumerios",
+        "id_pregunta": 1388
+    },
+    {
+        "id_respuesta": 1389,
+        "respuesta": " b) Jordania",
+        "id_pregunta": 1389
+    },
+    {
+        "id_respuesta": 1390,
+        "respuesta": " c) Vincent van Gogh",
+        "id_pregunta": 1390
+    },
+    {
+        "id_respuesta": 1391,
+        "respuesta": " c) Gustav Klimt",
+        "id_pregunta": 1391
+    },
+    {
+        "id_respuesta": 1392,
+        "respuesta": " La respuesta es b) Quito, Ecuador",
+        "id_pregunta": 1392
+    },
+    {
+        "id_respuesta": 1393,
+        "respuesta": " a) Constantino I",
+        "id_pregunta": 1393
+    },
+    {
+        "id_respuesta": 1394,
+        "respuesta": " A) \"Crimen y castigo\" fue escrita por Fi\u00f3dor Dostoyevski",
+        "id_pregunta": 1394
+    },
+    {
+        "id_respuesta": 1395,
+        "respuesta": " b) Nueva Zelanda es el primer pa\u00eds que proclam\u00f3 el derecho a la votaci\u00f3n a las mujeres en 1893",
+        "id_pregunta": 1395
+    },
+    {
+        "id_respuesta": 1396,
+        "respuesta": " A) Octavio Paz",
+        "id_pregunta": 1396
+    },
+    {
+        "id_respuesta": 1397,
+        "respuesta": " a) 1887 es el a\u00f1o correcto, en donde se inauguro la torre Eiffel en Par\u00eds",
+        "id_pregunta": 1397
+    },
+    {
+        "id_respuesta": 1398,
+        "respuesta": " a) Egipcios Si te refer\u00eds a la regi\u00f3n mesopot\u00e1mica en el Sur de \u00c1frica, la respuesta correcta es a) Egipcios",
+        "id_pregunta": 1398
+    },
+    {
+        "id_respuesta": 1399,
+        "respuesta": " c) Margaret Thatcher",
+        "id_pregunta": 1399
+    },
+    {
+        "id_respuesta": 1400,
+        "respuesta": " \"Crimen y castigo\" fue escrito por Fi\u00f3dor Dostoyevski",
+        "id_pregunta": 1400
+    },
+    {
+        "id_respuesta": 1401,
+        "respuesta": " C) Salvador Dal\u00ed en 1931",
+        "id_pregunta": 1401
+    },
+    {
+        "id_respuesta": 1402,
+        "respuesta": " La respuesta esa es: a) Gabriel Garc\u00eda M\u00e1rquez",
+        "id_pregunta": 1402
+    },
+    {
+        "id_respuesta": 1403,
+        "respuesta": " \"Crime and Punishment\" es una de las obras literarias protagonizadas por Fi\u00f3dor Dostoyevski",
+        "id_pregunta": 1403
+    },
+    {
+        "id_respuesta": 1404,
+        "respuesta": " a) 1912 es la opci\u00f3n correcta",
+        "id_pregunta": 1404
+    },
+    {
+        "id_respuesta": 1405,
+        "respuesta": " a) 1889 - La respuesta correcta es: \"a) 1889\"",
+        "id_pregunta": 1405
+    },
+    {
+        "id_respuesta": 1406,
+        "respuesta": " C) Andrew Johnson was the first president of the United States to be removed from office through impeachment",
+        "id_pregunta": 1406
+    },
+    {
+        "id_respuesta": 1407,
+        "respuesta": " True",
+        "id_pregunta": 1407
+    },
+    {
+        "id_respuesta": 1408,
+        "respuesta": " Falso",
+        "id_pregunta": 1408
+    },
+    {
+        "id_respuesta": 1409,
+        "respuesta": " Falso",
+        "id_pregunta": 1409
+    },
+    {
+        "id_respuesta": 1410,
+        "respuesta": " True",
+        "id_pregunta": 1410
+    },
+    {
+        "id_respuesta": 1411,
+        "respuesta": " True",
+        "id_pregunta": 1411
+    },
+    {
+        "id_respuesta": 1412,
+        "respuesta": " Falso",
+        "id_pregunta": 1412
+    },
+    {
+        "id_respuesta": 1413,
+        "respuesta": " Falso",
+        "id_pregunta": 1413
+    },
+    {
+        "id_respuesta": 1414,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1414
+    },
+    {
+        "id_respuesta": 1415,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1415
+    },
+    {
+        "id_respuesta": 1416,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1416
+    },
+    {
+        "id_respuesta": 1417,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1417
+    },
+    {
+        "id_respuesta": 1418,
+        "respuesta": " Falso",
+        "id_pregunta": 1418
+    },
+    {
+        "id_respuesta": 1419,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1419
+    },
+    {
+        "id_respuesta": 1420,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1420
+    },
+    {
+        "id_respuesta": 1421,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1421
+    },
+    {
+        "id_respuesta": 1422,
+        "respuesta": " True",
+        "id_pregunta": 1422
+    },
+    {
+        "id_respuesta": 1423,
+        "respuesta": " True",
+        "id_pregunta": 1423
+    },
+    {
+        "id_respuesta": 1424,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1424
+    },
+    {
+        "id_respuesta": 1425,
+        "respuesta": " Falso",
+        "id_pregunta": 1425
+    },
+    {
+        "id_respuesta": 1426,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1426
+    },
+    {
+        "id_respuesta": 1427,
+        "respuesta": " Falso",
+        "id_pregunta": 1427
+    },
+    {
+        "id_respuesta": 1428,
+        "respuesta": " True",
+        "id_pregunta": 1428
+    },
+    {
+        "id_respuesta": 1429,
+        "respuesta": " Falso",
+        "id_pregunta": 1429
+    },
+    {
+        "id_respuesta": 1430,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1430
+    },
+    {
+        "id_respuesta": 1431,
+        "respuesta": " True",
+        "id_pregunta": 1431
+    },
+    {
+        "id_respuesta": 1432,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1432
+    },
+    {
+        "id_respuesta": 1433,
+        "respuesta": " True",
+        "id_pregunta": 1433
+    },
+    {
+        "id_respuesta": 1434,
+        "respuesta": " Falso",
+        "id_pregunta": 1434
+    },
+    {
+        "id_respuesta": 1435,
+        "respuesta": " True",
+        "id_pregunta": 1435
+    },
+    {
+        "id_respuesta": 1436,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1436
+    },
+    {
+        "id_respuesta": 1437,
+        "respuesta": " Falso",
+        "id_pregunta": 1437
+    },
+    {
+        "id_respuesta": 1438,
+        "respuesta": " True",
+        "id_pregunta": 1438
+    },
+    {
+        "id_respuesta": 1439,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1439
+    },
+    {
+        "id_respuesta": 1440,
+        "respuesta": " True",
+        "id_pregunta": 1440
+    },
+    {
+        "id_respuesta": 1441,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1441
+    },
+    {
+        "id_respuesta": 1442,
+        "respuesta": " Falso",
+        "id_pregunta": 1442
+    },
+    {
+        "id_respuesta": 1443,
+        "respuesta": " Falso",
+        "id_pregunta": 1443
+    },
+    {
+        "id_respuesta": 1444,
+        "respuesta": " Falso",
+        "id_pregunta": 1444
+    },
+    {
+        "id_respuesta": 1445,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1445
+    },
+    {
+        "id_respuesta": 1446,
+        "respuesta": " Falso",
+        "id_pregunta": 1446
+    },
+    {
+        "id_respuesta": 1447,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1447
+    },
+    {
+        "id_respuesta": 1448,
+        "respuesta": " True",
+        "id_pregunta": 1448
+    },
+    {
+        "id_respuesta": 1449,
+        "respuesta": " Falso",
+        "id_pregunta": 1449
+    },
+    {
+        "id_respuesta": 1450,
+        "respuesta": " True",
+        "id_pregunta": 1450
+    },
+    {
+        "id_respuesta": 1451,
+        "respuesta": " Falso",
+        "id_pregunta": 1451
+    },
+    {
+        "id_respuesta": 1452,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1452
+    },
+    {
+        "id_respuesta": 1453,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1453
+    },
+    {
+        "id_respuesta": 1454,
+        "respuesta": " Falso",
+        "id_pregunta": 1454
+    },
+    {
+        "id_respuesta": 1455,
+        "respuesta": " Falso",
+        "id_pregunta": 1455
+    },
+    {
+        "id_respuesta": 1456,
+        "respuesta": " Falso",
+        "id_pregunta": 1456
+    },
+    {
+        "id_respuesta": 1457,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1457
+    },
+    {
+        "id_respuesta": 1458,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1458
+    },
+    {
+        "id_respuesta": 1459,
+        "respuesta": " True",
+        "id_pregunta": 1459
+    },
+    {
+        "id_respuesta": 1460,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1460
+    },
+    {
+        "id_respuesta": 1461,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1461
+    },
+    {
+        "id_respuesta": 1462,
+        "respuesta": " Falso",
+        "id_pregunta": 1462
+    },
+    {
+        "id_respuesta": 1463,
+        "respuesta": " True",
+        "id_pregunta": 1463
+    },
+    {
+        "id_respuesta": 1464,
+        "respuesta": " True",
+        "id_pregunta": 1464
+    },
+    {
+        "id_respuesta": 1465,
+        "respuesta": " Falso",
+        "id_pregunta": 1465
+    },
+    {
+        "id_respuesta": 1466,
+        "respuesta": " True",
+        "id_pregunta": 1466
+    },
+    {
+        "id_respuesta": 1467,
+        "respuesta": " Falso",
+        "id_pregunta": 1467
+    },
+    {
+        "id_respuesta": 1468,
+        "respuesta": " True",
+        "id_pregunta": 1468
+    },
+    {
+        "id_respuesta": 1469,
+        "respuesta": " True",
+        "id_pregunta": 1469
+    },
+    {
+        "id_respuesta": 1470,
+        "respuesta": " Falso",
+        "id_pregunta": 1470
+    },
+    {
+        "id_respuesta": 1471,
+        "respuesta": " True",
+        "id_pregunta": 1471
+    },
+    {
+        "id_respuesta": 1472,
+        "respuesta": " Falso",
+        "id_pregunta": 1472
+    },
+    {
+        "id_respuesta": 1473,
+        "respuesta": " True",
+        "id_pregunta": 1473
+    },
+    {
+        "id_respuesta": 1474,
+        "respuesta": " True",
+        "id_pregunta": 1474
+    },
+    {
+        "id_respuesta": 1475,
+        "respuesta": " True",
+        "id_pregunta": 1475
+    },
+    {
+        "id_respuesta": 1476,
+        "respuesta": " True ",
+        "id_pregunta": 1476
+    },
+    {
+        "id_respuesta": 1477,
+        "respuesta": " Falso",
+        "id_pregunta": 1477
+    },
+    {
+        "id_respuesta": 1478,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1478
+    },
+    {
+        "id_respuesta": 1479,
+        "respuesta": " True",
+        "id_pregunta": 1479
+    },
+    {
+        "id_respuesta": 1480,
+        "respuesta": " True",
+        "id_pregunta": 1480
+    },
+    {
+        "id_respuesta": 1481,
+        "respuesta": " Falso",
+        "id_pregunta": 1481
+    },
+    {
+        "id_respuesta": 1482,
+        "respuesta": " 7 multiplied by 9 is 63",
+        "id_pregunta": 1482
+    },
+    {
+        "id_respuesta": 1483,
+        "respuesta": " La respuesta es 15",
+        "id_pregunta": 1483
+    },
+    {
+        "id_respuesta": 1484,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 1484
+    },
+    {
+        "id_respuesta": 1485,
+        "respuesta": " La respuesta es 14",
+        "id_pregunta": 1485
+    },
+    {
+        "id_respuesta": 1486,
+        "respuesta": " 7 multiplied by 8 is equal to 56",
+        "id_pregunta": 1486
+    },
+    {
+        "id_respuesta": 1487,
+        "respuesta": " La suma de 5 + 8 es 13",
+        "id_pregunta": 1487
+    },
+    {
+        "id_respuesta": 1488,
+        "respuesta": " El resultado de 3 multiplicado por 5 m\u00e1s 2 es 50",
+        "id_pregunta": 1488
+    },
+    {
+        "id_respuesta": 1489,
+        "respuesta": " El resultado es 8",
+        "id_pregunta": 1489
+    },
+    {
+        "id_respuesta": 1490,
+        "respuesta": " El resultado de 3 multiplicado por 5 es 15",
+        "id_pregunta": 1490
+    },
+    {
+        "id_respuesta": 1491,
+        "respuesta": " La suma de 5 + 7 es 12",
+        "id_pregunta": 1491
+    },
+    {
+        "id_respuesta": 1492,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 1492
+    },
+    {
+        "id_respuesta": 1493,
+        "respuesta": " The mathematical operation that means multiplying a number by itself is called squaring",
+        "id_pregunta": 1493
+    },
+    {
+        "id_respuesta": 1494,
+        "respuesta": " Debes sumar 4 y 3, restar la cantidad de 2x5, que es 10, y luego anadir el resultado a tu inicial 4",
+        "id_pregunta": 1494
+    },
+    {
+        "id_respuesta": 1495,
+        "respuesta": " La respuesta es:  60, ya que 25 adicional a 35 eso conviene en 60",
+        "id_pregunta": 1495
+    },
+    {
+        "id_respuesta": 1496,
+        "respuesta": " The result of the mathematical operation: 8 + 5 x 2 - 3 is: \n8 + 10 - 3 = 17",
+        "id_pregunta": 1496
+    },
+    {
+        "id_respuesta": 1497,
+        "respuesta": " La suma de 5 + 7 es 12",
+        "id_pregunta": 1497
+    },
+    {
+        "id_respuesta": 1498,
+        "respuesta": " 5 multiplied by 7 plus 3 equals 34",
+        "id_pregunta": 1498
+    },
+    {
+        "id_respuesta": 1499,
+        "respuesta": " La respuesta es 92",
+        "id_pregunta": 1499
+    },
+    {
+        "id_respuesta": 1500,
+        "respuesta": " 15 multiplicado por 3 es 45",
+        "id_pregunta": 1500
+    },
+    {
+        "id_respuesta": 1501,
+        "respuesta": " La respuesta es 15",
+        "id_pregunta": 1501
+    },
+    {
+        "id_respuesta": 1502,
+        "respuesta": " La respuesta es 75",
+        "id_pregunta": 1502
+    },
+    {
+        "id_respuesta": 1503,
+        "respuesta": " El resultado es ese seg\u00fan la operaci\u00f3n es: \n7 + 5 x 2\n7 + 10 = 17\n\nEl resultado final es: 17",
+        "id_pregunta": 1503
+    },
+    {
+        "id_respuesta": 1504,
+        "respuesta": " La respuesta es 40, ya que 5 veces 8 es mucho m\u00e1s f\u00e1cil de calcular si lo vemos como 5 por 8",
+        "id_pregunta": 1504
+    },
+    {
+        "id_respuesta": 1505,
+        "respuesta": " El resultado final de la operaci\u00f3n es 16",
+        "id_pregunta": 1505
+    },
+    {
+        "id_respuesta": 1506,
+        "respuesta": " The result of 5 + 3 is 8",
+        "id_pregunta": 1506
     }
 ]
