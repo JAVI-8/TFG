@@ -8860,5 +8860,824 @@
         "tipo": "test con 3 opciones",
         "tema": "cultura general",
         "dificultad": "media"
+    },
+    {
+        "id": 1267,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la famosa novela \"Cien a\u00f1os de soledad\"?\n\na) Gabriel Garc\u00eda M\u00e1rquez\nb) Mario Vargas Llosa\nc) Julio Cort\u00e1zar",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1268,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\na) S\u00eddney\nb) Melbourne\nc) Canberra",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1269,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Brasil?\n\nA) R\u00edo de Janeiro\nB) Sao Paulo\nC) Brasilia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1270,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\n\na) S\u00eddney\nb) Melbourne\nc) Canberra",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1271,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Australia?\na) S\u00eddney\nb) Melbourne\nc) Canberra",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1272,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pa\u00edses no forma parte de Escandinavia?\n\nA) Finlandia\nB) Noruega\nC) Estonia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1273,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes civilizaciones antiguas construy\u00f3 las pir\u00e1mides de Egipto?\n\na) Romanos\nb) Griegos\nc) Egipcios ",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1274,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se inaugur\u00f3 la Torre Eiffel en Par\u00eds?\n\na) 1889\nb) 1901\nc) 1925",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1275,
+        "pregunta": "\u00bfQu\u00e9 pa\u00eds cuenta con la mayor extensi\u00f3n territorial del mundo?\n\nA) China\nB) Rusia\nC) Estados Unidos",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1276,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Chile?\n\na) Santiago\nb) Buenos Aires\nc) Lima",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1277,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds naci\u00f3 el famoso pintor Pablo Picasso?\n\nA) Italia\nB) Francia\nC) Espa\u00f1a",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1278,
+        "pregunta": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s grande del mundo en t\u00e9rminos de superficie?\n\nA) Rusia\nB) Canad\u00e1\nC) China",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1279,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la famosa Torre Eiffel?\n\na) Alemania\nb) Francia\nc) Italia\n\n\n",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1280,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n14 + 6 x 2\n\nA) 16\nB) 26\nC) 24",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1281,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\(5 + 3 \\times 2\\) \n\na) 12  \nb) 11  \nc) 9",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1282,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n7 + 3 * 2\n\nA) 10\n\nB) 13\n\nC) 17",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1283,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n7 + 3 x 2\n\nA) 14\nB) 13\nC) 11",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1284,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n8 + 5 x 2\n\nA) 16\nB) 18\nC) 28",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1285,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n4 + 7 x 3\n\nA) 21\nB) 25\nC) 15",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1286,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica? \n\n8 + 5 x 2 = \n\nA) 20  \nB) 18  \nC) 13  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1287,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 + 3 x 2\n\nA) 11\nB) 10\nC) 13",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1288,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n12 + 8 x 2\n\nA) 18\nB) 28\nC) 20",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1289,
+        "pregunta": "\u00bfCu\u00e1nto es 5 + 3?\n\na) 8\nb) 6\nc) 7",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1290,
+        "pregunta": "\u00bfCu\u00e1nto es 5 + 3?\n\nA) 8\nB) 6\nC) 10",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1291,
+        "pregunta": "\u00bfCu\u00e1nto es 5 + 3?\n\nA) 7\nB) 8\nC) 6",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1292,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica? \n\n5 + 3 x 2\n\na) 11\n\nb) 7\n\nc) 13",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1293,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n8 + 5 * 2\n\nA) 16\nB) 18\nC) 13",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1294,
+        "pregunta": "\u00bfCu\u00e1nto es 15 + 7?\n\nA) 20\n\nB) 23\n\nC) 22",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1295,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n2 + 5 * 4\n\nA) 22\nB) 12\nC) 17",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1296,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 + 3 x 2\n\nA) 10\nB) 13\nC) 11",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1297,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n: 8 + 4 x 2?\n\nA) 14\nB) 10\nC) 16",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1298,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n8 + 5 x 3\n\nA) 28\n\nB) 15\n\nC) 23",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1299,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n7 + 3 x 2 = \n\nA) 10\n\nB) 17\n\nC) 13",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1300,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n8 + 3 x 2\n\nA) 14\nB) 19\nC) 15",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1301,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n(5 x 3) + 2 - 4\n\nA) 15\nB) 13\nC) 10",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1302,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n15 + 7 x 3\n\nA) 36\nB) 26\nC) 35",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1303,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica? \n\n7 + 3 * 2 \n\na) 16\nb) 13\nc) 11",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1304,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(5 + 3 * 2) / 4\n\nA) 2\nB) 3\nC) 4",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1305,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n4 + 7 * 2 - 5\n\nA) 13\nB) 18\nC) 15",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1306,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n12 + 7 x 3 - 5\n\nA) 27\n\nB) 26\n\nC) 28",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1307,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(24 + 8) x 2 / 4\n\nA) 8\nB) 16\nC) 12",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1308,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 + 3 x 2\n\nA) 11\n\nB) 13\n\nC) 10",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1309,
+        "pregunta": "\u00bfCu\u00e1l es la suma de 234 + 567?\n\na) 800\n\nb) 699\n\nc) 801",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1310,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(5 + 3) x 2 - 2\n\nA) 14\nB) 10\nC) 12",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1311,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n25 + 17 x 3\n\na) 94\nb) 78\nc) 76",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1312,
+        "pregunta": "\u00bfCu\u00e1nto es 25 multiplicado por 4?\n\nA) 100\nB) 90\nC) 120 ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1313,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica? \n\n12 + 5 x 3\n\nA) 27   \nB) 16   \nC) 23",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1314,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n3 x (4 + 2) / 2\n\nA) 7\nB) 9\nC) 12",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1315,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n7 + 5 * 2\n\nA) 14\nB) 17\nC) 12",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1316,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (9 - 3) \\times 2 + 4 \\) \n\na) 18\n\nb) 16\n\nc) 14",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1317,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n15 + 7 * 3\n\nA) 36\nB) 37\nC) 46",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1318,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(12 + 4) * 3 / 2\n\nA) 20\nB) 24\nC) 18",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1319,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(4 + 6) x 3 - 2\n\na) 16\n\nb) 29\n\nc) 28",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1320,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(10 + 5) x 2 - 4\n\nA) 22\nB) 18\nC) 26",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1321,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(56 + 23) * 4\n\nA) 316\nB) 312\nC) 300",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1322,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n18 + 7 * 3\n\nA) 45\nB) 39\nC) 29",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1323,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\(12 + 4 \\times 3\\)\n\nA) 28\n\nB) 24\n\nC) 20",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1324,
+        "pregunta": "La resta de un n\u00famero positivo y un n\u00famero negativo siempre resultar\u00e1 en un n\u00famero positivo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1325,
+        "pregunta": "El resultado de la resta entre 15 y 8 es igual a 6. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1326,
+        "pregunta": "\u00bfEs verdadero que el resultado de restar 10 a 25 es igual a 15? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1327,
+        "pregunta": "Los n\u00fameros primos son aquellos que tienen \u00fanicamente dos divisores: el n\u00famero uno y el propio n\u00famero. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1328,
+        "pregunta": "El resultado de sumar 5 + 9 es 14. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1329,
+        "pregunta": "El resultado de restar 10 menos 5 es 5. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1330,
+        "pregunta": "La suma de dos n\u00fameros impares siempre es un n\u00famero par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1331,
+        "pregunta": "La multiplicaci\u00f3n es conmutativa, es decir, el orden de los factores no altera el producto. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1332,
+        "pregunta": "La sustracci\u00f3n es una operaci\u00f3n matem\u00e1tica que consiste en restar dos o m\u00e1s n\u00fameros entre s\u00ed. (Verdadero/falso) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1333,
+        "pregunta": "\u00bfEs verdadero que el resultado de una multiplicaci\u00f3n siempre es mayor que los n\u00fameros multiplicados? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1334,
+        "pregunta": "El resultado de sumar 5 m\u00e1s 3 es 7. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1335,
+        "pregunta": "La multiplicaci\u00f3n es conmutativa, es decir, el orden de los factores no altera el resultado. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1336,
+        "pregunta": "La multiplicaci\u00f3n es una operaci\u00f3n matem\u00e1tica conmutativa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1337,
+        "pregunta": "La multiplicaci\u00f3n es una operaci\u00f3n conmutativa, es decir, el orden en el que se multiplican dos n\u00fameros no afecta al resultado. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1338,
+        "pregunta": "La suma de dos n\u00fameros impares siempre es un n\u00famero par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1339,
+        "pregunta": "Verdadero o falso: En la multiplicaci\u00f3n, el orden de los factores no altera el producto. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1340,
+        "pregunta": "El resultado de sumar un n\u00famero entero positivo con el cero siempre ser\u00e1 el mismo n\u00famero entero positivo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1341,
+        "pregunta": "La propiedad conmutativa de la suma establece que el orden de los n\u00fameros no afecta al resultado final. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1342,
+        "pregunta": "La expresi\u00f3n matem\u00e1tica 5 + 3 - 2 x 4 = 11. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1343,
+        "pregunta": "La resta es una operaci\u00f3n conmutativa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1344,
+        "pregunta": "La multiplicaci\u00f3n es distributiva respecto a la suma. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1345,
+        "pregunta": "\u00bfEs verdadero que en una multiplicaci\u00f3n, el resultado siempre es mayor o igual a cualquiera de los n\u00fameros que se est\u00e1n multiplicando? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1346,
+        "pregunta": "El resultado de multiplicar un n\u00famero par por un n\u00famero impar siempre ser\u00e1 par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1347,
+        "pregunta": "La operaci\u00f3n matem\u00e1tica de la ra\u00edz cuadrada siempre da un n\u00famero entero como resultado. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1348,
+        "pregunta": "Los n\u00fameros primos son aquellos que pueden ser divididos \u00fanicamente por 1 y por s\u00ed mismos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1349,
+        "pregunta": "\u00bfEs correcto decir que la propiedad distributiva de la multiplicaci\u00f3n se cumple en la suma de dos n\u00fameros? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1350,
+        "pregunta": "La operaci\u00f3n matem\u00e1tica denominada \"m\u00f3dulo\" se representa por el s\u00edmbolo \"%\". \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1351,
+        "pregunta": "\u00bfEs cierto que en una divisi\u00f3n entre dos n\u00fameros negativos el resultado siempre es negativo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1352,
+        "pregunta": "\u00bfEs cierto que el resultado de una multiplicaci\u00f3n siempre es mayor que los n\u00fameros multiplicados? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1353,
+        "pregunta": "\u00bfEs cierto que la propiedad conmutativa de la multiplicaci\u00f3n establece que el orden de los factores no altera el producto? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1354,
+        "pregunta": "La sustracci\u00f3n de dos n\u00fameros siempre resulta en un n\u00famero menor que el n\u00famero m\u00e1s grande. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1355,
+        "pregunta": "\u00bfEs cierto que el resultado de restar un n\u00famero negativo de un n\u00famero positivo siempre ser\u00e1 un n\u00famero negativo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1356,
+        "pregunta": "El resultado de la operaci\u00f3n 25\u00b2 + 10\u00b75 es 625. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1357,
+        "pregunta": "\u00bfEs cierto que el resultado de la multiplicaci\u00f3n de dos n\u00fameros pares siempre ser\u00e1 par? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1358,
+        "pregunta": "La resta es conmutativa, es decir, el orden de los n\u00fameros involucrados no altera el resultado. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1359,
+        "pregunta": "La suma de dos n\u00fameros impares siempre es un n\u00famero impar. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1360,
+        "pregunta": "\u00bfEs cierto que en la multiplicaci\u00f3n de n\u00fameros pares siempre obtendremos un n\u00famero par como resultado? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1361,
+        "pregunta": "\u00bfEs verdadero que la propiedad conmutativa en la multiplicaci\u00f3n establece que el orden de los factores no altera el producto? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1362,
+        "pregunta": "\u00bfEs cierto que en la multiplicaci\u00f3n de dos n\u00fameros enteros positivos, el resultado siempre ser\u00e1 un n\u00famero positivo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1363,
+        "pregunta": "\u00bfEs cierto que el producto de dos n\u00fameros impares siempre es impar? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1364,
+        "pregunta": "\u00bfEs verdad que la resta de dos n\u00fameros impares siempre da como resultado un n\u00famero par? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1365,
+        "pregunta": "Los n\u00fameros irracionales pueden expresarse como fracciones simples. VERDADERO o FALSO. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1366,
+        "pregunta": "\u00bfEs verdadero que la suma de dos n\u00fameros impares siempre resulta en un n\u00famero par? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1367,
+        "pregunta": "Los n\u00fameros primos son aquellos que tienen exactamente dos divisores: el 1 y el propio n\u00famero. True or False? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1368,
+        "pregunta": "En una divisi\u00f3n, el dividendo se encuentra en la parte superior y el divisor en la parte inferior. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1369,
+        "pregunta": "La ra\u00edz c\u00fabica de un n\u00famero negativo siempre es un n\u00famero negativo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1370,
+        "pregunta": "\u00bfEs verdadero que la sustracci\u00f3n de un n\u00famero negativo a otro n\u00famero negativo siempre resulta en un n\u00famero positivo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1371,
+        "pregunta": "La multiplicaci\u00f3n de dos n\u00fameros primos siempre resultar\u00e1 en un n\u00famero primo. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1372,
+        "pregunta": "La siguiente afirmaci\u00f3n es verdadera o falsa: \"En una divisi\u00f3n, si el dividendo es negativo y el divisor es positivo, el cociente siempre ser\u00e1 negativo\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1373,
+        "pregunta": "En una multiplicaci\u00f3n de dos n\u00fameros de 4 d\u00edgitos, el resultado siempre tendr\u00e1 al menos 7 d\u00edgitos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1374,
+        "pregunta": "El resultado de la siguiente operaci\u00f3n es un n\u00famero primo: 7! - 2^3 + 5 Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1375,
+        "pregunta": "\u00bfEs cierto que cualquier n\u00famero entero elevado a la potencia de 0 es igual a 1? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1376,
+        "pregunta": "La expresi\u00f3n matem\u00e1tica 2^4 - 6*3 / 2 = 10 es verdadera. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1377,
+        "pregunta": "La suma de dos n\u00fameros primos siempre es un n\u00famero primo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1378,
+        "pregunta": "Los n\u00fameros primos son aquellos que no pueden ser divididos por ning\u00fan otro n\u00famero que no sea 1 o ellos mismos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1379,
+        "pregunta": "La operaci\u00f3n matem\u00e1tica conocida como \"ra\u00edz cuadrada\" siempre da como resultado un n\u00famero entero. Verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1380,
+        "pregunta": "Los n\u00fameros primos son aquellos que pueden ser expresados como el producto de dos n\u00fameros primos distintos. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1381,
+        "pregunta": "El resultado de la operaci\u00f3n (5^3 + 7^2) / 4^2 es un n\u00famero racional. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1382,
+        "pregunta": "La expresi\u00f3n matem\u00e1tica \"2^3 * 4 - 5 + 10/2\" es igual a 13. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1383,
+        "pregunta": "El residuo de la divisi\u00f3n de 547289 entre 19 es 6. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
     }
 ]
