@@ -5388,5 +5388,925 @@
         "id_respuesta": 1078,
         "respuesta": "b) Los Aztecas construyeron las pir\u00e1mides de Teotihuac\u00e1n",
         "id_pregunta": 1078
+    },
+    {
+        "id_respuesta": 1079,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1079
+    },
+    {
+        "id_respuesta": 1080,
+        "respuesta": " Falso",
+        "id_pregunta": 1080
+    },
+    {
+        "id_respuesta": 1081,
+        "respuesta": " Falso",
+        "id_pregunta": 1081
+    },
+    {
+        "id_respuesta": 1082,
+        "respuesta": " True",
+        "id_pregunta": 1082
+    },
+    {
+        "id_respuesta": 1083,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1083
+    },
+    {
+        "id_respuesta": 1084,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1084
+    },
+    {
+        "id_respuesta": 1085,
+        "respuesta": " Falso",
+        "id_pregunta": 1085
+    },
+    {
+        "id_respuesta": 1086,
+        "respuesta": " True",
+        "id_pregunta": 1086
+    },
+    {
+        "id_respuesta": 1087,
+        "respuesta": " Verdadero ",
+        "id_pregunta": 1087
+    },
+    {
+        "id_respuesta": 1088,
+        "respuesta": " Falso",
+        "id_pregunta": 1088
+    },
+    {
+        "id_respuesta": 1089,
+        "respuesta": " Falso",
+        "id_pregunta": 1089
+    },
+    {
+        "id_respuesta": 1090,
+        "respuesta": " Falso",
+        "id_pregunta": 1090
+    },
+    {
+        "id_respuesta": 1091,
+        "respuesta": " Falso",
+        "id_pregunta": 1091
+    },
+    {
+        "id_respuesta": 1092,
+        "respuesta": " Falso",
+        "id_pregunta": 1092
+    },
+    {
+        "id_respuesta": 1093,
+        "respuesta": " Falso",
+        "id_pregunta": 1093
+    },
+    {
+        "id_respuesta": 1094,
+        "respuesta": " Falso",
+        "id_pregunta": 1094
+    },
+    {
+        "id_respuesta": 1095,
+        "respuesta": " Falso",
+        "id_pregunta": 1095
+    },
+    {
+        "id_respuesta": 1096,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1096
+    },
+    {
+        "id_respuesta": 1097,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1097
+    },
+    {
+        "id_respuesta": 1098,
+        "respuesta": " Falso",
+        "id_pregunta": 1098
+    },
+    {
+        "id_respuesta": 1099,
+        "respuesta": " Falso",
+        "id_pregunta": 1099
+    },
+    {
+        "id_respuesta": 1100,
+        "respuesta": " Falso",
+        "id_pregunta": 1100
+    },
+    {
+        "id_respuesta": 1101,
+        "respuesta": " True",
+        "id_pregunta": 1101
+    },
+    {
+        "id_respuesta": 1102,
+        "respuesta": " Falso",
+        "id_pregunta": 1102
+    },
+    {
+        "id_respuesta": 1103,
+        "respuesta": " Falso",
+        "id_pregunta": 1103
+    },
+    {
+        "id_respuesta": 1104,
+        "respuesta": " Falso",
+        "id_pregunta": 1104
+    },
+    {
+        "id_respuesta": 1105,
+        "respuesta": " Falso",
+        "id_pregunta": 1105
+    },
+    {
+        "id_respuesta": 1106,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1106
+    },
+    {
+        "id_respuesta": 1107,
+        "respuesta": " True",
+        "id_pregunta": 1107
+    },
+    {
+        "id_respuesta": 1108,
+        "respuesta": " Falso",
+        "id_pregunta": 1108
+    },
+    {
+        "id_respuesta": 1109,
+        "respuesta": " True",
+        "id_pregunta": 1109
+    },
+    {
+        "id_respuesta": 1110,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1110
+    },
+    {
+        "id_respuesta": 1111,
+        "respuesta": " True",
+        "id_pregunta": 1111
+    },
+    {
+        "id_respuesta": 1112,
+        "respuesta": " Falso",
+        "id_pregunta": 1112
+    },
+    {
+        "id_respuesta": 1113,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1113
+    },
+    {
+        "id_respuesta": 1114,
+        "respuesta": " Falso",
+        "id_pregunta": 1114
+    },
+    {
+        "id_respuesta": 1115,
+        "respuesta": " Falso",
+        "id_pregunta": 1115
+    },
+    {
+        "id_respuesta": 1116,
+        "respuesta": " Falso",
+        "id_pregunta": 1116
+    },
+    {
+        "id_respuesta": 1117,
+        "respuesta": " Falso",
+        "id_pregunta": 1117
+    },
+    {
+        "id_respuesta": 1118,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1118
+    },
+    {
+        "id_respuesta": 1119,
+        "respuesta": " Falso",
+        "id_pregunta": 1119
+    },
+    {
+        "id_respuesta": 1120,
+        "respuesta": " Falso",
+        "id_pregunta": 1120
+    },
+    {
+        "id_respuesta": 1121,
+        "respuesta": " Falso",
+        "id_pregunta": 1121
+    },
+    {
+        "id_respuesta": 1122,
+        "respuesta": " Falso \nLa verdadera respuesta es: \"Si la conclusi\u00f3n de un enunciado l\u00f3gico es falsa, entonces al menos una de las premisas debe ser falsa\"",
+        "id_pregunta": 1122
+    },
+    {
+        "id_respuesta": 1123,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1123
+    },
+    {
+        "id_respuesta": 1124,
+        "respuesta": " True",
+        "id_pregunta": 1124
+    },
+    {
+        "id_respuesta": 1125,
+        "respuesta": " True",
+        "id_pregunta": 1125
+    },
+    {
+        "id_respuesta": 1126,
+        "respuesta": " Falso",
+        "id_pregunta": 1126
+    },
+    {
+        "id_respuesta": 1127,
+        "respuesta": " Falso",
+        "id_pregunta": 1127
+    },
+    {
+        "id_respuesta": 1128,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1128
+    },
+    {
+        "id_respuesta": 1129,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1129
+    },
+    {
+        "id_respuesta": 1130,
+        "respuesta": " True",
+        "id_pregunta": 1130
+    },
+    {
+        "id_respuesta": 1131,
+        "respuesta": " True",
+        "id_pregunta": 1131
+    },
+    {
+        "id_respuesta": 1132,
+        "respuesta": " Falso",
+        "id_pregunta": 1132
+    },
+    {
+        "id_respuesta": 1133,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1133
+    },
+    {
+        "id_respuesta": 1134,
+        "respuesta": " True",
+        "id_pregunta": 1134
+    },
+    {
+        "id_respuesta": 1135,
+        "respuesta": " Falso",
+        "id_pregunta": 1135
+    },
+    {
+        "id_respuesta": 1136,
+        "respuesta": " True",
+        "id_pregunta": 1136
+    },
+    {
+        "id_respuesta": 1137,
+        "respuesta": " Falso",
+        "id_pregunta": 1137
+    },
+    {
+        "id_respuesta": 1138,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1138
+    },
+    {
+        "id_respuesta": 1139,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1139
+    },
+    {
+        "id_respuesta": 1140,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1140
+    },
+    {
+        "id_respuesta": 1141,
+        "respuesta": " Falso",
+        "id_pregunta": 1141
+    },
+    {
+        "id_respuesta": 1142,
+        "respuesta": " Falso",
+        "id_pregunta": 1142
+    },
+    {
+        "id_respuesta": 1143,
+        "respuesta": " Falso",
+        "id_pregunta": 1143
+    },
+    {
+        "id_respuesta": 1144,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1144
+    },
+    {
+        "id_respuesta": 1145,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1145
+    },
+    {
+        "id_respuesta": 1146,
+        "respuesta": " True",
+        "id_pregunta": 1146
+    },
+    {
+        "id_respuesta": 1147,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1147
+    },
+    {
+        "id_respuesta": 1148,
+        "respuesta": " Falso",
+        "id_pregunta": 1148
+    },
+    {
+        "id_respuesta": 1149,
+        "respuesta": " Falso",
+        "id_pregunta": 1149
+    },
+    {
+        "id_respuesta": 1150,
+        "respuesta": " Falso",
+        "id_pregunta": 1150
+    },
+    {
+        "id_respuesta": 1151,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1151
+    },
+    {
+        "id_respuesta": 1152,
+        "respuesta": " True",
+        "id_pregunta": 1152
+    },
+    {
+        "id_respuesta": 1153,
+        "respuesta": " Falso",
+        "id_pregunta": 1153
+    },
+    {
+        "id_respuesta": 1154,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1154
+    },
+    {
+        "id_respuesta": 1155,
+        "respuesta": " Falso",
+        "id_pregunta": 1155
+    },
+    {
+        "id_respuesta": 1156,
+        "respuesta": " Falso",
+        "id_pregunta": 1156
+    },
+    {
+        "id_respuesta": 1157,
+        "respuesta": " True",
+        "id_pregunta": 1157
+    },
+    {
+        "id_respuesta": 1158,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1158
+    },
+    {
+        "id_respuesta": 1159,
+        "respuesta": " Falso",
+        "id_pregunta": 1159
+    },
+    {
+        "id_respuesta": 1160,
+        "respuesta": " True",
+        "id_pregunta": 1160
+    },
+    {
+        "id_respuesta": 1161,
+        "respuesta": " Falso",
+        "id_pregunta": 1161
+    },
+    {
+        "id_respuesta": 1162,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1162
+    },
+    {
+        "id_respuesta": 1163,
+        "respuesta": " True",
+        "id_pregunta": 1163
+    },
+    {
+        "id_respuesta": 1164,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1164
+    },
+    {
+        "id_respuesta": 1165,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1165
+    },
+    {
+        "id_respuesta": 1166,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1166
+    },
+    {
+        "id_respuesta": 1167,
+        "respuesta": " Falso",
+        "id_pregunta": 1167
+    },
+    {
+        "id_respuesta": 1168,
+        "respuesta": " True",
+        "id_pregunta": 1168
+    },
+    {
+        "id_respuesta": 1169,
+        "respuesta": " Falso",
+        "id_pregunta": 1169
+    },
+    {
+        "id_respuesta": 1170,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1170
+    },
+    {
+        "id_respuesta": 1171,
+        "respuesta": " True",
+        "id_pregunta": 1171
+    },
+    {
+        "id_respuesta": 1172,
+        "respuesta": " Falso",
+        "id_pregunta": 1172
+    },
+    {
+        "id_respuesta": 1173,
+        "respuesta": " Falso",
+        "id_pregunta": 1173
+    },
+    {
+        "id_respuesta": 1174,
+        "respuesta": " True",
+        "id_pregunta": 1174
+    },
+    {
+        "id_respuesta": 1175,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1175
+    },
+    {
+        "id_respuesta": 1176,
+        "respuesta": " True",
+        "id_pregunta": 1176
+    },
+    {
+        "id_respuesta": 1177,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1177
+    },
+    {
+        "id_respuesta": 1178,
+        "respuesta": " Falso",
+        "id_pregunta": 1178
+    },
+    {
+        "id_respuesta": 1179,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1179
+    },
+    {
+        "id_respuesta": 1180,
+        "respuesta": " True",
+        "id_pregunta": 1180
+    },
+    {
+        "id_respuesta": 1181,
+        "respuesta": " Falso",
+        "id_pregunta": 1181
+    },
+    {
+        "id_respuesta": 1182,
+        "respuesta": " True",
+        "id_pregunta": 1182
+    },
+    {
+        "id_respuesta": 1183,
+        "respuesta": " Falso",
+        "id_pregunta": 1183
+    },
+    {
+        "id_respuesta": 1184,
+        "respuesta": " True",
+        "id_pregunta": 1184
+    },
+    {
+        "id_respuesta": 1185,
+        "respuesta": " True",
+        "id_pregunta": 1185
+    },
+    {
+        "id_respuesta": 1186,
+        "respuesta": " Falso",
+        "id_pregunta": 1186
+    },
+    {
+        "id_respuesta": 1187,
+        "respuesta": " Falso",
+        "id_pregunta": 1187
+    },
+    {
+        "id_respuesta": 1188,
+        "respuesta": " C) Oso polar",
+        "id_pregunta": 1188
+    },
+    {
+        "id_respuesta": 1189,
+        "respuesta": " b) Francisco de Goya",
+        "id_pregunta": 1189
+    },
+    {
+        "id_respuesta": 1190,
+        "respuesta": " C) Madrid \u00ad\u00ad\u00ad\u2013 El Museo Nacional del Prado, en Madrid, posee la mayor y m\u00e1s conocida versi\u00f3n de \u00abEl David\u00bb de Michelangelo",
+        "id_pregunta": 1190
+    },
+    {
+        "id_respuesta": 1191,
+        "respuesta": " b) Pit\u00e1goras",
+        "id_pregunta": 1191
+    },
+    {
+        "id_respuesta": 1192,
+        "respuesta": " La respuesta es c) India, pues es uno de los pa\u00edses con poblaci\u00f3n m\u00e1s grande del mundo, despu\u00e9s de Chine y avanzando a Estados Unidos",
+        "id_pregunta": 1192
+    },
+    {
+        "id_respuesta": 1193,
+        "respuesta": " C) Gabriel Garc\u00eda M\u00e1rquez es el autor de \"Cien a\u00f1os de soledad\"",
+        "id_pregunta": 1193
+    },
+    {
+        "id_respuesta": 1194,
+        "respuesta": " C) Claude Monet es uno de los m\u00e1ximos exponentes del impresionismo, especialmente con sus obras \"The Water Lilies\" y \"Impression, Sunrise\"",
+        "id_pregunta": 1194
+    },
+    {
+        "id_respuesta": 1195,
+        "respuesta": " La respuesta es (c) \"Rayuela\", que fue escrita por Julio Cort\u00e1zar",
+        "id_pregunta": 1195
+    },
+    {
+        "id_respuesta": 1196,
+        "respuesta": " La primera novela escrita por Gabriel Garc\u00eda M\u00e1rquez fue la A a) Cien a\u00f1os de soledad",
+        "id_pregunta": 1196
+    },
+    {
+        "id_respuesta": 1197,
+        "respuesta": " C) Sud\u00e1n respuesta muy directa y corta \u00bfEn qu\u00e9 pa\u00eds se encuentra la ciudad de Timbuktu?\n\na) Mal\u00ed\nb) Egipto\nc) Sud\u00e1n\n\nSud\u00e1n es el pa\u00eds que posee la ciudad de Timbuktu",
+        "id_pregunta": 1197
+    },
+    {
+        "id_respuesta": 1198,
+        "respuesta": " a) Salvador es la respuesta correcta, tambi\u00e9n es la ciudad m\u00e1s antigua de Brasil",
+        "id_pregunta": 1198
+    },
+    {
+        "id_respuesta": 1199,
+        "respuesta": " C) La corriente alterna",
+        "id_pregunta": 1199
+    },
+    {
+        "id_respuesta": 1200,
+        "respuesta": " C) Los Nazcas",
+        "id_pregunta": 1200
+    },
+    {
+        "id_respuesta": 1201,
+        "respuesta": " \"1984\" es la obra literaria escrita por George Orwell, que es un autor brit\u00e1nico",
+        "id_pregunta": 1201
+    },
+    {
+        "id_respuesta": 1202,
+        "respuesta": " a) 1521 - La ciudad de Lima fue fundada el 25 de abril de 1535 por Pizarro y sus compa\u00f1eros",
+        "id_pregunta": 1202
+    },
+    {
+        "id_respuesta": 1203,
+        "respuesta": " La respuesta es 20, ya que 5 x 4 = 20",
+        "id_pregunta": 1203
+    },
+    {
+        "id_respuesta": 1204,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 1204
+    },
+    {
+        "id_respuesta": 1205,
+        "respuesta": " La suma de 5 + 7 es 12",
+        "id_pregunta": 1205
+    },
+    {
+        "id_respuesta": 1206,
+        "respuesta": " La respuesta es 40",
+        "id_pregunta": 1206
+    },
+    {
+        "id_respuesta": 1207,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 1207
+    },
+    {
+        "id_respuesta": 1208,
+        "respuesta": " Es la misma que dice: 22",
+        "id_pregunta": 1208
+    },
+    {
+        "id_respuesta": 1209,
+        "respuesta": " The result of the mathematical operation 15 + 20 - 5 is 30",
+        "id_pregunta": 1209
+    },
+    {
+        "id_respuesta": 1210,
+        "respuesta": " The result of 5 + 3 is 8",
+        "id_pregunta": 1210
+    },
+    {
+        "id_respuesta": 1211,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 1211
+    },
+    {
+        "id_respuesta": 1212,
+        "respuesta": " The result of the mathematical operation 5 + 3 x 2 is 17",
+        "id_pregunta": 1212
+    },
+    {
+        "id_respuesta": 1213,
+        "respuesta": " The result of the operation is 30",
+        "id_pregunta": 1213
+    },
+    {
+        "id_respuesta": 1214,
+        "respuesta": " 6 multiplicado por 4 es 24",
+        "id_pregunta": 1214
+    },
+    {
+        "id_respuesta": 1215,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 1215
+    },
+    {
+        "id_respuesta": 1216,
+        "respuesta": " The result of 5 + 3 is 8",
+        "id_pregunta": 1216
+    },
+    {
+        "id_respuesta": 1217,
+        "respuesta": " La respuesta es 100, porque 25 multiplicado por 4 es cuatro veces la misma cantidad: 25",
+        "id_pregunta": 1217
+    },
+    {
+        "id_respuesta": 1218,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 1218
+    },
+    {
+        "id_respuesta": 1219,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 1219
+    },
+    {
+        "id_respuesta": 1220,
+        "respuesta": " The sum of 5 and 3 is 8",
+        "id_pregunta": 1220
+    },
+    {
+        "id_respuesta": 1221,
+        "respuesta": " La respuesta es 100, porque 25 multiplicado por 4 es cuatro veces la misma cantidad: 25",
+        "id_pregunta": 1221
+    },
+    {
+        "id_respuesta": 1222,
+        "respuesta": " La suma de 3 + 5 es 8",
+        "id_pregunta": 1222
+    },
+    {
+        "id_respuesta": 1223,
+        "respuesta": " The direct and short answer is that the mathematical operation you're asking about evaluates to 11",
+        "id_pregunta": 1223
+    },
+    {
+        "id_respuesta": 1224,
+        "respuesta": " The result of the mathematical operation, \\(8 \\times (15 - 3)\\), is 120",
+        "id_pregunta": 1224
+    },
+    {
+        "id_respuesta": 1225,
+        "respuesta": " El resultado final de la operaci\u00f3n matem\u00e1tica es 23",
+        "id_pregunta": 1225
+    },
+    {
+        "id_respuesta": 1226,
+        "respuesta": " The result of the mathematical operation 126 + 78 - 32 x 4 is 98",
+        "id_pregunta": 1226
+    },
+    {
+        "id_respuesta": 1227,
+        "respuesta": " The result of the sum of 78 plus 43 is 121",
+        "id_pregunta": 1227
+    },
+    {
+        "id_respuesta": 1228,
+        "respuesta": " Here is a possible step-by-step solution to the mathematical operation you provided: \n1",
+        "id_pregunta": 1228
+    },
+    {
+        "id_respuesta": 1229,
+        "respuesta": " La respuesta es 63, pues:\n25 x 4 - 12 = 63",
+        "id_pregunta": 1229
+    },
+    {
+        "id_respuesta": 1230,
+        "respuesta": " El resultado de la operaci\u00f3n matem\u00e1tica es 41",
+        "id_pregunta": 1230
+    },
+    {
+        "id_respuesta": 1231,
+        "respuesta": " The result of the mathematical operation is 29",
+        "id_pregunta": 1231
+    },
+    {
+        "id_respuesta": 1232,
+        "respuesta": " The direct and short answer to the mathematical operation is that it equals $49$",
+        "id_pregunta": 1232
+    },
+    {
+        "id_respuesta": 1233,
+        "respuesta": " The result of the mathematical operation: 68 \u00f7 4 x 7 + 15; is 91",
+        "id_pregunta": 1233
+    },
+    {
+        "id_respuesta": 1234,
+        "respuesta": " The result of the mathematical operation of multiplying the sums of 32 and 18 by 5 is required",
+        "id_pregunta": 1234
+    },
+    {
+        "id_respuesta": 1235,
+        "respuesta": " El resultado de realizar la operaci\u00f3n de multiplicar 25 por 4, y luego sumarle 12, es de 100",
+        "id_pregunta": 1235
+    },
+    {
+        "id_respuesta": 1236,
+        "respuesta": " The result of the mathematical operation 20 + 8 x 2 - 4 \u00f7 2 is 36",
+        "id_pregunta": 1236
+    },
+    {
+        "id_respuesta": 1237,
+        "respuesta": " The result of the mathematical operation of ((7 + 5) x 2) - 4 is 16",
+        "id_pregunta": 1237
+    },
+    {
+        "id_respuesta": 1238,
+        "respuesta": " The result of the operation is 292",
+        "id_pregunta": 1238
+    },
+    {
+        "id_respuesta": 1239,
+        "respuesta": " The result of the operation 25 + 37 - 18 is 50",
+        "id_pregunta": 1239
+    },
+    {
+        "id_respuesta": 1240,
+        "respuesta": " The result of the mathematical operation 25 - 13 x 2 \u00f7 4 is -5",
+        "id_pregunta": 1240
+    },
+    {
+        "id_respuesta": 1241,
+        "respuesta": " El resultado final de la operaci\u00f3n matem\u00e1tica es los n\u00fameros $12$ y $3$ multiplyed en vectores, conectando sus dos numeros $4$ veces m\u00e1s el resultado inicial",
+        "id_pregunta": 1241
+    },
+    {
+        "id_respuesta": 1242,
+        "respuesta": " El resultado final de la operaci\u00f3n es 17",
+        "id_pregunta": 1242
+    },
+    {
+        "id_respuesta": 1243,
+        "respuesta": " The result of the mathematical operation is negative, it is worth saying that this operation involves several different operations, note the following:\n- First, we have to divide 345^2 and 548 between 37 and 6, doing the following operations:\n(345^2 + 548) / (37 x 6) \n= (123,025 + 291,840) / 2,110\n= 415,865 / 2,110\n= 191",
+        "id_pregunta": 1243
+    },
+    {
+        "id_respuesta": 1244,
+        "respuesta": " The result of the operation 3876 \u00f7 23, rounded to two decimals, is 167",
+        "id_pregunta": 1244
+    },
+    {
+        "id_respuesta": 1245,
+        "respuesta": " El resultado de la suma de los primeros 50 n\u00fameros primos es 1050",
+        "id_pregunta": 1245
+    },
+    {
+        "id_respuesta": 1246,
+        "respuesta": " The result of the mathematical operation is 77",
+        "id_pregunta": 1246
+    },
+    {
+        "id_respuesta": 1247,
+        "respuesta": " The result of the mathematical operation is `37`",
+        "id_pregunta": 1247
+    },
+    {
+        "id_respuesta": 1248,
+        "respuesta": " The result of the operation is 403",
+        "id_pregunta": 1248
+    },
+    {
+        "id_respuesta": 1249,
+        "respuesta": " El resultado final de la operaci\u00f3n matem\u00e1tica es \\(1",
+        "id_pregunta": 1249
+    },
+    {
+        "id_respuesta": 1250,
+        "respuesta": " The result of multiplying 5678 by 1234 is 69479200",
+        "id_pregunta": 1250
+    },
+    {
+        "id_respuesta": 1251,
+        "respuesta": " The result of the given mathematical operation is 208",
+        "id_pregunta": 1251
+    },
+    {
+        "id_respuesta": 1252,
+        "respuesta": " The result of the mathematical operation is 113,952",
+        "id_pregunta": 1252
+    },
+    {
+        "id_respuesta": 1253,
+        "respuesta": " The result of the expression is 77",
+        "id_pregunta": 1253
+    },
+    {
+        "id_respuesta": 1254,
+        "respuesta": " The result of this mathematical operation is negative, specifically it is -56",
+        "id_pregunta": 1254
+    },
+    {
+        "id_respuesta": 1255,
+        "respuesta": " The result of the mathematical operation is 27",
+        "id_pregunta": 1255
+    },
+    {
+        "id_respuesta": 1256,
+        "respuesta": " The result of the mathematical operation of (5^2 + 3) x 4 - 7 is 74",
+        "id_pregunta": 1256
+    },
+    {
+        "id_respuesta": 1257,
+        "respuesta": " The result of the given operation is 39",
+        "id_pregunta": 1257
+    },
+    {
+        "id_respuesta": 1258,
+        "respuesta": " The result of the mathematical operation 5284 - (789 x 23) + 654 \u00f7 3 is 194",
+        "id_pregunta": 1258
+    },
+    {
+        "id_respuesta": 1259,
+        "respuesta": " The result of the mathematical operation 3456 / (12 x 8) + 126 x 4 - 27^2 is 392",
+        "id_pregunta": 1259
+    },
+    {
+        "id_respuesta": 1260,
+        "respuesta": " The mathematical operation receives the following result:\n$(4573 \\div 37) \\times 8 + 98$\n$= \\frac{4573}{37} \\times 8 + 98$\n$= 33792 + 98$\n$= 34,890$",
+        "id_pregunta": 1260
+    },
+    {
+        "id_respuesta": 1261,
+        "respuesta": " The result of the given operation is 407",
+        "id_pregunta": 1261
+    },
+    {
+        "id_respuesta": 1262,
+        "respuesta": " The result of the mathematical operation is `379`",
+        "id_pregunta": 1262
     }
 ]

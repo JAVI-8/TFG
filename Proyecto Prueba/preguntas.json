@@ -7537,5 +7537,1300 @@
         "tipo": "test con 3 opciones",
         "tema": "cultura general",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1078,
+        "pregunta": "La paradoja del mentiroso es un ejemplo de paradoja l\u00f3gica en donde una afirmaci\u00f3n que se autodefine como falsa puede ser verdadera. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1079,
+        "pregunta": "\u00bfEs posible que una premisa verdadera lleve a una conclusi\u00f3n falsa en un argumento v\u00e1lido? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1080,
+        "pregunta": "\u00bfUn argumento v\u00e1lido siempre tiene premisas verdaderas? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1081,
+        "pregunta": "Es posible construir un enunciado l\u00f3gico que sea simult\u00e1neamente verdadero y falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1082,
+        "pregunta": "Los tri\u00e1ngulos equil\u00e1teros tienen siempre un \u00e1ngulo recto. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1083,
+        "pregunta": "Las oraciones condicionales siempre deben seguir el formato \"Si p entonces q\" para ser consideradas v\u00e1lidas. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1084,
+        "pregunta": "\u00bfEs cierto que en l\u00f3gica, un argumento v\u00e1lido puede tener premisas falsas y una conclusi\u00f3n verdadera? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1085,
+        "pregunta": "Es posible que una proposici\u00f3n l\u00f3gica sea verdadera y falsa al mismo tiempo.  Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1086,
+        "pregunta": "Los argumentos l\u00f3gicos siempre son v\u00e1lidos y ver\u00eddicos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1087,
+        "pregunta": "Un cuadrado es un tipo de rect\u00e1ngulo. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1088,
+        "pregunta": "\u00bfEs posible que una premisa falsa lleve a una conclusi\u00f3n verdadera en un argumento l\u00f3gico v\u00e1lido? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1089,
+        "pregunta": "La falacia de la pendiente resbaladiza sostiene que si se permite que ocurra un acontecimiento, luego ocurrir\u00e1 inevitablemente otro relacionado. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1090,
+        "pregunta": "Los gatos son animales que siempre caen de pie. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1091,
+        "pregunta": "Las afirmaciones \"Este enunciado es falso\" y \"Este enunciado es verdadero\" son l\u00f3gicamente coherentes. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1092,
+        "pregunta": "\u00bfEs cierto que la afirmaci\u00f3n \"Esta frase es falsa\" puede ser verdadera y falsa al mismo tiempo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1093,
+        "pregunta": "\u00bfEs cierto que en la l\u00f3gica, una premisa falsa siempre conduce a una conclusi\u00f3n falsa? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1094,
+        "pregunta": "\u00bfEs posible que una afirmaci\u00f3n l\u00f3gica sea verdadera y falsa al mismo tiempo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1095,
+        "pregunta": "Los elefantes son animales que pueden volar. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1096,
+        "pregunta": "En una serie de n\u00fameros, si el n\u00famero anterior al 6 es el doble del n\u00famero siguiente, entonces el n\u00famero que sigue es un n\u00famero impar. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1097,
+        "pregunta": "El principio de explosi\u00f3n en l\u00f3gica establece que de una contradicci\u00f3n se puede derivar cualquier proposici\u00f3n. (Verdadero/Falso) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1098,
+        "pregunta": "\u00bfEs posible que una premisa falsa conduzca a una conclusi\u00f3n verdadera en un argumento l\u00f3gico v\u00e1lido? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1099,
+        "pregunta": "\u00bfEs posible que una proposici\u00f3n contradiga a otra proposici\u00f3n y ambas sean verdaderas en el \u00e1mbito de la l\u00f3gica? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1100,
+        "pregunta": "\u00bfEs posible que una proposici\u00f3n l\u00f3gica sea verdadera y falsa al mismo tiempo en un mismo contexto? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1101,
+        "pregunta": "El axioma de elecci\u00f3n es un principio l\u00f3gico aceptado por todos los matem\u00e1ticos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1102,
+        "pregunta": "\u00bfUn enunciado l\u00f3gico puede ser verdadero y falso al mismo tiempo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1103,
+        "pregunta": "Cierto o falso: Todos los enunciados que contienen la palabra \"nunca\" son siempre falsos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1104,
+        "pregunta": "\u00bfEs posible que una afirmaci\u00f3n l\u00f3gica sea verdadera y falsa al mismo tiempo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1105,
+        "pregunta": "El enunciado \"Esta frase es falsa\" es autocontradictorio y no tiene un valor de verdad definido. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1106,
+        "pregunta": "\u00bfEs posible tener una premisa verdadera, una conclusi\u00f3n verdadera y un argumento inv\u00e1lido en un razonamiento l\u00f3gico? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1107,
+        "pregunta": "La paradoja del mentiroso es un ejemplo de una proposici\u00f3n l\u00f3gica v\u00e1lida. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1108,
+        "pregunta": "La paradoja del mentiroso es un enunciado l\u00f3gico que puede ser verdadero o falso, pero nunca ambas cosas a la vez. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1109,
+        "pregunta": "Los n\u00fameros pares son siempre mayores que los n\u00fameros impares. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1110,
+        "pregunta": "Verdadero o falso: En la l\u00f3gica, el principio de no contradicci\u00f3n establece que una proposici\u00f3n no puede ser verdadera y falsa al mismo tiempo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1111,
+        "pregunta": "La paradoja del mentiroso es un enunciado l\u00f3gico que se resuelve f\u00e1cilmente con una tabla de verdad. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1112,
+        "pregunta": "Pregunta: En l\u00f3gica, el principio de explosi\u00f3n establece que si una contradicci\u00f3n es verdadera, entonces cualquier proposici\u00f3n es verdadera. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1113,
+        "pregunta": "En un grupo de personas, si al menos dos personas no son amigas de todas las dem\u00e1s, entonces existe un par de personas que son amigas mutuamente. (Verdadero o falso) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1114,
+        "pregunta": "La paradoja del mentiroso es una proposici\u00f3n autocontradictoria que puede ser verdadera o falsa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1115,
+        "pregunta": "La paradoja del mentiroso es un enunciado l\u00f3gico que siempre tiene una respuesta verdadera. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1116,
+        "pregunta": "Verdadero o falso: En la l\u00f3gica proposicional, una proposici\u00f3n es considerada v\u00e1lida si es verdadera en todas las interpretaciones posibles. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1117,
+        "pregunta": "\u00bfEl enunciado \"Esta afirmaci\u00f3n es falsa\" es verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1118,
+        "pregunta": "La paradoja del mentiroso es un ejemplo de una proposici\u00f3n que es verdadera y falsa al mismo tiempo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1119,
+        "pregunta": "La paradoja del mentiroso es un enunciado l\u00f3gico que, si es verdadero, implica que es falso, y si es falso, implica que es verdadero. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1120,
+        "pregunta": "La paradoja del mentiroso es un problema l\u00f3gico que se resuelve f\u00e1cilmente con una respuesta l\u00f3gica. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1121,
+        "pregunta": "\u00bfEs posible que una proposici\u00f3n l\u00f3gica sea verdadera y falsa al mismo tiempo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1122,
+        "pregunta": "En un enunciado l\u00f3gico, si la conclusi\u00f3n es falsa, entonces al menos una de las premisas debe ser falsa. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1123,
+        "pregunta": "El Monte Everest es la monta\u00f1a m\u00e1s alta del mundo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1124,
+        "pregunta": "Los Beatles fueron una banda de rock brit\u00e1nica que se form\u00f3 en Liverpool en 1960. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1125,
+        "pregunta": "La Gran Muralla China es visible desde el espacio. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1126,
+        "pregunta": "\u00bfLa Mona Lisa es una pintura creada por el artista espa\u00f1ol Pablo Picasso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1127,
+        "pregunta": "\u00bfEl himno nacional de Espa\u00f1a se llama \"La Marsellesa\"? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1128,
+        "pregunta": "\u00bfEl Monte Everest es la monta\u00f1a m\u00e1s alta del mundo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1129,
+        "pregunta": "La Mona Lisa, tambi\u00e9n conocida como La Gioconda, fue pintada por el famoso artista Leonardo da Vinci. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1130,
+        "pregunta": "La Gran Muralla China es la \u00fanica construcci\u00f3n hecha por el ser humano que puede ser vista desde el espacio. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1131,
+        "pregunta": "Las pir\u00e1mides de Egipto son consideradas una de las siete maravillas del mundo antiguo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1132,
+        "pregunta": "\u00bfLa Gran Muralla China es visible desde el espacio? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1133,
+        "pregunta": "El Monte Everest es la monta\u00f1a m\u00e1s alta del mundo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1134,
+        "pregunta": "La Gran Muralla China es la \u00fanica construcci\u00f3n hecha por el ser humano que puede ser vista desde el espacio. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1135,
+        "pregunta": "\u00bfLa Mona Lisa es una famosa obra de arte creada por Vincent van Gogh? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1136,
+        "pregunta": "La Gran Muralla China es la \u00fanica estructura hecha por el hombre visible desde el espacio. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1137,
+        "pregunta": "\u00bfLa Torre Eiffel se encuentra en la ciudad de Londres? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1138,
+        "pregunta": "\u00bfEl alfabeto griego cuenta con 24 letras? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1139,
+        "pregunta": "\u00bfLa Torre Eiffel se encuentra en Par\u00eds, Francia? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1140,
+        "pregunta": "La Gran Muralla China es visible desde la Luna. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1141,
+        "pregunta": "Las cataratas del Ni\u00e1gara se encuentran en Australia. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1142,
+        "pregunta": "\u00bfLa Gran Muralla China es visible desde el espacio? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1143,
+        "pregunta": "\u00bfLa Gran Muralla China es la \u00fanica estructura construida por el ser humano visible desde el espacio? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1144,
+        "pregunta": "\u00bfEl himno nacional de Espa\u00f1a tiene letra? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1145,
+        "pregunta": "Verdadero o falso: El Monte Everest es la monta\u00f1a m\u00e1s alta del mundo medida desde su base hasta su cima. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1146,
+        "pregunta": "\u00bfEl desfile de D\u00eda de Acci\u00f3n de Gracias de Macy's es una tradici\u00f3n anual que se celebra en Chicago? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1147,
+        "pregunta": "La Gran Muralla China es visible desde la Luna. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1148,
+        "pregunta": "\u00bfEl r\u00edo Nilo es el r\u00edo m\u00e1s largo del mundo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1149,
+        "pregunta": "\u00bfEl r\u00edo Nilo es el m\u00e1s largo del mundo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1150,
+        "pregunta": "\u00bfLa Gran Muralla China es visible desde la Luna? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1151,
+        "pregunta": "El t\u00e9 verde es originario de Jap\u00f3n. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1152,
+        "pregunta": "La Gran Muralla China es visible desde el espacio exterior. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1153,
+        "pregunta": "\u00bfEl Taj Mahal se encuentra en la ciudad de Delhi, India? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1154,
+        "pregunta": "La Mona Lisa de Leonardo da Vinci es considerada una de las pinturas m\u00e1s famosas y valiosas del mundo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1155,
+        "pregunta": "\u00bfLa Mona Lisa de Leonardo da Vinci se encuentra en la Galer\u00eda Uffizi de Florencia? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1156,
+        "pregunta": "\u00bfLa Gran Muralla China es la \u00fanica estructura hecha por el hombre visible desde el espacio? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1157,
+        "pregunta": "La cultura egipcia fue una de las civilizaciones m\u00e1s avanzadas en el campo de la medicina. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1158,
+        "pregunta": "El himno nacional de Jap\u00f3n se llama \"Kankaku no Fushi\". \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1159,
+        "pregunta": "\u00bfLa Mona Lisa fue pintada por el artista italiano Rafael? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1160,
+        "pregunta": "La Gran Muralla China es la \u00fanica construcci\u00f3n hecha por el ser humano que se puede ver desde el espacio. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1161,
+        "pregunta": "\u00bfEl papa Francisco es el primer papa latinoamericano en la historia de la Iglesia Cat\u00f3lica? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1162,
+        "pregunta": "La Mona Lisa de Leonardo da Vinci se encuentra en el Museo del Louvre en Par\u00eds, Francia. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "media"
+    },
+    {
+        "id": 1163,
+        "pregunta": "Durante la Segunda Guerra Mundial, La Resistencia Francesa fue un movimiento que se opuso activamente a la ocupaci\u00f3n alemana y colaboracionista en Francia. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1164,
+        "pregunta": "La Gran Muralla China es visible desde la Luna. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1165,
+        "pregunta": "\u00bfLa pintura \"El grito\" de Edvard Munch fue robada dos veces de dos museos diferentes? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1166,
+        "pregunta": "Verdadero o falso: El Taj Mahal, situado en la India, fue construido como mausoleo por el emperador Shah Jahan en memoria de su esposa Mumtaz Mahal. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1167,
+        "pregunta": "\u00bfEl cuadro \"La persistencia de la memoria\" fue pintado por Pablo Picasso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1168,
+        "pregunta": "\u00bfLa Torre Eiffel fue dise\u00f1ada por Gustave Eiffel para la Exposici\u00f3n Universal de Par\u00eds en 1889? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1169,
+        "pregunta": "\u00bfEl alfabeto cir\u00edlico fue creado por el emperador romano Constantino el Grande? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1170,
+        "pregunta": "La obra \"La Odisea\" fue escrita por Homero en el siglo V a.C.  Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1171,
+        "pregunta": "La Estatua de la Libertad fue un regalo de Francia a Estados Unidos en 1876 para conmemorar el centenario de la Declaraci\u00f3n de Independencia de Estados Unidos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1172,
+        "pregunta": "\u00bfLa famosa obra de Leonardo da Vinci \"La \u00faltima cena\" fue pintada directamente sobre la pared de un comedor en un monasterio de Mil\u00e1n, Italia? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1173,
+        "pregunta": "\u00bfEl poeta romano Virgilio naci\u00f3 en la ciudad de Atenas? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1174,
+        "pregunta": "La obra de teatro \"Romeo y Julieta\" fue escrita por William Shakespeare en el siglo XVI. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1175,
+        "pregunta": "El Vaticano es el pa\u00eds m\u00e1s peque\u00f1o del mundo en t\u00e9rminos de superficie. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1176,
+        "pregunta": "El director de cine Stanley Kubrick gan\u00f3 un premio \u00d3scar a Mejor Director por su pel\u00edcula \"2001: Una odisea del espacio\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1177,
+        "pregunta": "\u00bfEl \"Guernica\" de Picasso fue pintado en respuesta al bombardeo de la ciudad vasca de Guernica durante la Guerra Civil Espa\u00f1ola? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1178,
+        "pregunta": "\u00bfLa Gran Muralla China es visible desde el espacio exterior? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1179,
+        "pregunta": "La pir\u00e1mide de Keops es la m\u00e1s grande de las pir\u00e1mides de Egipto. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1180,
+        "pregunta": "El muro de Berl\u00edn separaba f\u00edsicamente a Alemania Oriental de Alemania Occidental durante la Guerra Fr\u00eda. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1181,
+        "pregunta": "\u00bfEl escritor ruso Fi\u00f3dor Dostoyevski fue condenado a muerte y posteriormente indultado por el gobierno zarista? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1182,
+        "pregunta": "La Mona Lisa de Leonardo da Vinci fue robada del Museo del Louvre en 1911 y recuperada dos a\u00f1os despu\u00e9s. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1183,
+        "pregunta": "\u00bfLa Mona Lisa, tambi\u00e9n conocida como La Gioconda, fue pintada por el artista renacentista Rafael Sanzio? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1184,
+        "pregunta": "La Gran Muralla China es la \u00fanica estructura hecha por el hombre visible desde el espacio. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1185,
+        "pregunta": "El Taj Mahal es un mausoleo construido en honor a la esposa del emperador Shah Jahan. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1186,
+        "pregunta": "\u00bfLa Gran Muralla China es visible desde el espacio exterior? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1187,
+        "pregunta": "\u00bfLa Capilla Sixtina, obra maestra del renacimiento italiano, fue pintada por Leonardo da Vinci? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1188,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes animales es considerado el m\u00e1s grande del mundo?\n\nA) Elefante africano\nB) Ballena azul\nC) Oso polar",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1189,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pintores perteneci\u00f3 al movimiento art\u00edstico del Barroco?\n\na) Pablo Picasso\nb) Francisco de Goya\nc) Caravaggio",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1190,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra la famosa escultura \"El David\" de Miguel \u00c1ngel?\na) Par\u00eds\nb) Florencia\nc) Madrid",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1191,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes fil\u00f3sofos fue contempor\u00e1neo de Plat\u00f3n y Arist\u00f3teles?\n\na) S\u00f3crates\nb) Pit\u00e1goras\nc) Tales de Mileto \n\nSeleccione la opci\u00f3n correcta.",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1192,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pa\u00edses tiene la poblaci\u00f3n m\u00e1s grande?\n\na) Estados Unidos\nb) China\nc) India",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1193,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes escritores es autor de la obra \"Cien a\u00f1os de soledad\"?\n\na) Mario Vargas Llosa\n\nb) Julio Cort\u00e1zar\n\nc) Gabriel Garc\u00eda M\u00e1rquez",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1194,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes pintores es considerado uno de los m\u00e1ximos exponentes del impresionismo?\n\nA) Vincent van Gogh\n\nB) Paul C\u00e9zanne\n\nC) Claude Monet",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1195,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes obras literarias NO fue escrita por Gabriel Garc\u00eda M\u00e1rquez?\n\na) \"Cien a\u00f1os de soledad\"\nb) \"El amor en los tiempos del c\u00f3lera\"\nc) \"Rayuela\"",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1196,
+        "pregunta": "\u00bfCu\u00e1l era el t\u00edtulo de la primera novela escrita por Gabriel Garc\u00eda M\u00e1rquez?\n\na) Cien a\u00f1os de soledad\nb) La hojarasca\nc) El coronel no tiene quien le escriba",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1197,
+        "pregunta": "\u00bfEn qu\u00e9 pa\u00eds se encuentra la ciudad de Timbuktu?\n\na) Mal\u00ed\nb) Egipto\nc) Sud\u00e1n",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1198,
+        "pregunta": "\u00bfCu\u00e1l fue la primera capital de Brasil?\n\na) Salvador\nb) R\u00edo de Janeiro\nc) Brasilia",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1199,
+        "pregunta": "\u00bfCu\u00e1l de los siguientes inventos fue desarrollado por Nikola Tesla?\n\na) El tel\u00e9fono\nb) El microscopio electr\u00f3nico\nc) La corriente alterna",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1200,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes civilizaciones construy\u00f3 las l\u00edneas de Nazca en Per\u00fa?\n\na) Los Mayas\nb) Los Incas\nc) Los Nazcas",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1201,
+        "pregunta": "\u00bfCu\u00e1l de las siguientes obras literarias fue escrita por el autor brit\u00e1nico George Orwell?\n\na) \"El Principito\"\nb) \"1984\"\nc) \"Don Quijote de la Mancha\"",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1202,
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se fund\u00f3 la ciudad peruana de Lima?\n\na) 1521\n\nb) 1535\n\nc) 1542",
+        "tipo": "test con 3 opciones",
+        "tema": "cultura general",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1203,
+        "pregunta": "\u00bfCu\u00e1nto es 5 x 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1204,
+        "pregunta": "\u00bfCu\u00e1nto es la suma de 5 + 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1205,
+        "pregunta": "\u00bfCu\u00e1nto es la suma de 5 + 7?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1206,
+        "pregunta": "\u00bfCu\u00e1nto es 8 multiplicado por 5?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1207,
+        "pregunta": "\u00bfCu\u00e1nto es la suma de 5 + 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1208,
+        "pregunta": "\u00bfCu\u00e1nto es 15 + 7?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1209,
+        "pregunta": "\u00bfCu\u00e1nto es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 15 + 20 - 5?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1210,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la suma de 5 + 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1211,
+        "pregunta": "\u00bfCu\u00e1nto es la suma de 5 m\u00e1s 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1212,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 5 + 3 x 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1213,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n: 15 + 27 - 8?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1214,
+        "pregunta": "\u00bfCu\u00e1nto es 6 multiplicado por 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1215,
+        "pregunta": "\u00bfCu\u00e1nto es la suma de 5 + 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1216,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n 5 + 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1217,
+        "pregunta": "\u00bfCu\u00e1nto es 25 multiplicado por 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1218,
+        "pregunta": "\u00bfCu\u00e1nto es la suma de 5 + 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1219,
+        "pregunta": "\u00bfCu\u00e1nto es la suma de 5 m\u00e1s 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1220,
+        "pregunta": "\u00bfCu\u00e1nto es la suma de 5 m\u00e1s 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1221,
+        "pregunta": "\u00bfCu\u00e1nto es 25 multiplicado por 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1222,
+        "pregunta": "\u00bfCu\u00e1nto es la suma de 3 + 5?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1223,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (5 x 4) + (6 / 2) - 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1224,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\(8 \\times (15 - 3)\\)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1225,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 14 x 3 + 7 - 5?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1226,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 126 + 78 - 32 x 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1227,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la suma de 78 m\u00e1s 43?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1228,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 7 + (3 x 4) - 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1229,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la multiplicaci\u00f3n de 25 por 4 m\u00e1s la resta de 12?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1230,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (8 + 5) x 3 - 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1231,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica? 25 + 6 x 4 - 12 \u00f7 3",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1232,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\(7 \\times (12 - 4) - 3 \\div 3 = ?\\)",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1233,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 68 \u00f7 4 x 7 + 15?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1234,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (32 + 18) x 5?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1235,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de multiplicar 25 por 4 y luego sumarle 12?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1236,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 20 + 8 x 2 - 4 \u00f7 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1237,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (7 + 5) x 2 - 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1238,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n 7^3 - (4*5) + 12/3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1239,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n 25 + 37 - 18?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1240,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 25 - 13 x 2 \u00f7 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1241,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n$12 + 3 \\times 4$",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1242,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n (8 + 4) x 3 / 2 - 5?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1243,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (345^2 + 548) / (37 x 6) - 23^2 + 89?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1244,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n 3876 \u00f7 23, redondeado a dos decimales?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1245,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la suma de los primeros 50 n\u00fameros primos?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1246,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\( (12 \\times 7) - (4 + 5) \\) ?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1247,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (8^3 + 12^2) / 4 - 10?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1248,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n: \\(5^3 \\times 2 + 9 - \\sqrt{64}\\)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1249,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\\(987,654,321 \\times 123\\)",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1250,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la multiplicaci\u00f3n de 5678 por 1234?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1251,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (5^3 * 8) - (12^2 + 4) / 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1252,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 8976 dividido entre 36, multiplicado por 12 y finalmente sumado a 345?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1253,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente expresi\u00f3n matem\u00e1tica: (3^4 + 10) * 2 - 17^2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1254,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (48 \\times 7) - (96 \\div 3) + (12 \\times 5) \\)",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1255,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\( (7 \\times 3) - (5 \\div 1) + 2 \\)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1256,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (5^2 + 3) x 4 - 7?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1257,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\\[5^3 - (7 \\times 4) + \\frac{100}{2}\\]",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1258,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 5284 - (789 x 23) + 654 \u00f7 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1259,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 3456 / (12 x 8) + 126 x 4 - 27^2 ?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1260,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\(4573 \\div 37 \\times (24 - 16) + 98\\)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1261,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n: 7^3 * 4 - 5^2 + 16 / 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1262,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\\[ (5^4 + 2^6) \\times 3 - 28\\]",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
     }
 ]
