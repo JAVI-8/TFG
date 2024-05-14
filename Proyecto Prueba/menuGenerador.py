@@ -3,6 +3,7 @@ import os
 import PruebaGPT
 import PruebaCohere
 import resultados
+import estadisticas
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import Toplevel, Text, Scrollbar, RIGHT, Y, END
@@ -44,6 +45,7 @@ class App:
 
         # Frame para el formulario
         self.form_frame = ttk.Frame(self.container)
+        self.form_estadisticas = ttk.Frame(self.container)
 
         # Variables para opciones seleccionadas
         self.tipo_var = tk.StringVar()
@@ -56,9 +58,9 @@ class App:
 
         self.interaction_times = []  # Lista para almacenar los tiempos de interacción
         self.generate_button_state = "enabled"  # Estado inicial del botón "Aceptar"
-
+        self.estadisticas()
         self.formulario()
-
+        
 
     def formulario(self):
 
@@ -98,6 +100,36 @@ class App:
 
         # Ocultar el formulario al inicio
         self.form_frame.pack_forget()
+        
+    
+    def estadisticas(self):
+        self.canvas = tk.Canvas(self.form_estadisticas)
+        self.scrollbar = ttk.Scrollbar(self.form_estadisticas, orient="vertical", command=self.canvas.yview)
+        self.scrollable_frame = ttk.Frame(self.canvas)
+
+        self.canvas.create_window((0, 0), window=self.scrollable_frame, anchor="nw")
+        self.canvas.configure(yscrollcommand=self.scrollbar.set)
+
+        # Colocar el scrollbar
+        self.scrollbar.pack(side="right", fill="y")
+        self.canvas.pack(side="left", fill="both", expand=True)
+
+        self.center_frame = ttk.Frame(self.scrollable_frame)
+        self.center_frame.pack(fill="both", expand=True)
+
+        r = estadisticas.cargar()
+        categories = ["cultura general", "operaciones matemáticas numericas",
+                      "traducción linguistica", "codigo", "logica con trampa, para adivinar", "definiciones de palabras"]
+        ttk.Button(self.center_frame, text='resultados generales', command=lambda: estadisticas.resultados_generales(r)).pack(pady=10)
+        for category in categories:
+            ttk.Button(self.center_frame, text=category, command=lambda c=category: estadisticas.resultados_categorias(r, c)).pack(pady=10)
+
+        self.scrollable_frame.bind("<Configure>", lambda e: self.canvas.configure(scrollregion=self.canvas.bbox("all")))
+
+        self.form_estadisticas.bind("<Configure>", self.on_frame_configure)
+
+    def on_frame_configure(self, event):
+        self.canvas.configure(width=event.width, height=event.height)
 
     def mostrar_formulario(self):
         # Ocultar los botones principales y mostrar el formulario cuando se selecciona "Generar pregunta"
@@ -114,13 +146,22 @@ class App:
         else:
             messagebox.showerror("Error", "Por favor, espere un minuto antes de volver a intentarlo")
             return
-
+    def ver_estadisticas(self):
+            self.buttons_frame.pack_forget()
+            self.form_estadisticas.pack()
+            return
+        
     def ocultar_formulario(self):
         # Mostrar los botones principales y ocultar el formulario cuando se selecciona "Volver"
         self.form_frame.pack_forget()
         self.buttons_frame.pack(pady=50)
         self.hora_inicio = time.time()
-
+        
+    def ocultar_estadisticas(self):
+        # Mostrar los botones principales y ocultar el formulario cuando se selecciona "Volver"
+        self.form_estadisticas.pack_forget()
+        self.buttons_frame.pack(pady=50)
+        self.hora_inicio = time.time()
     def generar_pregunta(self):
         # Crear ventana para mostrar el mensaje de espera
         wait_window = tk.Toplevel()
@@ -193,10 +234,6 @@ class App:
         # Scroll back to the top
         texto.yview_moveto(0)
         resultadosVentana.mainloop()
-
-    def ver_estadisticas(self):
-        print("")
-
 def main():
    
     root = tk.Tk()
