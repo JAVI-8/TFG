@@ -96,6 +96,8 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
     elif tema_pregunta == 3:
         if tipo_pregunta == 2:
             pregunta = pregunta + " Haz bien el calculo y pon la solucion en una de las tres opciones del test, para que siempre haya una opcion correcta."
+        if tipo_pregunta == 3:
+            pregunta = pregunta + ". Que la pregunta sea con operaciones matematicas. "
     elif tema_pregunta == 5:
         if tipo_pregunta == 2:
             pregunta = pregunta + " crea solo una pregunta"

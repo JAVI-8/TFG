@@ -7528,5 +7528,1555 @@
         "id_respuesta": 1506,
         "respuesta": " The result of 5 + 3 is 8",
         "id_pregunta": 1506
+    },
+    {
+        "id_respuesta": 1507,
+        "respuesta": " The result of the operation is 56",
+        "id_pregunta": 1507
+    },
+    {
+        "id_respuesta": 1508,
+        "respuesta": " La ra\u00edz cuadrada de 225 es 28425",
+        "id_pregunta": 1508
+    },
+    {
+        "id_respuesta": 1509,
+        "respuesta": " The result of the multiplication of 45 x 8, combined with 15 is 540",
+        "id_pregunta": 1509
+    },
+    {
+        "id_respuesta": 1510,
+        "respuesta": " The result of the mathematical operation 15 x 3 + 8 - 7 is 58",
+        "id_pregunta": 1510
+    },
+    {
+        "id_respuesta": 1511,
+        "respuesta": " The result of 245 + 387 is 632",
+        "id_pregunta": 1511
+    },
+    {
+        "id_respuesta": 1512,
+        "respuesta": " 15",
+        "id_pregunta": 1512
+    },
+    {
+        "id_respuesta": 1513,
+        "respuesta": " The result of the operation is 20",
+        "id_pregunta": 1513
+    },
+    {
+        "id_respuesta": 1514,
+        "respuesta": " The result of the operation is 23",
+        "id_pregunta": 1514
+    },
+    {
+        "id_respuesta": 1515,
+        "respuesta": " La multiplicaci\u00f3n entre 25 y 4 result\u00f3 en 100",
+        "id_pregunta": 1515
+    },
+    {
+        "id_respuesta": 1516,
+        "respuesta": " The result of the mathematical operation 5\u00b2 x 3 + 10 \u00f7 2 is \n25 x 3 + 10 / 2 = 75 + 5 = 80",
+        "id_pregunta": 1516
+    },
+    {
+        "id_respuesta": 1517,
+        "respuesta": " The direct and short response to what is the result of the following operation is 101",
+        "id_pregunta": 1517
+    },
+    {
+        "id_respuesta": 1518,
+        "respuesta": " The result of the operation is 26",
+        "id_pregunta": 1518
+    },
+    {
+        "id_respuesta": 1519,
+        "respuesta": " The result of the mathematical operation of ((5 x 3) - (8 \u00f7 2)) is 7",
+        "id_pregunta": 1519
+    },
+    {
+        "id_respuesta": 1520,
+        "respuesta": " La soluci\u00f3n final de la ecuaci\u00f3n es 16",
+        "id_pregunta": 1520
+    },
+    {
+        "id_respuesta": 1521,
+        "respuesta": " The result of the mathematical operation from the given expression is 11",
+        "id_pregunta": 1521
+    },
+    {
+        "id_respuesta": 1522,
+        "respuesta": " El resultado final de la operaci\u00f3n matem\u00e1tica es 135",
+        "id_pregunta": 1522
+    },
+    {
+        "id_respuesta": 1523,
+        "respuesta": " The result of the operation is 41",
+        "id_pregunta": 1523
+    },
+    {
+        "id_respuesta": 1524,
+        "respuesta": " The result of the following mathematical operation: 25 + 37 - 14 x 2; is 81",
+        "id_pregunta": 1524
+    },
+    {
+        "id_respuesta": 1525,
+        "respuesta": " La ra\u00edz cuadrada de 144 es 12",
+        "id_pregunta": 1525
+    },
+    {
+        "id_respuesta": 1526,
+        "respuesta": " The result of the operation is: \n8 x 3 = 24\n12 divided by 2 is 6",
+        "id_pregunta": 1526
+    },
+    {
+        "id_respuesta": 1527,
+        "respuesta": " The result of the operation, after simplifying the expression, is 49885",
+        "id_pregunta": 1527
+    },
+    {
+        "id_respuesta": 1528,
+        "respuesta": " The result of the mathematical operation [(47 + 23) x 11 - 193] is positive in the tens of thousands",
+        "id_pregunta": 1528
+    },
+    {
+        "id_respuesta": 1529,
+        "respuesta": " Se obtiene el numeral final de los operados despu\u00e9s de realizar las operaciones manual de las siguientes expresiones: \n\n1",
+        "id_pregunta": 1529
+    },
+    {
+        "id_respuesta": 1530,
+        "respuesta": " The result of the given operation is 344",
+        "id_pregunta": 1530
+    },
+    {
+        "id_respuesta": 1531,
+        "respuesta": " An exact answer would require performing the described operation, which includes square and cube roots, additions and subtractions, and multiplications and divisions, all of which are computationally intensive tasks",
+        "id_pregunta": 1531
+    },
+    {
+        "id_respuesta": 1532,
+        "respuesta": " The result of the mathematical operation `(37^2 - 15^2) / (37 + 15)` is `18`",
+        "id_pregunta": 1532
+    },
+    {
+        "id_respuesta": 1533,
+        "respuesta": " The result of the mathematical operation is 555",
+        "id_pregunta": 1533
+    },
+    {
+        "id_respuesta": 1534,
+        "respuesta": " The result of the following mathematical operation is 403",
+        "id_pregunta": 1534
+    },
+    {
+        "id_respuesta": 1535,
+        "respuesta": " The direct and short response to the mathematical operation presented is that it equals 6",
+        "id_pregunta": 1535
+    },
+    {
+        "id_respuesta": 1536,
+        "respuesta": " The result of the mathematical operation ((17^3) - (9^2) + 5 x 4) is 612",
+        "id_pregunta": 1536
+    },
+    {
+        "id_respuesta": 1537,
+        "respuesta": " The result of the mathematical operation $(243 \\times 18 - 485 \\div 5)$ is $\\frac{281}{5}$",
+        "id_pregunta": 1537
+    },
+    {
+        "id_respuesta": 1538,
+        "respuesta": "The result of the mathematical operation 6842 \u00d7 789 \u00f7 23 is 76",
+        "id_pregunta": 1538
+    },
+    {
+        "id_respuesta": 1539,
+        "respuesta": " The result of the mathematical operation is approximately `(3857 * 92) / 17 + 245 = 6939`",
+        "id_pregunta": 1539
+    },
+    {
+        "id_respuesta": 1540,
+        "respuesta": " The result of the given operation is -20",
+        "id_pregunta": 1540
+    },
+    {
+        "id_respuesta": 1541,
+        "respuesta": " The mathematical operation provided is computed as follows:\n1",
+        "id_pregunta": 1541
+    },
+    {
+        "id_respuesta": 1542,
+        "respuesta": " The result of the operation is 5269",
+        "id_pregunta": 1542
+    },
+    {
+        "id_respuesta": 1543,
+        "respuesta": " The result of the mathematical operation is `41",
+        "id_pregunta": 1543
+    },
+    {
+        "id_respuesta": 1544,
+        "respuesta": " El resultado de la divisi\u00f3n de 8! (factorial de 8) / (3! * 5!) (factoriales de 3 y 5) es 8, con lo cual la soluci\u00f3n es 8",
+        "id_pregunta": 1544
+    },
+    {
+        "id_respuesta": 1545,
+        "respuesta": " The result of the mathematical operation is `-5` or `128-153`",
+        "id_pregunta": 1545
+    },
+    {
+        "id_respuesta": 1546,
+        "respuesta": " The result of the mathematical operation is 409",
+        "id_pregunta": 1546
+    },
+    {
+        "id_respuesta": 1547,
+        "respuesta": " A) 7 es el c\u00e1lculo sum\u00e1ndose 5 y 3",
+        "id_pregunta": 1547
+    },
+    {
+        "id_respuesta": 1548,
+        "respuesta": " A) 14",
+        "id_pregunta": 1548
+    },
+    {
+        "id_respuesta": 1549,
+        "respuesta": " A) 6 es el c\u00f3digo de respuesta correcto",
+        "id_pregunta": 1549
+    },
+    {
+        "id_respuesta": 1550,
+        "respuesta": " The result of the operation of 8 + 5 x 2 is A) 16",
+        "id_pregunta": 1550
+    },
+    {
+        "id_respuesta": 1551,
+        "respuesta": " The result of the mathematical operation is A) 18",
+        "id_pregunta": 1551
+    },
+    {
+        "id_respuesta": 1552,
+        "respuesta": " The result of the mathematical operation is A) 18",
+        "id_pregunta": 1552
+    },
+    {
+        "id_respuesta": 1553,
+        "respuesta": " The result of the mathematical operation is A) 21",
+        "id_pregunta": 1553
+    },
+    {
+        "id_respuesta": 1554,
+        "respuesta": " The result of the mathematical operation is A) 11",
+        "id_pregunta": 1554
+    },
+    {
+        "id_respuesta": 1555,
+        "respuesta": " The result of the mathematical operation is A) 11",
+        "id_pregunta": 1555
+    },
+    {
+        "id_respuesta": 1556,
+        "respuesta": " The result of the mathematical operation is A) 25",
+        "id_pregunta": 1556
+    },
+    {
+        "id_respuesta": 1557,
+        "respuesta": " El resultado de la operaci\u00f3n 5 + 3 es 8",
+        "id_pregunta": 1557
+    },
+    {
+        "id_respuesta": 1558,
+        "respuesta": " The result of the mathematical operation is A) 15",
+        "id_pregunta": 1558
+    },
+    {
+        "id_respuesta": 1559,
+        "respuesta": " A) \nLa respuesta es 14, ya que para empezar, de las t\u00e9cnicas de aritm\u00e9tica, debe multiplicar los dos valores en las parentesis primero, para obtener un resultado de 15",
+        "id_pregunta": 1559
+    },
+    {
+        "id_respuesta": 1560,
+        "respuesta": " The result of the mathematical operation of 5 + 3 x 2 is 11",
+        "id_pregunta": 1560
+    },
+    {
+        "id_respuesta": 1561,
+        "respuesta": "The result of the mathematical operation is A) 16",
+        "id_pregunta": 1561
+    },
+    {
+        "id_respuesta": 1562,
+        "respuesta": " The result of the mathematical operation of 5 + 3 x 2 is 11",
+        "id_pregunta": 1562
+    },
+    {
+        "id_respuesta": 1563,
+        "respuesta": " The result of the mathematical operation of 5 + 3 x 2 is:\n\nA) 11\n\nLet's remember the order of operations, known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction), it indicates the sequence we should follow when there is more than one operation in a single equation",
+        "id_pregunta": 1563
+    },
+    {
+        "id_respuesta": 1564,
+        "respuesta": " C) 15 \n\nEl resultado final de la operaci\u00f3n es 15",
+        "id_pregunta": 1564
+    },
+    {
+        "id_respuesta": 1565,
+        "respuesta": " The result of the operation is 11",
+        "id_pregunta": 1565
+    },
+    {
+        "id_respuesta": 1566,
+        "respuesta": " The result of the mathematical operation is option B, 13",
+        "id_pregunta": 1566
+    },
+    {
+        "id_respuesta": 1567,
+        "respuesta": " A) 29 es la respuesta",
+        "id_pregunta": 1567
+    },
+    {
+        "id_respuesta": 1568,
+        "respuesta": " A) 24\n\nLa raz\u00f3n:\n\nSe realizaron las operaciones en la orden de la expresi\u00f3n, teniendo en cuenta que el \"x\" se multiplica por cada conjunto de numeros separados por operaciones aritmeticas, en este caso ((10 + 5) x 2) = (15 x 2) = 30",
+        "id_pregunta": 1568
+    },
+    {
+        "id_respuesta": 1569,
+        "respuesta": " The result of the mathematical operation is A) 10",
+        "id_pregunta": 1569
+    },
+    {
+        "id_respuesta": 1570,
+        "respuesta": " The result of the mathematical operation is A) 16",
+        "id_pregunta": 1570
+    },
+    {
+        "id_respuesta": 1571,
+        "respuesta": " The result of the mathematical operation is A) 26",
+        "id_pregunta": 1571
+    },
+    {
+        "id_respuesta": 1572,
+        "respuesta": " A) 78\n\nEs el resultado correcto de la operaci\u00f3n matem\u00e1tica proporcionada",
+        "id_pregunta": 1572
+    },
+    {
+        "id_respuesta": 1573,
+        "respuesta": " The result of the mathematical operation is A) 20",
+        "id_pregunta": 1573
+    },
+    {
+        "id_respuesta": 1574,
+        "respuesta": " The result of the mathematical operation is A) 15",
+        "id_pregunta": 1574
+    },
+    {
+        "id_respuesta": 1575,
+        "respuesta": " A) 66\n\nEl resultado final de la operaci\u00f3n es 66 dado que el \"x\" se duplica en la multiplicaci\u00f3n por lo que el resultado final ser\u00eda, 18 + (24*2) = 18 + 48 = 66",
+        "id_pregunta": 1575
+    },
+    {
+        "id_respuesta": 1576,
+        "respuesta": " The result of the mathematical operation is A) 21",
+        "id_pregunta": 1576
+    },
+    {
+        "id_respuesta": 1577,
+        "respuesta": " The result of the mathematical operation is A) 16",
+        "id_pregunta": 1577
+    },
+    {
+        "id_respuesta": 1578,
+        "respuesta": " The answer is C), 41",
+        "id_pregunta": 1578
+    },
+    {
+        "id_respuesta": 1579,
+        "respuesta": " True",
+        "id_pregunta": 1579
+    },
+    {
+        "id_respuesta": 1580,
+        "respuesta": " Falso",
+        "id_pregunta": 1580
+    },
+    {
+        "id_respuesta": 1581,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1581
+    },
+    {
+        "id_respuesta": 1582,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1582
+    },
+    {
+        "id_respuesta": 1583,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1583
+    },
+    {
+        "id_respuesta": 1584,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1584
+    },
+    {
+        "id_respuesta": 1585,
+        "respuesta": " Falso",
+        "id_pregunta": 1585
+    },
+    {
+        "id_respuesta": 1586,
+        "respuesta": " True",
+        "id_pregunta": 1586
+    },
+    {
+        "id_respuesta": 1587,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1587
+    },
+    {
+        "id_respuesta": 1588,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1588
+    },
+    {
+        "id_respuesta": 1589,
+        "respuesta": " True",
+        "id_pregunta": 1589
+    },
+    {
+        "id_respuesta": 1590,
+        "respuesta": " True",
+        "id_pregunta": 1590
+    },
+    {
+        "id_respuesta": 1591,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1591
+    },
+    {
+        "id_respuesta": 1592,
+        "respuesta": " Verdadero ",
+        "id_pregunta": 1592
+    },
+    {
+        "id_respuesta": 1593,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1593
+    },
+    {
+        "id_respuesta": 1594,
+        "respuesta": " True",
+        "id_pregunta": 1594
+    },
+    {
+        "id_respuesta": 1595,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1595
+    },
+    {
+        "id_respuesta": 1596,
+        "respuesta": " True",
+        "id_pregunta": 1596
+    },
+    {
+        "id_respuesta": 1597,
+        "respuesta": " True",
+        "id_pregunta": 1597
+    },
+    {
+        "id_respuesta": 1598,
+        "respuesta": " True",
+        "id_pregunta": 1598
+    },
+    {
+        "id_respuesta": 1599,
+        "respuesta": " Falso",
+        "id_pregunta": 1599
+    },
+    {
+        "id_respuesta": 1600,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1600
+    },
+    {
+        "id_respuesta": 1601,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1601
+    },
+    {
+        "id_respuesta": 1602,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1602
+    },
+    {
+        "id_respuesta": 1603,
+        "respuesta": " True",
+        "id_pregunta": 1603
+    },
+    {
+        "id_respuesta": 1604,
+        "respuesta": " True",
+        "id_pregunta": 1604
+    },
+    {
+        "id_respuesta": 1605,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1605
+    },
+    {
+        "id_respuesta": 1606,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1606
+    },
+    {
+        "id_respuesta": 1607,
+        "respuesta": " True",
+        "id_pregunta": 1607
+    },
+    {
+        "id_respuesta": 1608,
+        "respuesta": " Falso",
+        "id_pregunta": 1608
+    },
+    {
+        "id_respuesta": 1609,
+        "respuesta": " Falso",
+        "id_pregunta": 1609
+    },
+    {
+        "id_respuesta": 1610,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1610
+    },
+    {
+        "id_respuesta": 1611,
+        "respuesta": " True",
+        "id_pregunta": 1611
+    },
+    {
+        "id_respuesta": 1612,
+        "respuesta": " True",
+        "id_pregunta": 1612
+    },
+    {
+        "id_respuesta": 1613,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1613
+    },
+    {
+        "id_respuesta": 1614,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1614
+    },
+    {
+        "id_respuesta": 1615,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1615
+    },
+    {
+        "id_respuesta": 1616,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1616
+    },
+    {
+        "id_respuesta": 1617,
+        "respuesta": " True",
+        "id_pregunta": 1617
+    },
+    {
+        "id_respuesta": 1618,
+        "respuesta": " Falso",
+        "id_pregunta": 1618
+    },
+    {
+        "id_respuesta": 1619,
+        "respuesta": " Falso",
+        "id_pregunta": 1619
+    },
+    {
+        "id_respuesta": 1620,
+        "respuesta": " Falso",
+        "id_pregunta": 1620
+    },
+    {
+        "id_respuesta": 1621,
+        "respuesta": " Falso",
+        "id_pregunta": 1621
+    },
+    {
+        "id_respuesta": 1622,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1622
+    },
+    {
+        "id_respuesta": 1623,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1623
+    },
+    {
+        "id_respuesta": 1624,
+        "respuesta": " Falso",
+        "id_pregunta": 1624
+    },
+    {
+        "id_respuesta": 1625,
+        "respuesta": " True",
+        "id_pregunta": 1625
+    },
+    {
+        "id_respuesta": 1626,
+        "respuesta": " Falso",
+        "id_pregunta": 1626
+    },
+    {
+        "id_respuesta": 1627,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1627
+    },
+    {
+        "id_respuesta": 1628,
+        "respuesta": " True",
+        "id_pregunta": 1628
+    },
+    {
+        "id_respuesta": 1629,
+        "respuesta": " True",
+        "id_pregunta": 1629
+    },
+    {
+        "id_respuesta": 1630,
+        "respuesta": " True",
+        "id_pregunta": 1630
+    },
+    {
+        "id_respuesta": 1631,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1631
+    },
+    {
+        "id_respuesta": 1632,
+        "respuesta": " Falso",
+        "id_pregunta": 1632
+    },
+    {
+        "id_respuesta": 1633,
+        "respuesta": " True",
+        "id_pregunta": 1633
+    },
+    {
+        "id_respuesta": 1634,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1634
+    },
+    {
+        "id_respuesta": 1635,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1635
+    },
+    {
+        "id_respuesta": 1636,
+        "respuesta": " Falso",
+        "id_pregunta": 1636
+    },
+    {
+        "id_respuesta": 1637,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1637
+    },
+    {
+        "id_respuesta": 1638,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1638
+    },
+    {
+        "id_respuesta": 1639,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1639
+    },
+    {
+        "id_respuesta": 1640,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1640
+    },
+    {
+        "id_respuesta": 1641,
+        "respuesta": " Falso",
+        "id_pregunta": 1641
+    },
+    {
+        "id_respuesta": 1642,
+        "respuesta": " True",
+        "id_pregunta": 1642
+    },
+    {
+        "id_respuesta": 1643,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1643
+    },
+    {
+        "id_respuesta": 1644,
+        "respuesta": " Falso",
+        "id_pregunta": 1644
+    },
+    {
+        "id_respuesta": 1645,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1645
+    },
+    {
+        "id_respuesta": 1646,
+        "respuesta": " Falso",
+        "id_pregunta": 1646
+    },
+    {
+        "id_respuesta": 1647,
+        "respuesta": " Falso",
+        "id_pregunta": 1647
+    },
+    {
+        "id_respuesta": 1648,
+        "respuesta": " Falso",
+        "id_pregunta": 1648
+    },
+    {
+        "id_respuesta": 1649,
+        "respuesta": " La palabra \"Naranja\" tiene siete letras",
+        "id_pregunta": 1649
+    },
+    {
+        "id_respuesta": 1650,
+        "respuesta": " Se necesita m\u00e1s plomo para obtener un kilogramo, por lo que el kilogramo de plomo puede ser m\u00e1s pesado que el de algod\u00f3n",
+        "id_pregunta": 1650
+    },
+    {
+        "id_respuesta": 1651,
+        "respuesta": " El n\u00famero que sigue es 11122131",
+        "id_pregunta": 1651
+    },
+    {
+        "id_respuesta": 1652,
+        "respuesta": " Wrong :D \nDeleting the \"W\" turns it into \"Ron\"",
+        "id_pregunta": 1652
+    },
+    {
+        "id_respuesta": 1653,
+        "respuesta": " El animal que respuesta es el pato, que camina con cuatro patas por la ma\u00f1ana, dos patas al mediod\u00eda para comer y descansar y tres patas por la noche para dormir",
+        "id_pregunta": 1653
+    },
+    {
+        "id_respuesta": 1654,
+        "respuesta": " El cerebro de aprendizaje de los humanos es m\u00e1s grande y poderoso que el de cualquier otro animal",
+        "id_pregunta": 1654
+    },
+    {
+        "id_respuesta": 1655,
+        "respuesta": " The first step, in constructing a house, is to obtain planning permission and permits",
+        "id_pregunta": 1655
+    },
+    {
+        "id_respuesta": 1656,
+        "respuesta": " There are eight letters in the word \"incorrectamente\"",
+        "id_pregunta": 1656
+    },
+    {
+        "id_respuesta": 1657,
+        "respuesta": " The answer to this question is \"wrong\", which is a word in English with four letters that always is misspelled",
+        "id_pregunta": 1657
+    },
+    {
+        "id_respuesta": 1658,
+        "respuesta": " The longest word in Spanish is \"pante\u00f3n\" which means \"graveyard\" or \"cemetery\"",
+        "id_pregunta": 1658
+    },
+    {
+        "id_respuesta": 1659,
+        "respuesta": " No hay una palabra de cinco letras con ese requisito",
+        "id_pregunta": 1659
+    },
+    {
+        "id_respuesta": 1660,
+        "respuesta": " Sin embargo, los meses no son necesariamente destinados a tener 28 d\u00edas",
+        "id_pregunta": 1660
+    },
+    {
+        "id_respuesta": 1661,
+        "respuesta": " The next letter in the sequence is \"U\" as it is the first letter of the word \"University\", which follows \"HighSchool\" in the list of places where English is usually taught",
+        "id_pregunta": 1661
+    },
+    {
+        "id_respuesta": 1662,
+        "respuesta": " La siguiente numeraci\u00f3n l\u00f3gica ser\u00eda el numero 14",
+        "id_pregunta": 1662
+    },
+    {
+        "id_respuesta": 1663,
+        "respuesta": " If we are adding the number of cats and dogs together, the total amount would be 4",
+        "id_pregunta": 1663
+    },
+    {
+        "id_respuesta": 1664,
+        "respuesta": "La palabra \"el ocho\" contiene cuatro letras",
+        "id_pregunta": 1664
+    },
+    {
+        "id_respuesta": 1665,
+        "respuesta": " E r r o r  es la palabra \"error\" en la lengua espa\u00f1ola, por lo que tiene siete letras",
+        "id_pregunta": 1665
+    },
+    {
+        "id_respuesta": 1666,
+        "respuesta": " The word that reads the same backward and forward but has no meaning is \"spa\"",
+        "id_pregunta": 1666
+    },
+    {
+        "id_respuesta": 1667,
+        "respuesta": " El elefante, pues lo consigue mediante sus grandes patas para moverse en la jungla",
+        "id_pregunta": 1667
+    },
+    {
+        "id_respuesta": 1668,
+        "respuesta": " Un perro de cualquier raza tendr\u00e1 cuatro patas",
+        "id_pregunta": 1668
+    },
+    {
+        "id_respuesta": 1669,
+        "respuesta": " Sin embargo, los meses de un a\u00f1o son exactamente 12, por lo que el n\u00famero de meses que tienen 28 d\u00edas al a\u00f1o es 0",
+        "id_pregunta": 1669
+    },
+    {
+        "id_respuesta": 1670,
+        "respuesta": " Sin embargo, los meses de un a\u00f1o son exactamente 12, por lo que el n\u00famero de meses que tienen 28 d\u00edas al a\u00f1o es 0",
+        "id_pregunta": 1670
+    },
+    {
+        "id_respuesta": 1671,
+        "respuesta": " There are eight letters in the word \"incorrecto\"",
+        "id_pregunta": 1671
+    },
+    {
+        "id_respuesta": 1672,
+        "respuesta": " El animal que tiene cuatro patas por la ma\u00f1ana, dos patas por la tarde y tres patas por la noche, es un perro",
+        "id_pregunta": 1672
+    },
+    {
+        "id_respuesta": 1673,
+        "respuesta": " One of the most commonly mispronounced words in English is \"scissors",
+        "id_pregunta": 1673
+    },
+    {
+        "id_respuesta": 1674,
+        "respuesta": " No, en la mayor\u00eda de los diccionarios es una palabra monos\u00edlaba: \"pneumonoultramicroscopicsilicovolcanoconiosis\"",
+        "id_pregunta": 1674
+    },
+    {
+        "id_respuesta": 1675,
+        "respuesta": " The word \"e\" fits the requirements you mentioned: it starts and ends with the letter \"e\" and has only one letter",
+        "id_pregunta": 1675
+    },
+    {
+        "id_respuesta": 1676,
+        "respuesta": " Un perro tiene cuatro patas y no los orejas",
+        "id_pregunta": 1676
+    },
+    {
+        "id_respuesta": 1677,
+        "respuesta": " The word is \"silence\"",
+        "id_pregunta": 1677
+    },
+    {
+        "id_respuesta": 1678,
+        "respuesta": " La palabra m\u00e1s larga en el diccionario es \"pneumonoultramicroscopicsilicovolcanoconiosis\"",
+        "id_pregunta": 1678
+    },
+    {
+        "id_respuesta": 1679,
+        "respuesta": " The word \"minute\" means a unit of time in the sense of \"minute interval\", and is different from the word \"minute\" that means very small, and is based on the letter \"n\" moving one spot to the right",
+        "id_pregunta": 1679
+    },
+    {
+        "id_respuesta": 1680,
+        "respuesta": " La palabra \"incorrectamente\" en s\u00ed",
+        "id_pregunta": 1680
+    },
+    {
+        "id_respuesta": 1681,
+        "respuesta": " Un perro tiene cuatro patas si le cortas una pata, se reduce a tres patas",
+        "id_pregunta": 1681
+    },
+    {
+        "id_respuesta": 1682,
+        "respuesta": " E r r o r  es la palabra \"error\" en la lengua espa\u00f1ola, por lo que tiene siete letras",
+        "id_pregunta": 1682
+    },
+    {
+        "id_respuesta": 1683,
+        "respuesta": " El c\u00f3digo proporciona una funci\u00f3n llamada sumar() que funciona de la manera especificada en sus l\u00edneas de c\u00f3digo ejecuta el summado de dos n\u00fameros pasados como par\u00e1metros a la funci\u00f3n, y devuelve el resultado",
+        "id_pregunta": 1683
+    },
+    {
+        "id_respuesta": 1684,
+        "respuesta": " El c\u00f3digo de abajo defin\u00eda un m\u00e9todo `suma` que ejecuta la suma de dos n\u00fameros y luego imprime la suma como resultado",
+        "id_pregunta": 1684
+    },
+    {
+        "id_respuesta": 1685,
+        "respuesta": " El c\u00f3digo recibe una lista de numeros y calcula la suma de todos esos numeros, la siguiente respuesta es tal como se muestra abajo:\n```Python\nnumeros = [2, 4, 6, 8, 10]\nsuma = 0\n\nfor num in numeros:\n    suma += num\n\nprint(suma)\n```\nFinalmente, el c\u00f3digo imprime la suma calculada a `suma` a `stdout`",
+        "id_pregunta": 1685
+    },
+    {
+        "id_respuesta": 1686,
+        "respuesta": " La definici\u00f3n de clase `Suma` encapsula un M\u00e9todo `main` que ejecuta el c\u00f3digo de una computaci\u00f3n sumatoria",
+        "id_pregunta": 1686
+    },
+    {
+        "id_respuesta": 1687,
+        "respuesta": " El c\u00f3digo anterior sigue el siguiente comportamiento: \n\n1",
+        "id_pregunta": 1687
+    },
+    {
+        "id_respuesta": 1688,
+        "respuesta": " El c\u00f3digo realiza la suma de un par de n\u00fameros y lo devuelve",
+        "id_pregunta": 1688
+    },
+    {
+        "id_respuesta": 1689,
+        "respuesta": " El c\u00f3digo anterior divide el string `Hola Mundo` en un array de caracteres seg\u00fan sus espacios en blanco",
+        "id_pregunta": 1689
+    },
+    {
+        "id_respuesta": 1690,
+        "respuesta": " Escribe un loop infinito que imprime en la consola de desarrollo de JavaScript el c\u00f3digo de un numero desde 0 hasta infinito",
+        "id_pregunta": 1690
+    },
+    {
+        "id_respuesta": 1691,
+        "respuesta": " El c\u00f3digo de Python revierte el string pasado como argumento",
+        "id_pregunta": 1691
+    },
+    {
+        "id_respuesta": 1692,
+        "respuesta": " El c\u00f3digo en Python realiza la suma de todos los elementos de la lista de n\u00fameros `nums`",
+        "id_pregunta": 1692
+    },
+    {
+        "id_respuesta": 1693,
+        "respuesta": " El c\u00f3digo realiza la suma de dos n\u00fameros passados como parametros",
+        "id_pregunta": 1693
+    },
+    {
+        "id_respuesta": 1694,
+        "respuesta": " Escribe un loop For en la cual el variable `i` assume un valor de `numbers",
+        "id_pregunta": 1694
+    },
+    {
+        "id_respuesta": 1695,
+        "respuesta": " EJEMPLO 1: Lo que hace el c\u00f3digo es imprimir en la consola el numero entero 5 varias veces, lo que sufro un poco de diminuto cada vez hasta que sea 0",
+        "id_pregunta": 1695
+    },
+    {
+        "id_respuesta": 1696,
+        "respuesta": " El c\u00f3digo realiza la suma de un par de n\u00fameros pasando como parametro a la funci\u00f3n `suma` los n\u00fameros `3` y `5`, por lo que se ejecuta la suma y devuelve el resultado `8`, lo cual se imprime en la consola",
+        "id_pregunta": 1696
+    },
+    {
+        "id_respuesta": 1697,
+        "respuesta": " El c\u00f3digo devuelve el resultado sumando dos numeros, `10` y `5` obteniendo `15`",
+        "id_pregunta": 1697
+    },
+    {
+        "id_respuesta": 1698,
+        "respuesta": " El m\u00e9todo `reverseString` defined en el c\u00f3digo taken de la siguiente manera:\n1",
+        "id_pregunta": 1698
+    },
+    {
+        "id_respuesta": 1699,
+        "respuesta": " El c\u00f3digo de abajo defin\u00eda un m\u00e9todo `suma` que ejecuta la suma de dos n\u00fameros y luego imprime la suma como resultado",
+        "id_pregunta": 1699
+    },
+    {
+        "id_respuesta": 1700,
+        "respuesta": " El c\u00f3digo de abajo defin\u00eda un funci\u00f3n llamada `suma` que devuelve el resultado de sumar dos n\u00fameros",
+        "id_pregunta": 1700
+    },
+    {
+        "id_respuesta": 1701,
+        "respuesta": " El c\u00f3digo devuelve el resultado de sumar dos numeros, concretamente `x + y`, adem\u00e1s imprimir el resultado final",
+        "id_pregunta": 1701
+    },
+    {
+        "id_respuesta": 1702,
+        "respuesta": " Escribe un loop `for` que imprime en la salida de texto una serie desde cero a la cantidad especificada por `num`",
+        "id_pregunta": 1702
+    },
+    {
+        "id_respuesta": 1703,
+        "respuesta": " El c\u00f3digo proporciona una funci\u00f3n llamada suma, que recibe dos n\u00fameros (a y b) como argumentos, solo retorna el resultado de suma arit\u00e9tica de los dos n\u00fameros",
+        "id_pregunta": 1703
+    },
+    {
+        "id_respuesta": 1704,
+        "respuesta": " El c\u00f3digo proporcionado realiza el calculo de la suma de un array",
+        "id_pregunta": 1704
+    },
+    {
+        "id_respuesta": 1705,
+        "respuesta": " El c\u00f3digo proporciona una funci\u00f3n llamada sumar, que recibe dos parametros `a` y `b`,  y devuelve su suma",
+        "id_pregunta": 1705
+    },
+    {
+        "id_respuesta": 1706,
+        "respuesta": " Escribe un programa Java que imprime \"Hola, Mundo\" en pantalla",
+        "id_pregunta": 1706
+    },
+    {
+        "id_respuesta": 1707,
+        "respuesta": " El c\u00f3digo en python a continuaci\u00f3n adem\u00e1s de ejecutarse lo que hace es la siguiente:\n1",
+        "id_pregunta": 1707
+    },
+    {
+        "id_respuesta": 1708,
+        "respuesta": " Here's a Python code snippet that forms part of the `suma` function you provided:\n```python\ndef suma(a, b):\n    return a + b\n```\n\nThe code snippet provided is part of a Python function called `suma`",
+        "id_pregunta": 1708
+    },
+    {
+        "id_respuesta": 1709,
+        "respuesta": " Escribe un loop `while` en Java e imprime el n\u00famero `num` decrementando de 1 por incremento mientras que se mantenga superior a cero",
+        "id_pregunta": 1709
+    },
+    {
+        "id_respuesta": 1710,
+        "respuesta": " El c\u00f3digo suma todos los elementos de un array",
+        "id_pregunta": 1710
+    },
+    {
+        "id_respuesta": 1711,
+        "respuesta": " El c\u00f3digo de JavaScript defin\u00eda un funci\u00f3n llamada `suma` que solo acepta dos parametros `a` y `b`, y la respuesta es la suma de los dos numeros passados como parametros",
+        "id_pregunta": 1711
+    },
+    {
+        "id_respuesta": 1712,
+        "respuesta": " El c\u00f3digo multiplica numero por dos, obtienndo un resultado de 20",
+        "id_pregunta": 1712
+    },
+    {
+        "id_respuesta": 1713,
+        "respuesta": " El c\u00f3digo de JavaScript define un funci\u00f3n llamada sum, que recibe dos parametros `a` y `b`,  el cual suma sus dos par\u00e1metros y devuelve el resultado",
+        "id_pregunta": 1713
+    },
+    {
+        "id_respuesta": 1714,
+        "respuesta": " EJEMPLO 3: Lo que hace el programa\n\nLa ejerciciosa 3 requiere de una respuesta m\u00e1s espec\u00edfica en la que exponga lo que hace el c\u00f3digo en particular",
+        "id_pregunta": 1714
+    },
+    {
+        "id_respuesta": 1715,
+        "respuesta": " El c\u00f3digo proporcionado utiliza el lenguaje de mandar\u00eda un n\u00famero seleccionado a la consola usando el operador de adici\u00f3n (`+`) y la operaci\u00f3n de multiplicaci\u00f3n (`*`)",
+        "id_pregunta": 1715
+    },
+    {
+        "id_respuesta": 1716,
+        "respuesta": " El c\u00f3digo crea un objeto de la clase Suma, luego declare unas dos variables de tipo `int` llamadas `a` y `b` con valores respectivamente de 5 y 3, lo sigue por adelantado en la linea 3 se hace la suma de los dos valores declarados en `a` y `b` y al ejecutar el programa este linea generara en pantalla el resultado",
+        "id_pregunta": 1716
+    },
+    {
+        "id_respuesta": 1717,
+        "respuesta": " El c\u00f3digo recibe una funci\u00f3n llamada sumArray que recibe como argumento un array",
+        "id_pregunta": 1717
+    },
+    {
+        "id_respuesta": 1718,
+        "respuesta": " El c\u00f3digo de abajo defin\u00eda un funci\u00f3n llamada `suma` que devuelve el resultado de sumar dos n\u00fameros",
+        "id_pregunta": 1718
+    },
+    {
+        "id_respuesta": 1719,
+        "respuesta": " El c\u00f3digo proporciona una funci\u00f3n llamada suma, que recibe dos n\u00fameros (a y b) como argumentos, solo retorna el resultado de suma arit\u00e9tica de los dos n\u00fameros",
+        "id_pregunta": 1719
+    },
+    {
+        "id_respuesta": 1720,
+        "respuesta": " El m\u00e9todo `get_vowels` separa los vocales en un array de un solo argumento `word`",
+        "id_pregunta": 1720
+    },
+    {
+        "id_respuesta": 1721,
+        "respuesta": " El c\u00f3digo proporciona una salida de `x` a `15`",
+        "id_pregunta": 1721
+    },
+    {
+        "id_respuesta": 1722,
+        "respuesta": " Este c\u00f3digo crea un objeto de clase SimpleCode",
+        "id_pregunta": 1722
+    },
+    {
+        "id_respuesta": 1723,
+        "respuesta": " El c\u00f3digo ejecutar\u00e1 la condici\u00f3n de divisibility del n\u00famero par y impar y lo mostrar\u00e1 en pantalla",
+        "id_pregunta": 1723
+    },
+    {
+        "id_respuesta": 1724,
+        "respuesta": " El c\u00f3digo reci\u00e9n ejecutado producir\u00e1 la salida de la siguiente serie de n\u00fameros: 0, 1, 2, 3, 4",
+        "id_pregunta": 1724
+    },
+    {
+        "id_respuesta": 1725,
+        "respuesta": " El c\u00f3digo realiza la suma de dos n\u00fameros passados como parametros",
+        "id_pregunta": 1725
+    },
+    {
+        "id_respuesta": 1726,
+        "respuesta": " La excusa de salida esta controlada por un while que la iterara mientras i no sea mayores que 5",
+        "id_pregunta": 1726
+    },
+    {
+        "id_respuesta": 1727,
+        "respuesta": " Este c\u00f3digo usando la declaraci\u00f3n for realiza un loop indefinido, para iterar desde 0 a 4 inclusivamente",
+        "id_pregunta": 1727
+    },
+    {
+        "id_respuesta": 1728,
+        "respuesta": " Here is a short and direct Java code that displays the result of the expression mentioned:\n```java\nSystem",
+        "id_pregunta": 1728
+    },
+    {
+        "id_respuesta": 1729,
+        "respuesta": " El c\u00f3digo en JavaScript separa el string `str` por los caracteres, reverse el array de caracteres y lo reune en un string, luego comparar\u00e1 la original string con el string reversa, devuelve true si es un palindromo y false si no",
+        "id_pregunta": 1729
+    },
+    {
+        "id_respuesta": 1730,
+        "respuesta": " El c\u00f3digo reci\u00e9n ejecutado imprime un n\u00famero entero que es el argumento de la funci\u00f3n main de la clase Main, el cual debe ser 5",
+        "id_pregunta": 1730
+    },
+    {
+        "id_respuesta": 1731,
+        "respuesta": " El c\u00f3digo genera una matriz giratoria, la matriz inicial es {1, 2, 3, 4, 5}, despu\u00e9s de las iteraciones, la matriz ser\u00e1 {2, 4, 5, 1, 3}",
+        "id_pregunta": 1731
+    },
+    {
+        "id_respuesta": 1732,
+        "respuesta": " EJEMPLO 1: USO DE LA FLOJA PARA CALCULAR EL M\u00c1XIMO EN UN ARRAZ DE N NUMEROS ESPECIFIDOS EN JAVA \n\nEl siguiente c\u00f3digo en Java ejecuta un loop para analizar un arreglo de numeros, determinando el numero con mas digitos negros en el arreglo",
+        "id_pregunta": 1732
+    },
+    {
+        "id_respuesta": 1733,
+        "respuesta": " Ese c\u00f3digo en C++ intercambia los valores de los variables `x` y `y` usando una variable temporal",
+        "id_pregunta": 1733
+    },
+    {
+        "id_respuesta": 1734,
+        "respuesta": " El c\u00f3digo crea una variable `i` con un valor de 1 y luego ejecuta una loop mientras `i` sea menor o igual a 10",
+        "id_pregunta": 1734
+    },
+    {
+        "id_respuesta": 1735,
+        "respuesta": " The code defines a function called reverseString that takes a string str as input and returns a reversed version of that string",
+        "id_pregunta": 1735
+    },
+    {
+        "id_respuesta": 1736,
+        "respuesta": " El c\u00f3digo recibe un n\u00famero de entrada e invoca la funci\u00f3n sumDigits()",
+        "id_pregunta": 1736
+    },
+    {
+        "id_respuesta": 1737,
+        "respuesta": " El c\u00f3digo reverse la string del parametro enviado, con `hello` el resultado final ser\u00e1 `olleh`",
+        "id_pregunta": 1737
+    },
+    {
+        "id_respuesta": 1738,
+        "respuesta": "El c\u00f3digo proporcionado ejecutar y devuelve el n\u00famero fibonacci en funci\u00f3n del n\u00famero que se le ha especificado como par\u00e1metro",
+        "id_pregunta": 1738
+    },
+    {
+        "id_respuesta": 1739,
+        "respuesta": " El c\u00f3digo recibe una string y reversa su orden, devolvi\u00e9ndose la reversa",
+        "id_pregunta": 1739
+    },
+    {
+        "id_respuesta": 1740,
+        "respuesta": " El m\u00e9todo `reverseString` en JavaScript recibe una string que luego se split en una matriz de caracteres usando el metodo `split ''` , despu\u00e9s se ejecuta el m\u00e9todo `reverse` para invertir la orden de la matriz de caracteres y finalmente se reune la matriz de caracteres usando el m\u00e9todo `join ''` para formar la string original pero en reversa",
+        "id_pregunta": 1740
+    },
+    {
+        "id_respuesta": 1741,
+        "respuesta": " Escribe un programa en C++ que imprime la serie de numeros del 1 al 10",
+        "id_pregunta": 1741
+    },
+    {
+        "id_respuesta": 1742,
+        "respuesta": " EJEMPLO 1: AMPLIA UN ARRAY Y IMPRIMA SU CONTENIDO",
+        "id_pregunta": 1742
+    },
+    {
+        "id_respuesta": 1743,
+        "respuesta": " La respuesta m\u00e1s directa y corta a la pregunta es el siguiente programa de ejecuci\u00f3n sin importar los argumentos, el cual muestra el \u00fanico m\u00e9todo `factorial` y la clase principal `Factorial`",
+        "id_pregunta": 1743
+    },
+    {
+        "id_respuesta": 1744,
+        "respuesta": " El c\u00f3digo genera una lista desde 0 a 10, excepto para los n\u00fameros impares",
+        "id_pregunta": 1744
+    },
+    {
+        "id_respuesta": 1745,
+        "respuesta": " Escribe un loop para imprimir en una linia numeros desde 0 a 4",
+        "id_pregunta": 1745
+    },
+    {
+        "id_respuesta": 1746,
+        "respuesta": " EJEMPLO 1: LEER Y ESCRIBIR EN UN ARREGLO BINARIO\nEl siguiente c\u00f3digo C lee un arreglo binario que se encuentra en la posici\u00f3n file offset desde el archivo stdin y escribir\u00e1 en serie en stdout",
+        "id_pregunta": 1746
+    },
+    {
+        "id_respuesta": 1747,
+        "respuesta": " The code answers the question directly in a short way, the sum of the numbers in the array is shown in the output",
+        "id_pregunta": 1747
+    },
+    {
+        "id_respuesta": 1748,
+        "respuesta": " Escribe un generador de numeros aleatorios entre 0 y 9",
+        "id_pregunta": 1748
+    },
+    {
+        "id_respuesta": 1749,
+        "respuesta": " Escribe un c\u00f3digo similar en JAVA que utilice la librer\u00eda `java",
+        "id_pregunta": 1749
+    },
+    {
+        "id_respuesta": 1750,
+        "respuesta": " El c\u00f3digo proporciona la funci\u00f3n factorial, que calcular la factorial de un n\u00famero especificado por el usuario",
+        "id_pregunta": 1750
+    },
+    {
+        "id_respuesta": 1751,
+        "respuesta": " El c\u00f3digo reci\u00e9n ejecutado crea dos variables de tipo int: `x` y `y` con valores iniciales de 10 y 5, respectivamente",
+        "id_pregunta": 1751
+    },
+    {
+        "id_respuesta": 1752,
+        "respuesta": " El c\u00f3digo de Python ejecutado abajo calcula la suma de todos los n\u00fameros pares (n\u00fameros con paridad even) en la lista de n\u00fameros especificada",
+        "id_pregunta": 1752
+    },
+    {
+        "id_respuesta": 1753,
+        "respuesta": " El c\u00f3digo C que proporciono calcula el factorial de un n\u00famero especificado usando una recursi\u00f3n",
+        "id_pregunta": 1753
+    },
+    {
+        "id_respuesta": 1754,
+        "respuesta": " La respuesta m\u00e1s directa y corta a la pregunta es:\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        for (int i = 1; i <= num; i++) {\n            System",
+        "id_pregunta": 1754
+    },
+    {
+        "id_respuesta": 1755,
+        "respuesta": " Escribe un loop `while` en C++ que imprime los n\u00fameros 0, 2, 4, 6, 8, y 10, sin usar `cout` para salir de bucle",
+        "id_pregunta": 1755
+    },
+    {
+        "id_respuesta": 1756,
+        "respuesta": " El c\u00f3digo crea un array de intes en Java de 5 element",
+        "id_pregunta": 1756
+    },
+    {
+        "id_respuesta": 1757,
+        "respuesta": " Ese c\u00f3digo en C++ implementa una funci\u00f3n de tipo `main` que ejecuta un `for` para iterar sobre los n\u00fameros desde 0 a 4, inclusivo",
+        "id_pregunta": 1757
+    },
+    {
+        "id_respuesta": 1758,
+        "respuesta": " EJEMPLO 1: PROGRAMACI\u00d3N DE ALGUNOS DE los M\u00c9TODOS DE LA CLASE `CONDITIONAL` (IF, ELSE IF, ELSE)\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int n;\n    cout << \"Ingresa un n\u00famero: \";\n    cin >> n;\n\n    // Si n es mayor o igual a 5, entonces se imprime el mensaje \"n es igual o mayor a 5\"\n    if (n >= 5) {\n        cout << n << \" es igual o mayor a 5",
+        "id_pregunta": 1758
+    },
+    {
+        "id_respuesta": 1759,
+        "respuesta": " Este c\u00f3digo sorprende al usuario mostrando los numeros divisible por 2 de una matriz numerica de int",
+        "id_pregunta": 1759
+    },
+    {
+        "id_respuesta": 1760,
+        "respuesta": " EJEMPLO 1: USO DE LA CLASSE `Main`\n\nLa clase `Main` en Java es usada para contener el main methodo, que es el metodo principal para ejecutar una aplicaci\u00f3n",
+        "id_pregunta": 1760
+    },
+    {
+        "id_respuesta": 1761,
+        "respuesta": " El c\u00f3digo recibe una matriz de int y calcula y imprime su suma",
+        "id_pregunta": 1761
+    },
+    {
+        "id_respuesta": 1762,
+        "respuesta": " El c\u00f3digo sumea los elementos de un array",
+        "id_pregunta": 1762
+    },
+    {
+        "id_respuesta": 1763,
+        "respuesta": " El c\u00f3digo proporciona una clase llamada `Calculator` que define un m\u00e9todo `multiply` que calcula el producto de dos numeros intales de parametros y devuelve un entero",
+        "id_pregunta": 1763
+    },
+    {
+        "id_respuesta": 1764,
+        "respuesta": " La respuesta m\u00e1s directa y corta es simplemente declarar la funci\u00f3n `main` sin hacer ning\u00fan cambio a la segunda linnea de la definici\u00f3n de la variable `array`",
+        "id_pregunta": 1764
+    },
+    {
+        "id_respuesta": 1765,
+        "respuesta": " El m\u00e9todo `reverse_string` reinicia el string con la suma de `-1` a los \u00edndices",
+        "id_pregunta": 1765
+    },
+    {
+        "id_respuesta": 1766,
+        "respuesta": " El c\u00f3digo proporciona una definici\u00f3n de clase `Main` que contiene la met\u00f3dica `main`",
+        "id_pregunta": 1766
+    },
+    {
+        "id_respuesta": 1767,
+        "respuesta": " Escribe un comentario al final del c\u00f3digo",
+        "id_pregunta": 1767
+    },
+    {
+        "id_respuesta": 1768,
+        "respuesta": " Ese c\u00f3digo modifica la referencia de la variable `x` (est\u00e1 en la memoria en la que se mira para la variable `y`) mediante una de referencia `ptr` para encontrar su nueva valor de `20`",
+        "id_pregunta": 1768
+    },
+    {
+        "id_respuesta": 1769,
+        "respuesta": " Escribe un comentario m\u00e1s prolongado sobre lo que esta code hace, con m\u00e1s detalle si puede",
+        "id_pregunta": 1769
+    },
+    {
+        "id_respuesta": 1770,
+        "respuesta": " El c\u00f3digo procesa una expresi\u00f3n en el lenguaje de numeros, el cual calcula el resultado de multiplicar desde 1 hasta N-1 con los \u00edndices desde 1 a N, lo que le va produciendo el resultado final",
+        "id_pregunta": 1770
+    },
+    {
+        "id_respuesta": 1771,
+        "respuesta": " Ese c\u00f3digo en C++ calcular\u00e1 el producto de los n\u00fameros entre 1 y 10 (inclusive)",
+        "id_pregunta": 1771
+    },
+    {
+        "id_respuesta": 1772,
+        "respuesta": " El c\u00f3digo crea un valor integro de 1 y lo multiplica por cada numero del 1 al 5 en una iteraci\u00f3n for",
+        "id_pregunta": 1772
+    },
+    {
+        "id_respuesta": 1773,
+        "respuesta": " EJEMPLO 1: Aritm\u00e9tica M\u00e1siva \n\nEl c\u00f3digo m\u00e1siva demonstrando un algoritmo de multiplicaci\u00f3n para calcular el resultado de multiplicar un n\u00famero entero `n` por 1 a `n`",
+        "id_pregunta": 1773
+    },
+    {
+        "id_respuesta": 1774,
+        "respuesta": " Este c\u00f3digo en C3 solicitar\u00e1 al usuario que introduce un n\u00famero",
+        "id_pregunta": 1774
+    },
+    {
+        "id_respuesta": 1775,
+        "respuesta": " El c\u00f3digo es un ejemplo de una doble iteraci\u00f3n para calcular una matriz de la forma de Pascal",
+        "id_pregunta": 1775
+    },
+    {
+        "id_respuesta": 1776,
+        "respuesta": " Este c\u00f3digo crea una matriz de asteriscos con las posiciones en las que aparecer\u00e1 un asterisco y las posiciones en las que no aparecer\u00e1 ning\u00fan asterisco",
+        "id_pregunta": 1776
+    },
+    {
+        "id_respuesta": 1777,
+        "respuesta": " El c\u00f3digo crea un valor globo `n` de 10, luego crea un variable `resultado` en el cual se acceder\u00e1 para las summas de la iteraci\u00f3n, en este caso la ser\u00eda de los numeros del 1 al 10 multiplicados por `n` y zeteados entre s\u00ed, lo que producir\u00eda en `resultado` el monom\u00f3logo de 10\u00ba orden",
+        "id_pregunta": 1777
+    },
+    {
+        "id_respuesta": 1778,
+        "respuesta": " \u00bfCu\u00e1l es el objetivo general de la funci\u00f3n `mysteryFunction` y c\u00f3mo se comprende su definici\u00f3n en particular?\n\nEl objetivo general de la funci\u00f3n `mysteryFunction` es producir un valor recursivamente basado en el n\u00famero de entrada",
+        "id_pregunta": 1778
+    },
+    {
+        "id_respuesta": 1779,
+        "respuesta": "El c\u00f3digo obtiene el sumo de todos los elementos de un vector de enteros de la manera m\u00e1s elemental posible, \u00a1invito a ejecutar el c\u00f3digo y observar los resultados! \n\nIn English:\n\nThe code simply computes the sum of all elements in a vector of integers using a for-loop, it's a very direct and basic approach to finding the sum of an array of integers, give it a try and see the results! ",
+        "id_pregunta": 1779
+    },
+    {
+        "id_respuesta": 1780,
+        "respuesta": "EJEMPLO 1: LEA ADEMAS LO QUE ESCRIBES\n\nLa siguiente definici\u00f3n de `main()` en C nos permite ejecutar un programa de ejemplo muy sencillo",
+        "id_pregunta": 1780
+    },
+    {
+        "id_respuesta": 1781,
+        "respuesta": " EJEMPLO 1: LEETCODE | El ejercicio 1 de leetcode te pide que Calcul desde el centro de una ciudad a una determinada casa, usando el algoritmo de BFS (Breadth-First Search)",
+        "id_pregunta": 1781
+    },
+    {
+        "id_respuesta": 1782,
+        "respuesta": " Escribe un programa en C que imprime una matriz de la forma 1 para los valores de la matriz inicial, pero usando dos for loops",
+        "id_pregunta": 1782
+    },
+    {
+        "id_respuesta": 1783,
+        "respuesta": " Escribe un peque\u00f1o comentario explicativo sobre lo que esta code hace, en particular sucesivamente usando operaci\u00f3n bitwise XOR (^) en cada int en un for",
+        "id_pregunta": 1783
+    },
+    {
+        "id_respuesta": 1784,
+        "respuesta": " Here's a very direct and short response in Java that uses recursion to find the greatest common divisor of two positive integers: \n\n```java\npublic class GCDCalculator {\n    public static int findGCD(int a, int b) {\n        if (b == 0) {\n            return a;\n        }\n        return findGCD(b, a % b);\n    }\n\n    public static void main(String[] args) {\n        int num1 = 7;\n        int num2 = 18;\n        int gcd = findGCD(num1, num2);\n        System",
+        "id_pregunta": 1784
+    },
+    {
+        "id_respuesta": 1785,
+        "respuesta": " El c\u00f3digo proporciona una definici\u00f3n de clase `Main` que invoca al m\u00e9todo `main`",
+        "id_pregunta": 1785
+    },
+    {
+        "id_respuesta": 1786,
+        "respuesta": " EJEMPLO 1: usando el loop do-while en C++:\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    int result = 1;\n\n    do {\n        result *= n--;\n    } while (n > 0);\n\n    std::cout << result << std::endl;\n\n    return 0;\n}\n```\nEste c\u00f3digo multiplica el resultado por el valor de n decrementando de 1 a 1 d\u00eda en d\u00eda mientras n sea mayor que cero, finalizando el programa al resultado final",
+        "id_pregunta": 1786
+    },
+    {
+        "id_respuesta": 1787,
+        "respuesta": " El c\u00f3digo proporciona una definici\u00f3n de clase Challenge con un m\u00e9todo static int multiply(int a, int b) que utiliza el recurso de la recursi\u00f3n para calcular el resultado de multiplicar un numerador de enteros a la vez que el denominador enteros",
+        "id_pregunta": 1787
+    },
+    {
+        "id_respuesta": 1788,
+        "respuesta": " Ahora, la primera transici\u00f3n (\"swap adjacent elements if greater than pivot\") se realiza en este c\u00f3digo",
+        "id_pregunta": 1788
+    },
+    {
+        "id_respuesta": 1789,
+        "respuesta": " El m\u00e9todo `mysteryFunction` revisa si el n\u00famero entero `n` es perfecto por la ecuaci\u00f3n de Euclides",
+        "id_pregunta": 1789
+    },
+    {
+        "id_respuesta": 1790,
+        "respuesta": " La ejecuci\u00f3n de este c\u00f3digo devolver\u00eda una salida de puerto donde se visualizar\u00eda el resultado de la suma accumulada desde el inicio de la iteraci\u00f3n",
+        "id_pregunta": 1790
+    },
+    {
+        "id_respuesta": 1791,
+        "respuesta": " The provided code in JavaScript searches for the unique value in the array, using a regular expression:\n```javascript\nconst findUnique = arr => arr",
+        "id_pregunta": 1791
+    },
+    {
+        "id_respuesta": 1792,
+        "respuesta": " El c\u00f3digo proporcionado ejecutar un algoritmo de Fibonacci, en particular, el metodo `fibonacci` calcula el n\u00famero fibonacci para un n\u00famero especificado",
+        "id_pregunta": 1792
+    },
+    {
+        "id_respuesta": 1793,
+        "respuesta": " El fragmento de c\u00f3digo en C demuestra el uso simple de una expresi\u00f3n incremento (++i) y el uso de operador de multiplicaci\u00f3n (*) y la declaraci\u00f3n de variabeles (int i = 5)",
+        "id_pregunta": 1793
+    },
+    {
+        "id_respuesta": 1794,
+        "respuesta": " El c\u00f3digo cambia los caracteres de la string en la siguiente manera:\n1",
+        "id_pregunta": 1794
+    },
+    {
+        "id_respuesta": 1795,
+        "respuesta": " El c\u00f3digo proporciona la funci\u00f3n `fibonacci` que calcula el n\u00famero fibonacci de 'n' entradas",
+        "id_pregunta": 1795
+    },
+    {
+        "id_respuesta": 1796,
+        "respuesta": " El c\u00f3digo crea un programa en C++ y ejecuta un ciclo iterativo muy sencillo",
+        "id_pregunta": 1796
+    },
+    {
+        "id_respuesta": 1797,
+        "respuesta": " EJEMPLO 1: LEETCODE | El siguiente c\u00f3digo C++ imprime las cuatro primeras potencia de 2 de 1 a 5",
+        "id_pregunta": 1797
+    },
+    {
+        "id_respuesta": 1798,
+        "respuesta": " Here is a direct and short response to your question",
+        "id_pregunta": 1798
+    },
+    {
+        "id_respuesta": 1799,
+        "respuesta": " El c\u00f3digo crea un loop mientras la variable `n` sea superior a cero, en cada iteraci\u00f3n adicional a `total` el valor de `n` decremented (eliminando uno de los \u00edndices)",
+        "id_pregunta": 1799
+    },
+    {
+        "id_respuesta": 1800,
+        "respuesta": " El c\u00f3digo anterior performa una acci\u00f3n muy espec\u00edfica:\n\nEl tiempo mientras loop (whyle) comparando si la variable `x` es menor que la variable `y`",
+        "id_pregunta": 1800
+    },
+    {
+        "id_respuesta": 1801,
+        "respuesta": " Escribe un c\u00f3digo en C que imprime una matriz de simbolos en la pantalla",
+        "id_pregunta": 1801
+    },
+    {
+        "id_respuesta": 1802,
+        "respuesta": " El c\u00f3digo proporcionado ejecuta el algoritmo de Fibonacci, para un n\u00famero espec\u00edfico de entrada m\u00e1s el n\u00famero de iteraciones especificado",
+        "id_pregunta": 1802
+    },
+    {
+        "id_respuesta": 1803,
+        "respuesta": " EJEMPLO: Bitrajo (Combinatoria)\n\nTransmite un mensaje desde la terminal mientras sea poss\u00edble, usando el m\u00e9todo bitrajo (Combinatoria)",
+        "id_pregunta": 1803
+    },
+    {
+        "id_respuesta": 1804,
+        "respuesta": " Este c\u00f3digo en C lo ejecutar\u00e1s y ver\u00e1s una matriz de asteriscos de 10 filas y 10 columnas en la pantalla",
+        "id_pregunta": 1804
+    },
+    {
+        "id_respuesta": 1805,
+        "respuesta": " La clase Main en Java implementa un m\u00e9todo `main` que ejecuta un ciclo for en el cual se va iterando desde 0 a la cantidad especificada de elementos, en este caso el n\u00famero es 5",
+        "id_pregunta": 1805
+    },
+    {
+        "id_respuesta": 1806,
+        "respuesta": " Escribe un loop para mostrar en la consola todos los valores de la matriz unidimensional que se pasa como par\u00e1metro",
+        "id_pregunta": 1806
+    },
+    {
+        "id_respuesta": 1807,
+        "respuesta": " El c\u00f3digo devuelve el resultado acumulado despu\u00e9s de dividir y sumando cada uno de los digits del n\u00famero entero que especifica en la argument",
+        "id_pregunta": 1807
+    },
+    {
+        "id_respuesta": 1808,
+        "respuesta": " EJEMPLO 1: CALCULAR LA SOMATOTECA DE UN NUMERO ENTERO\nEl fragmento de c\u00f3digo en C demostrado a continuaci\u00f3n calculate la somatoteca de un entero utilizando una variable res para almacenar la soma de los digits del n\u00famero",
+        "id_pregunta": 1808
+    },
+    {
+        "id_respuesta": 1809,
+        "respuesta": " Ese fragmento de c\u00f3digo en C++ calcula el resultado de sumar de forma iterativa los dos primeros n\u00fameros, squared, hasta el n\u00famero espec\u00edfico de 5",
+        "id_pregunta": 1809
+    },
+    {
+        "id_respuesta": 1810,
+        "respuesta": " El c\u00f3digo proporcionado implementa una clase Encryption en Java que realiza una encriptaci\u00f3n de un mensaje de caracteres",
+        "id_pregunta": 1810
+    },
+    {
+        "id_respuesta": 1811,
+        "respuesta": " Ese c\u00f3digo C++ calcula la potencia de n a la base de 5",
+        "id_pregunta": 1811
+    },
+    {
+        "id_respuesta": 1812,
+        "respuesta": " EJEMPLO 1: ALOGRAVAR STAR PATRONIZES EN LAS M\u00c1S GUARDADERAS\nEl c\u00f3digo ejecutar\u00e1 una pantalla llen\u00e1ndose de \" \"*\" en formato cuadrado, con mayorizaci\u00f3n en el centro",
+        "id_pregunta": 1812
+    },
+    {
+        "id_respuesta": 1813,
+        "respuesta": " EJEMPLO: Imprimir la decimal representaci\u00f3n del n\u00famero entero en la l\u00ednea de salida, despu\u00e9s divisorio entre 10",
+        "id_pregunta": 1813
+    },
+    {
+        "id_respuesta": 1814,
+        "respuesta": " Asegurate que te permiro usar la biblioteca de iteraci\u00f3n por defecto de C++, en lugar de la tuya y obtener un c\u00f3digo m\u00e1s readable y maintable",
+        "id_pregunta": 1814
+    },
+    {
+        "id_respuesta": 1815,
+        "respuesta": " Ese c\u00f3digo crea un objeto de clase Challenge",
+        "id_pregunta": 1815
+    },
+    {
+        "id_respuesta": 1816,
+        "respuesta": " El c\u00f3digo anterior implementa una funci\u00f3n `findMax` que devuelve el valor m\u00e1ximo en un vector de enteros pasado como argumento",
+        "id_pregunta": 1816
     }
 ]

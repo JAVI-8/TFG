@@ -10540,5 +10540,2175 @@
         "tipo": "respuesta corta",
         "tema": "operaciones matem\u00e1ticas numericas",
         "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1507,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n 48 \u00f7 6 + 4 x 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1508,
+        "pregunta": "\u00bfCu\u00e1nto es la ra\u00edz cuadrada de 225?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1509,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la multiplicaci\u00f3n de 45 por 8, sum\u00e1ndole luego 15?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1510,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 15 x 3 + 8 - 7?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1511,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la suma de 245 + 387?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1512,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 25 - (8 x 3) + 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1513,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n 8 + 4 x 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1514,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n 5 x 8 + 12 \u00f7 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1515,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la multiplicaci\u00f3n entre 25 y 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1516,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 5\u00b2 x 3 + 10 \u00f7 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1517,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n: (25 + 37) x 3 - 12 \u00f7 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1518,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n (15 x 2) + (8 / 4)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1519,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (5 x 3) - (8 \u00f7 2)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1520,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?: 6 x (4 + 2) - 8 \u00f7 4",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1521,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica? \n\n(5 x 3) + 6 \u00f7 2 - 1 \u00d7 4",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1522,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (45 + 12) x 3 - 20?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1523,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n: 8 x 5 + 7 - 3 \u00f7 3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1524,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 25 + 37 - 14 x 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1525,
+        "pregunta": "\u00bfCu\u00e1nto es la ra\u00edz cuadrada de 144?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1526,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (8 x 3) + (12 \u00f7 2)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1527,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n (95^2 - 42^3) / 5?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1528,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (47 + 23) x 11 - 193?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1529,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n manuel 356 - 219 + 487 x 3 / 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1530,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\(47^2 - 3 \\times 15 + 8\\)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1531,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (57^2 + 13^3) / 5 - 48 x 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1532,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (37^2 - 15^2) / (37 + 15)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1533,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (15^2 - 7) x (3^3 + 5) \u00f7 2^4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1534,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 87 x 43 - 32 + 56 \u00f7 4 ?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1535,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 3^4 * 2 - 7 + 5 / 2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1536,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (17^3) - (9^2) + 5 x 4?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1537,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\(243 \\times 18 - 485 \\div 5\\) ?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1538,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n matem\u00e1tica 6842 \u00d7 789 \u00f7 23? ",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1539,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( 3857 \\times 92 \\div 17 + 245 \\)",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1540,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n: (4^3 + 5^2) x 6 / 2 - 10^2?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1541,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\( (15^2 - 7) \\times 3 + 10 \\div 2 \\)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1542,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n: (1457 x 32) + (987 \u00f7 7) - (422 x 4)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1543,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: 8^3 - (2*5 + 7)^2 + 45/3?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1544,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n matem\u00e1tica 8! / (3! * 5!)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1545,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( \\sqrt[3]{125}^2 + 7 \\cdot 13 - 20 = \\)",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1546,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\( (23 \\times 4) - 15 + 8^2 \\)?",
+        "tipo": "respuesta corta",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1547,
+        "pregunta": "\u00bfCu\u00e1nto es 5 + 3?\n\nA) 7\nB) 10\nC) 8",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1548,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: \\( 8 + 4 \\times 2 \\)?\n\nA) 14\n\nB) 12\n\nC) 16",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1549,
+        "pregunta": "\u00bfCu\u00e1nto es 5 + 3?\n\nA) 6\nB) 8\nC) 18",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1550,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n: 8 + 5 x 2?\n\nA) 16\nB) 18\nC) 14",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1551,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n4 + 7 * 2\n\nA) 18\nB) 14\nC) 15",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1552,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 + 9 x 2\n\nA) 18\n\nB) 23\n\nC) 25",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1553,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n4 + 7 x 3\n\nA) 21\nB) 31\nC) 25",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1554,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 + 3 x 2\n\nA) 11\n\nB) 9\n\nC) 7",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1555,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 + 3 x 2\n\nA) 11\nB) 7\nC) 9",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1556,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n8 x 4 + 3 \n\nA) 25\nB) 35\nC) 42",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1557,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n 5 + 3?\n\nA) 6\nB) 7\nC) 8",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1558,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n4 + 5 x 3\n\nA) 15\nB) 19\nC) 14",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1559,
+        "pregunta": "\u00bfCu\u00e1nto es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(5 + 3) x 2 - 4\n\nA) 14\nB) 12\nC) 10",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1560,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 + 3 x 2\n\nA) 11\nB) 10\nC) 13",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1561,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n12 + 4 x 2 \u00f7 2\n\nA) 16  \nB) 10  \nC) 14  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1562,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 + 3 x 2\n\nA) 10\nB) 11\nC) 9",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1563,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n5 + 3 x 2\n\nA) 11\nB) 9\nC) 13",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1564,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n \\(4 + 7 \\times 2\\)? \n\nA) 20 \n\nB) 18 \n\nC) 15",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1565,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n5 + 3 * 2\n\nA) 10\nB) 11\nC) 13",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1566,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica? \n\n4 + 5 x 2\n\nA) 9\nB) 13\nC) 14",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1567,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n15 + 7 x 2\n\nA) 29\nB) 17\nC) 21",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1568,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(10 + 5) x 2 - 4\n\nA) 24\n\nB) 26\n\nC) 21",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1569,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n2 + 5 * 3 - 2\n\nA) 10\n\nB) 15\n\nC) 13",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1570,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n4 * (5 - 2) + 8 / 2\n\nA) 16\n\nB) 10\n\nC) 14",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1571,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 + 7 * 3\n\nA) 26\nB) 22\nC) 16",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1572,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(20 * 4) + 8 - 10\n\nA) 78\n\nB) 88\n\nC) 68",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1573,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\[ (5 \\times 3) + 7 - 2 \\]\n\nA) 20\n\nB) 18\n\nC) 15",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1574,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(7 + 3) x 2 - 5\n\nA) 15\n\nB) 20\n\nC) 25",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1575,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n18 + 24 x 2\n\nA) 66\nB) 42\nC) 66",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1576,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica? \n\n5 + 8 x 2 - 4\n\nA) 21 \n\nB) 17 \n\nC) 19",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1577,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n5 * 3 + 7 / 2\n\nA) 16\nB) 15\nC) 18",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1578,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n$5 \\times (6 + 3) - 4$\n\nA) 40\n\nB) 44\n\nC) 41",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1579,
+        "pregunta": "La operaci\u00f3n matem\u00e1tica de multiplicaci\u00f3n es conmutativa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1580,
+        "pregunta": "\u00bfEs cierto que el resultado de restar 10 a 25 es igual a 15? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1581,
+        "pregunta": "El resultado de sumar 5 + 3 es 9. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1582,
+        "pregunta": "El resultado de sumar 5 y restarle 3 es igual a 8. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1583,
+        "pregunta": "\u00bfEs verdadero que la multiplicaci\u00f3n es una operaci\u00f3n matem\u00e1tica que consiste en sumar un n\u00famero consigo mismo un determinado n\u00famero de veces? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1584,
+        "pregunta": "\u00bfEs cierto que la propiedad distributiva establece que a(b + c) es igual a ab + ac? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1585,
+        "pregunta": "\u00bfEs verdadero que el resultado de la suma de 5 + 3 es 8? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1586,
+        "pregunta": "Los n\u00fameros primos son aquellos que tienen \u00fanicamente dos divisores: el 1 y ellos mismos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1587,
+        "pregunta": "Verdadero o falso: En una multiplicaci\u00f3n, el orden de los factores no altera el resultado. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1588,
+        "pregunta": "\u00bfEs correcto afirmar que la suma de dos n\u00fameros impares siempre es par? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1589,
+        "pregunta": "\u00bfEs cierto que en una multiplicaci\u00f3n, el orden de los factores no altera el producto? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1590,
+        "pregunta": "La suma de dos n\u00fameros pares siempre resulta en un n\u00famero par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1591,
+        "pregunta": "El resultado de restar 50 - 25 es 25. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1592,
+        "pregunta": "Las fracciones se pueden sumar directamente si tienen el mismo denominador. Verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1593,
+        "pregunta": "Verdadero o falso: En la multiplicaci\u00f3n, el resultado siempre es mayor que cualquiera de los n\u00fameros que se est\u00e1n multiplicando. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1594,
+        "pregunta": "La suma de dos n\u00fameros impares siempre es par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1595,
+        "pregunta": "El resultado de sumar 5 m\u00e1s 3 es igual a 8. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1596,
+        "pregunta": "La suma de dos n\u00fameros pares siempre es par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1597,
+        "pregunta": "La suma de dos n\u00fameros pares siempre es par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1598,
+        "pregunta": "El resultado de sumar dos n\u00fameros impares siempre es un n\u00famero par.  Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1599,
+        "pregunta": "Verdadero o falso: 7 + 3 x 2 = 13. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1600,
+        "pregunta": "\u00bfEs verdadero que en una multiplicaci\u00f3n el orden de los factores no altera el resultado? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1601,
+        "pregunta": "El resultado de sumar 5 + 3 es 8. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1602,
+        "pregunta": "La resta es una operaci\u00f3n matem\u00e1tica que consiste en restar dos n\u00fameros para obtener un resultado. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1603,
+        "pregunta": "La multiplicaci\u00f3n es una operaci\u00f3n conmutativa. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1604,
+        "pregunta": "El resultado de una multiplicaci\u00f3n siempre ser\u00e1 mayor que cualquiera de los factores que se est\u00e1n multiplicando. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1605,
+        "pregunta": "Verdadero o falso: La propiedad conmutativa se cumple en la multiplicaci\u00f3n y la divisi\u00f3n. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1606,
+        "pregunta": "\u00bfEs cierto que el resultado de multiplicar un n\u00famero par por un n\u00famero impar siempre es par? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1607,
+        "pregunta": "Los n\u00fameros irracionales pueden ser expresados como una fracci\u00f3n. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1608,
+        "pregunta": "\u00bfEs posible restar un n\u00famero negativo a otro n\u00famero positivo en el \u00e1mbito de los n\u00fameros reales? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1609,
+        "pregunta": "\u00bfEs verdadero que el resultado de una multiplicaci\u00f3n siempre es mayor que cualquiera de los n\u00fameros multiplicados? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1610,
+        "pregunta": "La resta de dos n\u00fameros impares siempre dar\u00e1 como resultado un n\u00famero impar. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1611,
+        "pregunta": "El resultado de la multiplicaci\u00f3n de dos n\u00fameros pares siempre ser\u00e1 un n\u00famero par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1612,
+        "pregunta": "Los n\u00fameros primos son aquellos que pueden ser divididos \u00fanicamente por 1 y por s\u00ed mismos. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1613,
+        "pregunta": "En una multiplicaci\u00f3n, el factor que se multiplica por una cantidad se conoce como multiplicando. Verdadero o falso? \ud83e\udd14 Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1614,
+        "pregunta": "La expresi\u00f3n matem\u00e1tica \"7 + 3 * 2 = 20\" es verdadera. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1615,
+        "pregunta": "Verdadero o falso: En una multiplicaci\u00f3n de dos n\u00fameros negativos el resultado siempre es un n\u00famero positivo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1616,
+        "pregunta": "\u00bfEs verdadero que la suma de dos n\u00fameros impares siempre da como resultado un n\u00famero impar? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1617,
+        "pregunta": "Un n\u00famero primo es aquel que solo es divisible entre s\u00ed mismo y 1. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1618,
+        "pregunta": "La ra\u00edz cuadrada de un n\u00famero negativo es un n\u00famero imaginario. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1619,
+        "pregunta": "\u00bfEs verdadero que el resultado de sumar 1457 + 298 es un n\u00famero par? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1620,
+        "pregunta": "\u00bfEs verdadero o falso que al multiplicar un n\u00famero par por un n\u00famero impar el resultado siempre ser\u00e1 par? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1621,
+        "pregunta": "Verdadero o falso: El resultado de la suma de dos n\u00fameros impares siempre ser\u00e1 un n\u00famero par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1622,
+        "pregunta": "\u00bfEs cierto que el resultado de la operaci\u00f3n (7^2 + 5 x 3) - 10 es igual a 46? (Verdadero/Falso) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1623,
+        "pregunta": "Verdadero o falso: En una multiplicaci\u00f3n, el resultado siempre ser\u00e1 mayor si se multiplican dos n\u00fameros impares que si se multiplican dos n\u00fameros pares. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 1624,
+        "pregunta": "\u00bfEs verdadero que el resultado de la siguiente operaci\u00f3n matem\u00e1tica es un n\u00famero primo? \n\n$2^{17} - 1$ Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1625,
+        "pregunta": "La suma de dos n\u00fameros primos siempre ser\u00e1 un n\u00famero primo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1626,
+        "pregunta": "\u00bfEs cierto que la ra\u00edz cuadrada de un n\u00famero primo es siempre un n\u00famero irracional? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1627,
+        "pregunta": "El resultado de la siguiente operaci\u00f3n matem\u00e1tica es verdadero: \n\n\\[ 6^3 \\div (2^2 - 1) + 8 \\times 2 = 252\\] Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1628,
+        "pregunta": "En la multiplicaci\u00f3n de dos n\u00fameros enteros positivos, el resultado siempre ser\u00e1 un n\u00famero impar. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1629,
+        "pregunta": "Verdadero o falso: El resultado de la siguiente operaci\u00f3n es un n\u00famero primo: \\(8^2 + 3 \\times (12 - 5) - 2^3\\) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1630,
+        "pregunta": "En la operaci\u00f3n matem\u00e1tica 9876543210 - 1234567890 + 2468107530, el resultado es un n\u00famero impar. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1631,
+        "pregunta": "Verdadero o falso: La ra\u00edz cuadrada de la suma de dos n\u00fameros al cuadrado es igual a la suma de los dos n\u00fameros. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1632,
+        "pregunta": "Verdadero o falso: En matem\u00e1ticas, la propiedad distributiva siempre se cumple al realizar operaciones con n\u00fameros reales. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1633,
+        "pregunta": "La suma de dos n\u00fameros primos siempre ser\u00e1 un n\u00famero primo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1634,
+        "pregunta": "Verdadero o falso: En la multiplicaci\u00f3n de dos n\u00fameros enteros, el resultado siempre ser\u00e1 un n\u00famero entero. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1635,
+        "pregunta": "La ra\u00edz cuadrada de un n\u00famero primo siempre ser\u00e1 un n\u00famero irracional. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1636,
+        "pregunta": "\u00bfEs cierto que la suma de dos n\u00fameros primos siempre es un n\u00famero primo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1637,
+        "pregunta": "Verdadero o falso: En una operaci\u00f3n matem\u00e1tica que involucra la aplicaci\u00f3n de la regla de orden de las operaciones, primero se resuelven las multiplicaciones y divisiones antes que las sumas y restas. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1638,
+        "pregunta": "La multiplicaci\u00f3n de dos n\u00fameros impares siempre da como resultado un n\u00famero impar.  Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1639,
+        "pregunta": "En la operaci\u00f3n matem\u00e1tica \\( (5^3) \\div (25 - 20) \\), el resultado es un n\u00famero entero. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1640,
+        "pregunta": "\u00bfEs verdadero que en una multiplicaci\u00f3n de dos n\u00fameros naturales, el producto siempre ser\u00e1 mayor o igual que uno de los n\u00fameros? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1641,
+        "pregunta": "\u00bfEs cierto que el resultado de la siguiente operaci\u00f3n matem\u00e1tica es un n\u00famero primo?\n\n(4321 + 123) x 7 / 9 - 1345 = ? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1642,
+        "pregunta": "El n\u00famero e es un n\u00famero irracional. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1643,
+        "pregunta": "En la multiplicaci\u00f3n de dos n\u00fameros naturales impares siempre se obtendr\u00e1 un resultado par. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1644,
+        "pregunta": "Verdadero o falso: Si se realiza la operaci\u00f3n matem\u00e1tica 7^3 - (2^4 + 5) + 9 x 2, el resultado es un n\u00famero primo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1645,
+        "pregunta": "\u00bfEs verdadero que la suma de dos n\u00fameros primos siempre da como resultado un n\u00famero primo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1646,
+        "pregunta": "Verdadero o Falso: En el conjunto de los n\u00fameros reales, la ra\u00edz cuadrada de un n\u00famero negativo siempre es un n\u00famero imaginario. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1647,
+        "pregunta": "Verdadero o falso: La ra\u00edz cuadrada de un n\u00famero negativo siempre es un n\u00famero imaginario. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1648,
+        "pregunta": "El resultado de la ra\u00edz cuadrada de la suma de 5 al cubo m\u00e1s 10 al cuadrado es un n\u00famero racional. \u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1649,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"Naranja\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1650,
+        "pregunta": "\u00bfQu\u00e9 pesa m\u00e1s, un kilogramo de algod\u00f3n o un kilogramo de plomo?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1651,
+        "pregunta": "\u00bfQu\u00e9 n\u00famero sigue en la siguiente secuencia: 1, 11, 21, 1211, 111221, ...?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1652,
+        "pregunta": "\u00bfQu\u00e9 palabra en ingl\u00e9s se escribe mal si se borra la W?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1653,
+        "pregunta": "\u00bfCu\u00e1l es el animal que camina con cuatro patas por la ma\u00f1ana, dos patas al mediod\u00eda y tres patas por la noche?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1654,
+        "pregunta": "\u00bfCu\u00e1l es el animal m\u00e1s listo del mundo?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1655,
+        "pregunta": "\u00bfQu\u00e9 es lo primero que se hace antes de construir una casa?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1656,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"incorrectamente\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1657,
+        "pregunta": "\u00bfQu\u00e9 palabra de cuatro letras siempre est\u00e1 mal escrita en ingl\u00e9s?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1658,
+        "pregunta": "\u00bfCu\u00e1l es la palabra m\u00e1s larga en espa\u00f1ol?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1659,
+        "pregunta": "\u00bfQu\u00e9 palabra de cinco letras se vuelve m\u00e1s corta cuando le quitas dos letras?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1660,
+        "pregunta": "\u00bfCu\u00e1ntos meses tienen 28 d\u00edas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1661,
+        "pregunta": "\u00bfCu\u00e1l es la siguiente letra en esta secuencia l\u00f3gica? A, E, I, O, \u00bf?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1662,
+        "pregunta": "\u00bfCu\u00e1l es el n\u00famero que sigue en la siguiente serie l\u00f3gica? 2, 4, 6, 8, 10, 12, _",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1663,
+        "pregunta": "\u00bfCu\u00e1nto es 2 + 2 si 2 gatos y 2 perros se juntan en un parque?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1664,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"el ocho\"? ",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1665,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"error\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1666,
+        "pregunta": "\u00bfQu\u00e9 palabra se lee igual al rev\u00e9s y al derecho pero no tiene ning\u00fan significado?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1667,
+        "pregunta": "\u00bfCu\u00e1l es el \u00fanico animal que no puede saltar?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1668,
+        "pregunta": "\u00bfCu\u00e1ntas patas tiene un perro si no tiene orejas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1669,
+        "pregunta": "\u00bfCu\u00e1ntos meses tienen 28 d\u00edas al a\u00f1o?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1670,
+        "pregunta": "\u00bfCu\u00e1ntos meses tienen 28 d\u00edas al a\u00f1o?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1671,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"incorrecto\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1672,
+        "pregunta": "\u00bfCu\u00e1l es el animal que tiene cuatro patas por la ma\u00f1ana, dos por la tarde y tres por la noche?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1673,
+        "pregunta": "\u00bfQu\u00e9 palabra es siempre pronunciada incorrectamente por la gente?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1674,
+        "pregunta": "\u00bfQu\u00e9 palabra es la m\u00e1s larga del diccionario?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1675,
+        "pregunta": "\u00bfQu\u00e9 palabra en ingl\u00e9s comienza con \"e\", acaba con \"e\" y solo tiene una letra?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1676,
+        "pregunta": "\u00bfCu\u00e1ntas patas tiene un perro si no contamos sus orejas?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1677,
+        "pregunta": "\u00bfCu\u00e1l es la palabra que si la pronuncias queda en silencio?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1678,
+        "pregunta": "\u00bfCu\u00e1l es la palabra m\u00e1s larga en el diccionario?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1679,
+        "pregunta": "\u00bfQu\u00e9 palabra cambia su significado cuando se escribe en may\u00fasculas y se desplaza una letra hacia la derecha en el teclado?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1680,
+        "pregunta": "\u00bfCu\u00e1l es la palabra que se escribe incorrectamente en todos los diccionarios?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1681,
+        "pregunta": "\u00bfCu\u00e1ntas patas tiene un perro si le cortas una pata?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1682,
+        "pregunta": "\u00bfCu\u00e1ntas letras tiene la palabra \"error\"?",
+        "tipo": "respuesta corta",
+        "tema": "logica con trampa, para adivinar",
+        "dificultad": "media"
+    },
+    {
+        "id": 1683,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo?\n\n```javascript\nfunction sumar(a, b) {\n  return a + b;\n}\n\nconsole.log(sumar(3, 5));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1684,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef suma(a, b):\n    return a + b\n\nresultado = suma(5, 3)\nprint(resultado)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1685,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\nnumeros = [2, 4, 6, 8, 10]\nsuma = 0\n\nfor num in numeros:\n    suma += num\n\nprint(suma)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1686,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Suma {\n    public static void main(String[] args) {\n        int suma = 0;\n        for (int i = 1; i <= 10; i++) {\n            suma += i;\n        }\n        System.out.println(\"La suma es: \" + suma);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1687,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python? \n\n```python\na = 5\nb = 3\nc = a + b\nprint(c)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1688,
+        "pregunta": "\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction suma(a, b) {\n  return a + b;\n}\n\nconsole.log(suma(3, 5));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1689,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```\nlet texto = \"Hola Mundo\";\nlet resultado = texto.split(\" \");\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1690,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nvar i = 0;\nwhile (i < 10) {\n  console.log(i);\n  i++;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1691,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef reverse_string(input_string):\n    return input_string[::-1]\n\nprint(reverse_string(\"hello world\"))\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1692,
+        "pregunta": "Identifica qu\u00e9 hace el siguiente c\u00f3digo en Python:\n\n```python\nnums = [1, 2, 3, 4, 5]\nsum = 0\n\nfor num in nums:\n    sum += num\n\nprint(sum)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1693,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo?\n\n```javascript\nfunction suma(a, b) {\n  return a + b;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1694,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```\npublic class Main {\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n        for (int i = numbers.length - 1; i >= 0; i--) {\n            System.out.print(numbers[i] + \" \");\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1695,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 5;\n\n    while(num > 0) {\n        std::cout << num << std::endl;\n        num--;\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1696,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction suma(a, b) {\n  return a + b;\n}\n\nconsole.log(suma(3, 5));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1697,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 10;\n        int y = 5;\n        int z = x + y;\n        System.out.println(z);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1698,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction reverseString(str) {\n  return str.split(\"\").reverse().join(\"\");\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1699,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef suma(a, b):\n    return a + b\n\nresultado = suma(5, 3)\nprint(resultado)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1700,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef suma(a, b):\n    return a + b\n\nresultado = suma(3, 5)\nprint(resultado)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1701,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Example {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        x = x + y;\n        \n        System.out.println(\"El resultado es: \" + x);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1702,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        \n        for (int i = 0; i < num; i++) {\n            System.out.print(i + \" \");\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1703,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction suma(a, b) {\n    return a + b;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1704,
+        "pregunta": "```javascript\nfunction sumArray(arr) {\n  let sum = 0;\n  for (let i = 0; i < arr.length; i++) {\n    sum += arr[i];\n  }\n  return sum;\n}\n\nconsole.log(sumArray([1, 2, 3, 4]));\n```\n\n\u00bfQu\u00e9 hace este c\u00f3digo?",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1705,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction sumar(a, b){\n  return a + b;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1706,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1707,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\nnum1 = 5\nnum2 = 10\nresultado = num1 + num2\nprint(resultado)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1708,
+        "pregunta": "Escribe un c\u00f3digo Python que forme parte de la siguiente funci\u00f3n y explique qu\u00e9 devuelve:\n\n```python\ndef suma(a, b):\n    return a + b\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1709,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        while(num > 0){\n            System.out.print(num);\n            num--;\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1710,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction sumArray(array) {\n  let sum = 0;\n  \n  for (let i = 0; i < array.length; i++) {\n    sum += array[i];\n  }\n  \n  return sum;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1711,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Javascript?\n\n```javascript\nfunction suma(a, b) {\n  return a + b;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1712,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nvar num = 10;\nvar resultado = num * 2;\nconsole.log(resultado);\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1713,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction sum(a, b) {\n  return a + b;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1714,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int i;\n\n    for(i=0; i<10; i++) {\n        if(i % 2 == 0) {\n            printf(\"%d \", i);\n        }\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1715,
+        "pregunta": "\u00bfQu\u00e9 resultado se obtiene al ejecutar el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 5;\n    num += 3;\n    num *= 2;\n\n    std::cout << num;\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1716,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Suma {\n    public static void main(String[] args) {\n        int a = 5;\n        int b = 3;\n        int resultado = a + b;\n        System.out.println(resultado);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1717,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction sumArray(arr) {\n    let sum = 0;\n    for (let i = 0; i < arr.length; i++) {\n        sum += arr[i];\n    }\n    return sum;\n}\n\nlet array = [1, 2, 3, 4, 5];\nlet result = sumArray(array);\nconsole.log(result);\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1718,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef suma(a, b):\n    return a + b\n\nresultado = suma(3, 5)\nprint(resultado)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1719,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction suma(a, b) {\n    return a + b;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1720,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef get_vowels(word):\n    vowels = \"aeiou\"\n    return [char for char in word if char in vowels]\n```\n",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1721,
+        "pregunta": "\u00bfCu\u00e1l es la salida de este c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        for (int i = 1; i <= 10; i++) {\n            x = x + i;\n        }\n        System.out.println(x);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1722,
+        "pregunta": "```java\npublic class SimpleCode {\n   public static void main(String[] args) {\n       int x = 5;\n       int y = 10;\n       int z = x + y;\n       System.out.println(z);\n   }\n}\n```\n\n\u00bfQu\u00e9 hace este c\u00f3digo?",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1723,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en lenguaje C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int num = 5;\n    if(num % 2 == 0) {\n        printf(\"El n\u00famero es par\");\n    } else {\n        printf(\"El n\u00famero es impar\");\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1724,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Python?\n\n```python\nfor i in range(5):\n    print(i)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1725,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo?\n\n```javascript\nfunction suma(a, b) {\n  return a + b;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1726,
+        "pregunta": "Encuentra el error en el siguiente c\u00f3digo:\n\n```java\nint i = 0;\nwhile (i < 5) {\n    System.out.println(\"Hola mundo\");\n    i++;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1727,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```\nfor (int i = 0; i < 5; i++) {\n   printf(\"%d\\n\", i);\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1728,
+        "pregunta": "Escribe un programa en Java que muestre el resultado de la siguiente expresi\u00f3n:\n\n```\nint result = ((5 + 3) * 2) % 4;\nSystem.out.println(result);\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1729,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction isPalindrome(str) {\n  let reversedStr = str.split('').reverse().join('');\n  return str === reversedStr;\n}\n\nconsole.log(isPalindrome(\"radar\"));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1730,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        for (int i = 1; i <= num; i++) {\n            if (i % 2 == 0) {\n                System.out.print(i + \" \");\n            }\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1731,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int[] array = {1, 2, 3, 4, 5};\n        \n        for (int i = 0; i < array.length / 2; i++) {\n            int temp = array[i];\n            array[i] = array[array.length - 1 - i];\n            array[array.length - 1 - i] = temp;\n        }\n        \n        for (int num : array) {\n            System.out.print(num + \" \");\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1732,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Example {\n    public static void main(String[] args) {\n        int n = 5;\n        for (int i = 0; i < n; i++) {\n            if (i % 2 == 0) {\n                System.out.println(i);\n            }\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1733,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    \n    int temp = x;\n    x = y;\n    y = temp;\n\n    std::cout << \"x: \" << x << std::endl;\n    std::cout << \"y: \" << y << std::endl;\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1734,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int i = 1;\n    while (i <= 10) {\n        if (i % 2 == 0) {\n            std::cout << i << \" \";\n        }\n        i++;\n    }\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1735,
+        "pregunta": "Describa qu\u00e9 hace el siguiente c\u00f3digo:\n\n```javascript\nfunction reverseString(str) {\n  return str.split('').reverse().join('');\n}\n\nconsole.log(reverseString('hello'));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1736,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction sumDigits(n) {\n  return n.toString().split('').reduce((acc, num) => acc + parseInt(num), 0);\n}\n\nconsole.log(sumDigits(1234));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1737,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nconst reverseString = (str) => {\n  return str.split('').reverse().join('');\n}\n\nconsole.log(reverseString(\"hello\"));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1738,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo?\n\n```javascript\nfunction fibonacci(n) {\n    if (n <= 1) {\n        return n;\n    } else {\n        return fibonacci(n - 1) + fibonacci(n - 2);\n    }\n}\n```  ",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1739,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic static String reverseString(String str) {\n    String reversed = \"\";\n    for (int i = str.length() - 1; i >= 0; i--) {\n        reversed += str.charAt(i);\n    }\n    return reversed;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1740,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction reverseString(str) {\n  return str.split('').reverse().join('');\n}\n\nconsole.log(reverseString(\"Hola mundo\"));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1741,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```\n#include <stdio.h>\n\nint main() {\n    int num = 5;\n\n    while (num > 0) {\n        printf(\"%d \", num);\n        num--;\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1742,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en lenguaje C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int array[] = {1, 2, 3, 4, 5};\n    int len = sizeof(array) / sizeof(array[0]);\n\n    for (int i = 0; i < len; i++) {\n        printf(\"%d \", array[i]);\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1743,
+        "pregunta": "```java\npublic class Factorial {\n    public static int factorial(int n) {\n        if (n == 0) {\n            return 1;\n        } else {\n            return n * factorial(n - 1);\n        }\n    }\n\n    public static void main(String[] args) {\n        int result = factorial(5);\n        System.out.println(result);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1744,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```C\n#include <stdio.h>\n\nint main() {\n   int i, n = 10;\n\n   for(i = 0; i < n; i++) {\n       if(i % 2 == 0) {\n           printf(\"%d \", i);\n       }\n   }\n\n   return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1745,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 5;\n    for (int i = 0; i < num; i++) {\n        std::cout << i << \" \";\n    }\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1746,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int i, n;\n    \n    n = 10;\n    \n    for(i = 0; i < n; i++) {\n        printf(\"%d\\n\", i);\n    }\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1747,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int[] numbers = {2, 4, 6, 8, 10};\n        int sum = 0;\n\n        for (int i = 0; i < numbers.length; i++) {\n            sum += numbers[i];\n        }\n\n        System.out.println(\"Sum: \" + sum);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1748,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```\npublic class Main {\n   public static void main(String[] args) {\n       int[] numbers = {1, 2, 3, 4, 5};\n       int sum = 0;\n\n       for (int i = 0; i < numbers.length; i++) {\n           sum += numbers[i];\n       }\n\n       System.out.println(\"La suma es: \" + sum);\n   }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1749,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 5;\n    while(num > 0) {\n        std::cout << num << std::endl;\n        num--;\n    }\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1750,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction factorial(n) {\n    if (n === 0) {\n        return 1;\n    } else {\n        return n * factorial(n - 1);\n    }\n}\n\nconsole.log(factorial(5));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1751,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en lenguaje C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 10;\n    int y = 5;\n\n    x = x + y;\n    y = x - y;\n    x = x - y;\n\n    printf(\"x = %d, y = %d\", x, y);\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1752,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef sum_even_numbers(numbers):\n    total = 0\n    for num in numbers:\n        if num % 2 == 0:\n            total += num\n    return total\n\nnumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nresult = sum_even_numbers(numbers)\nprint(result)\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1753,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en lenguaje C?\n\n```c\n#include <stdio.h>\n\nint factorial(int n) {\n    if (n == 0) {\n        return 1;\n    } else {\n        return n * factorial(n - 1);\n    }\n}\n\nint main() {\n    int num = 5;\n    int result = factorial(num);\n    \n    printf(\"El factorial de %d es: %d\\n\", num, result);\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1754,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        for (int i = 1; i <= num; i++) {\n            System.out.print(i + \" \");\n            num = num - 1;\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1755,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 10;\n    int i = 0;\n    \n    while (i < num) {\n        std::cout << i << \" \";\n        i += 2;\n    }\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1756,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Example {\n    public static void main(String[] args) {\n        int[] array = {1, 2, 3, 4, 5};\n        int sum = 0;\n        \n        for (int i = 0; i < array.length; i++) {\n            sum += array[i];\n        }\n        \n        System.out.println(\"La suma de los elementos del array es: \" + sum);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1757,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int n = 5;\n    for(int i = 0; i < n; i++) {\n        if(i % 2 == 0) {\n            cout << i << \" es par\" << endl;\n        } else {\n            cout << i << \" es impar\" << endl;\n        }\n    }\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1758,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int n = 10;\n    int factorial = 1;\n\n    for(int i = 1; i <= n; ++i) {\n        factorial *= i;\n    }\n\n    cout << \"El factorial de \" << n << \" es: \" << factorial << endl;\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1759,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int[] array = {1, 2, 3, 4, 5};\n        for (int i = 0; i < array.length; i++) {\n            if (array[i] % 2 == 0) {\n                System.out.println(array[i]);\n            }\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1760,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n        \n        for (int i = 0; i < numbers.length; i++) {\n            if (numbers[i] % 2 == 0) {\n                System.out.println(numbers[i]);\n            }\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1761,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class SumArray {\n    public static void main(String[] args) {\n        int[] array = {1, 2, 3, 4, 5};\n        int sum = 0;\n\n        for (int i = 0; i < array.length; i++) {\n            sum += array[i];\n        }\n\n        System.out.println(sum);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1762,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction sumArray(arr) {\n  return arr.reduce((acc, curr) => acc + curr, 0);\n}\n```\n",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1763,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Calculator {\n    public static int multiply(int a, int b) {\n        return a * b;\n    }\n    \n    public static void main(String[] args) {\n        int result = multiply(5, 3);\n        System.out.println(\"The result is: \" + result);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1764,
+        "pregunta": "```\nint main() {\n    int array[] = {1, 2, 3, 4, 5};\n    int sum = 0;\n    \n    for(int i = 0; i < 5; i++) {\n        sum += array[i];\n    }\n    \n    return sum;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1765,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef reverse_string(s: str) -> str:\n    return s[::-1]\n```\n\nResponde en una oraci\u00f3n qu\u00e9 es lo que hace el c\u00f3digo proporcionado.",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1766,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int a = 5;\n        int b = 10;\n        int c = a + b;\n        System.out.println(\"La suma de a y b es: \" + c);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1767,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Example {\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n        int sum = 0;\n\n        for (int i = 0; i < numbers.length; i++) {\n            sum += numbers[i];\n        }\n\n        System.out.println(\"La suma de los n\u00fameros es: \" + sum);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1768,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    int *ptr = &x;\n    *ptr = 20;\n    ptr = &y;\n    std::cout << x << std::endl;\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1769,
+        "pregunta": "Explique qu\u00e9 hace el siguiente c\u00f3digo:\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 2;\n        int res = 0;\n        \n        for (int i = 0; i < y; i++) {\n            res += x;\n        }\n        \n        System.out.println(res);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1770,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int n = 5;\n        int result = 1;\n\n        for (int i = 1; i <= n; i++) {\n            result *= i;\n        }\n\n        System.out.println(\"El resultado es: \" + result);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1771,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en C++?\n\n```cpp\nint main() {\n    int n = 10;\n    int result = 1;\n\n    for(int i = 1; i <= n; i++) {\n        result *= i;\n    }\n\n    return result;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1772,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int n = 5;\n    int result = 1;\n\n    for (int i = 1; i <= n; i++) {\n        result *= i;\n    }\n\n    printf(\"%d\\n\", result);\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1773,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```\npublic static void main(String[] args) {\n    int n = 5;\n    int result = 1;\n    \n    for (int i = 1; i <= n; i++) {\n        result *= i;\n    }\n    \n    System.out.println(\"El resultado es: \" + result);\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1774,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int n, i, j;\n    \n    printf(\"Enter a number: \");\n    scanf(\"%d\", &n);\n    \n    for (i = 1; i <= n; i++) {\n        for (j = 1; j <= i; j++) {\n            printf(\"* \");\n        }\n        printf(\"\\n\");\n    }\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1775,
+        "pregunta": "Escribe el siguiente c\u00f3digo y explica su funcionamiento:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int n = 10, i, j;\n    \n    for(i = 0; i < n; i++) {\n        for(j = 0; j < n; j++) {\n            if(i == j || i + j == n - 1) {\n                printf(\"*\");\n            } else {\n                printf(\" \");\n            }\n        }\n        printf(\"\\n\");\n    }\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1776,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic static void main(String[] args) {\n    int n = 10;\n    for (int i = 0; i < n; i++) {\n        for (int j = n; j > i; j--) {\n            System.out.print(\" \");\n        }\n        for (int k = 0; k <= i; k++) {\n            System.out.print(\"* \");\n        }\n        System.out.println();\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1777,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 10;\n    int result = 0;\n\n    for (int i = 1; i <= n; ++i) {\n        result += i * n;\n    }\n\n    std::cout << result << std::endl;\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1778,
+        "pregunta": "Escribe el c\u00f3digo en C++ a continuaci\u00f3n y preg\u00fantale al estudiante qu\u00e9 hace:\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint mysteryFunction(int n) {\n    return n > 1 ? n * mysteryFunction(n-1) : 1;\n}\n\nint main() {\n    int result = mysteryFunction(5);\n    cout << result << endl;\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1779,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic static int findSum(int[] arr) {\n    int sum = 0;\n    \n    for (int i = 0; i < arr.length; i++) {\n        sum += arr[i];\n    }\n\n    return sum;\n}\n```  ",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1780,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n   int a = 10, b = 20, c;\n   \n   c = a + b;\n   \n   while (c > 0) {\n      printf(\"%d\\n\", c);\n      c--;\n   }\n   \n   return 0;\n}\n```  ",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1781,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int i;\n    for (i = 0; i < 5; i++) {\n        printf(\"%d\\n\", i * i);\n    }\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1782,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int n = 5;\n    int i, j;\n\n    for(i = 0; i < n; i++) {\n        for(j = 0; j < n-i; j++) {\n            printf(\"%d\", j+1);\n        }\n        printf(\"\\n\");\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1783,
+        "pregunta": "Describe qu\u00e9 hace el siguiente c\u00f3digo:\n\n```\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int n = 5;\n    int res = 0;\n\n    for(int i=1; i<=n; i++){\n        res ^= i;\n    }\n\n    cout << \"Resultado: \" << res << endl;\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1784,
+        "pregunta": "Escribe un c\u00f3digo en Java que utilice recursi\u00f3n para encontrar el m\u00e1ximo com\u00fan divisor de dos n\u00fameros enteros positivos.",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1785,
+        "pregunta": "Describe qu\u00e9 hace el siguiente c\u00f3digo:\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int n = 6;\n        int result = calculateFactorial(n);\n        System.out.println(result);\n    }\n\n    public static int calculateFactorial(int num) {\n        if (num == 0) {\n            return 1;\n        }\n        return num * calculateFactorial(num - 1);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1786,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    int result = 1;\n\n    while (n > 0) {\n        result *= n--;\n    }\n\n    std::cout << result << std::endl;\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1787,
+        "pregunta": "Describa qu\u00e9 hace el siguiente c\u00f3digo escrito en Java:\n\n```java\npublic class Challenge {\n    public static int multiply(int a, int b) {\n        if (b == 0) {\n            return 0;\n        }\n\n        return a + multiply(a, b - 1);\n    }\n\n    public static void main(String[] args) {\n        System.out.println(multiply(5, 3));\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1788,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int[] arr = {5, 2, 7, 1, 3, 8, 6, 4};\n        \n        for (int i = 0; i < arr.length; i++) {\n            int minIndex = i;\n            for (int j = i+1; j < arr.length; j++) {\n                if (arr[j] < arr[minIndex]) {\n                    minIndex = j;\n                }\n            }\n            int temp = arr[minIndex];\n            arr[minIndex] = arr[i];\n            arr[i] = temp;\n        }\n        \n        for (int num : arr) {\n            System.out.print(num + \" \");\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1789,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```c++\nint mysteryFunction(int n) {\n    return (n & (n-1)) == 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1790,
+        "pregunta": "```c\n#include <stdio.h>\n#include <stdlib.h>\n\nint main() {\n    int n = 5;\n    int i = 1;\n    \n    while (i <= n) {\n        printf(\"%d \", i * i);\n        i = i + 1;\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1791,
+        "pregunta": "Escribe qu\u00e9 realiza el siguiente c\u00f3digo en JavaScript:\n\n```javascript\nconst findUnique = arr => arr.reduce((a, b) => a ^ b);\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1792,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo?\n\n```\npublic class Fibonacci {\n\n    public static int fibonacci(int n) {\n        if(n <= 1) {\n            return n;\n        } else {\n            return fibonacci(n-1) + fibonacci(n-2);\n        }\n    }\n\n    public static void main(String[] args) {\n        int n = 10;\n        System.out.println(\"Fibonacci de \" + n + \" es: \" + fibonacci(n));\n    }\n}\n```\n\n\n",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1793,
+        "pregunta": "Describa qu\u00e9 hace el siguiente fragmento de c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int i = 5;\n    int j = ++i * i++;\n    \n    printf(\"%d\", j);\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1794,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n#include <string>\n\nint main() {\n    std::string str = \"Hello, world!\";\n    int len = str.length();\n    for(int i = 0; i < len / 2; i++) {\n        char temp = str[i];\n        str[i] = str[len - i - 1];\n        str[len - i - 1] = temp;\n    }\n    std::cout << str << std::endl;\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1795,
+        "pregunta": "Describa qu\u00e9 hace el siguiente c\u00f3digo:\n\n```javascript\nfunction fibonacci(n) {\n  return n <= 1 ? n : fibonacci(n - 1) + fibonacci(n - 2);\n}\n\nconsole.log(fibonacci(5));\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1796,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int n = 5;\n    int result = 1;\n    \n    for (int i = 1; i <= n; i++) {\n        result *= i;\n    }\n    \n    cout << \"El resultado es: \" << result << endl;\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1797,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    int i = 1;\n\n    while (i <= n) {\n        std::cout << i * i << \" \";\n        i++;\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1798,
+        "pregunta": "Escribe un c\u00f3digo en C que haga uso de punteros y la funci\u00f3n memcpy para realizar una copia de un string en otro string. \u00bfQu\u00e9 hace este c\u00f3digo?",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1799,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    int total = 0;\n\n    while (n > 0) {\n        total += n--;\n    }\n\n    std::cout << total << std::endl;\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1800,
+        "pregunta": "```java\npublic class MysteryCode {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 7;\n        \n        while (x < y) {\n            x = x * 2;\n            y = y - 1;\n        }\n        \n        System.out.println(\"Final values: x = \" + x + \", y = \" + y);\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1801,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int n = 5;\n    int i, j;\n    \n    for(i = 1; i <= n; i++) {\n        for(j = 1; j <= n; j++) {\n            if(i == 1 || i == n || j == 1 || j == n) {\n                printf(\"* \");\n            } else {\n                printf(\"  \");\n            }\n        }\n        printf(\"\\n\");\n    }\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1802,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic static int fibonacci(int n) {\n    if (n <= 1) {\n        return n;\n    } else {\n        return fibonacci(n - 1) + fibonacci(n - 2);\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1803,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int n = 5;\n    \n    while (n > 0) {\n        printf(\"%d \", n);\n        n = (n & -n);\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1804,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int n = 10, i, j;\n\n    for(i = 0; i < n; i++) {\n        for(j = 0; j <= i; j++) {\n            printf(\"*\");\n        }\n        printf(\"\\n\");\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1805,
+        "pregunta": "\u00bfQu\u00e9 es lo que hace el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        for (int i = 0; i < num; i++) {\n            if (i % 2 == 0) {\n                System.out.print(i);\n            } else {\n                System.out.print(\"*\");\n            }\n        }\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1806,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```c++\n#include <iostream>\n\nint main() {\n    int arr[5] = {1, 2, 3, 4, 5};\n    int *ptr = &arr[0];\n    \n    for(int i = 0; i < 5; i++){\n        std::cout << *(ptr + i) << \" \";\n    }\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1807,
+        "pregunta": "Describe qu\u00e9 hace el siguiente c\u00f3digo:\n\n```java\npublic class MysteryCode {\n    public static int mysteryFunction(int n) {\n        int result = 0;\n        \n        while (n > 0) {\n            result += n % 10;\n            n /= 10;\n        }\n        \n        return result;\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1808,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente fragmento de c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    int res = 0;\n    \n    while (x > 0) {\n        res = (res * 10) + x % 10;\n        x = x / 10;\n    }\n    \n    printf(\"%d\", res);\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1809,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente fragmento de c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n#include <cmath>\n\nint main() {\n    int n = 5;\n    int resultado = 0;\n\n    for (int i = 1; i <= n; i++) {\n        resultado += pow(i, 2);\n    }\n\n    std::cout << resultado << std::endl;\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1810,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Java?\n\n```java\npublic class Encryption {\n    \n    public String encrypt(String message) {\n        String encryptedMessage = \"\";\n        for(int i = message.length() - 1; i >= 0; i--) {\n            encryptedMessage += message.charAt(i);\n        }\n        return encryptedMessage;\n    }\n    \n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1811,
+        "pregunta": "\u00bfQu\u00e9 funci\u00f3n realiza el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int n = 5;\n    int result = 1;\n    \n    for (int i = 1; i <= n; ++i) {\n        result *= i;\n    }\n    \n    cout << result << endl;\n    \n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1812,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic static void main(String[] args) {\n    int n = 5;\n    \n    for (int i = 0; i < n; i++) {\n        for (int j = 0; j < n - i - 1; j++) {\n            System.out.print(\" \");\n        }\n        \n        for (int k = 0; k < 2 * i + 1; k++) {\n            System.out.print(\"*\");\n        }\n        \n        System.out.println();\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1813,
+        "pregunta": "\u00bfQu\u00e9 es lo que hace el siguiente c\u00f3digo?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int num = 12345;\n  \n    while (num > 0) {\n        printf(\"%d\\n\", num % 10);\n        num /= 10;\n    }\n\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1814,
+        "pregunta": "Describe qu\u00e9 hace el siguiente c\u00f3digo:\n\n```\nint main() {\n    int n = 5;\n    for (int i = 0; i < n; i++) {\n        for (int j = 0; j < n; j++, n--) {\n            printf(\"%d \", n);\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1815,
+        "pregunta": "\u00bfQu\u00e9 es lo que produce este c\u00f3digo?\n\n```java\npublic class Challenge {\n    public static void main(String[] args) {\n        int n = 5;\n        int result = calculate(n);\n        System.out.println(result);\n    }\n\n    public static int calculate(int num) {\n        return ((num & 1) == 0) ? num / 2 : 3 * num + 1;\n    }\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1816,
+        "pregunta": "\u00bfQu\u00e9 es lo que hace el siguiente c\u00f3digo?\n\n```java\npublic static int findMax(int[] arr) {\n    int max = arr[0];\n    for (int i = 1; i < arr.length; i++) {\n        if (arr[i] > max) {\n            max = arr[i];\n        }\n    }\n    return max;\n}\n```",
+        "tipo": "respuesta corta",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
     }
 ]
