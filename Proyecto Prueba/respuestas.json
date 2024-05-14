@@ -10488,5 +10488,3180 @@
         "id_respuesta": 2098,
         "respuesta": " A) La funci\u00f3n `mysteryFunction` invertir\u00e1 la cadena de input",
         "id_pregunta": 2098
+    },
+    {
+        "id_respuesta": 2099,
+        "respuesta": " La palabra es \"incorrectamente\"",
+        "id_pregunta": 2099
+    },
+    {
+        "id_respuesta": 2100,
+        "respuesta": " The longest English word that only contains one letter is \"E\"",
+        "id_pregunta": 2100
+    },
+    {
+        "id_respuesta": 2101,
+        "respuesta": " Se trata de un n\u00famero especial, por lo que no hay meses con 28 d\u00edas, la raz\u00f3n es que para poder obtener ese n\u00famero de d\u00edas se tiene que usar todos los d\u00edgitos del calendario:\n\nmeses = 31 (31 d\u00edas)\n\nmeses = 28 (d\u00edas)\n\nmeses = 30 (d\u00edas)\n\nAs\u00ed, la suma de este trio de meses consigue la cantidad de 88 d\u00edas, la raz\u00f3n es que en cada a\u00f1o hay 4 meses con 28 d\u00edas, los nombres de esos meses son: enero, febrero, marzo y abril",
+        "id_pregunta": 2101
+    },
+    {
+        "id_respuesta": 2102,
+        "respuesta": " There are 8 letters in the word \"incorrecto\" if you remove the letter \"m\" correctly",
+        "id_pregunta": 2102
+    },
+    {
+        "id_respuesta": 2103,
+        "respuesta": " El animal que camina en cuatro patas por la ma\u00f1ana, en dos al mediod\u00eda y en tres al atardecer, es un cerdo",
+        "id_pregunta": 2103
+    },
+    {
+        "id_respuesta": 2104,
+        "respuesta": " The longest English word you can write with just three letters is ''bee''",
+        "id_pregunta": 2104
+    },
+    {
+        "id_respuesta": 2105,
+        "respuesta": " La siguiente serie es par, por lo que el n\u00famero siguiente en la serie es el 12",
+        "id_pregunta": 2105
+    },
+    {
+        "id_respuesta": 2106,
+        "respuesta": " The following number in the series is located by calculating the square root of the next number in the sequence, which is 25",
+        "id_pregunta": 2106
+    },
+    {
+        "id_respuesta": 2107,
+        "respuesta": " Los perros poseen patas, mientras que los gatos poseen patas y talonarios",
+        "id_pregunta": 2107
+    },
+    {
+        "id_respuesta": 2108,
+        "respuesta": " The next number in this sequence would be the square of the next number",
+        "id_pregunta": 2108
+    },
+    {
+        "id_respuesta": 2109,
+        "respuesta": " Sin embargo, los meses no son necesariamente destinados a tener 28 d\u00edas",
+        "id_pregunta": 2109
+    },
+    {
+        "id_respuesta": 2110,
+        "respuesta": " Adding a letter to a word of four letters and one syllable will not change the pronunciation to be shorter when the added letter is pronounced as a syllable itself",
+        "id_pregunta": 2110
+    },
+    {
+        "id_respuesta": 2111,
+        "respuesta": " El perro",
+        "id_pregunta": 2111
+    },
+    {
+        "id_respuesta": 2112,
+        "respuesta": " 2 es la respuesta a la pregunta",
+        "id_pregunta": 2112
+    },
+    {
+        "id_respuesta": 2113,
+        "respuesta": " El animal que respuesta a esta pregunta es un pato",
+        "id_pregunta": 2113
+    },
+    {
+        "id_respuesta": 2114,
+        "respuesta": " The word that, if pronounced, will crack, or break, is \"crack\"",
+        "id_pregunta": 2114
+    },
+    {
+        "id_respuesta": 2115,
+        "respuesta": " The English word that sounds like \"no\" but means the opposite is \"yes\"",
+        "id_pregunta": 2115
+    },
+    {
+        "id_respuesta": 2116,
+        "respuesta": " The short English word that ends in \"gry\" is \"angry\"",
+        "id_pregunta": 2116
+    },
+    {
+        "id_respuesta": 2117,
+        "respuesta": " Se trata de un n\u00famero especial, por lo que no hay meses con 28 d\u00edas, la raz\u00f3n es que para poder obtener ese n\u00famero de d\u00edas se tiene que usar todos los d\u00edgitos del calendario:\n\nmeses = 31 (31 d\u00edas)\n\nmeses = 28 (d\u00edas)\n\nmeses = 30 (d\u00edas)\n\nAs\u00ed, la suma de este trio de meses consigue la cantidad de 88 d\u00edas, la raz\u00f3n es que en cada a\u00f1o hay 4 meses con 28 d\u00edas, los nombres de esos meses son: enero, febrero, marzo y abril",
+        "id_pregunta": 2117
+    },
+    {
+        "id_respuesta": 2118,
+        "respuesta": " El cerebro de aprendizaje de los humanos es m\u00e1s grande y poderoso que el de cualquier otro animal",
+        "id_pregunta": 2118
+    },
+    {
+        "id_respuesta": 2119,
+        "respuesta": " La pregunta a la cual dependiendo de las circunstancias, se responde \"no\" o \"si\" es: \"Pregunta para tomar un t\u00e9 o caf\u00eb con leche?\"",
+        "id_pregunta": 2119
+    },
+    {
+        "id_respuesta": 2120,
+        "respuesta": " La palabra m\u00e1s larga en el diccionario es \"pneumonoultramicroscopicsilicovolcanoconiosis\"",
+        "id_pregunta": 2120
+    },
+    {
+        "id_respuesta": 2121,
+        "respuesta": " The word that forms is: **Kiwi**\n\nUnas las letras iniiciales de las frutas que proporciona la palabra que busca",
+        "id_pregunta": 2121
+    },
+    {
+        "id_respuesta": 2122,
+        "respuesta": " La palabra \"incorrectamente\" en s\u00ed",
+        "id_pregunta": 2122
+    },
+    {
+        "id_respuesta": 2123,
+        "respuesta": " La palabra \"no\" es una de las formas m\u00e1s b\u00e1sicas y utilizadas para contestar afirmaciones",
+        "id_pregunta": 2123
+    },
+    {
+        "id_respuesta": 2124,
+        "respuesta": " La palabra \"mal\" en el diccionario",
+        "id_pregunta": 2124
+    },
+    {
+        "id_respuesta": 2125,
+        "respuesta": " Sin embargo, los meses no son necesariamente destinados a tener 28 d\u00edas",
+        "id_pregunta": 2125
+    },
+    {
+        "id_respuesta": 2126,
+        "respuesta": " En la palabra an\u00eds, solo hay una letra 'n', mientras que en la frase una de los ni\u00f1os, hay dos letras 'n'",
+        "id_pregunta": 2126
+    },
+    {
+        "id_respuesta": 2127,
+        "respuesta": " The word that begins with those letters is \"Retardo\"",
+        "id_pregunta": 2127
+    },
+    {
+        "id_respuesta": 2128,
+        "respuesta": " En realidad, no cualquier palabra se puede transformar si se sustituye una letra por otra",
+        "id_pregunta": 2128
+    },
+    {
+        "id_respuesta": 2129,
+        "respuesta": " La pregunta a la cual dependiendo de las circunstancias, se responde \"no\" o \"si\" es: \"Pregunta para la cual es inviolable la ley de non-response\"? Esta pregunta es un verdadero ejemplo de la ley de non-response, ya que siempre se responde \"no\", excepto en estrictas excepciones",
+        "id_pregunta": 2129
+    },
+    {
+        "id_respuesta": 2130,
+        "respuesta": " La pregunta cuya respuesta es \"no\" es: \"\u00bfEs el camino seguro?\" \nEn este caso, la respuesta que proporciona informaci\u00f3n adicional es la siguiente: \"No, la verdad es que no estoy bien para responder esa preguntas\"",
+        "id_pregunta": 2130
+    },
+    {
+        "id_respuesta": 2131,
+        "respuesta": " Si la palabra \"err\u00f3neo\" es mal escrita, debe contar con seis letras",
+        "id_pregunta": 2131
+    },
+    {
+        "id_respuesta": 2132,
+        "respuesta": " The answer to the riddle is \"LEFT\" and \"RIGHT\" ",
+        "id_pregunta": 2132
+    },
+    {
+        "id_respuesta": 2133,
+        "respuesta": " There are eight letters in the word \"incorrectamente\" if it's written correctly in Spanish",
+        "id_pregunta": 2133
+    },
+    {
+        "id_respuesta": 2134,
+        "respuesta": " La respuesta es: \"Los gemidos\" o \"el sonido que hace un beb\u00e9 que desea su teta\"",
+        "id_pregunta": 2134
+    },
+    {
+        "id_respuesta": 2135,
+        "respuesta": " There are several questions to which I cannot respond with a simple \"yes\" or \"no\"",
+        "id_pregunta": 2135
+    },
+    {
+        "id_respuesta": 2136,
+        "respuesta": " The three-letter word in English that ends in \"g\" and means \"to cheat\" or \"to fool\" is \"trag",
+        "id_pregunta": 2136
+    },
+    {
+        "id_respuesta": 2137,
+        "respuesta": " Adding a letter to the beginning or end of a word often changes its meaning",
+        "id_pregunta": 2137
+    },
+    {
+        "id_respuesta": 2138,
+        "respuesta": " La simplicidad es la cosa m\u00e1s importante en este caso",
+        "id_pregunta": 2138
+    },
+    {
+        "id_respuesta": 2139,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2139
+    },
+    {
+        "id_respuesta": 2140,
+        "respuesta": " True",
+        "id_pregunta": 2140
+    },
+    {
+        "id_respuesta": 2141,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2141
+    },
+    {
+        "id_respuesta": 2142,
+        "respuesta": " Falso",
+        "id_pregunta": 2142
+    },
+    {
+        "id_respuesta": 2143,
+        "respuesta": " Falso",
+        "id_pregunta": 2143
+    },
+    {
+        "id_respuesta": 2144,
+        "respuesta": " Falso",
+        "id_pregunta": 2144
+    },
+    {
+        "id_respuesta": 2145,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2145
+    },
+    {
+        "id_respuesta": 2146,
+        "respuesta": " Falso",
+        "id_pregunta": 2146
+    },
+    {
+        "id_respuesta": 2147,
+        "respuesta": " Falso",
+        "id_pregunta": 2147
+    },
+    {
+        "id_respuesta": 2148,
+        "respuesta": " True",
+        "id_pregunta": 2148
+    },
+    {
+        "id_respuesta": 2149,
+        "respuesta": " True",
+        "id_pregunta": 2149
+    },
+    {
+        "id_respuesta": 2150,
+        "respuesta": " Falso",
+        "id_pregunta": 2150
+    },
+    {
+        "id_respuesta": 2151,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2151
+    },
+    {
+        "id_respuesta": 2152,
+        "respuesta": " Falso",
+        "id_pregunta": 2152
+    },
+    {
+        "id_respuesta": 2153,
+        "respuesta": " Falso",
+        "id_pregunta": 2153
+    },
+    {
+        "id_respuesta": 2154,
+        "respuesta": " Falso",
+        "id_pregunta": 2154
+    },
+    {
+        "id_respuesta": 2155,
+        "respuesta": " True",
+        "id_pregunta": 2155
+    },
+    {
+        "id_respuesta": 2156,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2156
+    },
+    {
+        "id_respuesta": 2157,
+        "respuesta": " True",
+        "id_pregunta": 2157
+    },
+    {
+        "id_respuesta": 2158,
+        "respuesta": " Falso",
+        "id_pregunta": 2158
+    },
+    {
+        "id_respuesta": 2159,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2159
+    },
+    {
+        "id_respuesta": 2160,
+        "respuesta": " Falso",
+        "id_pregunta": 2160
+    },
+    {
+        "id_respuesta": 2161,
+        "respuesta": " Falso",
+        "id_pregunta": 2161
+    },
+    {
+        "id_respuesta": 2162,
+        "respuesta": " Falso",
+        "id_pregunta": 2162
+    },
+    {
+        "id_respuesta": 2163,
+        "respuesta": " Falso",
+        "id_pregunta": 2163
+    },
+    {
+        "id_respuesta": 2164,
+        "respuesta": " Falso",
+        "id_pregunta": 2164
+    },
+    {
+        "id_respuesta": 2165,
+        "respuesta": " Falso",
+        "id_pregunta": 2165
+    },
+    {
+        "id_respuesta": 2166,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2166
+    },
+    {
+        "id_respuesta": 2167,
+        "respuesta": " Falso",
+        "id_pregunta": 2167
+    },
+    {
+        "id_respuesta": 2168,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2168
+    },
+    {
+        "id_respuesta": 2169,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2169
+    },
+    {
+        "id_respuesta": 2170,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2170
+    },
+    {
+        "id_respuesta": 2171,
+        "respuesta": " Falso \nLa falacia del conseguente es que la afirmaci\u00f3n es verdad si la premisa es verdad o la premisa es falsa pero el conseguente es verdad",
+        "id_pregunta": 2171
+    },
+    {
+        "id_respuesta": 2172,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2172
+    },
+    {
+        "id_respuesta": 2173,
+        "respuesta": " Falso",
+        "id_pregunta": 2173
+    },
+    {
+        "id_respuesta": 2174,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2174
+    },
+    {
+        "id_respuesta": 2175,
+        "respuesta": " True",
+        "id_pregunta": 2175
+    },
+    {
+        "id_respuesta": 2176,
+        "respuesta": " Falso",
+        "id_pregunta": 2176
+    },
+    {
+        "id_respuesta": 2177,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2177
+    },
+    {
+        "id_respuesta": 2178,
+        "respuesta": " Falso",
+        "id_pregunta": 2178
+    },
+    {
+        "id_respuesta": 2179,
+        "respuesta": " Falso",
+        "id_pregunta": 2179
+    },
+    {
+        "id_respuesta": 2180,
+        "respuesta": " Falso",
+        "id_pregunta": 2180
+    },
+    {
+        "id_respuesta": 2181,
+        "respuesta": " Falso",
+        "id_pregunta": 2181
+    },
+    {
+        "id_respuesta": 2182,
+        "respuesta": " True",
+        "id_pregunta": 2182
+    },
+    {
+        "id_respuesta": 2183,
+        "respuesta": " Falso",
+        "id_pregunta": 2183
+    },
+    {
+        "id_respuesta": 2184,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2184
+    },
+    {
+        "id_respuesta": 2185,
+        "respuesta": " Falso",
+        "id_pregunta": 2185
+    },
+    {
+        "id_respuesta": 2186,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2186
+    },
+    {
+        "id_respuesta": 2187,
+        "respuesta": " Falso",
+        "id_pregunta": 2187
+    },
+    {
+        "id_respuesta": 2188,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2188
+    },
+    {
+        "id_respuesta": 2189,
+        "respuesta": " Falso",
+        "id_pregunta": 2189
+    },
+    {
+        "id_respuesta": 2190,
+        "respuesta": " Falso",
+        "id_pregunta": 2190
+    },
+    {
+        "id_respuesta": 2191,
+        "respuesta": " Si, esta es una respuesta muy directa y corta",
+        "id_pregunta": 2191
+    },
+    {
+        "id_respuesta": 2192,
+        "respuesta": " Falso",
+        "id_pregunta": 2192
+    },
+    {
+        "id_respuesta": 2193,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2193
+    },
+    {
+        "id_respuesta": 2194,
+        "respuesta": " Falso",
+        "id_pregunta": 2194
+    },
+    {
+        "id_respuesta": 2195,
+        "respuesta": " Falso",
+        "id_pregunta": 2195
+    },
+    {
+        "id_respuesta": 2196,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2196
+    },
+    {
+        "id_respuesta": 2197,
+        "respuesta": " Falso",
+        "id_pregunta": 2197
+    },
+    {
+        "id_respuesta": 2198,
+        "respuesta": " Falso",
+        "id_pregunta": 2198
+    },
+    {
+        "id_respuesta": 2199,
+        "respuesta": " Bonjour",
+        "id_pregunta": 2199
+    },
+    {
+        "id_respuesta": 2200,
+        "respuesta": " Bonjour, \u00e7a va?",
+        "id_pregunta": 2200
+    },
+    {
+        "id_respuesta": 2201,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\nBonjour, \u00e7a va?",
+        "id_pregunta": 2201
+    },
+    {
+        "id_respuesta": 2202,
+        "respuesta": " The word for \"hello\" in French is \"bonjour",
+        "id_pregunta": 2202
+    },
+    {
+        "id_respuesta": 2203,
+        "respuesta": " Bonjour, \u00e7a va?",
+        "id_pregunta": 2203
+    },
+    {
+        "id_respuesta": 2204,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\nBonjour, \u00e7a va?",
+        "id_pregunta": 2204
+    },
+    {
+        "id_respuesta": 2205,
+        "respuesta": " Bonjour, \u00e7a va?",
+        "id_pregunta": 2205
+    },
+    {
+        "id_respuesta": 2206,
+        "respuesta": " The direct translation would be, \"Comment \u00eates-vous?\" This is the formal way of asking, \"How are you?\" in French",
+        "id_pregunta": 2206
+    },
+    {
+        "id_respuesta": 2207,
+        "respuesta": " Ein gutes Morgen! ",
+        "id_pregunta": 2207
+    },
+    {
+        "id_respuesta": 2208,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\nBonjour, \u00e7a va?",
+        "id_pregunta": 2208
+    },
+    {
+        "id_respuesta": 2209,
+        "respuesta": " The direct translation would be, \"Comment \u00eates-vous?\" This is the formal way of asking, \"How are you?\" in French",
+        "id_pregunta": 2209
+    },
+    {
+        "id_respuesta": 2210,
+        "respuesta": " Bonjour",
+        "id_pregunta": 2210
+    },
+    {
+        "id_respuesta": 2211,
+        "respuesta": " You would say, \"Bonjour, \u00e7a va?\"  Or simply \"Bonjour\" for just \"Hello\"",
+        "id_pregunta": 2211
+    },
+    {
+        "id_respuesta": 2212,
+        "respuesta": "Bonjour! ",
+        "id_pregunta": 2212
+    },
+    {
+        "id_respuesta": 2213,
+        "respuesta": " The french translation for the phrase \"Good morning\" is \"Bonjour\"",
+        "id_pregunta": 2213
+    },
+    {
+        "id_respuesta": 2214,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\n\"Bonjour, \u00e7a va?\"\n\nIt's a formal way of saying hello and asking how someone is feeling",
+        "id_pregunta": 2214
+    },
+    {
+        "id_respuesta": 2215,
+        "respuesta": " The direct translation would be, \"Comment \u00eates-vous?\" This is the formal way of asking, \"How are you?\" in French",
+        "id_pregunta": 2215
+    },
+    {
+        "id_respuesta": 2216,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\n\"Bonjour, \u00e7a va?\"\n\nIt's a formal way of saying hello and asking how someone is feeling",
+        "id_pregunta": 2216
+    },
+    {
+        "id_respuesta": 2217,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\nBonjour, \u00e7a va?",
+        "id_pregunta": 2217
+    },
+    {
+        "id_respuesta": 2218,
+        "respuesta": " The direct translation would be: \"Hello, how are you?\" in French would be: \n\nBonjour, \u00e7a va?",
+        "id_pregunta": 2218
+    },
+    {
+        "id_respuesta": 2219,
+        "respuesta": " The direct translation would be, \"Je dois aller au magasin \u00e0 l'\u00e9picerie",
+        "id_pregunta": 2219
+    },
+    {
+        "id_respuesta": 2220,
+        "respuesta": " Je n'ai jamais visit\u00e9 l'Europe, mais j'aimerais y aller un jour",
+        "id_pregunta": 2220
+    },
+    {
+        "id_respuesta": 2221,
+        "respuesta": " Je suis tr\u00e8s heureux de vous aider avec vos \u00e9valuations et vous remercie de n'avoir pas blas\u00e9 sur le fait que c'est tr\u00e8s important de apprendre une nouvelle langue",
+        "id_pregunta": 2221
+    },
+    {
+        "id_respuesta": 2222,
+        "respuesta": " Si quiere decir \"I have a lot of homework to do this weekend\" en franc\u00e9s, usar\u00eda la frase: \u00abJ'ai beaucoup de devoirs \u00e0 faire ce week-end\u00bb",
+        "id_pregunta": 2222
+    },
+    {
+        "id_respuesta": 2223,
+        "respuesta": " Here is your answer:\n\n\"Passa il sale, per favore",
+        "id_pregunta": 2223
+    },
+    {
+        "id_respuesta": 2224,
+        "respuesta": " Si quieres decir \"I don't understand this text\" en franc\u00e9s, puedes usar el frase \"Je ne comprends pas ce texte\"",
+        "id_pregunta": 2224
+    },
+    {
+        "id_respuesta": 2225,
+        "respuesta": " J'ai rendez-vous avec mon docteur demain apr\u00e8s-midi",
+        "id_pregunta": 2225
+    },
+    {
+        "id_respuesta": 2226,
+        "respuesta": " Je suis impatient de vous revoir",
+        "id_pregunta": 2226
+    },
+    {
+        "id_respuesta": 2227,
+        "respuesta": " La frase \u00a8No puedo esperar a verte de nuevo\u00a8 se traduce al franc\u00e9s como \u00a8Je ne peux pas attendre de vous revoir\u00a8",
+        "id_pregunta": 2227
+    },
+    {
+        "id_respuesta": 2228,
+        "respuesta": " Si quiere decir \"I don't understand this complicated topic\" en franc\u00e9s, puede usar el verbo entender conjugado con el modal verb \"pas\", que le permite expresar la incapacidad de comprender algo",
+        "id_pregunta": 2228
+    },
+    {
+        "id_respuesta": 2229,
+        "respuesta": " You would translate that question as \"\u3055\u3089\u3070\u3054\u7528\u306b\u3054\u3056\u3044\u307e\u305b\u3093\u304b?\" or \"\u3055\u3089\u3070\u3054\u63f4\u52a9\u3092\u304a\u9858\u3044\u3057\u307e\u3059?\"\n\nLet me know if you'd like to get more insights on specific phrases or questions! \n\nFeel free to ask any follow-ups if you'd like more details! ",
+        "id_pregunta": 2229
+    },
+    {
+        "id_respuesta": 2230,
+        "respuesta": " Je suis impatient de vous revoir",
+        "id_pregunta": 2230
+    },
+    {
+        "id_respuesta": 2231,
+        "respuesta": " Je cherche un emploi",
+        "id_pregunta": 2231
+    },
+    {
+        "id_respuesta": 2232,
+        "respuesta": " Je continue d'apprendre l'italien depuis deux ans",
+        "id_pregunta": 2232
+    },
+    {
+        "id_respuesta": 2233,
+        "respuesta": " Si en espa\u00f1ol lo dir\u00eda as\u00ed: \"Tengo mucho de trabajo para hacer ma\u00f1ana\"",
+        "id_pregunta": 2233
+    },
+    {
+        "id_respuesta": 2234,
+        "respuesta": " \ubc29 \uac00\uae4c\uc774\uc5d0 \uc788\ub294\uc9c0 \uc54c\ub824\uc8fc\uc2dc\uace0 \uc2f6\uc5b4? \n\nEsto significa: \"Where is the nearest bathroom?\"",
+        "id_pregunta": 2234
+    },
+    {
+        "id_respuesta": 2235,
+        "respuesta": " La frase \u00abD\u00f3nde est\u00e1 el ba\u00f1o m\u00e1s cercano?\u00bb se puede traducir como: \u00abO\u00f9 sont les toilettes les plus proches?\u00bb",
+        "id_pregunta": 2235
+    },
+    {
+        "id_respuesta": 2236,
+        "respuesta": " Bonheur est\u00e9 dans ma vie avec toi",
+        "id_pregunta": 2236
+    },
+    {
+        "id_respuesta": 2237,
+        "respuesta": " Je vous reverrai au librairie demain",
+        "id_pregunta": 2237
+    },
+    {
+        "id_respuesta": 2238,
+        "respuesta": " \u03a0\u03bf\u03cd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03ba\u03bf\u03bc\u03bc\u03ac\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c5\u03bc\u03c0\u03b9\u03bf\u03cd \u03b3\u03b5\u03bd\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b1; \n\n\u200b\u200b\u200b\u200b\u200b\u200b\u200bEspero que esta respuesta haya ayudado",
+        "id_pregunta": 2238
+    },
+    {
+        "id_respuesta": 2239,
+        "respuesta": " Si quiere decir en franc\u00e9s \"I want to travel around the world\" puede usar el verbo voler en forma de infinitivo, que es como dice \"to want\" en ingl\u00e9s, y la palabra ordenada \"tourner\", que significa \"to travel around\", lo que forma el frase total \"Vouloir tourner au monde\"",
+        "id_pregunta": 2239
+    },
+    {
+        "id_respuesta": 2240,
+        "respuesta": " Je vous reverrai au librairie demain \u00e0 15h",
+        "id_pregunta": 2240
+    },
+    {
+        "id_respuesta": 2241,
+        "respuesta": " The equivalent in French would be \"Je te verrai demain\"",
+        "id_pregunta": 2241
+    },
+    {
+        "id_respuesta": 2242,
+        "respuesta": " \"Wo ist die n\u00e4chste Bibliothek?\"",
+        "id_pregunta": 2242
+    },
+    {
+        "id_respuesta": 2243,
+        "respuesta": " Je suis all\u00e9(e) au parc avec mes amis, la fin de la semaine derni\u00e8re",
+        "id_pregunta": 2243
+    },
+    {
+        "id_respuesta": 2244,
+        "respuesta": " You would say  \"Posso prenotare una camera per due personae per una settimana?\"  to reserve a hotel room in Italian",
+        "id_pregunta": 2244
+    },
+    {
+        "id_respuesta": 2245,
+        "respuesta": " You would translate this sentence as follows: \n\n\"Comment dire \u00ab\u00bfPuedes recomendarme un buen restaurante en esta zona?\u00bb en fran\u00e7ais?\"\n\nWhich translates to: \n\n\"How do you say \"Can you recommend a good restaurant in the area\" in French?\" \n\nLet me know if I can be of any further assistance! ",
+        "id_pregunta": 2245
+    },
+    {
+        "id_respuesta": 2246,
+        "respuesta": " Comment dire \u00abje ne peux pas croire que it soit d\u00e9j\u00e0 5 heures\u00bb en fran\u00e7ais?\n\nI can't believe it's already 5 o'clock written in French is:\n\nJe ne peux pas croire que c'est d\u00e9j\u00e0 cinq heures",
+        "id_pregunta": 2246
+    },
+    {
+        "id_respuesta": 2247,
+        "respuesta": " The direct translation would be: \n\n\"\u0413\u0434\u0435 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0439 \u0431\u0430\u0301\u043d?\"\n\nBut it is also common to simply say: \n\n\"\u0413\u0434\u0435 \u0431\u0430\u0301\u043d?\"\n\nBoth are correct and equivalent to the question \"Where is the bathroom?\" in English",
+        "id_pregunta": 2247
+    },
+    {
+        "id_respuesta": 2248,
+        "respuesta": " Saying \"I have a meeting at 3 o'clock\" in French is \"J'ai une r\u00e9union \u00e0 15h",
+        "id_pregunta": 2248
+    },
+    {
+        "id_respuesta": 2249,
+        "respuesta": " \"No hay mayor amor que el de una madre\" en island\u00e9s es \"N\u00edveur lj\u00f3\u00f0a af m\u00f3\u00f0ru\"",
+        "id_pregunta": 2249
+    },
+    {
+        "id_respuesta": 2250,
+        "respuesta": " \nA un poco de esta frase le puedo dar un sutil toque de humildad al escribiendo esto:\n\n\"A m\u00ed me sorprende constantemente la belleza de la universidad",
+        "id_pregunta": 2250
+    },
+    {
+        "id_respuesta": 2251,
+        "respuesta": " Les bonnes choses ne viennent jamais au mauvais moment",
+        "id_pregunta": 2251
+    },
+    {
+        "id_respuesta": 2252,
+        "respuesta": " \u6570\u5b66\u8005\u306f\u3001\u4eba\u306e\u8133\u306e\u8907\u96d1\u6027\u304c\u5b8c\u5168\u306b\u308f\u304b\u3089\u306a\u3044\u307b\u3046\u304c\u3042\u308a\u307e\u3059\u3002\n\nNo es una oraci\u00f3n muy corta, pero la m\u00e1s corta que puede ser la traducir es as\u00ed",
+        "id_pregunta": 2252
+    },
+    {
+        "id_respuesta": 2253,
+        "respuesta": " Ein m\u00f6glichkeiten ist: \"Liebe kann alles\"",
+        "id_pregunta": 2253
+    },
+    {
+        "id_respuesta": 2254,
+        "respuesta": " \u0625\u0646 \u0648\u062c\u0648\u062f \u0635\u0641\u0627\u062a \u0642\u0637\u0631 \u0641\u064a \u0637\u0628 \u0627\u0644\u0643\u0645\u0627\u0646 \u0644\u0627 \u064a\u062f\u0631\u064a \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0623\u0633\u0627\u062a\u0630\u0629\n\"Inwaaj ujuud sufaat qaatar faat alkam an yadaari laa yurid 'ilaa kulli assaat",
+        "id_pregunta": 2254
+    },
+    {
+        "id_respuesta": 2255,
+        "respuesta": " \u6211\u88ab\u4eba\u7684\u5fc3\u667a\u591a\u6837\u6027\u5438\u5f15\u4e86\u3002\n\nIngresa m\u00e1s texto si desea m\u00e1s opciones",
+        "id_pregunta": 2255
+    },
+    {
+        "id_respuesta": 2256,
+        "respuesta": " La d\u00e9fense de trouver la v\u00e9rit\u00e9 dans un monde plein de mensonges et de fraudes",
+        "id_pregunta": 2256
+    },
+    {
+        "id_respuesta": 2257,
+        "respuesta": " \u0424\u0440\u0430\u0437\u0430 \u00abLa complejidad de la vida reside en lo simple\u00bb \u0442\u0440\u0430\u043d\u0441\u043b\u0438\u0442\u0435\u0440\u0430\u0446\u0438\u0438 \u0432 \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a:\n\n\u00ab\u0421\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438 \u0432 \u043b\u0443\u0447\u0448\u0435\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u043f\u0440\u043e\u0441\u0442\u043e\u0442\u0435\u00bb",
+        "id_pregunta": 2257
+    },
+    {
+        "id_respuesta": 2258,
+        "respuesta": " Ein Serendipit\u00e4tsfall ist es, etwas Gutes ohne es zu suchen, zu finden",
+        "id_pregunta": 2258
+    },
+    {
+        "id_respuesta": 2259,
+        "respuesta": " \"\ubbf8\ub798\ub3c4 \uc5c6\ub294 \ubbf8\ubbf8\ud55c \uac10\uc131\" \ud574\uc11d\ud574\uc904 \ud544\uc694\uac00 \uc788\uc2b5\ub2c8\ub2e4",
+        "id_pregunta": 2259
+    },
+    {
+        "id_respuesta": 2260,
+        "respuesta": " La frase \u00abit's a piece of cake\u00bb se traduce al franc\u00e9s como \u00abC'est un piece of cake\u00bb",
+        "id_pregunta": 2260
+    },
+    {
+        "id_respuesta": 2261,
+        "respuesta": " Les complications de la physique quantique \u00e9chappent toujours \u00e0 la pens\u00e9e les plus \u00e9lev\u00e9s",
+        "id_pregunta": 2261
+    },
+    {
+        "id_respuesta": 2262,
+        "respuesta": " \u03bf\u1f50\u03ba \u1f14\u03c7\u03b5\u03b9 \u03ba\u03b1\u03ba\u1f78\u03c2 \u1f22 \u03ba\u03b1\u03bb\u1f78\u03c2 \u03b5\u1f30\u03c2 \u1f00\u03b3\u03b1\u03b8\u03cc\u03bd \u1f10\u03c3\u03c4\u03b9\u03bd \u1f14\u03c1\u03c7\u03b5\u03c3\u03b8\u03b1\u03b9",
+        "id_pregunta": 2262
+    },
+    {
+        "id_respuesta": 2263,
+        "respuesta": " Les intric\u00e9s de la m\u00e9canique quantique sont multifong\u00e9s et complexes",
+        "id_pregunta": 2263
+    },
+    {
+        "id_respuesta": 2264,
+        "respuesta": " Ein wichtiges Problem, das in der Quantenmechanik zu kl\u00e4ren ist, stellt ein schwieriges Verst\u00e4ndnis f\u00fcr die h\u00f6chsten intelligen Menschen dar",
+        "id_pregunta": 2264
+    },
+    {
+        "id_respuesta": 2265,
+        "respuesta": " En franc\u00e9s, podr\u00eda decir: \"Il faut que je voyage \u00e0 l'\u00e9tranger pendant un an afin de terminer mes \u00e9tudes",
+        "id_pregunta": 2265
+    },
+    {
+        "id_respuesta": 2266,
+        "respuesta": " Les complications de la m\u00e9canique quantique sont \u00e9poustouflantes",
+        "id_pregunta": 2266
+    },
+    {
+        "id_respuesta": 2267,
+        "respuesta": " \ub355\ubd84\uc5d0 \uc131\uacf5\uc774 \ub098\ub97c \uae38\ub85c \uc7a1\ub294 \uac83\uc740 \uac70\uc758 \ubb34\uc11c\uc6cc\uc9c8 \uc218 \uc5c6\ub2e4\ub294 \uac83\uc744 \uc911\uc694\uc2dc\ud55c\ub2e4\ub294 \uac00\uc0ac\uc778\uac00 \ud558\ub294\ub370 \"\ub2e4\" \ub97c \ub0b4 \uc548\uc5d0 \ub450\uace0 \uc2f6\uc740 \ub9c8\uc9c0\ub9c9 \ud55c \uac00\uc0ac\ub294 \"\ub9c8\ub098\" \ub77c\ub294 \uac83\uc774\ub2e4",
+        "id_pregunta": 2267
+    },
+    {
+        "id_respuesta": 2268,
+        "respuesta": " La frase traducida al franc\u00e9s ser\u00eda \u00abIl n'y a pas de bons plans \u00e0 l'horizon\u00bb",
+        "id_pregunta": 2268
+    },
+    {
+        "id_respuesta": 2269,
+        "respuesta": " Ich kann die \u00dcbersetzung von \"La criptograf\u00eda cu\u00e1ntica es un campo de estudio emergente en la inform\u00e1tica\" ins Deutsche als \"Die quantenmechanische Kryptographie ist ein im Computerwesen im Aufwinden Bereich der Forschung\" vermitteln",
+        "id_pregunta": 2269
+    },
+    {
+        "id_respuesta": 2270,
+        "respuesta": " Ein sehr deutscher \u00dcbersetzung f\u00fcr diese frage w\u00fcrde ich \"Die Detailaufgaben des menschlichen Geistes sind wirklich faszinierend\"",
+        "id_pregunta": 2270
+    },
+    {
+        "id_respuesta": 2271,
+        "respuesta": " \u0425\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u043e, \u0447\u0442\u043e \u043a\u043d\u0438\u0433\u0430 \u0438\u043c\u0435\u043b\u043e \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u0443\u044e, \u043d\u043e \u0438 \u043a\u0440\u0430\u0441\u0438\u0432\u043e \u043f\u0440\u043e\u0441\u0442\u0443\u0434\u043d\u0443\u044e \u043f\u0440\u043e\u0447\u044c\u044e \u043f\u043e\u0441\u0442\u0443\u043f\u043a\u0443",
+        "id_pregunta": 2271
+    },
+    {
+        "id_respuesta": 2272,
+        "respuesta": " La frase \u00abI don't know what tomorrow will bring\u00bb se puede traducir como \u00abJe ne sais pas ce que demain me donnera\u00bb",
+        "id_pregunta": 2272
+    },
+    {
+        "id_respuesta": 2273,
+        "respuesta": " Les prefer\u00e8re\u00eetre un homme aux paradoxes que l'homme aux pr\u00e9jug\u00e9s",
+        "id_pregunta": 2273
+    },
+    {
+        "id_respuesta": 2274,
+        "respuesta": " Falso",
+        "id_pregunta": 2274
+    },
+    {
+        "id_respuesta": 2275,
+        "respuesta": " Falso",
+        "id_pregunta": 2275
+    },
+    {
+        "id_respuesta": 2276,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2276
+    },
+    {
+        "id_respuesta": 2277,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2277
+    },
+    {
+        "id_respuesta": 2278,
+        "respuesta": " Falso",
+        "id_pregunta": 2278
+    },
+    {
+        "id_respuesta": 2279,
+        "respuesta": " Falso",
+        "id_pregunta": 2279
+    },
+    {
+        "id_respuesta": 2280,
+        "respuesta": " Falso",
+        "id_pregunta": 2280
+    },
+    {
+        "id_respuesta": 2281,
+        "respuesta": " True",
+        "id_pregunta": 2281
+    },
+    {
+        "id_respuesta": 2282,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2282
+    },
+    {
+        "id_respuesta": 2283,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2283
+    },
+    {
+        "id_respuesta": 2284,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2284
+    },
+    {
+        "id_respuesta": 2285,
+        "respuesta": " Falso",
+        "id_pregunta": 2285
+    },
+    {
+        "id_respuesta": 2286,
+        "respuesta": " True",
+        "id_pregunta": 2286
+    },
+    {
+        "id_respuesta": 2287,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2287
+    },
+    {
+        "id_respuesta": 2288,
+        "respuesta": " True",
+        "id_pregunta": 2288
+    },
+    {
+        "id_respuesta": 2289,
+        "respuesta": " True",
+        "id_pregunta": 2289
+    },
+    {
+        "id_respuesta": 2290,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2290
+    },
+    {
+        "id_respuesta": 2291,
+        "respuesta": " Falso",
+        "id_pregunta": 2291
+    },
+    {
+        "id_respuesta": 2292,
+        "respuesta": " Falso",
+        "id_pregunta": 2292
+    },
+    {
+        "id_respuesta": 2293,
+        "respuesta": " Falso",
+        "id_pregunta": 2293
+    },
+    {
+        "id_respuesta": 2294,
+        "respuesta": " Falso",
+        "id_pregunta": 2294
+    },
+    {
+        "id_respuesta": 2295,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2295
+    },
+    {
+        "id_respuesta": 2296,
+        "respuesta": " Falso",
+        "id_pregunta": 2296
+    },
+    {
+        "id_respuesta": 2297,
+        "respuesta": " True",
+        "id_pregunta": 2297
+    },
+    {
+        "id_respuesta": 2298,
+        "respuesta": " Falso",
+        "id_pregunta": 2298
+    },
+    {
+        "id_respuesta": 2299,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2299
+    },
+    {
+        "id_respuesta": 2300,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2300
+    },
+    {
+        "id_respuesta": 2301,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2301
+    },
+    {
+        "id_respuesta": 2302,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2302
+    },
+    {
+        "id_respuesta": 2303,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2303
+    },
+    {
+        "id_respuesta": 2304,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2304
+    },
+    {
+        "id_respuesta": 2305,
+        "respuesta": " True",
+        "id_pregunta": 2305
+    },
+    {
+        "id_respuesta": 2306,
+        "respuesta": " Falso",
+        "id_pregunta": 2306
+    },
+    {
+        "id_respuesta": 2307,
+        "respuesta": " Falso",
+        "id_pregunta": 2307
+    },
+    {
+        "id_respuesta": 2308,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2308
+    },
+    {
+        "id_respuesta": 2309,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2309
+    },
+    {
+        "id_respuesta": 2310,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2310
+    },
+    {
+        "id_respuesta": 2311,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2311
+    },
+    {
+        "id_respuesta": 2312,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2312
+    },
+    {
+        "id_respuesta": 2313,
+        "respuesta": " True",
+        "id_pregunta": 2313
+    },
+    {
+        "id_respuesta": 2314,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2314
+    },
+    {
+        "id_respuesta": 2315,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2315
+    },
+    {
+        "id_respuesta": 2316,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2316
+    },
+    {
+        "id_respuesta": 2317,
+        "respuesta": " True",
+        "id_pregunta": 2317
+    },
+    {
+        "id_respuesta": 2318,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2318
+    },
+    {
+        "id_respuesta": 2319,
+        "respuesta": " Falso",
+        "id_pregunta": 2319
+    },
+    {
+        "id_respuesta": 2320,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2320
+    },
+    {
+        "id_respuesta": 2321,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2321
+    },
+    {
+        "id_respuesta": 2322,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2322
+    },
+    {
+        "id_respuesta": 2323,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2323
+    },
+    {
+        "id_respuesta": 2324,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2324
+    },
+    {
+        "id_respuesta": 2325,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2325
+    },
+    {
+        "id_respuesta": 2326,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2326
+    },
+    {
+        "id_respuesta": 2327,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2327
+    },
+    {
+        "id_respuesta": 2328,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2328
+    },
+    {
+        "id_respuesta": 2329,
+        "respuesta": " True",
+        "id_pregunta": 2329
+    },
+    {
+        "id_respuesta": 2330,
+        "respuesta": " Falso",
+        "id_pregunta": 2330
+    },
+    {
+        "id_respuesta": 2331,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2331
+    },
+    {
+        "id_respuesta": 2332,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2332
+    },
+    {
+        "id_respuesta": 2333,
+        "respuesta": " Falso",
+        "id_pregunta": 2333
+    },
+    {
+        "id_respuesta": 2334,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2334
+    },
+    {
+        "id_respuesta": 2335,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2335
+    },
+    {
+        "id_respuesta": 2336,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2336
+    },
+    {
+        "id_respuesta": 2337,
+        "respuesta": " True",
+        "id_pregunta": 2337
+    },
+    {
+        "id_respuesta": 2338,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2338
+    },
+    {
+        "id_respuesta": 2339,
+        "respuesta": " Falso",
+        "id_pregunta": 2339
+    },
+    {
+        "id_respuesta": 2340,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2340
+    },
+    {
+        "id_respuesta": 2341,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2341
+    },
+    {
+        "id_respuesta": 2342,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2342
+    },
+    {
+        "id_respuesta": 2343,
+        "respuesta": " Falso",
+        "id_pregunta": 2343
+    },
+    {
+        "id_respuesta": 2344,
+        "respuesta": " Falso",
+        "id_pregunta": 2344
+    },
+    {
+        "id_respuesta": 2345,
+        "respuesta": " True",
+        "id_pregunta": 2345
+    },
+    {
+        "id_respuesta": 2346,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2346
+    },
+    {
+        "id_respuesta": 2347,
+        "respuesta": " Falso",
+        "id_pregunta": 2347
+    },
+    {
+        "id_respuesta": 2348,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2348
+    },
+    {
+        "id_respuesta": 2349,
+        "respuesta": " Here's a very short and direct response:\nOne synonym for the word \"rapid\" is the word \"quick",
+        "id_pregunta": 2349
+    },
+    {
+        "id_respuesta": 2350,
+        "respuesta": " Un sin\u00f3nimo de la palabra \"alegr\u00eda\" es \"felicidad\"",
+        "id_pregunta": 2350
+    },
+    {
+        "id_respuesta": 2351,
+        "respuesta": " Here is a short and direct response to your question",
+        "id_pregunta": 2351
+    },
+    {
+        "id_respuesta": 2352,
+        "respuesta": " Un sin\u00f3nimo es una palabra que tiene el mismo significado que otra palabra en un contexto espec\u00edfico",
+        "id_pregunta": 2352
+    },
+    {
+        "id_respuesta": 2353,
+        "respuesta": " Blind person or visually impaired person \nWould you like to know more about this condition? ",
+        "id_pregunta": 2353
+    },
+    {
+        "id_respuesta": 2354,
+        "respuesta": " La palabra \"c\u00e1lido\" significa que es abierto y amigable cuando habla de persona y que es fresco pero no fr\u00edo cuando habla de templos o ambientes",
+        "id_pregunta": 2354
+    },
+    {
+        "id_respuesta": 2355,
+        "respuesta": " Un sin\u00f3nimo de \"feliz\" es \"contento\"",
+        "id_pregunta": 2355
+    },
+    {
+        "id_respuesta": 2356,
+        "respuesta": " Here's a very short and direct response:\nOne synonym for the word \"rapid\" is the word \"quick",
+        "id_pregunta": 2356
+    },
+    {
+        "id_respuesta": 2357,
+        "respuesta": " Here's a very short and direct response:\nOne synonym for the word \"rapid\" is the word \"quick",
+        "id_pregunta": 2357
+    },
+    {
+        "id_respuesta": 2358,
+        "respuesta": " Un sin\u00f3nimo de \"alegr\u00eda\" es \"felicidad\"",
+        "id_pregunta": 2358
+    },
+    {
+        "id_respuesta": 2359,
+        "respuesta": " Un sin\u00f3nimo de la palabra \"alegre\" es \"contento\"",
+        "id_pregunta": 2359
+    },
+    {
+        "id_respuesta": 2360,
+        "respuesta": " Un sin\u00f3nimo de la palabra \"alegre\" es \"contento\"",
+        "id_pregunta": 2360
+    },
+    {
+        "id_respuesta": 2361,
+        "respuesta": " Here's a very short and direct response:\nOne synonym for the word \"rapid\" is the word \"quick",
+        "id_pregunta": 2361
+    },
+    {
+        "id_respuesta": 2362,
+        "respuesta": " \"Mitigar\" significa reducir la intensidad o la severidad de algo",
+        "id_pregunta": 2362
+    },
+    {
+        "id_respuesta": 2363,
+        "respuesta": " Un sin\u00f3nimo de felicidad puede ser:\n- Alegr\u00eda o sugesti\u00f3n de alegr\u00eda\n- Sonrisas y positivismo o estado optimista\n- Gozo, el placer o la satisfacci\u00f3n por alcanzar un objetivo o lograr un resultado",
+        "id_pregunta": 2363
+    },
+    {
+        "id_respuesta": 2364,
+        "respuesta": " Here's a very short and direct response:\nOne synonym for the word \"rapid\" is the word \"quick",
+        "id_pregunta": 2364
+    },
+    {
+        "id_respuesta": 2365,
+        "respuesta": " Un sin\u00f3nimo es una palabra que tiene el mismo significado que otra palabra en un contexto espec\u00edfico",
+        "id_pregunta": 2365
+    },
+    {
+        "id_respuesta": 2366,
+        "respuesta": " La palabra \"diligente\" significa lo suficientemente esforzado, trabajador, y preciso en lo que hace que lo que est\u00e1 en su trabajo o lo que hace lo haga de manera profesional y con mucho cuidado",
+        "id_pregunta": 2366
+    },
+    {
+        "id_respuesta": 2367,
+        "respuesta": " Here's a very short and direct response:\nOne synonym for the word \"rapid\" is the word \"quick",
+        "id_pregunta": 2367
+    },
+    {
+        "id_respuesta": 2368,
+        "respuesta": " La palabra \"obsoleto\" significa obsoleta, desactualizado, ya no utilizado o antiguo",
+        "id_pregunta": 2368
+    },
+    {
+        "id_respuesta": 2369,
+        "respuesta": " La palabra \"optimista\" significa alguien que tiene la percepci\u00f3n positiva y conf\u00eda en la felicidad, la prosperidad o la satisfacci\u00f3n para algunos otros temas o situaciones",
+        "id_pregunta": 2369
+    },
+    {
+        "id_respuesta": 2370,
+        "respuesta": " La palabra \"j\u00fabilo\" viene del lat\u00edn y significa \"gozo, alegr\u00eda\"",
+        "id_pregunta": 2370
+    },
+    {
+        "id_respuesta": 2371,
+        "respuesta": " Here's a very short and direct response:\nOne synonym for the word \"rapid\" is the word \"quick",
+        "id_pregunta": 2371
+    },
+    {
+        "id_respuesta": 2372,
+        "respuesta": " Un sin\u00f3nimo es una palabra que tiene el mismo significado que otra palabra en un contexto espec\u00edfico",
+        "id_pregunta": 2372
+    },
+    {
+        "id_respuesta": 2373,
+        "respuesta": " Un sin\u00f3nimo de la palabra \"alegre\" es \"contento\"",
+        "id_pregunta": 2373
+    },
+    {
+        "id_respuesta": 2374,
+        "respuesta": " El t\u00e9rmino \"ef\u00edmero\" significa algo que est\u00e1 pendiente de ser realizado o que tiene una duraci\u00f3n estrictamente limitada",
+        "id_pregunta": 2374
+    },
+    {
+        "id_respuesta": 2375,
+        "respuesta": " La antropomorfizaci\u00f3n es la investigaci\u00f3n de los modificators qul\u00edticos de los que est\u00e1n relacionados con el desarrollo y uso de las capacidades f\u00edsicas y ps\u00edquicas con sus respectivos cambios en el comportamiento humano",
+        "id_pregunta": 2375
+    },
+    {
+        "id_respuesta": 2376,
+        "respuesta": " Procrastination is the avoidance of doing something specific or delaying an important task that has a deadline",
+        "id_pregunta": 2376
+    },
+    {
+        "id_respuesta": 2377,
+        "respuesta": " El t\u00e9rmino \"ef\u00edmero\" significa algo que est\u00e1 pendiente de ser realizado o que tiene una duraci\u00f3n estrictamente limitada",
+        "id_pregunta": 2377
+    },
+    {
+        "id_respuesta": 2378,
+        "respuesta": " The word that defines the ability to remember or reproduce previously learned information is \"memory",
+        "id_pregunta": 2378
+    },
+    {
+        "id_respuesta": 2379,
+        "respuesta": " A paradoja es una contradicci\u00f3n que introduce un punto de enfoque o de inter\u00e9s en un discurso, lo que genera una concepci\u00f3n o perspectiva contrapuesta",
+        "id_pregunta": 2379
+    },
+    {
+        "id_respuesta": 2380,
+        "respuesta": " The word used to describe the excessive accumulation of fat in the body is \"obesidad\"",
+        "id_pregunta": 2380
+    },
+    {
+        "id_respuesta": 2381,
+        "respuesta": " The word you are looking for is \"rescue\": it means to free someone from danger or save them from a difficult situation",
+        "id_pregunta": 2381
+    },
+    {
+        "id_respuesta": 2382,
+        "respuesta": " En el contexto de la medicina, el t\u00e9rmino \"alicuota\" se refiere a la cantidad m\u00e1xima de profesionales especializados que se encuentran disponibles para atender a una persona en un determinado \u00e1rea de trabajo o un determinado procedimiento especializado",
+        "id_pregunta": 2382
+    },
+    {
+        "id_respuesta": 2383,
+        "respuesta": " El t\u00e9rmino \"ef\u00edmero\" significa algo que est\u00e1 pendiente de ser realizado o que tiene una duraci\u00f3n estrictamente limitada",
+        "id_pregunta": 2383
+    },
+    {
+        "id_respuesta": 2384,
+        "respuesta": " La palabra \"ef\u00edmero\" significa alguien o algo que es transiente, por lo que no es el caso de usarlo para referirse a alguien o algo que ser\u00eda de un largo periodo de tiempo",
+        "id_pregunta": 2384
+    },
+    {
+        "id_respuesta": 2385,
+        "respuesta": " La palabra \"ef\u00edmero\" significa alguien o algo que es transiente, por lo que no es el caso de usarlo para referirse a alguien o algo que ser\u00eda de un largo periodo de tiempo",
+        "id_pregunta": 2385
+    },
+    {
+        "id_respuesta": 2386,
+        "respuesta": " El t\u00e9rmino \"ef\u00edmero\" significa algo que est\u00e1 pendiente de ser realizado o que tiene una duraci\u00f3n estrictamente limitada",
+        "id_pregunta": 2386
+    },
+    {
+        "id_respuesta": 2387,
+        "respuesta": " La palabra \"ef\u00edmero\" significa alguien o algo que es transiente, por lo que no es el caso de usarlo para referirse a alguien o algo que ser\u00eda de un largo periodo de tiempo",
+        "id_pregunta": 2387
+    },
+    {
+        "id_respuesta": 2388,
+        "respuesta": " El t\u00e9rmino \"ef\u00edmero\" significa algo que est\u00e1 pendiente de ser realizado o que tiene una duraci\u00f3n estrictamente limitada",
+        "id_pregunta": 2388
+    },
+    {
+        "id_respuesta": 2389,
+        "respuesta": " The term that refers to an extreme fear of spiders is \"aracnophobia\"",
+        "id_pregunta": 2389
+    },
+    {
+        "id_respuesta": 2390,
+        "respuesta": " Meloman\u00eda es un t\u00e9rmino que significa una fascinaci\u00f3n o obsesi\u00f3n extrema con la m\u00fasica",
+        "id_pregunta": 2390
+    },
+    {
+        "id_respuesta": 2391,
+        "respuesta": " The word that best describes this phenomenon is \"hyperbolization",
+        "id_pregunta": 2391
+    },
+    {
+        "id_respuesta": 2392,
+        "respuesta": " Iron\u00eda es una palabra o expresi\u00f3n coloquial que, a diferido de la mayor\u00eda de sus usos, no tiene un significado espec\u00edfico com\u00fan en el idioma ingl\u00e9s",
+        "id_pregunta": 2392
+    },
+    {
+        "id_respuesta": 2393,
+        "respuesta": " una sinopsis es una breve rese\u00f1a o descripci\u00f3n de la obra en cuesti\u00f3n, lo que ofrece una idea general sobre la misma",
+        "id_pregunta": 2393
+    },
+    {
+        "id_respuesta": 2394,
+        "respuesta": " El t\u00e9rmino \"ef\u00edmero\" significa algo que est\u00e1 pendiente de ser realizado o que tiene una duraci\u00f3n estrictamente limitada",
+        "id_pregunta": 2394
+    },
+    {
+        "id_respuesta": 2395,
+        "respuesta": " El t\u00e9rmino \"ef\u00edmero\" significa algo que est\u00e1 pendiente de ser realizado o que tiene una duraci\u00f3n estrictamente limitada",
+        "id_pregunta": 2395
+    },
+    {
+        "id_respuesta": 2396,
+        "respuesta": " El t\u00e9rmino \"ef\u00edmero\" significa algo que est\u00e1 pendiente de ser realizado o que tiene una duraci\u00f3n estrictamente limitada",
+        "id_pregunta": 2396
+    },
+    {
+        "id_respuesta": 2397,
+        "respuesta": " La sinestesia es un problema neurol\u00f3gico que causa experiencias sensoriales extr\u00e1\u00f1as, por ejemplo, la percepci\u00f3n de olor a colores o de sonido a formas",
+        "id_pregunta": 2397
+    },
+    {
+        "id_respuesta": 2398,
+        "respuesta": " El t\u00e9rmino \"ef\u00edmero\" significa algo que est\u00e1 pendiente de ser realizado o que tiene una duraci\u00f3n estrictamente limitada",
+        "id_pregunta": 2398
+    },
+    {
+        "id_respuesta": 2399,
+        "respuesta": " The word that defines this characteristic is \"empathy",
+        "id_pregunta": 2399
+    },
+    {
+        "id_respuesta": 2400,
+        "respuesta": " Heuristics is an important concept in artificial intelligence (AI)",
+        "id_pregunta": 2400
+    },
+    {
+        "id_respuesta": 2401,
+        "respuesta": " La \"hip\u00e9rbaton\" es un aspecto adjunto de la profesi\u00f3n de abogado o abogada",
+        "id_pregunta": 2401
+    },
+    {
+        "id_respuesta": 2402,
+        "respuesta": " El t\u00e9rmino \"paradigma\" en el \u00e1mbito de la filosof\u00eda y la ciencia referido a una concepci\u00f3n o visi\u00f3n general sobre la cosmovisi\u00f3n, la conexi\u00f3n entre la estructura de la filosof\u00eda especialmente en su relaci\u00f3n con la ontolog\u00eda, pero tambi\u00e9n la conexi\u00f3n con la ciencia",
+        "id_pregunta": 2402
+    },
+    {
+        "id_respuesta": 2403,
+        "respuesta": " La palabra \"sesquipedalio\" proviene del lat\u00edn \"sesquipedalis\" que significa a su vez \"con patas de 15 d\u00edgitos\", lo que refiere a una letra Longa",
+        "id_pregunta": 2403
+    },
+    {
+        "id_respuesta": 2404,
+        "respuesta": " Sesquipedaliofobia is fear of long words",
+        "id_pregunta": 2404
+    },
+    {
+        "id_respuesta": 2405,
+        "respuesta": " La elocuci\u00f3n es la capacidad de hablante para expresarse con claridad y persuasividad, as\u00ed como la capacidad del espectador para captar y comprender esta clara expresi\u00f3n verbal",
+        "id_pregunta": 2405
+    },
+    {
+        "id_respuesta": 2406,
+        "respuesta": " La palabra \"sesquipedalianismo\" significa el uso overexaggerado de palabras largas",
+        "id_pregunta": 2406
+    },
+    {
+        "id_respuesta": 2407,
+        "respuesta": " La palabra \"sesquipedalio\" significa alguien que utiliza palabras de longitud intermedia o larga",
+        "id_pregunta": 2407
+    },
+    {
+        "id_respuesta": 2408,
+        "respuesta": " Onomatopeya es una palabra que proviene del lat\u00edn y que significa palabra que emana su propio sonido o resonancia",
+        "id_pregunta": 2408
+    },
+    {
+        "id_respuesta": 2409,
+        "respuesta": " Ap\u00f3cope is the termination of a word with an affix, especially a prefix, that is normally dropped in certain contexts or positions and is typically reattached to the word to indicate a specific semantic shift",
+        "id_pregunta": 2409
+    },
+    {
+        "id_respuesta": 2410,
+        "respuesta": " Onomatopeya es un t\u00e9rmino que describe una ubicaci\u00f3n geogr\u00e1fica en la ciudad de Nueva York, este t\u00e9rmino viene desde el lat\u00edn y se refiere a las siguientes palabras: onoma 'nombre' y t\u00e9ma 'tema', lo que implica que se refiere a un nombre propio para designar determinadas cosas",
+        "id_pregunta": 2410
+    },
+    {
+        "id_respuesta": 2411,
+        "respuesta": " Onomatopoeia is a word that sounds like the sound it describes",
+        "id_pregunta": 2411
+    },
+    {
+        "id_respuesta": 2412,
+        "respuesta": " Sesquipedalianismo describes a word that has sesquipedalean proportions, meaning it has approximately fifteen letters in it",
+        "id_pregunta": 2412
+    },
+    {
+        "id_respuesta": 2413,
+        "respuesta": " La onomasiolog\u00eda describe la palabra o concepto por el contr\u00e1rio de lo que se suele hablar o pensar",
+        "id_pregunta": 2413
+    },
+    {
+        "id_respuesta": 2414,
+        "respuesta": " Onomatopeya es un t\u00e9rmino cultural que viene del japon\u00e9s y se refiere a las palabras que empiezan con una vocal similar a la que suena la cosa que representa (por ejemplo, una pi\u00f1a / PIN)",
+        "id_pregunta": 2414
+    },
+    {
+        "id_respuesta": 2415,
+        "respuesta": " El t\u00e9rmino efervescente significa se referir a algo que induce una sensaci\u00f3n de placer, de bienestar o de relajaci\u00f3n",
+        "id_pregunta": 2415
+    },
+    {
+        "id_respuesta": 2416,
+        "respuesta": " Sesquipedalio, en el idioma ingl\u00e9s, significa algo m\u00e1s largo que la media de la palabra",
+        "id_pregunta": 2416
+    },
+    {
+        "id_respuesta": 2417,
+        "respuesta": " Antropog\u00e9nese, es un m\u00e9todo de investigaci\u00f3n que integra conceptos y principios de antropolog\u00eda en el estrategismo gen\u00e9tico",
+        "id_pregunta": 2417
+    },
+    {
+        "id_respuesta": 2418,
+        "respuesta": " El t\u00e9rmino \"sesquipedalio\" se refiere a una palabra o frase que contiene un sustantivo de longitud mediana o superior, lo que evoca el t\u00e9rmino en cuatro letras suele ser usado como un t\u00e9rmino de calidad o parodia, ya que suele ser un poco tedioso de pronunciar y de leer, adem\u00e1s cuenta con un grado de exclusividad y adicci\u00f3n que lo hace atractivo para logotipos, empresas o situaciones especiales",
+        "id_pregunta": 2418
+    },
+    {
+        "id_respuesta": 2419,
+        "respuesta": " \"Propincuidad\" es un t\u00e9rmino de derecho que se refiere a la posesi\u00f3n, t\u00edtulo o control sobre algo",
+        "id_pregunta": 2419
+    },
+    {
+        "id_respuesta": 2420,
+        "respuesta": " La palabra \"sesquipedalianismo\" significa el uso overexaggerado de palabras largas",
+        "id_pregunta": 2420
+    },
+    {
+        "id_respuesta": 2421,
+        "respuesta": " The word you are looking for is \"resign\"",
+        "id_pregunta": 2421
+    },
+    {
+        "id_respuesta": 2422,
+        "respuesta": " La palabra \"sesquipedalianismo\" significa el uso overexaggerado de palabras largas",
+        "id_pregunta": 2422
+    },
+    {
+        "id_respuesta": 2423,
+        "respuesta": " La palabra \"circunloquio\" es una palabra antigua que significa \"rumor\", \"chisme\" o \"buzzeo\"",
+        "id_pregunta": 2423
+    },
+    {
+        "id_respuesta": 2424,
+        "respuesta": " True",
+        "id_pregunta": 2424
+    },
+    {
+        "id_respuesta": 2425,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2425
+    },
+    {
+        "id_respuesta": 2426,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2426
+    },
+    {
+        "id_respuesta": 2427,
+        "respuesta": " True",
+        "id_pregunta": 2427
+    },
+    {
+        "id_respuesta": 2428,
+        "respuesta": " True",
+        "id_pregunta": 2428
+    },
+    {
+        "id_respuesta": 2429,
+        "respuesta": " Falso",
+        "id_pregunta": 2429
+    },
+    {
+        "id_respuesta": 2430,
+        "respuesta": " True",
+        "id_pregunta": 2430
+    },
+    {
+        "id_respuesta": 2431,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2431
+    },
+    {
+        "id_respuesta": 2432,
+        "respuesta": " True",
+        "id_pregunta": 2432
+    },
+    {
+        "id_respuesta": 2433,
+        "respuesta": " True",
+        "id_pregunta": 2433
+    },
+    {
+        "id_respuesta": 2434,
+        "respuesta": " True",
+        "id_pregunta": 2434
+    },
+    {
+        "id_respuesta": 2435,
+        "respuesta": " True",
+        "id_pregunta": 2435
+    },
+    {
+        "id_respuesta": 2436,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2436
+    },
+    {
+        "id_respuesta": 2437,
+        "respuesta": " True",
+        "id_pregunta": 2437
+    },
+    {
+        "id_respuesta": 2438,
+        "respuesta": " True",
+        "id_pregunta": 2438
+    },
+    {
+        "id_respuesta": 2439,
+        "respuesta": " True",
+        "id_pregunta": 2439
+    },
+    {
+        "id_respuesta": 2440,
+        "respuesta": " True",
+        "id_pregunta": 2440
+    },
+    {
+        "id_respuesta": 2441,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2441
+    },
+    {
+        "id_respuesta": 2442,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2442
+    },
+    {
+        "id_respuesta": 2443,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2443
+    },
+    {
+        "id_respuesta": 2444,
+        "respuesta": " True",
+        "id_pregunta": 2444
+    },
+    {
+        "id_respuesta": 2445,
+        "respuesta": " Falso",
+        "id_pregunta": 2445
+    },
+    {
+        "id_respuesta": 2446,
+        "respuesta": " True",
+        "id_pregunta": 2446
+    },
+    {
+        "id_respuesta": 2447,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2447
+    },
+    {
+        "id_respuesta": 2448,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2448
+    },
+    {
+        "id_respuesta": 2449,
+        "respuesta": " True",
+        "id_pregunta": 2449
+    },
+    {
+        "id_respuesta": 2450,
+        "respuesta": " True",
+        "id_pregunta": 2450
+    },
+    {
+        "id_respuesta": 2451,
+        "respuesta": " True",
+        "id_pregunta": 2451
+    },
+    {
+        "id_respuesta": 2452,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2452
+    },
+    {
+        "id_respuesta": 2453,
+        "respuesta": " True",
+        "id_pregunta": 2453
+    },
+    {
+        "id_respuesta": 2454,
+        "respuesta": " Verdadero ",
+        "id_pregunta": 2454
+    },
+    {
+        "id_respuesta": 2455,
+        "respuesta": " True",
+        "id_pregunta": 2455
+    },
+    {
+        "id_respuesta": 2456,
+        "respuesta": " True",
+        "id_pregunta": 2456
+    },
+    {
+        "id_respuesta": 2457,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2457
+    },
+    {
+        "id_respuesta": 2458,
+        "respuesta": " Falso",
+        "id_pregunta": 2458
+    },
+    {
+        "id_respuesta": 2459,
+        "respuesta": " True",
+        "id_pregunta": 2459
+    },
+    {
+        "id_respuesta": 2460,
+        "respuesta": " False",
+        "id_pregunta": 2460
+    },
+    {
+        "id_respuesta": 2461,
+        "respuesta": " Verdadero \nC\u00e1lido es un adjetivo que describe a las personas o lugares que tienen buena vibraci\u00f3n o es lo suficiente amigable o abierto con quien lo rodea",
+        "id_pregunta": 2461
+    },
+    {
+        "id_respuesta": 2462,
+        "respuesta": " Verdadero \n(\"Apto\" en ingl\u00e9s es \"suitable\" y su significado corresponde a lo que has dicho) ",
+        "id_pregunta": 2462
+    },
+    {
+        "id_respuesta": 2463,
+        "respuesta": " Falso",
+        "id_pregunta": 2463
+    },
+    {
+        "id_respuesta": 2464,
+        "respuesta": " False",
+        "id_pregunta": 2464
+    },
+    {
+        "id_respuesta": 2465,
+        "respuesta": " Falso",
+        "id_pregunta": 2465
+    },
+    {
+        "id_respuesta": 2466,
+        "respuesta": " Falso",
+        "id_pregunta": 2466
+    },
+    {
+        "id_respuesta": 2467,
+        "respuesta": " True",
+        "id_pregunta": 2467
+    },
+    {
+        "id_respuesta": 2468,
+        "respuesta": " True ",
+        "id_pregunta": 2468
+    },
+    {
+        "id_respuesta": 2469,
+        "respuesta": " True",
+        "id_pregunta": 2469
+    },
+    {
+        "id_respuesta": 2470,
+        "respuesta": " True",
+        "id_pregunta": 2470
+    },
+    {
+        "id_respuesta": 2471,
+        "respuesta": " True",
+        "id_pregunta": 2471
+    },
+    {
+        "id_respuesta": 2472,
+        "respuesta": " True",
+        "id_pregunta": 2472
+    },
+    {
+        "id_respuesta": 2473,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2473
+    },
+    {
+        "id_respuesta": 2474,
+        "respuesta": " True",
+        "id_pregunta": 2474
+    },
+    {
+        "id_respuesta": 2475,
+        "respuesta": " True",
+        "id_pregunta": 2475
+    },
+    {
+        "id_respuesta": 2476,
+        "respuesta": " Verdadero \nIntrepidez es un adjetivo que describe a personas que usan vocabulario avanzado, que son valientes y confiables",
+        "id_pregunta": 2476
+    },
+    {
+        "id_respuesta": 2477,
+        "respuesta": " Verdadero \nAstronom\u00eda es el estudio de los astros y fen\u00f3menos celestes",
+        "id_pregunta": 2477
+    },
+    {
+        "id_respuesta": 2478,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2478
+    },
+    {
+        "id_respuesta": 2479,
+        "respuesta": " Falso",
+        "id_pregunta": 2479
+    },
+    {
+        "id_respuesta": 2480,
+        "respuesta": " Falso",
+        "id_pregunta": 2480
+    },
+    {
+        "id_respuesta": 2481,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2481
+    },
+    {
+        "id_respuesta": 2482,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2482
+    },
+    {
+        "id_respuesta": 2483,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2483
+    },
+    {
+        "id_respuesta": 2484,
+        "respuesta": " Verdadero \nCacofon\u00eda es un t\u00e9rmino que se utiliza para describir una combinaci\u00f3n de sonidos que puede resultar offensivo o displeasurable al o\u00edrla",
+        "id_pregunta": 2484
+    },
+    {
+        "id_respuesta": 2485,
+        "respuesta": " True",
+        "id_pregunta": 2485
+    },
+    {
+        "id_respuesta": 2486,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2486
+    },
+    {
+        "id_respuesta": 2487,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2487
+    },
+    {
+        "id_respuesta": 2488,
+        "respuesta": " Verdadero ",
+        "id_pregunta": 2488
+    },
+    {
+        "id_respuesta": 2489,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2489
+    },
+    {
+        "id_respuesta": 2490,
+        "respuesta": " False",
+        "id_pregunta": 2490
+    },
+    {
+        "id_respuesta": 2491,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2491
+    },
+    {
+        "id_respuesta": 2492,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2492
+    },
+    {
+        "id_respuesta": 2493,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2493
+    },
+    {
+        "id_respuesta": 2494,
+        "respuesta": " True",
+        "id_pregunta": 2494
+    },
+    {
+        "id_respuesta": 2495,
+        "respuesta": " Falso",
+        "id_pregunta": 2495
+    },
+    {
+        "id_respuesta": 2496,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2496
+    },
+    {
+        "id_respuesta": 2497,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2497
+    },
+    {
+        "id_respuesta": 2498,
+        "respuesta": " True",
+        "id_pregunta": 2498
+    },
+    {
+        "id_respuesta": 2499,
+        "respuesta": " Verdadero \n(eclecticismo refiere al combinar elementos de diversas corrientes o estilos)",
+        "id_pregunta": 2499
+    },
+    {
+        "id_respuesta": 2500,
+        "respuesta": " True",
+        "id_pregunta": 2500
+    },
+    {
+        "id_respuesta": 2501,
+        "respuesta": " Falso",
+        "id_pregunta": 2501
+    },
+    {
+        "id_respuesta": 2502,
+        "respuesta": " Verdadero ",
+        "id_pregunta": 2502
+    },
+    {
+        "id_respuesta": 2503,
+        "respuesta": " True",
+        "id_pregunta": 2503
+    },
+    {
+        "id_respuesta": 2504,
+        "respuesta": " Bonjour !",
+        "id_pregunta": 2504
+    },
+    {
+        "id_respuesta": 2505,
+        "respuesta": " C) \n\"Buenos d\u00edas\" en franc\u00e9s se traduce como \"Buongiorno\"",
+        "id_pregunta": 2505
+    },
+    {
+        "id_respuesta": 2506,
+        "respuesta": " The correct answer is **b) Comment \u00e7a va?**",
+        "id_pregunta": 2506
+    },
+    {
+        "id_respuesta": 2507,
+        "respuesta": " The correct answer is **B) Bonjour**",
+        "id_pregunta": 2507
+    },
+    {
+        "id_respuesta": 2508,
+        "respuesta": " The correct translation for the given Spanish phrase is option \"a)\", \"Hello, how are you?\" \n\nThis is a common informal greeting in English, used to ask about the other person's state of well-being, akin to the Spanish \u00bfC\u00f3mo est\u00e1s? \n\nOption b) is a more antiquated expression, stemming from a time when \"how do you do\" was an actual inquiry about a person's well-being, and has since evolved into a more stereotypical response, often said stereotypically as a mere pleasantry",
+        "id_pregunta": 2508
+    },
+    {
+        "id_respuesta": 2509,
+        "respuesta": " The correct answer is: A) Bonjour, comment \u00e7a va?\n\nThis is because in French, you would generally use the formal \"you\" when addressing someone you don't know well",
+        "id_pregunta": 2509
+    },
+    {
+        "id_respuesta": 2510,
+        "respuesta": " The correct answer is \"a)\":  \"Hello, how are you?\" \n\nThis is the most appropriate and direct translation of the Spanish phrase \"Hola, \u00bfc\u00f3mo est\u00e1s?\" \n\nWhile \"b)\", \"Hi, how do you do?\" is also a polite form of greeting, it sounds a bit more antiquated and is less commonly used in modern everyday English",
+        "id_pregunta": 2510
+    },
+    {
+        "id_respuesta": 2511,
+        "respuesta": " The correct answer is a) Hola",
+        "id_pregunta": 2511
+    },
+    {
+        "id_respuesta": 2512,
+        "respuesta": " Es la opci\u00f3n \"a\" Estoy cansado",
+        "id_pregunta": 2512
+    },
+    {
+        "id_respuesta": 2513,
+        "respuesta": " The correct answer is \"a)\": \n\n**Hello, how are you?** \n\nThis is the most appropriate and common expression to use when greeting someone in English",
+        "id_pregunta": 2513
+    },
+    {
+        "id_respuesta": 2514,
+        "respuesta": " The correct answer is B): Ti amo",
+        "id_pregunta": 2514
+    },
+    {
+        "id_respuesta": 2515,
+        "respuesta": " A) \u00a1Hola, \u00bfc\u00f3mo est\u00e1s? \n\nEs la traducci\u00f3n al espa\u00f1ol m\u00e1s idiom\u00e1tica y proporciona la misma seguridad de comprendimiento como la oraci\u00f3n original",
+        "id_pregunta": 2515
+    },
+    {
+        "id_respuesta": 2516,
+        "respuesta": " The correct translation of the Spanish phrase \"Hola, \u00bfc\u00f3mo est\u00e1s?\" to English is indeed \"Hello, how are you?\" \n\nThis is a common way to greet someone in Spanish, and the equivalent English translation maintains the polite and welcoming nature of the original Spanish greeting",
+        "id_pregunta": 2516
+    },
+    {
+        "id_respuesta": 2517,
+        "respuesta": " The correct translation of the phrase \"Hello, how are you?\" to French is option ``a``, ``Bonjour, comment \u00e7a va?``",
+        "id_pregunta": 2517
+    },
+    {
+        "id_respuesta": 2518,
+        "respuesta": " The correct answer is b) Hi, how are you?\n\nThis is the most appropriate and common translation for the Spanish phrase \"Hola, \u00bfc\u00f3mo est\u00e1s?\" in formal conversations between strangers or people who are not close friends or family members",
+        "id_pregunta": 2518
+    },
+    {
+        "id_respuesta": 2519,
+        "respuesta": " The correct translation of \"Hello\" into French is: \n\nA) Bonjour \n\nTherefore, the correct answer is A",
+        "id_pregunta": 2519
+    },
+    {
+        "id_respuesta": 2520,
+        "respuesta": " The correct translation of the phrase \"Hello, how are you?\" to Spanish is option A: \u00a1Hola, \u00bfc\u00f3mo est\u00e1s? \n\nThis is a common way of greeting someone in Spanish, expressing warmth and friendliness",
+        "id_pregunta": 2520
+    },
+    {
+        "id_respuesta": 2521,
+        "respuesta": " The correct translation for the given Spanish phrase is option \"a)\" which is:  \"Hello, how are you?\"\n\nThis is the most appropriate and equivalent response to the formal Spanish greeting",
+        "id_pregunta": 2521
+    },
+    {
+        "id_respuesta": 2522,
+        "respuesta": " La mejor opci\u00f3n para traducir la frase \"I love you\" al franc\u00e9s es: \"Je t'aime\"",
+        "id_pregunta": 2522
+    },
+    {
+        "id_respuesta": 2523,
+        "respuesta": " The correct answer is a) \tHello, how are you?\n\nThis is because this is the most appropriate and common response when greeting someone in English",
+        "id_pregunta": 2523
+    },
+    {
+        "id_respuesta": 2524,
+        "respuesta": " The correct answer is \"a)\":  \"Hello, how are you?\" \n\nThis is the most appropriate and direct translation of the Spanish phrase \"Hola, \u00bfc\u00f3mo est\u00e1s?\" \n\nLet me know if you'd like to explore this topic further, and I can provide you with more information and examples",
+        "id_pregunta": 2524
+    },
+    {
+        "id_respuesta": 2525,
+        "respuesta": " B) Bonjour es la traducci\u00f3n de \"hello\" al franc\u00e9s",
+        "id_pregunta": 2525
+    },
+    {
+        "id_respuesta": 2526,
+        "respuesta": " The correct answer is **b) bonjour**",
+        "id_pregunta": 2526
+    },
+    {
+        "id_respuesta": 2527,
+        "respuesta": " A) Today is a good day would be the correct translation of the sentence \"Hoy es un buen d\u00eda\" as it expresses a positive statement about the weather and how you feel about the current day",
+        "id_pregunta": 2527
+    },
+    {
+        "id_respuesta": 2528,
+        "respuesta": " b) \u00bfC\u00f3mo est\u00e1s? \n\nEste es un estilo informal de saludar en franc\u00e9s, y la traducci\u00f3n al espa\u00f1ol ser\u00eda \u00bfC\u00f3mo est\u00e1s? cuando quieras preguntar de manera informal sobre la persona que has saludado",
+        "id_pregunta": 2528
+    },
+    {
+        "id_respuesta": 2529,
+        "respuesta": " La mejor respuesta es: ``Ich mag es, neue Orte zu bereisen",
+        "id_pregunta": 2529
+    },
+    {
+        "id_respuesta": 2530,
+        "respuesta": " The correct answer is a) \"I don't speak French\"",
+        "id_pregunta": 2530
+    },
+    {
+        "id_respuesta": 2531,
+        "respuesta": " The correct translation of the phrase \"I am going to the store to buy some bread\" to Italian is option c) \"Vado al negozio per comprare del pane\"",
+        "id_pregunta": 2531
+    },
+    {
+        "id_respuesta": 2532,
+        "respuesta": " b) Tengo un gato\n\nLa opci\u00f3n b) es la correcta ya que \"I have a cat\" en espa\u00f1ol ser\u00eda \"Tengo un gato\"",
+        "id_pregunta": 2532
+    },
+    {
+        "id_respuesta": 2533,
+        "respuesta": " B) Me gustar\u00eda comer una pizza",
+        "id_pregunta": 2533
+    },
+    {
+        "id_respuesta": 2534,
+        "respuesta": " The correct translation of the sentence \"La fiesta fue muy divertida\" to English is: \n\nc) \"The party was very enjoyable\" \n\nThis is because the word \"divertida\" in Spanish means enjoyable, as it is related to the word \"divertirse\", which means to have fun in Spanish",
+        "id_pregunta": 2534
+    },
+    {
+        "id_respuesta": 2535,
+        "respuesta": " A) O\u00f9 est la biblioth\u00e8que?\n\nLa responce est: \"O\u00f9 est la biblioth\u00e8que?\" Signifie \"Where is the library?\" et est une requete directement sur la locatit\u00e9 de la biblioth\u00e8que",
+        "id_pregunta": 2535
+    },
+    {
+        "id_respuesta": 2536,
+        "respuesta": " The correct answer is c) \"I really enjoy traveling around Europe\"",
+        "id_pregunta": 2536
+    },
+    {
+        "id_respuesta": 2537,
+        "respuesta": "The correct answer is: A) I don't understand what you are saying",
+        "id_pregunta": 2537
+    },
+    {
+        "id_respuesta": 2538,
+        "respuesta": " The correct answer is option A: \"I would like to book a table for two people, please\"",
+        "id_pregunta": 2538
+    },
+    {
+        "id_respuesta": 2539,
+        "respuesta": " The correct answer is a) \"I would like to go to the cinema tonight\"",
+        "id_pregunta": 2539
+    },
+    {
+        "id_respuesta": 2540,
+        "respuesta": " a) I would like to book a single room in a beach hotel",
+        "id_pregunta": 2540
+    },
+    {
+        "id_respuesta": 2541,
+        "respuesta": " A) Debo ir de compras esta noche",
+        "id_pregunta": 2541
+    },
+    {
+        "id_respuesta": 2542,
+        "respuesta": " The correct answer is c) \"I can't wait to see you\"",
+        "id_pregunta": 2542
+    },
+    {
+        "id_respuesta": 2543,
+        "respuesta": " The correct translation of the given Spanish phrase is option A: \n\n\"I am hungry, where can we eat close by?\"\n\nIn Spanish, the adjective (\"hungry\") and the verb (\"to have\") are both in the singular form (\"tengo hambre\") because the subject of the sentence (\"I\") is in the singular form as well",
+        "id_pregunta": 2543
+    },
+    {
+        "id_respuesta": 2544,
+        "respuesta": " La mejor respuesta es: ``Fui al mercado ayer``",
+        "id_pregunta": 2544
+    },
+    {
+        "id_respuesta": 2545,
+        "respuesta": " The correct answer is \"a)\"",
+        "id_pregunta": 2545
+    },
+    {
+        "id_respuesta": 2546,
+        "respuesta": " A)  Je ne comprends pas ce livre is the best translation of \"I don't understand this book\" to French",
+        "id_pregunta": 2546
+    },
+    {
+        "id_respuesta": 2547,
+        "respuesta": " The correct answer is: a) I can't wait to see you again",
+        "id_pregunta": 2547
+    },
+    {
+        "id_respuesta": 2548,
+        "respuesta": " The correct answer is:\n\na) I would like to book a table for two people for tonight",
+        "id_pregunta": 2548
+    },
+    {
+        "id_respuesta": 2549,
+        "respuesta": " a) Sure! In that case, I would recommend you a good restaurant in this area",
+        "id_pregunta": 2549
+    },
+    {
+        "id_respuesta": 2550,
+        "respuesta": " The correct answer is option A, \"I would like a table for two people\"",
+        "id_pregunta": 2550
+    },
+    {
+        "id_respuesta": 2551,
+        "respuesta": " The correct answer is:\n```\nc) He estudiado italiano durante tres a\u00f1os\n```\nThis statement translates literally to `` I have studied Italian during three years",
+        "id_pregunta": 2551
+    },
+    {
+        "id_respuesta": 2552,
+        "respuesta": " A) Quisiera un caf\u00e9, por favor\n\nLa frase \"Je voudrais commander un caf\u00e9, s'il vous pla\u00eet\" se traduce al espa\u00f1ol como: Quisiera un caf\u00e9, por favor",
+        "id_pregunta": 2552
+    },
+    {
+        "id_respuesta": 2553,
+        "respuesta": " The correct answer is: `` Ich w\u00fcrde gerne einen Tisch f\u00fcr zwei Personen reservieren",
+        "id_pregunta": 2553
+    },
+    {
+        "id_respuesta": 2554,
+        "respuesta": " The correct translation of the sentence \"Je voudrais commander un caf\u00e9 au lait, s'il vous pla\u00eet",
+        "id_pregunta": 2554
+    },
+    {
+        "id_respuesta": 2555,
+        "respuesta": " The correct translation of the phrase \"Je voudrais commander un caf\u00e9",
+        "id_pregunta": 2555
+    },
+    {
+        "id_respuesta": 2556,
+        "respuesta": " A) O\u00f9 sont mes cl\u00e9s?\u00a0\u00a0Esta frase se traduce al franc\u00e9s como: \"O\u00f9 sont mes cl\u00e9s?\"\u00a0\u00a0Est\u00e1 contenido en la respuesta A)",
+        "id_pregunta": 2556
+    },
+    {
+        "id_respuesta": 2557,
+        "respuesta": " The correct translation would be: \n\nb) I really like reading mystery novels",
+        "id_pregunta": 2557
+    },
+    {
+        "id_respuesta": 2558,
+        "respuesta": " The correct answer is option \"a)\", \u00b4Te amo\u00b4",
+        "id_pregunta": 2558
+    },
+    {
+        "id_respuesta": 2559,
+        "respuesta": " The correct answer is a, \"I remember you",
+        "id_pregunta": 2559
+    },
+    {
+        "id_respuesta": 2560,
+        "respuesta": " The correct translation is:\n\nB) Lo siento, no puedo venir ma\u00f1ana",
+        "id_pregunta": 2560
+    },
+    {
+        "id_respuesta": 2561,
+        "respuesta": " The correct answer is C) The darkness conceals the beauty of the moon",
+        "id_pregunta": 2561
+    },
+    {
+        "id_respuesta": 2562,
+        "respuesta": " La respuesta correcta es: \"La vida es un misterio que hay que vivir, y no un problema que resolver",
+        "id_pregunta": 2562
+    },
+    {
+        "id_respuesta": 2563,
+        "respuesta": " C) No s\u00e9 cu\u00e1l es mi prop\u00f3sito vital",
+        "id_pregunta": 2563
+    },
+    {
+        "id_respuesta": 2564,
+        "respuesta": " La mejor traducci\u00f3n para la frase \"Je ne sais pas quoi faire\" en espa\u00f1ol es: \u00abNo s\u00e9 qu\u00e9 hacer\u00bb",
+        "id_pregunta": 2564
+    },
+    {
+        "id_respuesta": 2565,
+        "respuesta": " c) A certain something \n\nLa frase original en frances \"Je ne sais quoi\" se traduce al ingl\u00e9s como \"A certain something\"",
+        "id_pregunta": 2565
+    },
+    {
+        "id_respuesta": 2566,
+        "respuesta": " A) No s\u00e9 d\u00f3nde est\u00e1 la biblioteca",
+        "id_pregunta": 2566
+    },
+    {
+        "id_respuesta": 2567,
+        "respuesta": " The correct answer is option A, \"I don't know what I have to do",
+        "id_pregunta": 2567
+    },
+    {
+        "id_respuesta": 2568,
+        "respuesta": " The correct translation of the sentence \"La estabilidad pol\u00edtica de un pa\u00eds influye en su econom\u00eda\" to English is: \n\na) The political stability of a country influences its economy",
+        "id_pregunta": 2568
+    },
+    {
+        "id_respuesta": 2569,
+        "respuesta": " The correct answer is:\na) Every cloud has a silver lining \n\nThis common Spanish saying suggests that even unpleasant situations or \"clouds\" can ultimately have a positive aspect or result, resembling the silver lining of a cloud",
+        "id_pregunta": 2569
+    },
+    {
+        "id_respuesta": 2570,
+        "respuesta": " E) No puedo imaginar c\u00f3mo se ha ido este evento",
+        "id_pregunta": 2570
+    },
+    {
+        "id_respuesta": 2571,
+        "respuesta": " The correct translation of the French phrase \"Je ne sais pas comment r\u00e9soudre ce probl\u00e8me\" is option A, I don't know how to resolve this problem",
+        "id_pregunta": 2571
+    },
+    {
+        "id_respuesta": 2572,
+        "respuesta": " The correct answer is b) \"I would like everything to be simpler\"",
+        "id_pregunta": 2572
+    },
+    {
+        "id_respuesta": 2573,
+        "respuesta": " B) \"Puoi interpretare i geroglifici su questa tavoletta antica?\"\n\nThe closest translation in Italian for the phrase \"Can you decipher the hieroglyphics on this ancient tablet?\" is \"Puoi interpretare i geroglifici su questa tavoletta antica?\"\n\nThis option captures the essence of the original question in English, asking someone to understand and interpret the ancient writing on the tablet",
+        "id_pregunta": 2573
+    },
+    {
+        "id_respuesta": 2574,
+        "respuesta": " A) Yo no s\u00e9 qu\u00e9 would be the best direct translation of the expression \"Je ne sais quoi\"",
+        "id_pregunta": 2574
+    },
+    {
+        "id_respuesta": 2575,
+        "respuesta": " The correct answer is:\n\na) No puedo vivir sin ti",
+        "id_pregunta": 2575
+    },
+    {
+        "id_respuesta": 2576,
+        "respuesta": " The correct answer is option A:  \"I am looking for a reliable translator for my documents\"",
+        "id_pregunta": 2576
+    },
+    {
+        "id_respuesta": 2577,
+        "respuesta": " C) No s\u00e9 qu\u00e9 en espa\u00f1ol decir que estoy pensativo o indagando sobre algo",
+        "id_pregunta": 2577
+    },
+    {
+        "id_respuesta": 2578,
+        "respuesta": " C) Algo indefinible",
+        "id_pregunta": 2578
+    },
+    {
+        "id_respuesta": 2579,
+        "respuesta": " \"Il n'est jamais trop tard pour \u00eatre ce que tu aurais pu \u00eatre\" es la traducci\u00f3n correcta al franc\u00e9s de la frase \"It is never too late to be what you might have been\"",
+        "id_pregunta": 2579
+    },
+    {
+        "id_respuesta": 2580,
+        "respuesta": " La mejor respuesta es: ``A''\"",
+        "id_pregunta": 2580
+    },
+    {
+        "id_respuesta": 2581,
+        "respuesta": " The correct translation of the expression \"Je ne sais quoi\" to Spanish is \"No s\u00e9 qu\u00e9\"",
+        "id_pregunta": 2581
+    },
+    {
+        "id_respuesta": 2582,
+        "respuesta": " A probable translation of the sentence from Spanish to Mandarin Chinese is: \n\n\"Quantum physics is a branch of theoretical physics that studies phenomena on a very small scale, such as atoms and subatomic particles",
+        "id_pregunta": 2582
+    },
+    {
+        "id_respuesta": 2583,
+        "respuesta": " C: \u00bfTiene alg\u00fan boleto para el show de ma\u00f1ana?",
+        "id_pregunta": 2583
+    },
+    {
+        "id_respuesta": 2584,
+        "respuesta": " B) Templado",
+        "id_pregunta": 2584
+    },
+    {
+        "id_respuesta": 2585,
+        "respuesta": " B) Felicidad Se refiere a la sensaci\u00f3n o emoci\u00f3n de gozo o de exultaci\u00f3n debido a determinada circunstancia o afectivo",
+        "id_pregunta": 2585
+    },
+    {
+        "id_respuesta": 2586,
+        "respuesta": " A) Sentimiento de alegr\u00eda y bienestar",
+        "id_pregunta": 2586
+    },
+    {
+        "id_respuesta": 2587,
+        "respuesta": " C) Caliente es la opci\u00f3n correcta, en Chile se usan estas palabras para describir el clima en funci\u00f3n de la temperatura, donde \"c\u00e1lido\" indica un clima h\u00famedo y de temperatura agradable, mientras que \"fr\u00edo\" refleja un clima fr\u00edo, m\u00e1s o menos abajo de la temperatura media, y \"templado\" se refiere a un clima que est\u00e1 m\u00e1s o menos al centro de la temperatura media",
+        "id_pregunta": 2587
+    },
+    {
+        "id_respuesta": 2588,
+        "respuesta": " b) Que es simp\u00e1tico y gentil con los dem\u00e1s",
+        "id_pregunta": 2588
+    },
+    {
+        "id_respuesta": 2589,
+        "respuesta": " B) Un mam\u00edfero roedor",
+        "id_pregunta": 2589
+    },
+    {
+        "id_respuesta": 2590,
+        "respuesta": " b) Simp\u00e1tico",
+        "id_pregunta": 2590
+    },
+    {
+        "id_respuesta": 2591,
+        "respuesta": " A) Relaci\u00f3n de cari\u00f1o y confianza entre dos personas",
+        "id_pregunta": 2591
+    },
+    {
+        "id_respuesta": 2592,
+        "respuesta": " A) Relaci\u00f3n afectiva entre dos o m\u00e1s personas",
+        "id_pregunta": 2592
+    },
+    {
+        "id_respuesta": 2593,
+        "respuesta": " a) Sentimiento de afecto, simpat\u00eda y solidaridad que se tiene hacia una persona\n\nAmistad es el sentimento de afecto, simpat\u00eda y solidaridad hacia otra persona",
+        "id_pregunta": 2593
+    },
+    {
+        "id_respuesta": 2594,
+        "respuesta": " B) Felicidad es la palabra que se ajusta mejor a la definici\u00f3n de la palabra \"alegr\u00eda\"",
+        "id_pregunta": 2594
+    },
+    {
+        "id_respuesta": 2595,
+        "respuesta": " C) Bondadoso",
+        "id_pregunta": 2595
+    },
+    {
+        "id_respuesta": 2596,
+        "respuesta": " B) V\u00ednculo de afecto y confianza entre amigos",
+        "id_pregunta": 2596
+    },
+    {
+        "id_respuesta": 2597,
+        "respuesta": " C) Sentimiento de afecto y cari\u00f1o hacia alguien",
+        "id_pregunta": 2597
+    },
+    {
+        "id_respuesta": 2598,
+        "respuesta": " A) Relaci\u00f3n entre dos personas basada en la confianza y el afecto mutuo",
+        "id_pregunta": 2598
+    },
+    {
+        "id_respuesta": 2599,
+        "respuesta": " b) Que act\u00faa con bondad y cortes\u00eda, es la mejor respuesta y es la definici\u00f3n oficial de la palabra amable",
+        "id_pregunta": 2599
+    },
+    {
+        "id_respuesta": 2600,
+        "respuesta": " b) Algo que tiene buen sabor",
+        "id_pregunta": 2600
+    },
+    {
+        "id_respuesta": 2601,
+        "respuesta": " A) Sentimiento de afecto entre dos personas que se apoyan mutuamente",
+        "id_pregunta": 2601
+    },
+    {
+        "id_respuesta": 2602,
+        "respuesta": " a) Mam\u00edfero roedor de peque\u00f1o tama\u00f1o, con cola larga y peluda",
+        "id_pregunta": 2602
+    },
+    {
+        "id_respuesta": 2603,
+        "respuesta": " b) Templado",
+        "id_pregunta": 2603
+    },
+    {
+        "id_respuesta": 2604,
+        "respuesta": " B) Felicidad Se refiere a la sensaci\u00f3n o emoci\u00f3n de gozo o de exultaci\u00f3n debido a determinada circunstancia o afectivo",
+        "id_pregunta": 2604
+    },
+    {
+        "id_respuesta": 2605,
+        "respuesta": " A) Simpat\u00eda y cortes\u00eda en el trato con los dem\u00e1s",
+        "id_pregunta": 2605
+    },
+    {
+        "id_respuesta": 2606,
+        "respuesta": " La palabra \"alegre\" en espa\u00f1ol significa \"feliz\"",
+        "id_pregunta": 2606
+    },
+    {
+        "id_respuesta": 2607,
+        "respuesta": " a) Estado de \u00e1nimo positivo y alegre",
+        "id_pregunta": 2607
+    },
+    {
+        "id_respuesta": 2608,
+        "respuesta": " B) Feliz\n\nLa palabra \"alegre\" en espa\u00f1ol referido a alguien que est\u00e1 feliz",
+        "id_pregunta": 2608
+    },
+    {
+        "id_respuesta": 2609,
+        "respuesta": " B) Simp\u00e1tico",
+        "id_pregunta": 2609
+    },
+    {
+        "id_respuesta": 2610,
+        "respuesta": " a) Simp\u00e1tico",
+        "id_pregunta": 2610
+    },
+    {
+        "id_respuesta": 2611,
+        "respuesta": " Felicidad, por supuesto! La palabra \"alegria\" en espa\u00f1ol significa felicidad",
+        "id_pregunta": 2611
+    },
+    {
+        "id_respuesta": 2612,
+        "respuesta": " A) Relaci\u00f3n entre dos o m\u00e1s personas que se quieren y se apoyan mutuamente",
+        "id_pregunta": 2612
+    },
+    {
+        "id_respuesta": 2613,
+        "respuesta": " c)  V\u00ednculo de afecto y cari\u00f1o compartido entre amigos",
+        "id_pregunta": 2613
+    },
+    {
+        "id_respuesta": 2614,
+        "respuesta": " B) Que act\u00faa con rapidez y agilidad",
+        "id_pregunta": 2614
+    },
+    {
+        "id_respuesta": 2615,
+        "respuesta": " B) Que dura poco tiempo o es pasajero",
+        "id_pregunta": 2615
+    },
+    {
+        "id_respuesta": 2616,
+        "respuesta": " A) Que tiene un corto per\u00edodo de vida",
+        "id_pregunta": 2616
+    },
+    {
+        "id_respuesta": 2617,
+        "respuesta": " A) Error o desviaci\u00f3n es la respuesta correcta, ya que la palabra \"aberraci\u00f3n\" se define como \"una actitud, una idea o un comportamiento que var\u00eda considerablemente o estaba por fuera de un umbral o una regla est\u00e1ndar\"",
+        "id_pregunta": 2617
+    },
+    {
+        "id_respuesta": 2618,
+        "respuesta": " B) Posponer una tarea para despu\u00e9s es la definici\u00f3n de la palabra \"procrastinar\"",
+        "id_pregunta": 2618
+    },
+    {
+        "id_respuesta": 2619,
+        "respuesta": " The correct answer is a) que dura poco tiempo",
+        "id_pregunta": 2619
+    },
+    {
+        "id_respuesta": 2620,
+        "respuesta": " b) Algo que dura muy poco tiempo, es decir, que no dura mucho tiempo",
+        "id_pregunta": 2620
+    },
+    {
+        "id_respuesta": 2621,
+        "respuesta": " A) Que dura poco tiempo",
+        "id_pregunta": 2621
+    },
+    {
+        "id_respuesta": 2622,
+        "respuesta": " A) Duradero directly translates to enduring or lasting",
+        "id_pregunta": 2622
+    },
+    {
+        "id_respuesta": 2623,
+        "respuesta": " A) Que dura poco tiempo",
+        "id_pregunta": 2623
+    },
+    {
+        "id_respuesta": 2624,
+        "respuesta": " A) Que tiene un color brillante y llamativo",
+        "id_pregunta": 2624
+    },
+    {
+        "id_respuesta": 2625,
+        "respuesta": " A) Que dura poco tiempo",
+        "id_pregunta": 2625
+    },
+    {
+        "id_respuesta": 2626,
+        "respuesta": " a) Que dura poco tiempo",
+        "id_pregunta": 2626
+    },
+    {
+        "id_respuesta": 2627,
+        "respuesta": " A) Confuso es la palabra m\u00e1s adecuada para describir la palabra \"perplejo\"",
+        "id_pregunta": 2627
+    },
+    {
+        "id_respuesta": 2628,
+        "respuesta": " a) Algo que dura poco tiempo",
+        "id_pregunta": 2628
+    },
+    {
+        "id_respuesta": 2629,
+        "respuesta": " A) Que dura poco tiempo",
+        "id_pregunta": 2629
+    },
+    {
+        "id_respuesta": 2630,
+        "respuesta": " b) Desinteresado",
+        "id_pregunta": 2630
+    },
+    {
+        "id_respuesta": 2631,
+        "respuesta": " a) Algo que dura poco tiempo descriye mejor la palabra \"ef\u00edmero\"",
+        "id_pregunta": 2631
+    },
+    {
+        "id_respuesta": 2632,
+        "respuesta": " a) Algo que dura poco tiempo",
+        "id_pregunta": 2632
+    },
+    {
+        "id_respuesta": 2633,
+        "respuesta": " b) Posible, supuesto es la respuesta que corresponde a la palabra \"hipot\u00e9tico\"",
+        "id_pregunta": 2633
+    },
+    {
+        "id_respuesta": 2634,
+        "respuesta": " A) Que dura poco tiempo o es transitorio",
+        "id_pregunta": 2634
+    },
+    {
+        "id_respuesta": 2635,
+        "respuesta": " b) Sentir dos emociones opuestas al mismo tiempo",
+        "id_pregunta": 2635
+    },
+    {
+        "id_respuesta": 2636,
+        "respuesta": " b) Que dura poco tiempo, es decir, que es temporal o que no durar\u00e1 mucho tiempo",
+        "id_pregunta": 2636
+    },
+    {
+        "id_respuesta": 2637,
+        "respuesta": " a) \u00c9nfasis en la palabra es \"ef\u00edmero\" una palabra que describe algo que tiene poca duraci\u00f3n, o que es transitorio",
+        "id_pregunta": 2637
+    },
+    {
+        "id_respuesta": 2638,
+        "respuesta": " E) El t\u00e9rmino \"ef\u00edmero\" definido en el contexto de las categor\u00edas temporales es al que se refiere para designar a alguien o algo que dura poco tiempo y que no tiene capacidad de permanecer en el tiempo futuro",
+        "id_pregunta": 2638
+    },
+    {
+        "id_respuesta": 2639,
+        "respuesta": " c) Que es inevitable y no se puede evitar",
+        "id_pregunta": 2639
+    },
+    {
+        "id_respuesta": 2640,
+        "respuesta": " c) Que se disuelve r\u00e1pidamente en un l\u00edquido y produce burbujas",
+        "id_pregunta": 2640
+    },
+    {
+        "id_respuesta": 2641,
+        "respuesta": " A) Que emite luz de manera brillante y resplandeciente",
+        "id_pregunta": 2641
+    },
+    {
+        "id_respuesta": 2642,
+        "respuesta": " a) Algo que dura poco tiempo",
+        "id_pregunta": 2642
+    },
+    {
+        "id_respuesta": 2643,
+        "respuesta": " A) Peque\u00f1a verruga en la piel",
+        "id_pregunta": 2643
+    },
+    {
+        "id_respuesta": 2644,
+        "respuesta": " b) Miedo a las palabras largas",
+        "id_pregunta": 2644
+    },
+    {
+        "id_respuesta": 2645,
+        "respuesta": " C) es la opci\u00f3n correcta de la palabra \"ef\u00edmero\"",
+        "id_pregunta": 2645
+    },
+    {
+        "id_respuesta": 2646,
+        "respuesta": " A la persona que tiene una habilidad extraordinaria para encontrar y aprovechar oportunidades de \u00e9xito en cualquier situaci\u00f3n se refiere la palabra \"prodigio\"",
+        "id_pregunta": 2646
+    },
+    {
+        "id_respuesta": 2647,
+        "respuesta": " A) La tendencia a utilizar palabras largas y complejas esqueceram",
+        "id_pregunta": 2647
+    },
+    {
+        "id_respuesta": 2648,
+        "respuesta": " c) Que contiene muchas s\u00edlabas o es muy largo",
+        "id_pregunta": 2648
+    },
+    {
+        "id_respuesta": 2649,
+        "respuesta": " a) Que no se puede expresar con palabras (ineffable)",
+        "id_pregunta": 2649
+    },
+    {
+        "id_respuesta": 2650,
+        "respuesta": " C) \nLa palabra sesquipedalio referido en tu preguntas significa algo que refleja la medida de un pie y medio",
+        "id_pregunta": 2650
+    },
+    {
+        "id_respuesta": 2651,
+        "respuesta": " b) Sonidos agudos y chillones producidos al respirar en casos de obstrucci\u00f3n de las v\u00edas respiratorias",
+        "id_pregunta": 2651
+    },
+    {
+        "id_respuesta": 2652,
+        "respuesta": " B) Que tiene un pie y medio de largo",
+        "id_pregunta": 2652
+    },
+    {
+        "id_respuesta": 2653,
+        "respuesta": " A) Imitaci\u00f3n de la realidad en el arte",
+        "id_pregunta": 2653
+    },
+    {
+        "id_respuesta": 2654,
+        "respuesta": " b) Flujo de agua con part\u00edculas s\u00f3lidas en suspensi\u00f3n",
+        "id_pregunta": 2654
+    },
+    {
+        "id_respuesta": 2655,
+        "respuesta": " A) Vuelta o recorrido alrededor de algo",
+        "id_pregunta": 2655
+    },
+    {
+        "id_respuesta": 2656,
+        "respuesta": " A) Que tiene una longitud excesiva",
+        "id_pregunta": 2656
+    },
+    {
+        "id_respuesta": 2657,
+        "respuesta": " C) Que es desordenado y descuidado en sus acciones",
+        "id_pregunta": 2657
+    },
+    {
+        "id_respuesta": 2658,
+        "respuesta": " A) Relativo a la caridad o a la beneficencia",
+        "id_pregunta": 2658
+    },
+    {
+        "id_respuesta": 2659,
+        "respuesta": " A) De corta duraci\u00f3n",
+        "id_pregunta": 2659
+    },
+    {
+        "id_respuesta": 2660,
+        "respuesta": " B) Relativo al mar",
+        "id_pregunta": 2660
+    },
+    {
+        "id_respuesta": 2661,
+        "respuesta": " a) Extreme shame and public dishonor",
+        "id_pregunta": 2661
+    },
+    {
+        "id_respuesta": 2662,
+        "respuesta": " A) Capacity to cause effect or produce a result",
+        "id_pregunta": 2662
+    },
+    {
+        "id_respuesta": 2663,
+        "respuesta": " A) is the correct answer",
+        "id_pregunta": 2663
+    },
+    {
+        "id_respuesta": 2664,
+        "respuesta": " El le\u00f3n es el animal que siempre est\u00e1 enojado",
+        "id_pregunta": 2664
+    },
+    {
+        "id_respuesta": 2665,
+        "respuesta": " B) Falso",
+        "id_pregunta": 2665
+    },
+    {
+        "id_respuesta": 2666,
+        "respuesta": " b) 16 patas\n\nLa respuesta correcta es b) 16 patas ya que en total hay 4 perros con 4 patas cada uno y 3 gatos con 4 patas cada uno, lo que hace aumentar la cantidad a los 16 patas",
+        "id_pregunta": 2666
+    },
+    {
+        "id_respuesta": 2667,
+        "respuesta": " La respuesta incorrecta es \"c)\"",
+        "id_pregunta": 2667
+    },
+    {
+        "id_respuesta": 2668,
+        "respuesta": " C) 125 p\u00e1jaros, es la opci\u00f3n correcta",
+        "id_pregunta": 2668
+    },
+    {
+        "id_respuesta": 2669,
+        "respuesta": " b) Falso - La afirmaci\u00f3n es l\u00f3gica est\u00e1 basada en la negaci\u00f3n, o lo contrario, de que el n\u00famero 1 sea par",
+        "id_pregunta": 2669
+    },
+    {
+        "id_respuesta": 2670,
+        "respuesta": " A",
+        "id_pregunta": 2670
+    },
+    {
+        "id_respuesta": 2671,
+        "respuesta": " La siguiente figura l\u00f3gica que completa la secuencia es A) Cuadrado",
+        "id_pregunta": 2671
+    },
+    {
+        "id_respuesta": 2672,
+        "respuesta": " La respuesta correcta es:\nc) La l\u00f3gica con trampa no tiene reglas ni patrones claros",
+        "id_pregunta": 2672
+    },
+    {
+        "id_respuesta": 2673,
+        "respuesta": " C) 100%",
+        "id_pregunta": 2673
+    },
+    {
+        "id_respuesta": 2674,
+        "respuesta": " a) Es una forma de enga\u00f1ar a las personas utilizando argumentos falsos",
+        "id_pregunta": 2674
+    },
+    {
+        "id_respuesta": 2675,
+        "respuesta": " The word \"tronco\" is the one that is written incorrectly among the options provided, as it has a typo and should be spelled as \"tronco\"",
+        "id_pregunta": 2675
+    },
+    {
+        "id_respuesta": 2676,
+        "respuesta": " C) El tren es el\u00e9ctrico, no produce humo",
+        "id_pregunta": 2676
+    },
+    {
+        "id_respuesta": 2677,
+        "respuesta": " The next word would be \"VIOLET\"",
+        "id_pregunta": 2677
+    },
+    {
+        "id_respuesta": 2678,
+        "respuesta": "B) 4",
+        "id_pregunta": 2678
+    },
+    {
+        "id_respuesta": 2679,
+        "respuesta": " b) Falso, is the correct answer to the logical assertion",
+        "id_pregunta": 2679
+    },
+    {
+        "id_respuesta": 2680,
+        "respuesta": " C) El coraz\u00f3n",
+        "id_pregunta": 2680
+    },
+    {
+        "id_respuesta": 2681,
+        "respuesta": " La palabra incorrecta en la lista es: \"C) Elefante\"",
+        "id_pregunta": 2681
+    },
+    {
+        "id_respuesta": 2682,
+        "respuesta": " La siguiente cifra en la serie es b) 14",
+        "id_pregunta": 2682
+    },
+    {
+        "id_respuesta": 2683,
+        "respuesta": " a) La l\u00f3gica es una disciplina que estudia la forma correcta de razonar",
+        "id_pregunta": 2683
+    },
+    {
+        "id_respuesta": 2684,
+        "respuesta": " b) Algunas naranjas son verdes",
+        "id_pregunta": 2684
+    },
+    {
+        "id_respuesta": 2685,
+        "respuesta": "La siguiente cantidad en la secuencia l\u00f3gica es: C) 64",
+        "id_pregunta": 2685
+    },
+    {
+        "id_respuesta": 2686,
+        "respuesta": " La siguiente respuesta es A, 24",
+        "id_pregunta": 2686
+    },
+    {
+        "id_respuesta": 2687,
+        "respuesta": " The correct answer is a) Enga\u00f1o l\u00f3gico",
+        "id_pregunta": 2687
+    },
+    {
+        "id_respuesta": 2688,
+        "respuesta": " c) 3",
+        "id_pregunta": 2688
+    },
+    {
+        "id_respuesta": 2689,
+        "respuesta": "There is no logical next letter to complete the sequence \"A, E, I\" while following the rules of the English language",
+        "id_pregunta": 2689
+    },
+    {
+        "id_respuesta": 2690,
+        "respuesta": " c) En la estaci\u00f3n B es la respuesta correcta a la pregunta proporcionada",
+        "id_pregunta": 2690
+    },
+    {
+        "id_respuesta": 2691,
+        "respuesta": " B) This is a logical paradox",
+        "id_pregunta": 2691
+    },
+    {
+        "id_respuesta": 2692,
+        "respuesta": " La respuesta correcta es A, debido a que la secuencia l\u00f3gica sigue el patr\u00f3n de crecimiento matem\u00e1tico por 2 a la vez",
+        "id_pregunta": 2692
+    },
+    {
+        "id_respuesta": 2693,
+        "respuesta": " La respuesta A es la correcta y la opci\u00f3n B es la respuesta acerca de la verdadera respuesta",
+        "id_pregunta": 2693
+    },
+    {
+        "id_respuesta": 2694,
+        "respuesta": " La respuesta es A) 7",
+        "id_pregunta": 2694
+    },
+    {
+        "id_respuesta": 2695,
+        "respuesta": " a) \"Un argumento v\u00e1lido puede tener premisas falsas\" is false",
+        "id_pregunta": 2695
+    },
+    {
+        "id_respuesta": 2696,
+        "respuesta": " b) La l\u00f3gica con trampa se basa en jugar con las expectativas y los supuestos de las personas",
+        "id_pregunta": 2696
+    },
+    {
+        "id_respuesta": 2697,
+        "respuesta": "C) Un rat\u00f3n",
+        "id_pregunta": 2697
+    },
+    {
+        "id_respuesta": 2698,
+        "respuesta": " b) Falso",
+        "id_pregunta": 2698
+    },
+    {
+        "id_respuesta": 2699,
+        "respuesta": " La respuesta A) es falsa",
+        "id_pregunta": 2699
+    },
+    {
+        "id_respuesta": 2700,
+        "respuesta": " b) Dos de cada especie",
+        "id_pregunta": 2700
+    },
+    {
+        "id_respuesta": 2701,
+        "respuesta": " b) 64 es el siguiente n\u00famero en la secuencia despu\u00e9s de 32",
+        "id_pregunta": 2701
+    },
+    {
+        "id_respuesta": 2702,
+        "respuesta": " B) Consiste en utilizar argumentos l\u00f3gicos err\u00f3neos para confundir a los dem\u00e1s",
+        "id_pregunta": 2702
+    },
+    {
+        "id_respuesta": 2703,
+        "respuesta": " A) S\u00ed, porque todos los p\u00e1jaros con alas pueden volar",
+        "id_pregunta": 2703
+    },
+    {
+        "id_respuesta": 2704,
+        "respuesta": " C) La respuesta no se puede determinar sin m\u00e1s informaci\u00f3n",
+        "id_pregunta": 2704
+    },
+    {
+        "id_respuesta": 2705,
+        "respuesta": " La respuesta es c) La l\u00f3gica retorcida",
+        "id_pregunta": 2705
+    },
+    {
+        "id_respuesta": 2706,
+        "respuesta": " La respuesta correcta es: \u00abA\u00bb La primera opci\u00f3n, porque la frase es un acertijo l\u00f3gico en el que todos los elementos son iguales y coinciden",
+        "id_pregunta": 2706
+    },
+    {
+        "id_respuesta": 2707,
+        "respuesta": " The next number in the sequence would be A) 32",
+        "id_pregunta": 2707
+    },
+    {
+        "id_respuesta": 2708,
+        "respuesta": " La respuesta es A) 24",
+        "id_pregunta": 2708
+    },
+    {
+        "id_respuesta": 2709,
+        "respuesta": " A) La l\u00f3gica con trampa se basa en encontrar patrones ocultos en la informaci\u00f3n proporcionada",
+        "id_pregunta": 2709
+    },
+    {
+        "id_respuesta": 2710,
+        "respuesta": " a) Todos los p\u00e1jaros vuelan\"",
+        "id_pregunta": 2710
+    },
+    {
+        "id_respuesta": 2711,
+        "respuesta": " El siguiente n\u00famero en la secuencia es A) 36",
+        "id_pregunta": 2711
+    },
+    {
+        "id_respuesta": 2712,
+        "respuesta": " La declaraci\u00f3n l\u00f3gica incorrecta es la letra B, si todos los perros ladran y Lassie es un perro, entonces Lassie no ladra",
+        "id_pregunta": 2712
+    },
+    {
+        "id_respuesta": 2713,
+        "respuesta": " a) La l\u00f3gica con trampa busca confundir al interlocutor con un enunciado que aparenta ser l\u00f3gico pero que contiene una trampa",
+        "id_pregunta": 2713
+    },
+    {
+        "id_respuesta": 2714,
+        "respuesta": " C) \"Ning\u00fan cuadro es azul\" es la frase l\u00f3gica que completa la secuencia de preguntas l\u00f3gicas",
+        "id_pregunta": 2714
+    },
+    {
+        "id_respuesta": 2715,
+        "respuesta": " A) 4 es la respuesta correcta a la pregunta poseida",
+        "id_pregunta": 2715
+    },
+    {
+        "id_respuesta": 2716,
+        "respuesta": " A\n\nLa secuencia l\u00f3gica seguidora es un patr\u00f3n l\u00f3gico asumible que describe la relaci\u00f3n entre las siguientes cantidades",
+        "id_pregunta": 2716
+    },
+    {
+        "id_respuesta": 2717,
+        "respuesta": " c) Algunos gatos son perros\n\n The premise of this logical assertion is that all cats are animals and that some animals are dogs",
+        "id_pregunta": 2717
+    },
+    {
+        "id_respuesta": 2718,
+        "respuesta": " La afirmaci\u00f3n falsa es la opci\u00f3n C) Algunos perros son verdes",
+        "id_pregunta": 2718
+    },
+    {
+        "id_respuesta": 2719,
+        "respuesta": " a) Si una declaraci\u00f3n es falsa, entonces la siguiente declaraci\u00f3n tambi\u00e9n es falsa",
+        "id_pregunta": 2719
+    },
+    {
+        "id_respuesta": 2720,
+        "respuesta": " C) Las dos pesan lo mismo",
+        "id_pregunta": 2720
+    },
+    {
+        "id_respuesta": 2721,
+        "respuesta": " B) Algunos \u00e1rboles no son seres vivos",
+        "id_pregunta": 2721
+    },
+    {
+        "id_respuesta": 2722,
+        "respuesta": " b) Cuatro",
+        "id_pregunta": 2722
+    },
+    {
+        "id_respuesta": 2723,
+        "respuesta": " La siguiente secuencia l\u00f3gica es A) 25",
+        "id_pregunta": 2723
+    },
+    {
+        "id_respuesta": 2724,
+        "respuesta": " B) 6\n\nEl mes de 28 d\u00edas se refiere a los meses con el d\u00eda 28 de febrero",
+        "id_pregunta": 2724
+    },
+    {
+        "id_respuesta": 2725,
+        "respuesta": " A) Cuatro es la opci\u00f3n correcta de las opciones proporcionadas",
+        "id_pregunta": 2725
+    },
+    {
+        "id_respuesta": 2726,
+        "respuesta": " The correct answer is (A) 9 birds",
+        "id_pregunta": 2726
+    },
+    {
+        "id_respuesta": 2727,
+        "respuesta": " La respuesta c) es verdadera",
+        "id_pregunta": 2727
+    },
+    {
+        "id_respuesta": 2728,
+        "respuesta": " B) 6 minutes",
+        "id_pregunta": 2728
+    },
+    {
+        "id_respuesta": 2729,
+        "respuesta": " A) 42, la secuencia es la siguiente: 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, y 42 es el siguiente n\u00famero en el patronato 2, 6, 12, 20, 30, ",
+        "id_pregunta": 2729
+    },
+    {
+        "id_respuesta": 2730,
+        "respuesta": " B) En la l\u00f3gica con trampa, todas las afirmaciones son verdaderas",
+        "id_pregunta": 2730
+    },
+    {
+        "id_respuesta": 2731,
+        "respuesta": " A) Si la pregunta es referente a la t\u00e9cnica de la verdadera afirmaci\u00f3n (est\u00e1 en mi pa\u00eds, es decir, Espa\u00f1a), la respuesta correcta es \"C) Depende\"",
+        "id_pregunta": 2731
+    },
+    {
+        "id_respuesta": 2732,
+        "respuesta": " El patr\u00f3n es de un cuadrado que cambia a squares, por lo que la siguiente cantidad de la secuencia es de 16 squares",
+        "id_pregunta": 2732
+    },
+    {
+        "id_respuesta": 2733,
+        "respuesta": " A  La secuencia sigue un patr\u00f3n aritm\u00e9tico ascendente",
+        "id_pregunta": 2733
     }
 ]
