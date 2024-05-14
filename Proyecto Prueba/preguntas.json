@@ -13907,5 +13907,782 @@
         "tipo": "verdadero o falso",
         "tema": "codigo",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1988,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ es correcto?\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int i = 0;\n    while (i < 10) {\n        cout << i << endl;\n        i++;\n        i--;\n    }\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1989,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ compila correctamente?\n\n```cpp\n#include <iostream>\n\nint main() {\n    for (int i = 10; i >= 0; i--)\n        std::cout << i << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1990,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en C++ compila sin errores:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 10;\n    int *ptr = &num;\n    \n    std::cout << *ptr << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1991,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en C++ compila sin errores:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int* ptr = nullptr;\n    int value = 10;\n    \n    *ptr = value;\n    \n    std::cout << \"Value: \" << *ptr << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1992,
+        "pregunta": "La siguiente funci\u00f3n en C++ est\u00e1 implementada correctamente:\n\n```cpp\nvoid swap(int &a, int &b) {\n    a = a + b;\n    b = a - b;\n    a = a - b;\n}\n\nint main() {\n    int x = 5;\n    int y = 10;\n    \n    swap(x, y);\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1993,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ compila correctamente?\n\n```cpp\n#include <iostream>\n#include <string>\n\nint main() {\n    std::string text = \"Hello, world!\";\n    \n    for (int i = 0; i <= text.size(); i++) {\n        std::cout << text[i] << std::endl;\n    }\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1994,
+        "pregunta": "El siguiente c\u00f3digo en C++ es v\u00e1lido:\n\n```cpp\n#include <iostream>\n\nint main() \n{\n    int x = 5;\n    int y = 10;\n    \n    int z = x++ + ++y;\n    \n    std::cout << z << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1995,
+        "pregunta": "Dado el siguiente c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    int z = 15;\n    \n    x = x ^ y;\n    y = y ^ z;\n    z = z ^ x;\n    \n    printf(\"%d %d %d\", x, y, z);\n    \n    return 0;\n}\n```\n\nLa afirmaci\u00f3n **Verdadero** o **Falso** es: \n\nEl c\u00f3digo realiza un intercambio de valores entre las variables x, y, z de forma eficiente y sin utilizar una variable auxiliar. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1996,
+        "pregunta": "Dado el siguiente c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int num = 10;\n    int *p;\n    p = &num;\n    \n    *p = *p + 5;\n    \n    printf(\"%d\", num);\n    \n    return 0;\n}\n```\n\nVerdadero o falso: El valor impreso por este programa ser\u00e1 15. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1997,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ compila sin errores?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 10;\n    int &y;\n    \n    y = x;\n    \n    std::cout << y << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1998,
+        "pregunta": "Verdadero o falso: En el siguiente c\u00f3digo en C, se realiza una operaci\u00f3n de cifrado utilizando el algoritmo AES.\n\n```c\n#include <stdio.h>\n#include <openssl/aes.h>\n\nint main() {\n    AES_KEY key;\n    unsigned char userKey[16] = \"secretkey\";\n\n    AES_set_encrypt_key(userKey, 128, &key);\n\n    unsigned char plaintext[16] = \"helloworld123456\";\n    unsigned char ciphertext[16];\n\n    AES_encrypt(plaintext, ciphertext, &key);\n\n    printf(\"Ciphertext: %s\\n\", ciphertext);\n\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1999,
+        "pregunta": "El siguiente c\u00f3digo en C++ es correcto:\n\n```cpp\n#include <iostream>\n\nvoid swap(int *x, int *y) {\n    *x = *x + *y;\n    *y = *x - *y;\n    *x = *x - *y;\n}\n\nint main() {\n    int a = 5;\n    int b = 10;\n    \n    swap(&a, &b);\n    \n    std::cout << \"a: \" << a << std::endl;\n    std::cout << \"b: \" << b << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2000,
+        "pregunta": "Dado el siguiente c\u00f3digo en C++\n\n```c++\nint main() {\n    int a = 5;\n    int b = 10;\n    int c = a + b;\n\n    if (c > 10) {\n        c *= 2;\n    } else {\n        c /= 2;\n    }\n\n    return 0;\n}\n```\n\nLa siguiente afirmaci\u00f3n es verdadera o falsa: El valor final de la variable \"c\" siempre ser\u00e1 un n\u00famero par. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2001,
+        "pregunta": "Dado el siguiente fragmento de c\u00f3digo en JavaScript:\n\n```javascript\nconst func = () => {\n    let a = 1;\n\n    return {\n        getA: () => a,\n        incrementA: () => a++\n    };\n};\n\nconst obj = func();\nconst { getA, incrementA } = obj;\n\nincrementA();\nincrementA();\nincrementA();\n\nconsole.log(getA()); // Salida: 4\n```\n\nVerdadero o falso: El c\u00f3digo imprimir\u00e1 en consola el valor 4. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2002,
+        "pregunta": "Verdadero o falso:\n\nEn el siguiente c\u00f3digo en C++, se produce un desbordamiento de b\u00fafer cuando se introduce una cadena de texto muy larga en la variable 'input':\n\n```c++\n#include <iostream>\n#include <cstring>\n\nint main() {\n    char input[10];\n    std::cout << \"Ingresa un texto: \";\n    std::cin >> input;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2003,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ compila sin errores?\n\n```c++\n#include <iostream>\n#include <vector>\n\nint main() {\n    std::vector<int> numbers = {1, 2, 3, 4, 5};\n    \n    for (int i = 0; i <= numbers.size(); i++) {\n        std::cout << numbers[i] << \" \";\n    }\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2004,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ es vulnerable a un ataque de desbordamiento de b\u00fafer?\n\n```cpp\n#include <iostream>\n#include <cstring>\n\nint main() {\n    char buffer[5];\n    strcpy(buffer, \"Hello\");\n    std::cout << buffer << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2005,
+        "pregunta": "El siguiente fragmento de c\u00f3digo en C es v\u00e1lido:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int i = 10;\n    \n    while (i > 0) {\n        printf(\"%d\\n\", i);\n        i--;\n    }\n    \n    return 0;\n}\n``` \n\nVerdadero o Falso: El siguiente fragmento de c\u00f3digo en C generar\u00e1 un bucle infinito. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2006,
+        "pregunta": "```java\npublic class ArrayMaxMin {\n    public static void main(String[] args) {\n        int[] numbers = {5, 8, 2, 11, 6};\n        int max = Integer.MIN_VALUE;\n        int min = Integer.MAX_VALUE;\n\n        for (int number : numbers) {\n            if (number > max) {\n                max = number;\n            }\n            if (number < min) {\n                min = number;\n            }\n        }\n\n        System.out.println(\"Max: \" + max);\n        System.out.println(\"Min: \" + min);\n    }\n}\n```\n\nEl c\u00f3digo proporcionado encuentra el n\u00famero m\u00e1ximo y m\u00ednimo en un array de enteros. Verdadero o Falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2007,
+        "pregunta": "```java\npublic static boolean isPrime(int n) {\n    if (n <= 1) {\n        return false;\n    }\n    for (int i = 2; i <= Math.sqrt(n); i++) {\n        if (n % i == 0) {\n            return false;\n        }\n    }\n    return true;\n}\n```\n\n\u00bfEl c\u00f3digo verifica si un n\u00famero es primo correctamente? Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2008,
+        "pregunta": "\u00bfQu\u00e9 resultado se obtiene al ejecutar el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 5;\n    int resultado = 1;\n    \n    for(int i = 1; i <= num; i++) {\n        resultado = resultado * i;\n    }\n    \n    std::cout << resultado;\n\n    return 0;\n}\n```\n\nA) Imprime el factorial de 5\n\nB) Imprime el resultado de elevar 5 a la 5\n\nC) Imprime la suma de los primeros 5 n\u00fameros naturales",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2009,
+        "pregunta": "```\n#include <stdio.h>\n\nint main() {\n    int num = 5;\n    \n    for(int i=0; i<num; i++) {\n        if(i % 2 == 0) {\n            printf(\"Par \");\n        } else {\n            printf(\"Impar \");\n        }\n    }\n    \n    return 0;\n}\n```\n\n\u00bfQu\u00e9 resultado imprimir\u00e1 este c\u00f3digo?\n\nA) Par Par Par Par Par \nB) Par Impar Par Impar Par \nC) Impar Par Impar Par Impar",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2010,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int n = 5;\n        for (int i = 2; i <= n; i++) {\n            if (n % i == 0) {\n                n /= i;\n            }\n        }\n        System.out.println(n);\n    }\n}\n```\n\n\u00bfQu\u00e9 resultado se imprimir\u00e1 al ejecutar este c\u00f3digo?\n\nA) 1\nB) 2\nC) 5",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2011,
+        "pregunta": "```java\npublic class Example {\n    public static void main(String[] args) {\n        int x = 10;\n        \n        while(x > 0) {\n            System.out.println(\"Hello\");\n            x--;\n        }\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\nA) Imprime \"Hello\" 10 veces  \nB) Imprime \"Hello\" 9 veces  \nC) No imprime nada  \n",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2012,
+        "pregunta": "```javascript\nfunction fibonacci(n){\n    if (n <= 1){\n        return n;\n    } \n    else {\n        return fibonacci(n-1) + fibonacci(n-2);\n    }\n}\n\nfibonacci(5);\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo proporcionado?\n\nA) Calcula el factorial de un n\u00famero entero  \nB) Genera una secuencia de n\u00fameros de Fibonacci  \nC) Suma todos los n\u00fameros naturales hasta el n\u00famero dado",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2013,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int n = 5;\n        int factorial = 1;\n        \n        for (int i = 1; i <= n; i++) {\n            factorial *= i;\n        }\n        \n        System.out.println(\"El factorial de \" + n + \" es: \" + factorial);\n    }\n}\n```\n\nA) Calcula el factorial de un n\u00famero dado por el usuario.  \nB) Genera una secuencia de Fibonacci de tama\u00f1o n.  \nC) Suma los n\u00fameros pares hasta n.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2014,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction sumDigits(num) {\n  let sum = 0;\n\n  while (num) {\n    sum += num % 10;\n    num = Math.floor(num / 10);\n  }\n\n  return sum;\n}\n\nconsole.log(sumDigits(12345));\n```\n\nA) Calcula la suma de todos los d\u00edgitos de un n\u00famero  \nB) Ordena los d\u00edgitos de un n\u00famero de manera descendente  \nC) Cuenta la cantidad de d\u00edgitos que tiene un n\u00famero",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2015,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int[] array = {1, 2, 3, 4, 5};\n        int sum = 0;\n\n        for (int i = 0; i < array.length; i++) {\n            sum += array[i];\n        }\n\n        System.out.println(\"El resultado es: \" + sum);\n    }\n}\n```\n\nA) Calcula la suma de los n\u00fameros del array e imprime el resultado.  \nB) Ordena los n\u00fameros del array de menor a mayor.  \nC) Busca el n\u00famero mayor en el array y lo imprime.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2016,
+        "pregunta": "```java\npublic class Test {\n   public static void main(String[] args) {\n      int num1 = 10;\n      int num2 = 5;\n      int result = 0;\n      \n      for (int i = 0; i < num1; i++) {\n         result += num2;\n      }\n      \n      System.out.println(result);\n   }\n}\n```\n\n\u00bfQu\u00e9 muestra por pantalla el c\u00f3digo anterior?\n\nA) 50\nB) 15\nC) 25",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2017,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 10;\n    while(num >= 0) {\n        std::cout << num << \" \";\n        num--;\n    }\n    return 0;\n}\n```\n\nA) Imprime los n\u00fameros del 1 al 10 en orden descendente.  \nB) Imprime los n\u00fameros del 0 al 10 en orden ascendente.  \nC) Imprime los n\u00fameros del 10 al 0 en orden descendente.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2018,
+        "pregunta": "```java\npublic class Fibonacci {\n    public static int fibonacci(int n) {\n        if (n <= 1) {\n            return n;\n        } else {\n            return fibonacci(n - 1) + fibonacci(n - 2);\n        }\n    }\n\n    public static void main(String[] args) {\n        System.out.println(fibonacci(5));\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\nA) Calcula el factorial de un n\u00famero  \nB) Implementa el algoritmo de ordenamiento Merge Sort  \nC) Calcula el n\u00famero de Fibonacci de un valor dado",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2019,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo?\n\n```java\npublic class Suma {\n    public static void main(String[] args) {\n        int resultado = 0;\n        for (int i = 1; i <= 10; i++) {\n            resultado += i;\n        }\n        System.out.println(resultado);\n    }\n}\n```\n\nA) Calcula la suma de los primeros 10 n\u00fameros naturales e imprime el resultado.\nB) Realiza la resta de los primeros 10 n\u00fameros naturales e imprime el resultado.\nC) Multiplica los primeros 10 n\u00fameros naturales e imprime el resultado.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2020,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        int result = x + y;\n        \n        System.out.println(result);\n    }\n}\n```\n\n\u00bfQu\u00e9 resultado se imprimir\u00e1 por pantalla al ejecutar este c\u00f3digo?\n\nA) 5\nB) 10\nC) 15\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2021,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction sumaArray(arr) {\n  let suma = 0;\n  for (let i = 0; i < arr.length; i++) {\n    suma += arr[i];\n  }\n  return suma;\n}\n\nconsole.log(sumaArray([1, 2, 3, 4, 5]));\n```\n\nA) Calcula la suma de todos los elementos en un array\n\nB) Calcula el producto de todos los elementos en un array\n\nC) Ordena los elementos de un array de forma descendente",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2022,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    \n    for (int i = 1; i <= n; i++) {\n        std::cout << i * i << \" \";\n    }\n    \n    return 0;\n}\n```\n\nA) Imprime los primeros 5 n\u00fameros pares.  \nB) Calcula el cuadrado de los n\u00fameros del 1 al 5 e imprime los resultados.  \nC) Genera una secuencia de Fibonacci de 5 n\u00fameros e imprime los resultados.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2023,
+        "pregunta": "```javascript\nfunction isPalindrome(str) {\n  let reversedStr = str.split('').reverse().join('');\n  return str === reversedStr;\n}\n\nconsole.log(isPalindrome('radar'));\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Verificar si una cadena de texto es un pal\u00edndromo  \nB) Convertir una cadena de texto en may\u00fasculas  \nC) Contar cu\u00e1ntos caracteres tiene una cadena de texto",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2024,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int a = 10;\n    int b = 5;\n    \n    int c = a + b;\n    \n    std::cout << c << std::endl;\n    \n    return 0;\n}\n```\n\nA) Realiza la suma de dos n\u00fameros y muestra el resultado en pantalla.\n\nB) Calcula el producto de dos n\u00fameros y muestra el resultado en pantalla.\n\nC) Genera un error de compilaci\u00f3n.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2025,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int number = 5;\n    \n    for (int i = 0; i < number; i++) {\n        std::cout << i << \" \";\n    }\n    \n    return 0;\n}\n```\n\nA) Imprime los n\u00fameros del 0 al 4 en una sola l\u00ednea.\n\nB) Genera un error al compilar debido a un uso incorrecto de la variable 'number'.\n\nC) Calcula la suma de los n\u00fameros del 0 al 4 e imprime el resultado.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2026,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n        \n        for(int i = 0; i < numbers.length; i++) {\n            if(numbers[i] % 2 == 0) {\n                System.out.println(numbers[i]);\n            }\n        }\n    }\n}\n```\n\nA) Imprime los n\u00fameros impares del arreglo \"numbers\"\n\nB) Imprime los n\u00fameros pares del arreglo \"numbers\"\n\nC) No imprime nada",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2027,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        int z = x + y;\n        \n        System.out.println(z);\n    }\n}\n```\n\nA) Suma dos n\u00fameros y los imprime en consola.\n\nB) Multiplica dos n\u00fameros y los imprime en consola.\n\nC) Concatena dos cadenas de caracteres y las imprime en consola.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2028,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num1 = 5;\n    int num2 = 3;\n\n    if (num1 > num2) {\n        std::cout << \"El n\u00famero 1 es mayor que el n\u00famero 2\" << std::endl;\n    } else {\n        std::cout << \"El n\u00famero 2 es mayor que el n\u00famero 1\" << std::endl;\n    }\n\n    return 0;\n}\n```\n\nA) Compara dos n\u00fameros y muestra un mensaje indicando cu\u00e1l es mayor.  \nB) Calcula la suma de dos n\u00fameros e imprime el resultado.  \nC) Ordena dos n\u00fameros de manera ascendente.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2029,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```c++\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int num = 5;\n    \n    if(num % 2 == 0) {\n        cout << \"El n\u00famero es par\" << endl;\n    } else {\n        cout << \"El n\u00famero es impar\" << endl;\n    }\n    \n    return 0;\n}\n```\n\nA) Determina si un n\u00famero es par o impar  \nB) Calcula el doble de un n\u00famero  \nC) Cuenta cu\u00e1ntos d\u00edgitos tiene un n\u00famero",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2030,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente fragmento de c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n#include <stdlib.h>\n\nint main() {\n    int i, j;\n    for(i=1; i<=5; i++) {\n        for(j=1; j<=i; j++) {\n            printf(\"%d \", j);\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}\n```\n\nA) Imprime los n\u00fameros del 1 al 5 en cada l\u00ednea de forma ascendente.  \nB) Imprime los n\u00fameros del 1 al 5 en cada l\u00ednea de forma descendente.  \nC) Imprime una pir\u00e1mide de n\u00fameros ascendentes del 1 al 5.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2031,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class SumArray {\n    public static int sum(int[] arr) {\n        int total = 0;\n        for (int i = 0; i < arr.length; i++) {\n            total += arr[i];\n        }\n        return total;\n    }\n\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n        int result = sum(numbers);\n        System.out.println(result);\n    }\n}\n```\n\nA) Calcula la suma de los n\u00fameros en un array de enteros y lo muestra por consola.\n\nB) Ordena el array de n\u00fameros de forma descendente y lo muestra por consola.\n\nC) Elimina los n\u00fameros negativos del array y lo muestra por consola.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2032,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Java?\n\n```java\npublic class Example {\n    public static void main(String[] args) {\n        int n = 5;\n        for (int i = 1; i <= n; i++) {\n            if (n % i == 0) {\n                System.out.println(i);\n            }\n        }\n    }\n}\n```\n\nA) Muestra los divisores de un n\u00famero entero.\n\nB) Calcula el factorial de un n\u00famero entero.\n\nC) Ordena un array de n\u00fameros enteros de forma ascendente.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2033,
+        "pregunta": "```java\npublic class ArrayUtils {\n    \n    public static int[] reverseArray(int[] arr) {\n        int[] reversedArray = new int[arr.length];\n        for (int i = 0; i < arr.length; i++) {\n            reversedArray[i] = arr[arr.length - 1 - i];\n        }\n        return reversedArray;\n    }\n    \n}\n```\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\nA) Ordena un array de enteros de forma descendente\n\nB) Invierte el orden de los elementos en un array de enteros\n\nC) Elimina los elementos duplicados de un array de enteros\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2034,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction sumArray(arr) {\n    return arr.reduce((acc, curr) => acc + curr, 0);\n}\n\nconst array = [1, 2, 3, 4, 5];\nconst result = sumArray(array);\n\nconsole.log(result);\n```\n\nA) Calcula la suma de todos los elementos del array.\n\nB) Multiplica todos los elementos del array entre s\u00ed.\n\nC) Filtra los n\u00fameros pares del array.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2035,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Java?\n\n```java\npublic class CodeExample {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        int temp = x;\n        x = y;\n        y = temp;\n        \n        System.out.println(\"x: \" + x + \", y: \" + y);\n    }\n}\n```\n\nA) Intercambia el valor de las variables x e y.  \nB) Calcula el promedio entre x e y.  \nC) Imprime el valor de x e y sin realizar ninguna operaci\u00f3n adicional.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2036,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    \n    for (int i = 1; i <= n; i++) {\n        if (n % i == 0) {\n            std::cout << i << \" \";\n        }\n    }\n    \n    return 0;\n}\n```\n\nA) Calcula los factores primos de un n\u00famero\\\nB) Imprime los n\u00fameros primos hasta el 5\\\nC) Imprime los divisores de un n\u00famero",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2037,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Example {\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n        int sum = 0;\n        \n        for (int i = 0; i < numbers.length; i++) {\n            sum += numbers[i];\n        }\n        \n        System.out.println(\"La suma de los n\u00fameros es: \" + sum);\n    }\n}\n```\n\nA) Calcula el producto de los n\u00fameros del array.  \nB) Calcula la suma de los n\u00fameros del array.  \nC) Calcula la media de los n\u00fameros del array.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2038,
+        "pregunta": "\u00bfQu\u00e9 resultado devuelve el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 2;\n\n        System.out.println(x * y + x / y);\n    }\n}\n```\n\nA) 11  \nB) 7  \nC) 12  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2039,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Python?\n\n```python\ndef my_function(n):\n    result = 0\n    for i in range(1, n+1):\n        result += i\n    return result\n\noutput = my_function(5)\nprint(output)\n```\n\nA) Calcula el factorial de un n\u00famero    \nB) Calcula la suma de los primeros n n\u00fameros naturales  \nC) Cuenta la cantidad de n\u00fameros impares menores o iguales a n",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2040,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 5;\n    int i = 1;\n    int result = 1;\n    \n    while (i <= num) {\n        result *= i;\n        i++;\n    }\n    \n    std::cout << \"El resultado es: \" << result << std::endl;\n    \n    return 0;\n}\n```\n\nA) Calcula el factorial de un n\u00famero dado  \nB) Genera una secuencia de Fibonacci de tama\u00f1o dado  \nC) Realiza la suma de los primeros n\u00fameros primos",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2041,
+        "pregunta": "```java\npublic class Example {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        int z = x + y;\n        \n        System.out.println(z);\n    }\n}\n```\n\n\u00bfQu\u00e9 acci\u00f3n realiza el c\u00f3digo proporcionado?\n\nA) Multiplica dos n\u00fameros\n\nB) Divide dos n\u00fameros\n\nC) Suma dos n\u00fameros\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2042,
+        "pregunta": "\u00bfQu\u00e9 resultado se obtendr\u00eda al ejecutar el siguiente c\u00f3digo?\n\n```java\npublic static int sumOfSquares(int[] array) {\n    int sum = 0;\n    \n    for (int i = 0; i < array.length; i++) {\n        sum += Math.pow(array[i], 2);\n    }\n\n    return sum;\n}\n```\n\nA) Devuelve la suma de los cuadrados de los elementos de un array de enteros\n\nB) Devuelve la suma de los elementos de un array de enteros\n\nC) Devuelve la suma de los cubos de los elementos de un array de enteros",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2043,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Example {\n    public static void main(String[] args) {\n        int x = 5;\n        for (int i = 0; i < x; i++) {\n            System.out.print(i + \" \");\n        }\n    }\n}\n```\n\nA) Imprime los n\u00fameros del 0 al 5  \nB) Imprime los n\u00fameros del 1 al 6  \nC) Imprime los n\u00fameros del 0 al 4",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2044,
+        "pregunta": "```javascript\nfunction sumArray(array) {\n   let sum = 0;\n   for (let i = 0; i < array.length; i++) {\n       sum += array[i];\n   }\n   return sum;\n}\n```\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\nA) Calcula la suma de los elementos de un array  \nB) Ordena los elementos de un array de forma ascendente  \nC) Elimina los elementos duplicados de un array",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2045,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int num = 5;\n    int res = 1;\n    \n    for (int i = 1; i <= num; i++) {\n        res *= i;\n    }\n    \n    printf(\"%d\", res);\n    \n    return 0;\n}\n```\n\nA) Calcula el factorial de un n\u00famero entero  \nB) Realiza la suma de los primeros `num` n\u00fameros naturales  \nC) Imprime los n\u00fameros primos hasta el n\u00famero `num`",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2046,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    int z = x + y;\n\n    std::cout << z << std::endl;\n\n    return 0;\n}\n```\n\nA) Imprime un mensaje de error por no declarar la variable `z`\nB) Calcula la suma de `x` e `y` y la guarda en la variable `z`\nC) No hace nada, el c\u00f3digo est\u00e1 incompleto",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2047,
+        "pregunta": "```javascript\nfunction sumArray(arr) {\n  let sum = 0;\n  \n  for (let i = 0; i < arr.length; i++) {\n    sum += arr[i];\n  }\n  \n  return sum;\n}\n\nconsole.log(sumArray([1, 2, 3, 4, 5]));\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo mostrado?\n\nA) Calcula la multiplicaci\u00f3n de los elementos de un array.  \nB) Realiza la suma de los elementos de un array.  \nC) Ordena de forma descendente los elementos de un array.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2048,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction sumArray(arr) {\n    return arr.reduce((a, b) => a + b, 0);\n}\n\nconsole.log(sumArray([1, 2, 3, 4]));\n```\n\nA) Calcula la suma de todos los elementos en el array.  \nB) Multiplica todos los elementos en el array.  \nC) Ordena los elementos en el array de forma descendente.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2049,
+        "pregunta": "```java\npublic class SumArrayElements {\n\n    public static void main(String[] args) {\n        int[] arr = {2, 4, 6, 8, 10};\n        int sum = 0;\n\n        for(int i = 0; i < arr.length; i++) {\n            sum += arr[i];\n        }\n\n        System.out.println(sum);\n    }\n}\n```\n\n\u00bfQu\u00e9 operaci\u00f3n realiza el c\u00f3digo proporcionado?\n\nA) Multiplica todos los elementos de un array por 2.\\\nB) Suma todos los elementos de un array.\\\nC) Calcula el promedio de los elementos de un array.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2050,
+        "pregunta": "```java\npublic class ArraySum{\n    public static int sumArray(int[] arr){\n        int sum = 0;\n        for(int i=0; i<arr.length; i++){\n            sum += arr[i];\n        }\n        return sum;\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Calcula la suma de todos los elementos de un array de enteros.\n\nB) Ordena de forma ascendente un array de enteros.\n\nC) Elimina los elementos duplicados de un array de enteros.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2051,
+        "pregunta": "```javascript\nfunction sumArray(arr) {\n   let sum = 0;\n   for (let i = 0; i < arr.length; i++) {\n      sum += arr[i];\n   }\n   return sum;\n}\n\nsumArray([1, 2, 3, 4, 5]);\n```\n\n\u00bfQu\u00e9 realiza el c\u00f3digo anterior?\n\nA) Retorna la suma de los elementos en el array dado.\nB) Revisa si el array contiene n\u00fameros pares.\nC) Ordena los elementos del array de forma descendente.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2052,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int[] array = {1, 2, 3, 4, 5};\n        for (int i = 0; i < array.length; i++) {\n            if (i % 2 == 0) {\n                System.out.print(array[i] + \" \");\n            }\n        }\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo presentado?\n\nA) Imprime los n\u00fameros pares del arreglo inicial en consola.  \nB) Imprime todos los elementos del arreglo en consola.  \nC) No hace nada, el c\u00f3digo est\u00e1 incompleto.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 2053,
+        "pregunta": "\u00bfQu\u00e9 resultado se obtiene al ejecutar el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int result = 0;\n        \n        for (int i = 0; i < 10; i++) {\n            result += i;\n        }\n        \n        System.out.println(result);\n    }\n}\n```\n\nA) 45  \nB) 55  \nC) 36  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2054,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n#include <string>\n\nint main() {\n    std::string str = \"Hello, World!\";\n    \n    for (int i = 0; i < str.length(); i++) {\n        std::cout << char((int)str[i] + 1);\n    }\n    \n    return 0;\n}\n```\n\nA) Imprime cada caracter de la cadena `str` en may\u00fascula.  \nB) Imprime cada caracter de la cadena `str` desplazado un lugar en el c\u00f3digo ASCII.  \nC) Imprime la cadena `str` en binario.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2055,
+        "pregunta": "```java\npublic class ArrayExample {\n   public static int findMissingNumber(int[] arr) {\n      int n = arr.length + 1;\n      int total = n * (n + 1) / 2;\n      for (int num : arr) {\n         total -= num;\n      }\n      return total;\n   }\n}\n```\n\n\u00bfQu\u00e9 hace este c\u00f3digo?\n\nA) Ordena un array de n\u00fameros en orden descendente\\\nB) Encuentra el n\u00famero que falta en un array de n\u00fameros\\\nC) Calcula el promedio de los n\u00fameros en un array",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2056,
+        "pregunta": "```java\npublic class ExamQuestion {\n    public static int mysteryFunction(int n) {\n        if (n == 0) {\n            return 0;\n        } else {\n            return n + mysteryFunction(n - 1);\n        }\n    }\n\n    public static void main(String[] args) {\n        System.out.println(mysteryFunction(3));\n    }\n}\n```\n\n\u00bfQu\u00e9 es lo que hace el c\u00f3digo anterior?\n\nA) Calcula el factorial de un n\u00famero.  \nB) Genera una secuencia de Fibonacci.  \nC) Calcula la suma de los n\u00fameros de 1 a n.  \n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2057,
+        "pregunta": "\u00bfQu\u00e9 resultado produce el siguiente c\u00f3digo en Python?\n\n```python\ndef mystery_function(n):\n    if n == 0:\n        return 0\n    elif n == 1:\n        return 1\n    else:\n        return mystery_function(n-1) + mystery_function(n-2)\n\nprint(mystery_function(5))\n```\n\nA) 3\nB) 5\nC) 8",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2058,
+        "pregunta": "```java\npublic class Fibonacci {\n    public static void main(String[] args) {\n        System.out.println(fibonacci(6));\n    }\n\n    public static int fibonacci(int n) {\n        if (n <= 1) {\n            return n;\n        } else {\n            return fibonacci(n-1) + fibonacci(n-2);\n        }\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Calcula el factorial de un n\u00famero\nB) Calcula el t\u00e9rmino n-\u00e9simo de la sucesi\u00f3n de Fibonacci\nC) Calcula el valor absoluto de un n\u00famero entero",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2059,
+        "pregunta": "```c\n#include <stdio.h>\n\nint customFunction(int n) {\n    if (n == 0) return 0;\n    if (n == 1) return 1;\n    \n    return customFunction(n-1) + customFunction(n-2);\n}\n\nint main() {\n    int num = 5;\n    int result = customFunction(num);\n    \n    printf(\"%d\\n\", result);\n    \n    return 0;\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo proporcionado?\n\nA) Calcula el factorial de un n\u00famero pasado como argumento\n\nB) Realiza la suma de los n\u00fameros pares menores o iguales al n\u00famero pasado como argumento\n\nC) Calcula el n-\u00e9simo t\u00e9rmino de la serie de Fibonacci \n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2060,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    int i = 1;\n    int j = 1;\n    \n    while (i <= n) {\n        j += 2;\n        i += j;\n    }\n    \n    std::cout << i << std::endl;\n\n    return 0;\n}\n```\n\nA) Imprime el cuadrado del n\u00famero ingresado    \nB) Calcula el factorial de un n\u00famero ingresado    \nC) Realiza un c\u00e1lculo matem\u00e1tico espec\u00edfico, cuyo resultado depende del valor inicial de `n`",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2061,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en lenguaje C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int n = 5;\n    int suma = 0;\n\n    while(n > 0) {\n        suma += n % 10;\n        n /= 10;\n    }\n\n    printf(\"La suma de los d\u00edgitos es: %d\", suma);\n\n    return 0;\n}\n```\n\nA) Calcula el factorial de un n\u00famero ingresado por el usuario. \\\nB) Realiza la suma de los d\u00edgitos de un n\u00famero entero. \\\nC) Genera una secuencia de Fibonacci de tama\u00f1o n.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2062,
+        "pregunta": "```javascript\nconst array = [2, 4, 6, 8, 10];\nconst reducer = (acc, current) => acc + current;\nconst result = array.reduce(reducer, 0);\n\nconsole.log(result);\n```\n\n\u00bfQu\u00e9 resultado se mostrar\u00e1 en la consola al ejecutar este c\u00f3digo?\n\nA) 15\nB) 30\nC) 10\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2063,
+        "pregunta": "```java\npublic class ReverseString {\n    \n    public String reverse(String s) {\n        if (s == null || s.length() <= 1) {\n            return s;\n        }\n        \n        return reverse(s.substring(1)) + s.charAt(0);\n    }\n    \n    public static void main(String[] args) {\n        ReverseString reverseString = new ReverseString();\n        String reversed = reverseString.reverse(\"Hello World\");\n        System.out.println(reversed);\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Invierte una cadena de texto    \nB) Comprueba si una cadena de texto contiene solo letras  \nC) Cuenta la cantidad de palabras en una cadena de texto",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2064,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    for (int i = 0; i < n; i++) {\n        if (i % 2 == 0) {\n            std::cout << i << \" \";\n        } else {\n            continue;\n        }\n    }\n    return 0;\n}\n```\n\nA) Imprime los n\u00fameros pares del 0 al 5\n\nB) Imprime los n\u00fameros impares del 0 al 5\n\nC) No imprime nada",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2065,
+        "pregunta": "```java\npublic static int checkArray(int[][] arr) {\n    int sum = 0;\n    for(int i = 0; i < arr.length; i++) {\n        for(int j = 0; j < arr[i].length; j++) {\n            sum += arr[i][j];\n        }\n    }\n    return sum;\n}\n```\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\nA) Calcula la suma de todos los elementos de un arreglo multidimensional\n\nB) Ordena un arreglo multidimensional de forma descendente\n\nC) Cuenta la cantidad de elementos de un arreglo multidimensional\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2066,
+        "pregunta": "```javascript\nfunction findMin(arr) {\n    let min = arr[0];\n    \n    for (let i = 1; i < arr.length; i++) {\n        if (arr[i] < min) {\n            min = arr[i];\n        }\n    }\n    \n    return min;\n}\n\n// \u00bfQu\u00e9 hace la funci\u00f3n findMin?\na) Encuentra el valor m\u00ednimo en un array\nb) Encuentra el valor m\u00e1ximo en un array\nc) Ordena el array de menor a mayor\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2067,
+        "pregunta": "```javascript\nfunction mysteryFunction(arr) {\n  let result = 0;\n  \n  for (let i = 0; i < arr.length; i++) {\n    result ^= arr[i];\n  }\n\n  return result;\n}\n\n\u00bfCu\u00e1l es el resultado de ejecutar esta funci\u00f3n con el siguiente array [3, 7, 3, 9, 7]?\n\nA) 4\nB) 0\nC) 9\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2068,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int arr[] = {1, 2, 3, 4, 5};\n    int *ptr = nullptr;\n    \n    for(int i = 0; i < 5; i++) {\n        ptr = &arr[i];\n        *ptr += i;\n    }\n    \n    std::cout << arr[2] << std::endl;\n    \n    return 0;\n}\n```\n\nA) Imprime 5 \\\nB) Imprime 10 \\\nC) Imprime 8",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2069,
+        "pregunta": "```java\npublic class MatrixProduct {\n    public static int[][] matrixProduct(int[][] A, int[][] B) {\n        int m = A.length;\n        int n = A[0].length;\n        int p = B[0].length;\n        int[][] C = new int[m][p];\n        \n        for (int i = 0; i < m; i++) {\n            for (int j = 0; j < p; j++) {\n                for (int k = 0; k < n; k++) {\n                    C[i][j] += A[i][k] * B[k][j];\n                }\n            }\n        }\n        \n        return C;\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\na) Calcula el producto matricial entre dos matrices de enteros.\n\nb) Realiza la suma de elementos de dos matrices de enteros.\n\nc) Genera matrices aleatorias de n\u00fameros enteros.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2070,
+        "pregunta": "\u00bfQu\u00e9 funci\u00f3n cumple el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction mysteryFunction(arr) {\n    var result = [];\n    for (var i = 0; i < arr.length; i++) {\n        result.unshift(arr[i]);\n    }\n    return result;\n}\n\nmysteryFunction([1, 2, 3, 4]);\n```\n\nA) Invierte el orden de los elementos en un array\\\nB) Elimina los elementos duplicados en un array\\\nC) Suma todos los elementos de un array",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2071,
+        "pregunta": "```java\npublic class Test {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        int result = 0;\n        \n        while (x > 0) {\n            if (x % 2 == 1) {\n                result += y;\n            }\n            x >>= 1;\n            y <<= 1;\n        }\n        \n        System.out.println(result);\n    }\n}\n```\n\n\u00bfQu\u00e9 es lo que hace el c\u00f3digo anterior?\n\nA) Realiza una multiplicaci\u00f3n de dos n\u00fameros de forma iterativa utilizando solo operaciones de shift.\nB) Calcula la suma de dos n\u00fameros de forma iterativa utilizando solo operaciones de shift.\nC) Verifica si un n\u00famero es primo utilizando operaciones bit a bit.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2072,
+        "pregunta": "\u00bfQu\u00e9 resultado se obtiene al ejecutar el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int n = 5;\n        int result = 1;\n        \n        for (int i = 1; i <= n; i++) {\n            result *= i;\n            for (int j = 1; j <= n; j++) {\n                result += j;\n            }\n        }\n        \n        System.out.println(result);\n    }\n}\n```\n\nA) 241  \nB) 120  \nC) 601",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2073,
+        "pregunta": "```c\n#include <stdio.h>\n\nint main() {\n    int n = 5;\n    int i, j;\n\n    for(i = 0; i < n; i++) {\n        for(j = 0; j < n-i-1; j++) {\n            printf(\" \");\n        }\n        for(j = 0; j < 2*i+1; j++) {\n            printf(\"*\");\n        }\n        printf(\"\\n\");\n    }\n\n    return 0;\n}\n```\n\n\u00bfQu\u00e9 produce el c\u00f3digo proporcionado?\n\nA) Un patr\u00f3n de asteriscos en forma de pir\u00e1mide invertida\nB) Un error de compilaci\u00f3n\nC) Una serie de valores num\u00e9ricos en forma de matriz\n\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2074,
+        "pregunta": "```c\n#include <stdio.h>\n\nint main() {\n    int num = 10;\n    int *ptr = &num;\n    \n    *ptr = *ptr + 5;\n    \n    printf(\"%d\\n\", *ptr);\n    \n    return 0;\n}\n```\n\n\u00bfQu\u00e9 valor se imprime por pantalla al ejecutar este c\u00f3digo?\n\nA) 10  \nB) 15  \nC) 5  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2075,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n#include <string>\n\nint main() {\n    std::string message = \"Hello, world!\";\n    \n    for (int i = 0; i < message.length(); i++) {\n        for (int j = 0; j < i; j++) {\n            std::cout << message[j];\n        }\n    }\n    \n    return 0;\n}\n```\n\nA) Imprime cada car\u00e1cter de la cadena `message` en orden ascendente.  \nB) Imprime una pir\u00e1mide de caracteres formada por la subcadena de `message`.  \nC) Genera un error de compilaci\u00f3n debido a un error en la declaraci\u00f3n de la variable `i`.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2076,
+        "pregunta": "\u00bfQu\u00e9 resultado arroja el siguiente c\u00f3digo?\n\n```javascript\nfunction recursiveFunction(n) {\n  if (n <= 0) {\n    return 1;\n  } else {\n    return n * recursiveFunction(n - 1);\n  }\n}\n\nconsole.log(recursiveFunction(4));\n```\n\nA) Error\nB) 10\nC) 24",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2077,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction mysteryFunction(arr) {\n    return arr.reduce((acc, val) => (val % 2 === 0 ? acc + val : acc), 0);\n}\n\nconst numbers = [1, 2, 3, 4, 5, 6];\nconsole.log(mysteryFunction(numbers));\n```\n\nA) Devuelve la suma de todos los n\u00fameros pares en el array dado\nB) Devuelve la multiplicaci\u00f3n de todos los n\u00fameros impares en el array dado\nC) Devuelve la suma de todos los n\u00fameros impares en el array dado",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2078,
+        "pregunta": "```java\npublic class ArraySum {\n\n    public static int sum(int[] array) {\n        int result = 0;\n        for (int i = 0; i < array.length; i++) {\n            result += array[i];\n        }\n        return result;\n    }\n\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n        int sum = sum(numbers);\n        System.out.println(sum);\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Suma todos los elementos en el array e imprime el resultado\n\nB) Multiplica todos los elementos en el array e imprime el resultado\n\nC) Genera un error al intentar compilar el c\u00f3digo\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2079,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction mysteryFunction(n) {\n  let result = 0;\n  \n  for (let i = 0; i < n; i++) {\n    result = result ^ i;\n  }\n  \n  return result;\n}\n```\n\nA) Realiza una suma de los primeros `n` n\u00fameros naturales\nB) Calcula la ra\u00edz cuadrada del n\u00famero `n`\nC) Realiza una operaci\u00f3n de bits XOR entre el resultado acumulado y `i` en cada iteraci\u00f3n",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2080,
+        "pregunta": "```javascript\nfunction fibonacci(n) {\n  if (n <= 1) return n;\n  return fibonacci(n - 1) + fibonacci(n - 2);\n}\n\nconsole.log(fibonacci(5));\n\na) Calcula el factorial de un n\u00famero\nb) Genera la secuencia de Fibonacci\nc) Ordena un array de n\u00fameros\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2081,
+        "pregunta": "```java\npublic class Fibonacci {\n    public static void main(String[] args) {\n        int n = 10;\n        System.out.println(fibonacci(n));\n    }\n\n    static int fibonacci(int n) {\n        if (n <= 1) {\n            return n;\n        }\n        return fibonacci(n-1) + fibonacci(n-2);\n    }\n}\n```\n\n\u00bfQu\u00e9 resultado se obtiene al ejecutar este c\u00f3digo?\n\nA) 34  \nB) 55  \nC) 89  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2082,
+        "pregunta": "```java\npublic class Fibonacci {\n    public static int fibonacci(int n) {\n        if (n <= 1) {\n            return n;\n        } else {\n            return fibonacci(n - 1) + fibonacci(n - 2);\n        }\n    }\n\n    public static void main(String[] args) {\n        System.out.println(fibonacci(5));\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Calcula el factorial de un n\u00famero.\n\nB) Calcula la serie de Fibonacci.\n\nC) Ordena un arreglo de n\u00fameros.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2083,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Java?\n\n```java\npublic class Example {\n    public static void main(String[] args) {\n        int n = 5;\n        System.out.println(factorial(n));\n    }\n\n    static int factorial(int n) {\n        if (n == 0) {\n            return 1;\n        } else {\n            return n * factorial(n - 1);\n        }\n    }\n}\n```\n\nA) Calcula el factorial de un n\u00famero de forma iterativa.\n\nB) Calcula el factorial de un n\u00famero de forma recursiva.\n\nC) Imprime una secuencia de n\u00fameros en forma inversa.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2084,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int n = 5;\n    while (n > 0) {\n        if (n % 2 == 0) {\n            printf(\"%d \", n);\n        }\n        n--;\n    }\n    return 0;\n}\n```\n\nA) Imprime los n\u00fameros pares del 1 al 5  \nB) Imprime los n\u00fameros pares del 5 al 1  \nC) No imprime nada",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2085,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 10;\n    int fib[n];\n    fib[0] = 0;\n    fib[1] = 1;\n\n    for (int i = 2; i < n; i++) {\n        fib[i] = fib[i-1] + fib[i-2];\n    }\n\n    for (int i = 0; i < n; i++) {\n        std::cout << fib[i] << \" \";\n    }\n\n    return 0;\n}\n```\n\na) Calcula los primeros 10 n\u00fameros primos e imprime su valor\n\nb) Genera los primeros 10 n\u00fameros de la secuencia de Fibonacci e imprime su valor\n\nc) Calcula la ra\u00edz cuadrada de los primeros 10 n\u00fameros naturales e imprime su valor",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2086,
+        "pregunta": "```java\npublic class Fibonacci {\n    public static int fib(int n) {\n        if (n <= 1)\n            return n;\n        return fib(n - 1) + fib(n - 2);\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo presentado?\n\nA) Calcula el factorial de un n\u00famero entero\n\nB) Implementa el algoritmo de ordenamiento por burbuja\n\nC) Calcula el n-\u00e9simo n\u00famero de la secuencia de Fibonacci\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2087,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n#include <string>\n\nint main() {\n    std::string word = \"hello\";\n    for (int i = 0; i < word.size(); i++) {\n        std::cout << word[word.size() - i - 1];\n    }\n    return 0;\n}\n```\n\nA) Invierte la palabra \"hello\" y la imprime en la consola  \nB) Imprime la palabra \"hello\" en orden inverso  \nC) Genera un error de compilaci\u00f3n",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2088,
+        "pregunta": "```java\npublic class Fibonacci {\n    public static int fibonacci(int n) {\n        if (n <= 1) {\n            return n;\n        } else {\n            return fibonacci(n - 1) + fibonacci(n - 2);\n        }\n    }\n\n    public static void main(String[] args) {\n        System.out.println(fibonacci(5));\n    }\n}\n```\n\n\u00bfQu\u00e9 resultado se imprimir\u00e1 al ejecutar este c\u00f3digo?\n\nA) 3  \nB) 5  \nC) 8  \n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2089,
+        "pregunta": "```java\npublic class MatrixMultiplication {\n\n    public static int[][] multiplyMatrix(int[][] matrix1, int[][] matrix2) {\n        int rows1 = matrix1.length;\n        int cols1 = matrix1[0].length;\n        int rows2 = matrix2.length;\n        int cols2 = matrix2[0].length;\n        \n        if (cols1 != rows2) {\n            throw new IllegalArgumentException(\"Matrices cannot be multiplied\");\n        }\n        \n        int[][] result = new int[rows1][cols2];\n        \n        for (int i = 0; i < rows1; i++) {\n            for (int j = 0; j < cols2; j++) {\n                for (int k = 0; k < cols1; k++) {\n                    result[i][j] += matrix1[i][k] * matrix2[k][j];\n                }\n            }\n        }\n        \n        return result;\n    }\n\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Multiplica dos matrices de enteros y devuelve el resultado.\n\nB) Determina si dos matrices pueden ser multiplicadas.\n\nC) Calcula la suma de los elementos de una matriz de enteros.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2090,
+        "pregunta": "```java\npublic class Fibonacci {\n    public static int fibonacci(int n) {\n        if (n <= 1) {\n            return n;\n        }\n        return fibonacci(n - 1) + fibonacci(n - 2);\n    }\n\n    public static void main(String[] args) {\n        System.out.println(fibonacci(5));\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Calcula el factorial de un n\u00famero de forma recursiva.\n\nB) Genera la secuencia de Fibonacci hasta el n\u00famero 5.\n\nC) Calcula la potencia de un n\u00famero de forma recursiva.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2091,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    int result = 1;\n\n    for(int i = 1; i <= n; i++) {\n        result *= i;\n    }\n\n    std::cout << result;\n\n    return 0;\n}\n```\n\nA) Calcula el factorial de 5.  \nB) Realiza una serie de Fibonacci de 5 elementos.  \nC) Genera un error de compilaci\u00f3n debido a un bucle infinito.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2092,
+        "pregunta": "\u00bfQu\u00e9 resultado se obtiene al ejecutar el siguiente c\u00f3digo?\n\n```java\npublic class Examen {\n    public static void main(String[] args) {\n        int n = 5;\n        for (int i = 0; i < n; i++) {\n            for (int j = 0; j < n; j++) {\n                System.out.print(i + j + \" \");\n            }\n            System.out.println();\n        }\n    }\n}\n```\n\nA) Imprime una matriz de 5x5 con la suma de los \u00edndices de las filas y columnas.  \nB) Imprime una secuencia ascendente de n\u00fameros del 0 al 24.  \nC) Genera un error de sintaxis al intentar compilar el c\u00f3digo.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2093,
+        "pregunta": "```javascript\nfunction factorial(n) {\n    return n <= 1 ? 1 : n * factorial(n - 1);\n}\n\nconsole.log(factorial(5));\n```\n\n\u00bfQu\u00e9 realiza la funci\u00f3n en el c\u00f3digo proporcionado?\n\nA) Calcula el factorial de un n\u00famero de forma iterativa.\nB) Calcula el factorial de un n\u00famero de forma recursiva.\nC) Ordena un arreglo de forma descendente.\n\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2094,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        int result = 1;\n        \n        while (num > 0) {\n            result *= num--;\n        }\n        \n        System.out.println(result);\n    }\n}\n```\n\nA) Calcula el factorial de un n\u00famero.\n\nB) Realiza la potenciaci\u00f3n de un n\u00famero.\n\nC) Genera una secuencia num\u00e9rica decreciente.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2095,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 10;\n    while (n >= 0) {\n        std::cout << n << \" \";\n        n -= 2;\n    }\n    return 0;\n}\n```\n\nA) Imprime los n\u00fameros del 0 al 10 de manera decreciente.\n\nB) Imprime los n\u00fameros del 10 al 0 de manera decreciente.\n\nC) Imprime los n\u00fameros impares del 1 al 9.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2096,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef mystery_function(n):\n    if n == 0:\n        return 0\n    return n + mystery_function(n - 1)\n    \nresult = mystery_function(5)\nprint(result)\n```\n\nA) Calcula el factorial de un n\u00famero  \nB) Realiza la suma de los primeros `n` n\u00fameros naturales  \nC) Genera un error de recursi\u00f3n infinita",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2097,
+        "pregunta": "```java\npublic static int mysteriousFunction(int n) {\n    if (n <= 0) {\n        return 0;\n    } else {\n        return mysteriousFunction(n / 2) + 1;\n    }\n}\n\n\u00bfQu\u00e9 hace la funci\u00f3n mysteriousFunction(int n) en el siguiente c\u00f3digo?\n\na) Devuelve la ra\u00edz cuadrada entera de n\nb) Calcula el logaritmo base 2 de n\nc) Devuelve la cantidad de veces que n puede ser dividido por 2 antes de llegar a 0\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2098,
+        "pregunta": "```java\npublic static String mysteryFunction(String input) {\n    StringBuilder output = new StringBuilder();\n\n    for (int i = 0; i < input.length(); i++) {\n        char c = input.charAt(i);\n        output.insert(0, c);\n    }\n\n    return output.toString();\n}\n```\n\n\u00bfQu\u00e9 hace la funci\u00f3n `mysteryFunction` en el c\u00f3digo proporcionado?\n\nA) Invierte el orden de las letras de la cadena de entrada y la devuelve.  \nB) Elimina los caracteres repetidos de la cadena de entrada y la devuelve.  \nC) Cifra la cadena de entrada utilizando un algoritmo AES y la devuelve encriptada.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
     }
 ]

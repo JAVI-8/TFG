@@ -9933,5 +9933,560 @@
         "id_respuesta": 1987,
         "respuesta": " Falso",
         "id_pregunta": 1987
+    },
+    {
+        "id_respuesta": 1988,
+        "respuesta": " Falso",
+        "id_pregunta": 1988
+    },
+    {
+        "id_respuesta": 1989,
+        "respuesta": " Falso",
+        "id_pregunta": 1989
+    },
+    {
+        "id_respuesta": 1990,
+        "respuesta": " Verdadero, el c\u00f3digo compilar\u00e1 sin errores y el resultado de ejecuci\u00f3n ser\u00eda el siguiente:\n10\n\nLo que declaraba la variable `num` es decir, en este caso, la salida de la declaraci\u00f3n `std::cout` ser\u00eda `10`",
+        "id_pregunta": 1990
+    },
+    {
+        "id_respuesta": 1991,
+        "respuesta": " Falso",
+        "id_pregunta": 1991
+    },
+    {
+        "id_respuesta": 1992,
+        "respuesta": " Falso",
+        "id_pregunta": 1992
+    },
+    {
+        "id_respuesta": 1993,
+        "respuesta": " False, el c\u00f3digo no compila correctamente",
+        "id_pregunta": 1993
+    },
+    {
+        "id_respuesta": 1994,
+        "respuesta": " Falso",
+        "id_pregunta": 1994
+    },
+    {
+        "id_respuesta": 1995,
+        "respuesta": " True",
+        "id_pregunta": 1995
+    },
+    {
+        "id_respuesta": 1996,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1996
+    },
+    {
+        "id_respuesta": 1997,
+        "respuesta": " Falso",
+        "id_pregunta": 1997
+    },
+    {
+        "id_respuesta": 1998,
+        "respuesta": " True",
+        "id_pregunta": 1998
+    },
+    {
+        "id_respuesta": 1999,
+        "respuesta": " Falso, el c\u00f3digo compila y ejecuta sin problemas pero tiene un error de seguridad, por lo que podr\u00eda causar alteraciones a la memoria en lugar de intercambiar variables",
+        "id_pregunta": 1999
+    },
+    {
+        "id_respuesta": 2000,
+        "respuesta": " Falso",
+        "id_pregunta": 2000
+    },
+    {
+        "id_respuesta": 2001,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2001
+    },
+    {
+        "id_respuesta": 2002,
+        "respuesta": " Falso",
+        "id_pregunta": 2002
+    },
+    {
+        "id_respuesta": 2003,
+        "respuesta": " False",
+        "id_pregunta": 2003
+    },
+    {
+        "id_respuesta": 2004,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2004
+    },
+    {
+        "id_respuesta": 2005,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2005
+    },
+    {
+        "id_respuesta": 2006,
+        "respuesta": " Verdadero",
+        "id_pregunta": 2006
+    },
+    {
+        "id_respuesta": 2007,
+        "respuesta": " True\n\nEl m\u00e9todo isPrime solamente devuelve verdadero si el n\u00famero es primo, si el n\u00famero es compuesto o no primo, devuelve falso",
+        "id_pregunta": 2007
+    },
+    {
+        "id_respuesta": 2008,
+        "respuesta": " A) Imprime el factorial de 5\n\nEl c\u00f3digo ejecutado generar\u00eda el resultado en la variable `resultado` luego de realizar el calculo de `resultado` = 1 * 2 * 3 * 4 * 5, por lo que el resultado final ser\u00eda 120",
+        "id_pregunta": 2008
+    },
+    {
+        "id_respuesta": 2009,
+        "respuesta": " A) Par Par Par Par Par \n\nLa ejecuci\u00f3n de c\u00f3digo comienza en `main()` donde se define un `int` variable `num` con un valor de 5",
+        "id_pregunta": 2009
+    },
+    {
+        "id_respuesta": 2010,
+        "respuesta": " A) 1\n\nLa clave importante en este c\u00f3digo es la condici\u00f3n de divisibilidad",
+        "id_pregunta": 2010
+    },
+    {
+        "id_respuesta": 2011,
+        "respuesta": " A) Imprime \"Hello\" 10 veces\n\nLa variable `x` se inicializa a 10 en la l\u00ednea de la sentencia `main`",
+        "id_pregunta": 2011
+    },
+    {
+        "id_respuesta": 2012,
+        "respuesta": " B) The code provided generates a Fibonacci sequence, it uses a recursive method to calculate the Fibonacci numbers and the answer is Fibonacci(5) which is 5",
+        "id_pregunta": 2012
+    },
+    {
+        "id_respuesta": 2013,
+        "respuesta": "A) Calcula el factorial de un n\u00famero dado por el usuario",
+        "id_pregunta": 2013
+    },
+    {
+        "id_respuesta": 2014,
+        "respuesta": " A) Calcula la suma de todos los d\u00edgitos de un n\u00famero",
+        "id_pregunta": 2014
+    },
+    {
+        "id_respuesta": 2015,
+        "respuesta": "A) Calcula la suma de los n\u00fameros del array e imprime el resultado",
+        "id_pregunta": 2015
+    },
+    {
+        "id_respuesta": 2016,
+        "respuesta": " C) 25 en la salida de la primera l\u00ednea de su main method",
+        "id_pregunta": 2016
+    },
+    {
+        "id_respuesta": 2017,
+        "respuesta": "A) Imprime los n\u00fameros del 1 al 10 en orden descendente",
+        "id_pregunta": 2017
+    },
+    {
+        "id_respuesta": 2018,
+        "respuesta": " C) Calcula el n\u00famero de Fibonacci de un valor dado\n\nEl c\u00f3digo proporciona una implementaci\u00f3n simple de los n\u00fameros de Fibonacci, usando una recursi\u00f3n para calcular los valores m\u00e1s grandes",
+        "id_pregunta": 2018
+    },
+    {
+        "id_respuesta": 2019,
+        "respuesta": " A) Calcula la suma de los primeros 10 n\u00fameros naturales e imprime el resultado",
+        "id_pregunta": 2019
+    },
+    {
+        "id_respuesta": 2020,
+        "respuesta": " ```\nThe result of printing this code is C) 15",
+        "id_pregunta": 2020
+    },
+    {
+        "id_respuesta": 2021,
+        "respuesta": " A) Calcula la suma de todos los elementos en un array",
+        "id_pregunta": 2021
+    },
+    {
+        "id_respuesta": 2022,
+        "respuesta": " A) Imprime los primeros 5 n\u00fameros pares",
+        "id_pregunta": 2022
+    },
+    {
+        "id_respuesta": 2023,
+        "respuesta": " A) The code checks if a string is a palindrome",
+        "id_pregunta": 2023
+    },
+    {
+        "id_respuesta": 2024,
+        "respuesta": " A) Realiza la suma de dos n\u00fameros y muestra el resultado en pantalla",
+        "id_pregunta": 2024
+    },
+    {
+        "id_respuesta": 2025,
+        "respuesta": " A) El c\u00f3digo imprime los n\u00fameros del 0 al 4 en una sola l\u00ednea, respondiendo correctamente a la pregunta",
+        "id_pregunta": 2025
+    },
+    {
+        "id_respuesta": 2026,
+        "respuesta": " A) Imprime los n\u00fameros impares del arreglo \"numbers\"",
+        "id_pregunta": 2026
+    },
+    {
+        "id_respuesta": 2027,
+        "respuesta": " A) Suma los dos n\u00fameros y lo imprime en consola",
+        "id_pregunta": 2027
+    },
+    {
+        "id_respuesta": 2028,
+        "respuesta": "A) El c\u00f3digo compara los dos n\u00fameros num1 y num2 y muestra un mensaje indicativo de cu\u00e1l es el mayor",
+        "id_pregunta": 2028
+    },
+    {
+        "id_respuesta": 2029,
+        "respuesta": " A) El c\u00f3digo ejecutado detalla si un n\u00famero es par o impar",
+        "id_pregunta": 2029
+    },
+    {
+        "id_respuesta": 2030,
+        "respuesta": "A) Esa secuencia de c\u00f3digo imprime los n\u00fameros del 1 al 5 en cada l\u00ednea de forma ascendente",
+        "id_pregunta": 2030
+    },
+    {
+        "id_respuesta": 2031,
+        "respuesta": " A) Calcula la suma de los n\u00fameros en un array de enteros y lo muestra por consola",
+        "id_pregunta": 2031
+    },
+    {
+        "id_respuesta": 2032,
+        "respuesta": " A) Muestra los divisores de un n\u00famero entero",
+        "id_pregunta": 2032
+    },
+    {
+        "id_respuesta": 2033,
+        "respuesta": " B) Especificamente, el m\u00e9todo `reverseArray` es un m\u00e9todo simple e intuitivo que permite invertir la orden de los elementos en un array de enteros",
+        "id_pregunta": 2033
+    },
+    {
+        "id_respuesta": 2034,
+        "respuesta": " A) Calcula la suma de todos los elementos del array",
+        "id_pregunta": 2034
+    },
+    {
+        "id_respuesta": 2035,
+        "respuesta": "A) Intercambia el valor de las variables x y y",
+        "id_pregunta": 2035
+    },
+    {
+        "id_respuesta": 2036,
+        "respuesta": " C) Imprime los divisores de un n\u00famero",
+        "id_pregunta": 2036
+    },
+    {
+        "id_respuesta": 2037,
+        "respuesta": "B) La clase `Example` calcular\u00e1 la suma de los n\u00fameros en la variable `sum`",
+        "id_pregunta": 2037
+    },
+    {
+        "id_respuesta": 2038,
+        "respuesta": "A) 11 es el resultado correcto",
+        "id_pregunta": 2038
+    },
+    {
+        "id_respuesta": 2039,
+        "respuesta": " A) El c\u00f3digo ejecutado es similar a la funci\u00f3n factorial, el c\u00f3digo realiza la calculaci\u00f3n de la factorial de un n\u00famero especificado por n",
+        "id_pregunta": 2039
+    },
+    {
+        "id_respuesta": 2040,
+        "respuesta": " A) El c\u00f3digo calcula el factorial de un n\u00famero dado",
+        "id_pregunta": 2040
+    },
+    {
+        "id_respuesta": 2041,
+        "respuesta": " C) The code provides adds two numbers together, as explained below:\n```\n1",
+        "id_pregunta": 2041
+    },
+    {
+        "id_respuesta": 2042,
+        "respuesta": " A) Devuelve la suma de los cuadrados de los elementos de un array de enteros",
+        "id_pregunta": 2042
+    },
+    {
+        "id_respuesta": 2043,
+        "respuesta": " A) Imprime los n\u00fameros del 0 al 5\n\nLa condici\u00f3n `i < x` en el for es una condici\u00f3n inclusive, por lo que el \u00edndice `i` se puede incrementar hasta el valor de `x` (inclusivo)",
+        "id_pregunta": 2043
+    },
+    {
+        "id_respuesta": 2044,
+        "respuesta": " A) The code calculates the sum of the elements in an array",
+        "id_pregunta": 2044
+    },
+    {
+        "id_respuesta": 2045,
+        "respuesta": " A) El c\u00f3digo calculta el factorial de un n\u00famero entero, espec\u00edficamente el num\u00e9ro 5",
+        "id_pregunta": 2045
+    },
+    {
+        "id_respuesta": 2046,
+        "respuesta": " B) Calcula la suma de `x` e `y` y la guarda en la variable `z`",
+        "id_pregunta": 2046
+    },
+    {
+        "id_respuesta": 2047,
+        "respuesta": "B) The code executes the sum of the elements of an array",
+        "id_pregunta": 2047
+    },
+    {
+        "id_respuesta": 2048,
+        "respuesta": "A) Calcula la suma de todos los elementos en el array",
+        "id_pregunta": 2048
+    },
+    {
+        "id_respuesta": 2049,
+        "respuesta": " B) Suma todos los elementos de un array",
+        "id_pregunta": 2049
+    },
+    {
+        "id_respuesta": 2050,
+        "respuesta": " A) Calcula la suma de todos los elementos de un array de enteros",
+        "id_pregunta": 2050
+    },
+    {
+        "id_respuesta": 2051,
+        "respuesta": " A) Retorna la suma de los elementos en el array dado",
+        "id_pregunta": 2051
+    },
+    {
+        "id_respuesta": 2052,
+        "respuesta": " A) Imprime los n\u00fameros pares del arreglo inicial en consola",
+        "id_pregunta": 2052
+    },
+    {
+        "id_respuesta": 2053,
+        "respuesta": "A) 45\n\nLa respuesta es A) 45",
+        "id_pregunta": 2053
+    },
+    {
+        "id_respuesta": 2054,
+        "respuesta": "A) Imprime cada caracter de la cadena `str` en may\u00fascula",
+        "id_pregunta": 2054
+    },
+    {
+        "id_respuesta": 2055,
+        "respuesta": " B) This code finds the missing number in an array of numbers",
+        "id_pregunta": 2055
+    },
+    {
+        "id_respuesta": 2056,
+        "respuesta": " A) Calcula el factorial de un numero",
+        "id_pregunta": 2056
+    },
+    {
+        "id_respuesta": 2057,
+        "respuesta": " A) 3\n\nEl c\u00f3digo defin\u00eda un funci\u00f3n llamada `mystery_function` que recibe un \u00fanico argumento `n`",
+        "id_pregunta": 2057
+    },
+    {
+        "id_respuesta": 2058,
+        "respuesta": " B) El c\u00f3digo anterior calcula el t\u00e9rmino n-\u00e9simo de la sucesi\u00f3n de Fibonacci",
+        "id_pregunta": 2058
+    },
+    {
+        "id_respuesta": 2059,
+        "respuesta": " A) El c\u00f3digo proporciona el m\u00e9todo para calcular el factorial de un n\u00famero entero",
+        "id_pregunta": 2059
+    },
+    {
+        "id_respuesta": 2060,
+        "respuesta": " C) Realiza un c\u00e1lculo matem\u00e1tico espec\u00edfico, cuyo resultado depende del valor inicial de `n`",
+        "id_pregunta": 2060
+    },
+    {
+        "id_respuesta": 2061,
+        "respuesta": " B) Realiza la suma de los d\u00edgitos de un n\u00famero entero",
+        "id_pregunta": 2061
+    },
+    {
+        "id_respuesta": 2062,
+        "respuesta": " A) 15 \n\nLa funci\u00f3n `reduce` accede a un array e applica un operador de reducci\u00f3n (en este caso la suma) sobre todos los elementos del array",
+        "id_pregunta": 2062
+    },
+    {
+        "id_respuesta": 2063,
+        "respuesta": " A) The code above reverses a given string",
+        "id_pregunta": 2063
+    },
+    {
+        "id_respuesta": 2064,
+        "respuesta": " A) Imprime los n\u00fameros pares del 0 al 5\n\nLa pregunta consiste en reconocer que el c\u00f3digo usara un for para iterar sobre los n\u00fameros desde 0 a n (con n = 5 en este caso) y luego verificar\u00eda si cada n\u00famero es pares o impares",
+        "id_pregunta": 2064
+    },
+    {
+        "id_respuesta": 2065,
+        "respuesta": " A) La respuesta correcta es A) Calcula la suma de todos los elementos de un arreglo multidimensional",
+        "id_pregunta": 2065
+    },
+    {
+        "id_respuesta": 2066,
+        "respuesta": " The correct answer is A) Find the minimum value in an array",
+        "id_pregunta": 2066
+    },
+    {
+        "id_respuesta": 2067,
+        "respuesta": " A) 4\n\nLa funci\u00f3n a trabajar\u00e1 como una cruz de X (^) sobre cada elemento de la array, cuando se empieza en un valor, se le ha aplicado la operaci\u00f3n de XOR, entonces el resultado final ser\u00e1 el valor entero inesperado",
+        "id_pregunta": 2067
+    },
+    {
+        "id_respuesta": 2068,
+        "respuesta": " A) Imprime 5\n\nLa respuesta correcta es **A)**, la codificaci\u00f3n incrementa cada elemento de la matriz unicamente con su respectivo \u00edndice, entonces cuando arr[2] se ejecuta, se efect\u00faa la acci\u00f3n de buscar la segunda posici\u00f3n de la matriz y la comparar con el valor que le ha sido assignado al \u00edndice 2, proporcionando como resultado el valor 5",
+        "id_pregunta": 2068
+    },
+    {
+        "id_respuesta": 2069,
+        "respuesta": " The given code snippet performs the matrix multiplication of two integer matrices",
+        "id_pregunta": 2069
+    },
+    {
+        "id_respuesta": 2070,
+        "respuesta": " A) Reverses the order of elements in an array",
+        "id_pregunta": 2070
+    },
+    {
+        "id_respuesta": 2071,
+        "respuesta": " B) Calcula la suma de dos n\u00fameros de forma iterativa utilizando solo operaciones de shift",
+        "id_pregunta": 2071
+    },
+    {
+        "id_respuesta": 2072,
+        "respuesta": " The correct answer is C) 601",
+        "id_pregunta": 2072
+    },
+    {
+        "id_respuesta": 2073,
+        "respuesta": " A) Un patr\u00f3n de asteriscos en forma de pir\u00e1mide invertida\n\nEl c\u00f3digo proporciona una imagen de asteriscos formando una pir\u00e1mide invertida, donde el n\u00famero de asteriscos en cada fila aumenta conforme la fila se aleja de la punta",
+        "id_pregunta": 2073
+    },
+    {
+        "id_respuesta": 2074,
+        "respuesta": "A) 10\n\nEscribiendo un poco sobre la sintaxis y uso de derechos de acceso a la memoria, la respuesta es A) 10",
+        "id_pregunta": 2074
+    },
+    {
+        "id_respuesta": 2075,
+        "respuesta": " A) Imprime cada car\u00e1cter de la cadena `message` en orden ascendente",
+        "id_pregunta": 2075
+    },
+    {
+        "id_respuesta": 2076,
+        "respuesta": " C) 24\n\nLa funci\u00f3n `recursiveFunction` eval\u00faa el producto recursivo de n en base a la condici\u00f3n de retorno",
+        "id_pregunta": 2076
+    },
+    {
+        "id_respuesta": 2077,
+        "respuesta": " A) Devuelve la suma de todos los n\u00fameros pares en el array dado\n\nLa funci\u00f3n `reduce` en JavaScript consume un array y un funci\u00f3n de accumulaci\u00f3n de resultado, y produce un solo valor final",
+        "id_pregunta": 2077
+    },
+    {
+        "id_respuesta": 2078,
+        "respuesta": " A) El c\u00f3digo anterior calcular\u00e1 la suma de todos los elementos en un array de integers y imprimir\u00e1 el resultado",
+        "id_pregunta": 2078
+    },
+    {
+        "id_respuesta": 2079,
+        "respuesta": " C) Realiza una operaci\u00f3n de bits XOR entre el resultado acumulado y `i` en cada iteraci\u00f3n",
+        "id_pregunta": 2079
+    },
+    {
+        "id_respuesta": 2080,
+        "respuesta": " b) Genera la secuencia de Fibonacci\n\nsi esa es tu pregunta, la respuesta es `b)`",
+        "id_pregunta": 2080
+    },
+    {
+        "id_respuesta": 2081,
+        "respuesta": "A) 34 \n\nEs la opci\u00f3n correcta, debido a que el c\u00f3digo calcula el n\u00famero fibonacci en el cual n est\u00e1 especificado, en este ejemplo es 10",
+        "id_pregunta": 2081
+    },
+    {
+        "id_respuesta": 2082,
+        "respuesta": " B) Calcula la serie de Fibonacci\n\nEl m\u00e9todo `fibonacci` recursivamente calcuala el siguiente valor de la serie de Fibonacci, comenzando con los dos valores iniciales de la serie (0, 1)",
+        "id_pregunta": 2082
+    },
+    {
+        "id_respuesta": 2083,
+        "respuesta": " A) Calcula el factorial de un n\u00famero de forma iterativa",
+        "id_pregunta": 2083
+    },
+    {
+        "id_respuesta": 2084,
+        "respuesta": " A) Imprime los n\u00fameros pares del 1 al 5  \nB) Imprime los n\u00fameros pares del 5 al 1\nC) No imprime nada\n\nLa respuesta correcta es A, por lo que la ejecuci\u00f3n de este programa imprime los valores par de los n\u00fameros 1 a 5",
+        "id_pregunta": 2084
+    },
+    {
+        "id_respuesta": 2085,
+        "respuesta": " A) The code calculates and prints the first 10 prime numbers",
+        "id_pregunta": 2085
+    },
+    {
+        "id_respuesta": 2086,
+        "respuesta": " C) Calcula el n-\u00e9simo n\u00famero de la secuencia de Fibonacci\n\nEl c\u00f3digo proporciona una implementaci\u00f3n simple de los primeros n d\u00edgitos de la secuencia de Fibonacci",
+        "id_pregunta": 2086
+    },
+    {
+        "id_respuesta": 2087,
+        "respuesta": " A) La respuesta es A, la c\u00f3digo en si es un loop For en el cual iteramos sobre los caracteres de la cadena de texto \"hello\" y los imprimimos en la consola a la orden inversa, lo que hace que la palabra \"hello\" sea impresa en la consola en la forma inversa, tal como se puede observar en la siguiente imagen: \n\n```bash\nholle\nolleh\n```\n",
+        "id_pregunta": 2087
+    },
+    {
+        "id_respuesta": 2088,
+        "respuesta": " The result that will be printed when executing this code is indeed option **C) 8**",
+        "id_pregunta": 2088
+    },
+    {
+        "id_respuesta": 2089,
+        "respuesta": " The provided Java code directly performs matrix multiplication for two integer matrices and returns the result",
+        "id_pregunta": 2089
+    },
+    {
+        "id_respuesta": 2090,
+        "respuesta": " B) Genera la secuencia de Fibonacci hasta el n\u00famero 5",
+        "id_pregunta": 2090
+    },
+    {
+        "id_respuesta": 2091,
+        "respuesta": " A) Efectivamente, el c\u00f3digo calcula el factorial de 5",
+        "id_pregunta": 2091
+    },
+    {
+        "id_respuesta": 2092,
+        "respuesta": "A) Imprime una matriz de 5x5 con la suma de los \u00edndices de las filas y columnas",
+        "id_pregunta": 2092
+    },
+    {
+        "id_respuesta": 2093,
+        "respuesta": " A) Calcula el factorial de un n\u00famero de forma iterativa",
+        "id_pregunta": 2093
+    },
+    {
+        "id_respuesta": 2094,
+        "respuesta": " A) El c\u00f3digo calculta el factorial de un n\u00famero",
+        "id_pregunta": 2094
+    },
+    {
+        "id_respuesta": 2095,
+        "respuesta": " A) Imprime los n\u00fameros del 0 al 10 de manera decreciente",
+        "id_pregunta": 2095
+    },
+    {
+        "id_respuesta": 2096,
+        "respuesta": " A) Calcula el factorial de un numero",
+        "id_pregunta": 2096
+    },
+    {
+        "id_respuesta": 2097,
+        "respuesta": " c) Devuelve la cantidad de veces que n puede ser dividido por 2 antes de llegar a 0\n\nLa funci\u00f3n mysteriousFunction() tiene un doble comportamiento de la funci\u00f3n clearBit(int n) usual",
+        "id_pregunta": 2097
+    },
+    {
+        "id_respuesta": 2098,
+        "respuesta": " A) La funci\u00f3n `mysteryFunction` invertir\u00e1 la cadena de input",
+        "id_pregunta": 2098
     }
 ]
