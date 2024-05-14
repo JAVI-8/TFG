@@ -9078,5 +9078,860 @@
         "id_respuesta": 1816,
         "respuesta": " El c\u00f3digo anterior implementa una funci\u00f3n `findMax` que devuelve el valor m\u00e1ximo en un vector de enteros pasado como argumento",
         "id_pregunta": 1816
+    },
+    {
+        "id_respuesta": 1817,
+        "respuesta": " El c\u00f3digo ejecuta el m\u00e9todo multiply dando como resultado la suma de los dos valores pasados como parametro (3 y 4), por lo tanto, el resultado es el 7",
+        "id_pregunta": 1817
+    },
+    {
+        "id_respuesta": 1818,
+        "respuesta": " A) 5 4 3 2 1\n\nLa pregunta consiste en revisar el c\u00f3digo y predecir lo que ser\u00e1 el resultado final de ejecuci\u00f3n de este programa",
+        "id_pregunta": 1818
+    },
+    {
+        "id_respuesta": 1819,
+        "respuesta": "A) Suma dos n\u00fameros y muestra el resultado en consola",
+        "id_pregunta": 1819
+    },
+    {
+        "id_respuesta": 1820,
+        "respuesta": " B) Devuelve el sumo de todos los elementos de un array",
+        "id_pregunta": 1820
+    },
+    {
+        "id_respuesta": 1821,
+        "respuesta": " A) 5, 4, 3, 2, 1\n\nLa respuesta en la consola es A), la cual muestra el numero 5, luego 4, 3, 2, y 1",
+        "id_pregunta": 1821
+    },
+    {
+        "id_respuesta": 1822,
+        "respuesta": " A) La respuesta correcta es A, el c\u00f3digo calcular\u00e1 la suma de los n\u00fameros desde 1 a 10 y lo mostrar\u00e1 en la consola",
+        "id_pregunta": 1822
+    },
+    {
+        "id_respuesta": 1823,
+        "respuesta": " C) Divide x entre y y luego imprime el resultado\n\nEl c\u00f3digo ejecuta una divisi\u00f3n de enteros usando la suma y luego imprime el resultado",
+        "id_pregunta": 1823
+    },
+    {
+        "id_respuesta": 1824,
+        "respuesta": " C) Imprime \"40\"\n\nLa respuesta correcta es C) Imprime \"40\" por lo que el c\u00f3digo ejecutado ser\u00eda como lo siguiente:\n```java\npublic class SumaArray {\n    public static void main(String[] args) {\n        int[] numeros = {2, 4, 6, 8, 10};\n        int suma = 0;\n\n        for (int i = 0; i < numeros",
+        "id_pregunta": 1824
+    },
+    {
+        "id_respuesta": 1825,
+        "respuesta": " A) N\u00fameros enteros `a` y `b` son suministrados y el c\u00f3digo ejecutado realiza la suma de los dos y muestra la salida en la consola",
+        "id_pregunta": 1825
+    },
+    {
+        "id_respuesta": 1826,
+        "respuesta": " A) Imprime los n\u00fameros del 0 al 4 en consola",
+        "id_pregunta": 1826
+    },
+    {
+        "id_respuesta": 1827,
+        "respuesta": " C) Suma dos n\u00fameros",
+        "id_pregunta": 1827
+    },
+    {
+        "id_respuesta": 1828,
+        "respuesta": " A) Suma dos n\u00fameros",
+        "id_pregunta": 1828
+    },
+    {
+        "id_respuesta": 1829,
+        "respuesta": " A) 5 3 1",
+        "id_pregunta": 1829
+    },
+    {
+        "id_respuesta": 1830,
+        "respuesta": "A) 15\n\nEs el resultado obtiendo proporcionando un c\u00f3digo muy breve y simple",
+        "id_pregunta": 1830
+    },
+    {
+        "id_respuesta": 1831,
+        "respuesta": " C) Calcula la suma de dos n\u00fameros",
+        "id_pregunta": 1831
+    },
+    {
+        "id_respuesta": 1832,
+        "respuesta": " C) Suma dos n\u00fameros",
+        "id_pregunta": 1832
+    },
+    {
+        "id_respuesta": 1833,
+        "respuesta": " A) Encuentra el n\u00famero m\u00ednimo en una lista de n\u00fameros",
+        "id_pregunta": 1833
+    },
+    {
+        "id_respuesta": 1834,
+        "respuesta": " C) It prints if the number is even or odd",
+        "id_pregunta": 1834
+    },
+    {
+        "id_respuesta": 1835,
+        "respuesta": " C) N\u00fameros del 0 al 5\n\nLa respuesta correcta es C) N\u00fameros del 0 al 5, ya que el for en C++ iniciar\u00e1 la iteraci\u00f3n desde el 0 (0) y terminar\u00e1 despu\u00e9s de haber ejecutado la instrucci\u00f3n incluso una vez el valor de `num` (5)",
+        "id_pregunta": 1835
+    },
+    {
+        "id_respuesta": 1836,
+        "respuesta": " C) Realiza una suma entre 3 y 5",
+        "id_pregunta": 1836
+    },
+    {
+        "id_respuesta": 1837,
+        "respuesta": " A) Calcula la suma de todos los elementos de un array",
+        "id_pregunta": 1837
+    },
+    {
+        "id_respuesta": 1838,
+        "respuesta": " A) Hello, Alice!\n\nLa funci\u00f3n `greeting` devuelve una string con el saludo \"Hello, \" concatenado con el nombre dado (\u00e9l, en este caso, es \"Alice\") finalizado por un exclamaci\u00f3n punto",
+        "id_pregunta": 1838
+    },
+    {
+        "id_respuesta": 1839,
+        "respuesta": "A) 10\n\nLa programa sume dos numeros y lo mostra, asi que el resultado final es la suma de los dos enteros almacenados en los variables `num1` y `num2`",
+        "id_pregunta": 1839
+    },
+    {
+        "id_respuesta": 1840,
+        "respuesta": " A) Calcula la suma de todos los elementos de un arreglo",
+        "id_pregunta": 1840
+    },
+    {
+        "id_respuesta": 1841,
+        "respuesta": " C) The code shows a simple program that adds two numbers",
+        "id_pregunta": 1841
+    },
+    {
+        "id_respuesta": 1842,
+        "respuesta": " B) Suma dos n\u00fameros\n\nEl c\u00f3digo proporcionado calcular\u00e1 el summum de dos n\u00fameros y lo mostrar\u00e1 en pantalla",
+        "id_pregunta": 1842
+    },
+    {
+        "id_respuesta": 1843,
+        "respuesta": " A) Imprime los cuadrados de los n\u00fameros del 1 al 5 en consola",
+        "id_pregunta": 1843
+    },
+    {
+        "id_respuesta": 1844,
+        "respuesta": " C) The code above sums two numbers",
+        "id_pregunta": 1844
+    },
+    {
+        "id_respuesta": 1845,
+        "respuesta": "A) Suma los n\u00fameros 5 y 3 y muestra el resultado en la consola",
+        "id_pregunta": 1845
+    },
+    {
+        "id_respuesta": 1846,
+        "respuesta": " A) Los n\u00fameros impares del 0 al 9",
+        "id_pregunta": 1846
+    },
+    {
+        "id_respuesta": 1847,
+        "respuesta": " C) The code calculates the sum of `num1` and `num2`",
+        "id_pregunta": 1847
+    },
+    {
+        "id_respuesta": 1848,
+        "respuesta": " C) is the correct answer",
+        "id_pregunta": 1848
+    },
+    {
+        "id_respuesta": 1849,
+        "respuesta": " A) Si, la respuesta es A",
+        "id_pregunta": 1849
+    },
+    {
+        "id_respuesta": 1850,
+        "respuesta": "C) 7\n\nAl ejecutar el c\u00f3digo, se declar\u00f3 una variable `a` con un valor de 5 y una variable `b` con un valor de 2",
+        "id_pregunta": 1850
+    },
+    {
+        "id_respuesta": 1851,
+        "respuesta": " A) La respuesta correcta es A) Calcula la suma de los n\u00fameros del 1 al 10 y la imprime",
+        "id_pregunta": 1851
+    },
+    {
+        "id_respuesta": 1852,
+        "respuesta": " A) Imprime la suma de dos n\u00fameros",
+        "id_pregunta": 1852
+    },
+    {
+        "id_respuesta": 1853,
+        "respuesta": " A) 2, si en ejecuci\u00f3n del c\u00f3digo se mide la divisi\u00f3n y la sustituye por la respuesta en base a la divisi\u00f3n",
+        "id_pregunta": 1853
+    },
+    {
+        "id_respuesta": 1854,
+        "respuesta": " A) Verifica si el n\u00famero es divisible por 3",
+        "id_pregunta": 1854
+    },
+    {
+        "id_respuesta": 1855,
+        "respuesta": " A) 2\n\nLa variable `c` se define al sumar los valores de `a` y `b`",
+        "id_pregunta": 1855
+    },
+    {
+        "id_respuesta": 1856,
+        "respuesta": "C) Bien, la respuesta es C) Suma dos n\u00fameros",
+        "id_pregunta": 1856
+    },
+    {
+        "id_respuesta": 1857,
+        "respuesta": " A) La funci\u00f3n `sumArray` calc\u00faa la suma de todos los elementos en el array `numbers` y mostra el resultado en la consola",
+        "id_pregunta": 1857
+    },
+    {
+        "id_respuesta": 1858,
+        "respuesta": " C) Suma dos n\u00fameros",
+        "id_pregunta": 1858
+    },
+    {
+        "id_respuesta": 1859,
+        "respuesta": " A) Calcula la suma de todos los elementos de un arreglo",
+        "id_pregunta": 1859
+    },
+    {
+        "id_respuesta": 1860,
+        "respuesta": " A) Calcula la suma de todos los elementos de un arreglo",
+        "id_pregunta": 1860
+    },
+    {
+        "id_respuesta": 1861,
+        "respuesta": " A) Imprime la suma de los n\u00fameros pares del arreglo",
+        "id_pregunta": 1861
+    },
+    {
+        "id_respuesta": 1862,
+        "respuesta": " C) Realiza la suma de los n\u00fameros 5 y 7",
+        "id_pregunta": 1862
+    },
+    {
+        "id_respuesta": 1863,
+        "respuesta": " B) El c\u00f3digo es un m\u00e9todo para reversar una cadena de caracteres",
+        "id_pregunta": 1863
+    },
+    {
+        "id_respuesta": 1864,
+        "respuesta": " A) Calcula la suma de todos los elementos de un array",
+        "id_pregunta": 1864
+    },
+    {
+        "id_respuesta": 1865,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1865
+    },
+    {
+        "id_respuesta": 1866,
+        "respuesta": " True",
+        "id_pregunta": 1866
+    },
+    {
+        "id_respuesta": 1867,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1867
+    },
+    {
+        "id_respuesta": 1868,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1868
+    },
+    {
+        "id_respuesta": 1869,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1869
+    },
+    {
+        "id_respuesta": 1870,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1870
+    },
+    {
+        "id_respuesta": 1871,
+        "respuesta": " True",
+        "id_pregunta": 1871
+    },
+    {
+        "id_respuesta": 1872,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1872
+    },
+    {
+        "id_respuesta": 1873,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1873
+    },
+    {
+        "id_respuesta": 1874,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1874
+    },
+    {
+        "id_respuesta": 1875,
+        "respuesta": " Falso",
+        "id_pregunta": 1875
+    },
+    {
+        "id_respuesta": 1876,
+        "respuesta": " Verdadero, el c\u00f3digo suma x y y, y z almacena la suma de x y y",
+        "id_pregunta": 1876
+    },
+    {
+        "id_respuesta": 1877,
+        "respuesta": " Falso",
+        "id_pregunta": 1877
+    },
+    {
+        "id_respuesta": 1878,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1878
+    },
+    {
+        "id_respuesta": 1879,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1879
+    },
+    {
+        "id_respuesta": 1880,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1880
+    },
+    {
+        "id_respuesta": 1881,
+        "respuesta": " True",
+        "id_pregunta": 1881
+    },
+    {
+        "id_respuesta": 1882,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1882
+    },
+    {
+        "id_respuesta": 1883,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1883
+    },
+    {
+        "id_respuesta": 1884,
+        "respuesta": " True",
+        "id_pregunta": 1884
+    },
+    {
+        "id_respuesta": 1885,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1885
+    },
+    {
+        "id_respuesta": 1886,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1886
+    },
+    {
+        "id_respuesta": 1887,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1887
+    },
+    {
+        "id_respuesta": 1890,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1890
+    },
+    {
+        "id_respuesta": 1889,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1889
+    },
+    {
+        "id_respuesta": 1890,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1890
+    },
+    {
+        "id_respuesta": 1891,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1891
+    },
+    {
+        "id_respuesta": 1892,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1892
+    },
+    {
+        "id_respuesta": 1893,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1893
+    },
+    {
+        "id_respuesta": 1894,
+        "respuesta": " Falso",
+        "id_pregunta": 1894
+    },
+    {
+        "id_respuesta": 1895,
+        "respuesta": " True",
+        "id_pregunta": 1895
+    },
+    {
+        "id_respuesta": 1896,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1896
+    },
+    {
+        "id_respuesta": 1897,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1897
+    },
+    {
+        "id_respuesta": 1898,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1898
+    },
+    {
+        "id_respuesta": 1899,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1899
+    },
+    {
+        "id_respuesta": 1900,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1900
+    },
+    {
+        "id_respuesta": 1901,
+        "respuesta": " Falso",
+        "id_pregunta": 1901
+    },
+    {
+        "id_respuesta": 1902,
+        "respuesta": " Falso, la declaraci\u00f3n de variables en este c\u00f3digo es correcta",
+        "id_pregunta": 1902
+    },
+    {
+        "id_respuesta": 1903,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1903
+    },
+    {
+        "id_respuesta": 1904,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1904
+    },
+    {
+        "id_respuesta": 1905,
+        "respuesta": " Falso",
+        "id_pregunta": 1905
+    },
+    {
+        "id_respuesta": 1906,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1906
+    },
+    {
+        "id_respuesta": 1907,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1907
+    },
+    {
+        "id_respuesta": 1908,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1908
+    },
+    {
+        "id_respuesta": 1909,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1909
+    },
+    {
+        "id_respuesta": 1910,
+        "respuesta": " Verdadero, el c\u00f3digo compila sin problemas y devuelve la suma de x y y en la salida del console",
+        "id_pregunta": 1910
+    },
+    {
+        "id_respuesta": 1911,
+        "respuesta": " Falso",
+        "id_pregunta": 1911
+    },
+    {
+        "id_respuesta": 1912,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1912
+    },
+    {
+        "id_respuesta": 1913,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1913
+    },
+    {
+        "id_respuesta": 1914,
+        "respuesta": " Verdadero, el c\u00f3digo compila y se ejecuta correctamente",
+        "id_pregunta": 1914
+    },
+    {
+        "id_respuesta": 1915,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1915
+    },
+    {
+        "id_respuesta": 1916,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1916
+    },
+    {
+        "id_respuesta": 1917,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1917
+    },
+    {
+        "id_respuesta": 1918,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1918
+    },
+    {
+        "id_respuesta": 1919,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1919
+    },
+    {
+        "id_respuesta": 1920,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1920
+    },
+    {
+        "id_respuesta": 1921,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1921
+    },
+    {
+        "id_respuesta": 1922,
+        "respuesta": " True \nEl c\u00f3digo compila y ejecuta sin problemas y devuelve el mensaje \"x es mayor que y\" si x es mayor que y, o \"y es mayor que x\" si es menor",
+        "id_pregunta": 1922
+    },
+    {
+        "id_respuesta": 1923,
+        "respuesta": " Verdadero, el c\u00f3digo Java compilar\u00e1 sin errores",
+        "id_pregunta": 1923
+    },
+    {
+        "id_respuesta": 1924,
+        "respuesta": " Verdadero, el c\u00f3digo compila sin problemas y ejecuta correctamente",
+        "id_pregunta": 1924
+    },
+    {
+        "id_respuesta": 1925,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1925
+    },
+    {
+        "id_respuesta": 1926,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1926
+    },
+    {
+        "id_respuesta": 1927,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1927
+    },
+    {
+        "id_respuesta": 1928,
+        "respuesta": " True",
+        "id_pregunta": 1928
+    },
+    {
+        "id_respuesta": 1929,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1929
+    },
+    {
+        "id_respuesta": 1930,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1930
+    },
+    {
+        "id_respuesta": 1931,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1931
+    },
+    {
+        "id_respuesta": 1932,
+        "respuesta": " Verdadero, el c\u00f3digo suma todos los elementos de un arreglo de n\u00fameros en Java",
+        "id_pregunta": 1932
+    },
+    {
+        "id_respuesta": 1933,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1933
+    },
+    {
+        "id_respuesta": 1934,
+        "respuesta": " Falso",
+        "id_pregunta": 1934
+    },
+    {
+        "id_respuesta": 1935,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1935
+    },
+    {
+        "id_respuesta": 1936,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1936
+    },
+    {
+        "id_respuesta": 1937,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1937
+    },
+    {
+        "id_respuesta": 1938,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1938
+    },
+    {
+        "id_respuesta": 1939,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1939
+    },
+    {
+        "id_respuesta": 1940,
+        "respuesta": " Falso",
+        "id_pregunta": 1940
+    },
+    {
+        "id_respuesta": 1941,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1941
+    },
+    {
+        "id_respuesta": 1942,
+        "respuesta": " Verdadero, el c\u00f3digo C++ compilar\u00eda correctamente y ejecutar\u00eda sin errores hasta la l\u00ednea de la salida final",
+        "id_pregunta": 1942
+    },
+    {
+        "id_respuesta": 1943,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1943
+    },
+    {
+        "id_respuesta": 1944,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1944
+    },
+    {
+        "id_respuesta": 1945,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1945
+    },
+    {
+        "id_respuesta": 1946,
+        "respuesta": " Verdadero, el c\u00f3digo Java que has subido es efectivo para ordenar un arreglo ascendendo, lo que significa que si el arreglo contiene una serie de enteros decimos en \u00e9l, la primera ser\u00e1 menor que la segunda, la segunda menor que la tercera y as\u00ed sucesivamente, de forma que al final el resultado ser\u00e1 un arreglo ordenado de manera ascendente",
+        "id_pregunta": 1946
+    },
+    {
+        "id_respuesta": 1947,
+        "respuesta": " Falso",
+        "id_pregunta": 1947
+    },
+    {
+        "id_respuesta": 1948,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1948
+    },
+    {
+        "id_respuesta": 1949,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1949
+    },
+    {
+        "id_respuesta": 1950,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1950
+    },
+    {
+        "id_respuesta": 1951,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1951
+    },
+    {
+        "id_respuesta": 1952,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1952
+    },
+    {
+        "id_respuesta": 1953,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1953
+    },
+    {
+        "id_respuesta": 1954,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1954
+    },
+    {
+        "id_respuesta": 1955,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1955
+    },
+    {
+        "id_respuesta": 1956,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1956
+    },
+    {
+        "id_respuesta": 1957,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1957
+    },
+    {
+        "id_respuesta": 1958,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1958
+    },
+    {
+        "id_respuesta": 1959,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1959
+    },
+    {
+        "id_respuesta": 1960,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1960
+    },
+    {
+        "id_respuesta": 1961,
+        "respuesta": " Falso",
+        "id_pregunta": 1961
+    },
+    {
+        "id_respuesta": 1962,
+        "respuesta": " Verdadero, el c\u00f3digo C++ compilar\u00eda correctamente y ejecutar\u00eda sin errores hasta la l\u00ednea donde la suma de enteros ha sido excepci\u00f3n en la declaraci\u00f3n de la funci\u00f3n principal",
+        "id_pregunta": 1962
+    },
+    {
+        "id_respuesta": 1963,
+        "respuesta": " Falso",
+        "id_pregunta": 1963
+    },
+    {
+        "id_respuesta": 1964,
+        "respuesta": " Falso",
+        "id_pregunta": 1964
+    },
+    {
+        "id_respuesta": 1965,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1965
+    },
+    {
+        "id_respuesta": 1966,
+        "respuesta": " Falso",
+        "id_pregunta": 1966
+    },
+    {
+        "id_respuesta": 1967,
+        "respuesta": " Falso",
+        "id_pregunta": 1967
+    },
+    {
+        "id_respuesta": 1968,
+        "respuesta": " Verdadero, el c\u00f3digo es correcto y ejecutar\u00eda sin problemas",
+        "id_pregunta": 1968
+    },
+    {
+        "id_respuesta": 1969,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1969
+    },
+    {
+        "id_respuesta": 1970,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1970
+    },
+    {
+        "id_respuesta": 1971,
+        "respuesta": " True",
+        "id_pregunta": 1971
+    },
+    {
+        "id_respuesta": 1972,
+        "respuesta": " Falso",
+        "id_pregunta": 1972
+    },
+    {
+        "id_respuesta": 1973,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1973
+    },
+    {
+        "id_respuesta": 1974,
+        "respuesta": " Falso",
+        "id_pregunta": 1974
+    },
+    {
+        "id_respuesta": 1975,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1975
+    },
+    {
+        "id_respuesta": 1976,
+        "respuesta": " True",
+        "id_pregunta": 1976
+    },
+    {
+        "id_respuesta": 1977,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1977
+    },
+    {
+        "id_respuesta": 1978,
+        "respuesta": " True",
+        "id_pregunta": 1978
+    },
+    {
+        "id_respuesta": 1979,
+        "respuesta": " Falso",
+        "id_pregunta": 1979
+    },
+    {
+        "id_respuesta": 1980,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1980
+    },
+    {
+        "id_respuesta": 1981,
+        "respuesta": " False, el c\u00f3digo no compile arrojar\u00eda un error porque la variable `y` se define como un aliase de referencia de `x`, pero al final intenta almacenar en `y` una cadena con `std::cout << x << std::endl`; este generar\u00eda un error en la compilaci\u00f3n",
+        "id_pregunta": 1981
+    },
+    {
+        "id_respuesta": 1982,
+        "respuesta": " Falso",
+        "id_pregunta": 1982
+    },
+    {
+        "id_respuesta": 1983,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1983
+    },
+    {
+        "id_respuesta": 1984,
+        "respuesta": " True",
+        "id_pregunta": 1984
+    },
+    {
+        "id_respuesta": 1985,
+        "respuesta": " Falso",
+        "id_pregunta": 1985
+    },
+    {
+        "id_respuesta": 1986,
+        "respuesta": " Verdadero",
+        "id_pregunta": 1986
+    },
+    {
+        "id_respuesta": 1987,
+        "respuesta": " Falso",
+        "id_pregunta": 1987
     }
 ]

@@ -12710,5 +12710,1202 @@
         "tipo": "respuesta corta",
         "tema": "codigo",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1817,
+        "pregunta": "```javascript\nfunction multiply(a, b) {\n    return a * b;\n}\n\nconsole.log(multiply(3, 4));\n```\n\n\u00bfQu\u00e9 resultado se imprimir\u00e1 por pantalla si se ejecuta este c\u00f3digo?\n\nA) 7\nB) 12\nC) 0\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1818,
+        "pregunta": "```c\n#include <stdio.h>\n\nint main() {\n    int num = 5;\n\n    do {\n        printf(\"%d \", num);\n        num--;\n    } while(num > 0);\n\n    return 0;\n}\n```\n\n\u00bfQu\u00e9 imprime el siguiente c\u00f3digo?\n\nA) 5 4 3 2 1\n\nB) 5 4 3 2\n\nC) 6 5 4 3 2 1",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1819,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Test {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        int result = x + y;\n        \n        System.out.println(result);\n    }\n}\n```\n\nA) Suma dos n\u00fameros y muestra el resultado en consola.  \nB) Resta dos n\u00fameros y muestra el resultado en consola.  \nC) Multiplica dos n\u00fameros y muestra el resultado en consola.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1820,
+        "pregunta": "```javascript\nfunction sumArrayElements(arr) {\n   let sum = 0;\n\n   for(let i = 0; i < arr.length; i++) {\n       sum += arr[i];\n   }\n\n   return sum;\n}\n\n// \u00bfQu\u00e9 hace la funci\u00f3n sumArrayElements?\n\nA) Calcula el m\u00e1ximo valor de un array\nB) Suma todos los elementos de un array\nC) Divide todos los elementos de un array entre 2\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1821,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        \n        while(num > 0) {\n            System.out.println(num);\n            num--;\n        }\n    }\n}\n```\n\n\u00bfQu\u00e9 muestra en consola este c\u00f3digo?\n\nA) 5, 4, 3, 2, 1  \nB) 1, 2, 3, 4, 5  \nC) 0, 1, 2, 3, 4, 5",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1822,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nlet sum = 0;\nfor (let i = 1; i <= 10; i++) {\n    sum += i;\n}\nconsole.log(sum);\n```\n\nA) Calcula la suma de los n\u00fameros del 1 al 10 y muestra el resultado en la consola.\nB) Calcula el factorial de 10 y lo almacena en la variable `sum`.\nC) Crea un bucle infinito que suma los n\u00fameros del 1 al 10 y muestra el resultado en la consola.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1823,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 2;\n        \n        System.out.println(x / y);\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\nA) Calcula el residuo de la divisi\u00f3n de x entre y  \nB) Suma x y y y luego imprime el resultado  \nC) Divide x entre y y luego imprime el resultado  \n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1824,
+        "pregunta": "\u00bfQu\u00e9 resultado se obtiene al ejecutar el siguiente c\u00f3digo en Java?\n\n```java\npublic class SumaArray {\n    public static void main(String[] args) {\n        int[] numeros = {2, 4, 6, 8, 10};\n        int suma = 0;\n\n        for (int i = 0; i < numeros.length; i++) {\n            suma += numeros[i];\n        }\n\n        System.out.println(suma);\n    }\n}\n```\n\nA) Imprime \"30\"<br>\nB) Imprime \"20\"<br>\nC) Imprime \"40\"",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1825,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Java?\n\n```java\npublic class Suma {\n    public static void main(String[] args) {\n        int a = 5;\n        int b = 3;\n        int resultado = a + b;\n        System.out.println(resultado);\n    }\n}\n```\n\nA) Suma dos n\u00fameros y muestra el resultado en consola.\n\nB) Resta dos n\u00fameros y muestra el resultado en consola.\n\nC) Multiplica dos n\u00fameros y muestra el resultado en consola.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1826,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int i = 0;\n        while (i < 5) {\n            System.out.println(\"N\u00famero: \" + i);\n            i++;\n        }\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Imprime los n\u00fameros del 0 al 4 en consola.\nB) Imprime un mensaje indicando que el valor de `i` es menor a 5.\nC) No hace nada.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1827,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction sumNumbers(a, b) {\n  return a + b;\n}\n```\n\nA) Calcula el producto de dos n\u00fameros\n\nB) Concatena dos cadenas de texto\n\nC) Suma dos n\u00fameros",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1828,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\nint x = 5;\nint y = 3;\nint resultado = x + y;\nSystem.out.println(resultado);\n```\n\nA) Suma dos n\u00fameros\n\nB) Multiplica dos n\u00fameros\n\nC) Divide dos n\u00fameros",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1829,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        while (x > 0) {\n            System.out.print(x + \" \");\n            x -= 2;\n        }\n    }\n}\n```\n\n\u00bfQu\u00e9 resultado se imprimir\u00e1 al ejecutar este c\u00f3digo?\n\nA) 5 3 1   \nB) 5 4 3 2 1  \nC) 5 2\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1830,
+        "pregunta": "```c\n#include <stdio.h>\n\nint main() {\n    int num1 = 10;\n    int num2 = 5;\n    int resultado;\n\n    resultado = num1 + num2;\n    \n    printf(\"El resultado es: %d\", resultado);\n\n    return 0;\n}\n```\n\n\u00bfQu\u00e9 resultado imprimir\u00e1 este c\u00f3digo?\n\nA) 15  \nB) 10  \nC) 5  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1831,
+        "pregunta": "```java\npublic class Example {\n    public static int sum(int a, int b) {\n        return a + b;\n    }\n\n    public static void main(String[] args) {\n        int result = sum(3, 5);\n        System.out.println(result);\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Calcula la resta de dos n\u00fameros\n\nB) Calcula la multiplicaci\u00f3n de dos n\u00fameros\n\nC) Calcula la suma de dos n\u00fameros",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1832,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction suma(a, b) {\n  return a + b;\n}\n\nconsole.log(suma(3, 5));\n```\n\nA) Multiplica dos n\u00fameros\n\nB) Divide dos n\u00fameros\n\nC) Suma dos n\u00fameros",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1833,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef find_min(arr):\n    min_num = arr[0]\n    for num in arr:\n        if num < min_num:\n            min_num = num\n    return min_num\n\nprint(find_min([5, 3, 8, 2, 10]))\n```\n\nA) Encuentra el n\u00famero m\u00ednimo en una lista de n\u00fameros.\n\nB) Ordena una lista de n\u00fameros de menor a mayor.\n\nC) Calcula el promedio de una lista de n\u00fameros.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1834,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n\n        if (num % 2 == 0) {\n            System.out.println(\"El n\u00famero es par\");\n        } else {\n            System.out.println(\"El n\u00famero es impar\");\n        }\n    }\n}\n```\n\nA) Imprime si el n\u00famero es positivo o negativo\n\nB) Imprime si el n\u00famero es m\u00faltiplo de 3\n\nC) Imprime si el n\u00famero es par o impar",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1835,
+        "pregunta": "```c++\n#include <iostream>\n\nint main() {\n    int num = 5;\n    \n    for(int i = 0; i < num; i++) {\n        std::cout << i << std::endl;\n    }\n    \n    return 0;\n}\n```\n\n\u00bfQu\u00e9 muestra en pantalla el c\u00f3digo proporcionado?\n\nA) N\u00fameros del 0 al 4  \nB) N\u00fameros del 1 al 5  \nC) N\u00fameros del 0 al 5",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1836,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef suma(a, b):\n    return a + b\n\nresultado = suma(3, 5)\nprint(resultado)\n```\n\nA) Realiza una resta entre 3 y 5\n\nB) Realiza una multiplicaci\u00f3n entre 3 y 5\n\nC) Realiza una suma entre 3 y 5",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1837,
+        "pregunta": "```java\npublic class SumArray {\n\n    public static int sumArray(int[] array) {\n        int sum = 0;\n        for (int i = 0; i < array.length; i++) {\n            sum += array[i];\n        }\n        return sum;\n    }\n\n    public static void main(String[] args) {\n        int[] array = {1, 2, 3, 4, 5};\n        System.out.println(sumArray(array));\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Calcula la suma de todos los elementos de un array  \nB) Calcula el promedio de los elementos de un array  \nC) Selecciona el n\u00famero m\u00e1s grande de un array\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1838,
+        "pregunta": "```javascript\nfunction greeting(name){\n  return \"Hello, \" + name + \"!\";\n}\n\nconsole.log(greeting(\"Alice\"));\n```\n\n\u00bfQu\u00e9 mensaje se imprimir\u00e1 en la consola al ejecutar este c\u00f3digo?\n\nA) Hello, Alice!\nB) Hola, Alice!\nC) Goodbye, Alice!\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1839,
+        "pregunta": "\u00bfQu\u00e9 resultado devuelve el siguiente c\u00f3digo?\n\n```C\n#include <stdio.h>\n\nint main() {\n    int num1 = 5;\n    int num2 = 7;\n    int suma = num1 + num2;\n    \n    printf(\"%d\", suma);\n    \n    return 0;\n}\n```\n\nA) 10  \nB) 12  \nC) 2  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1840,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\n```javascript\nfunction sumArray(array) {\n  let sum = 0;\n  \n  for (let i = 0; i < array.length; i++) {\n    sum += array[i];\n  }\n  \n  return sum;\n}\n```\n\nA) Calcula la suma de todos los elementos de un arreglo  \nB) Ordena los elementos de un arreglo de menor a mayor  \nC) Elimina los elementos duplicados de un arreglo",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1841,
+        "pregunta": "```c\n#include <stdio.h>\n\nint main() {\n    int num1 = 10;\n    int num2 = 5;\n    \n    int resultado = num1 + num2;\n    \n    printf(\"%d\", resultado);\n    \n    return 0;\n}\n```\n\n\u00bfQu\u00e9 realiza el c\u00f3digo mostrado?\n\nA) Multiplica dos n\u00fameros\n\nB) Divide dos n\u00fameros\n\nC) Suma dos n\u00fameros",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1842,
+        "pregunta": "```c\n#include <stdio.h>\n\nint main() {\n    int num1 = 5, num2 = 3;\n    int resultado = num1 + num2;\n\n    printf(\"El resultado es: %d\", resultado);\n\n    return 0;\n}\n```\n\n\u00bfQu\u00e9 realiza el c\u00f3digo proporcionado?\n\nA) Multiplica dos n\u00fameros\n\nB) Suma dos n\u00fameros\n\nC) Resta dos n\u00fameros\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1843,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en lenguaje Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        \n        for (int i = 1; i <= num; i++) {\n            System.out.println(i * i);\n        }\n    }\n}\n```\n\nA) Imprime los cuadrados de los n\u00fameros del 1 al 5 en consola.\nB) Calcula la suma de los n\u00fameros del 1 al 5.\nC) Genera un bucle infinito imprimiendo el n\u00famero 5 en consola.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1844,
+        "pregunta": "```javascript\nfunction sumNumbers(num1, num2) {\n  return num1 + num2;\n}\n\nconsole.log(sumNumbers(3, 5));\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Multiplica dos n\u00fameros\n\nB) Divide dos n\u00fameros\n\nC) Suma dos n\u00fameros\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1845,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num1 = 5;\n        int num2 = 3;\n        \n        System.out.println(num1 + num2);\n    }\n}\n```\n\nA) Suma los n\u00fameros 5 y 3 y muestra el resultado en la consola.  \nB) Multiplica los n\u00fameros 5 y 3 y muestra el resultado en la consola.  \nC) Divide los n\u00fameros 5 y 3 y muestra el resultado en la consola.  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1846,
+        "pregunta": "```java\npublic class Example {\n    public static void main(String[] args) {\n        int num = 5;\n        \n        for (int i = 0; i < num; i++) {\n            System.out.println(i * 2 + 1);\n        }\n    }\n}\n```\n\n\u00bfQu\u00e9 imprime el c\u00f3digo proporcionado?\n\nA) Los n\u00fameros impares del 0 al 9  \nB) Los n\u00fameros impares del 1 al 9  \nC) Los n\u00fameros impares del 1 al 10  \n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1847,
+        "pregunta": "```c\n#include <stdio.h>\n\nint main() {\n    int num1 = 5;\n    int num2 = 3;\n    int suma = num1 + num2;\n    \n    printf(\"El resultado es: %d\", suma);\n    \n    return 0;\n}\n```\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\nA) Calcula la resta entre num1 y num2\n\nB) Calcula la multiplicaci\u00f3n entre num1 y num2\n\nC) Calcula la suma entre num1 y num2",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1848,
+        "pregunta": "```java\npublic class Example {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 2;\n        \n        int result = x + y;\n        System.out.println(result);\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Imprime el resultado de la suma de dos n\u00fameros  \nB) Crea una lista con los valores 5 y 2  \nC) Define dos variables x y y con valores 5 y 2 respectivamente  \n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1849,
+        "pregunta": "```c\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    int y = 10;\n\n    int z = x + y;\n\n    printf(\"%d\\n\", z);\n\n    return 0;\n}\n```\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\nA) Suma dos variables y muestra el resultado en pantalla  \nB) Resta dos variables y muestra el resultado en pantalla  \nC) Multiplica dos variables y muestra el resultado en pantalla  \n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1850,
+        "pregunta": "\u00bfQu\u00e9 resultado se obtiene al ejecutar el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nlet a = 5;\nlet b = 2;\nlet c = a + b;\nconsole.log(c);\n```\n\nA) 5  \nB) 2  \nC) 7  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1851,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Java?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int sum = 0;\n        \n        for(int i = 1; i <= 10; i++) {\n            sum += i;\n        }\n        \n        System.out.println(\"La suma es: \" + sum);\n    }\n}\n```\n\nA) Calcula la suma de los n\u00fameros del 1 al 10 y la imprime.\n\nB) Calcula la resta de los n\u00fameros del 1 al 10 y la imprime.\n\nC) Calcula el producto de los n\u00fameros del 1 al 10 y la imprime.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1852,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en C++?\n\n```cpp\n#include <iostream> \n\nint main() {\n   int x = 5;\n   int y = 10;\n   int z = x + y;\n\n   std::cout << z;\n\n   return 0;\n}\n```\n\nA) Imprime la suma de dos n\u00fameros\n\nB) Calcula el producto de dos n\u00fameros\n\nC) Concatena dos cadenas de texto",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1853,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 3;\n        System.out.println(x % y);\n    }\n}\n```\n\n\u00bfQu\u00e9 se imprime al ejecutar este c\u00f3digo?\n\nA) 2\nB) 1\nC) 0\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1854,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        if (num % 2 == 0) {\n            System.out.println(\"El n\u00famero es par\");\n        } else {\n            System.out.println(\"El n\u00famero es impar\");\n        }\n    }\n}\n```\n\nA) Verifica si el n\u00famero es divisible por 3. En caso afirmativo, imprime \"El n\u00famero es divisible por 3\".\n\nB) Verifica si el n\u00famero es divisible por 2. En caso afirmativo, imprime \"El n\u00famero es par\".\n\nC) Imprime el n\u00famero al cuadrado.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1855,
+        "pregunta": "```cpp\nint main() {\n    int a = 5;\n    int b = 3;\n    \n    int c = a + b;\n    \n    std::cout << c << std::endl;\n    \n    return 0;\n}\n```\n\n\u00bfQu\u00e9 imprimir\u00e1 el c\u00f3digo proporcionado?\n\nA) 2\nB) 5\nC) 8\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1856,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction sumar(a, b){\n    return a + b;\n}\n```\n\nA) Resta dos n\u00fameros  \nB) Multiplica dos n\u00fameros  \nC) Suma dos n\u00fameros  ",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1857,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en JavaScript?\n\n```javascript\nfunction sumArray(arr) {\n    let sum = 0;\n    for (let i = 0; i < arr.length; i++) {\n        sum += arr[i];\n    }\n    return sum;\n}\n\nlet numbers = [1, 2, 3, 4, 5];\nconsole.log(sumArray(numbers));\n```\n\nA) Calcula la suma de todos los elementos en el array `numbers` y muestra el resultado en la consola\n\nB) Crea un nuevo array con los elementos de `numbers` sumados uno por uno\n\nC) Multiplica todos los elementos en el array `numbers` y muestra el resultado en la consola",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1858,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo JavaScript?\n\n```javascript\nfunction sumar(a, b) {\n  return a + b;\n}\n\nconsole.log(sumar(5, 3));\n```\n\nA) Multiplica dos n\u00fameros\n\nB) Resta dos n\u00fameros\n\nC) Suma dos n\u00fameros",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1859,
+        "pregunta": "```java\npublic class SumArray {\n\n    public static int sumArray(int[] array) {\n        int sum = 0;\n        for (int i = 0; i < array.length; i++) {\n            sum += array[i];\n        }\n        return sum;\n    }\n\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n        System.out.println(sumArray(numbers));\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo mostrado?\n\nA) Calcula la suma de todos los elementos de un arreglo.\nB) Multiplica todos los elementos de un arreglo.\nC) Ordena los elementos de un arreglo de forma descendente.\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1860,
+        "pregunta": "```javascript\nfunction sumArray(arr) {\n    let sum = 0;\n    for (let i = 0; i < arr.length; i++) {\n        sum += arr[i];\n    }\n    return sum;\n}\n\nconsole.log(sumArray([1, 2, 3, 4, 5]));\n```\n\n\u00bfQu\u00e9 hace el siguiente c\u00f3digo?\n\nA) Calcula la suma de todos los elementos de un arreglo  \nB) Calcula el producto de todos los elementos de un arreglo  \nC) Ordena los elementos de un arreglo de forma descendente  \n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1861,
+        "pregunta": "```java\npublic class Example {\n    public static void main(String[] args) {\n        int[] numbers = {2, 4, 6, 8, 10};\n        int sum = 0;\n\n        for (int number : numbers) {\n            sum += number;\n        }\n\n        System.out.println(sum);\n    }\n}\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Imprime la suma de los n\u00fameros pares del arreglo\nB) Imprime la suma de todos los n\u00fameros del arreglo\nC) No compila, hay un error en la sintaxis\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1862,
+        "pregunta": "\u00bfQu\u00e9 hace el siguiente c\u00f3digo en Python?\n\n```python\ndef suma(a, b):\n    return a + b\n\nresultado = suma(5, 7)\nprint(resultado)\n```\n\nA) Realiza la multiplicaci\u00f3n de los n\u00fameros 5 y 7.\nB) Realiza la resta de los n\u00fameros 5 y 7.\nC) Realiza la suma de los n\u00fameros 5 y 7.",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1863,
+        "pregunta": "\u00bfQu\u00e9 realiza el siguiente c\u00f3digo en Python?\n\n```python\ndef reverse_string(s):\n    return s[::-1]\n\nprint(reverse_string(\"hello\"))\n```\n\nA) Concatena la palabra \"hello\" con otra palabra  \nB) Invierte la palabra \"hello\"  \nC) Elimina las vocales de la palabra \"hello\"",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1864,
+        "pregunta": "```javascript\nfunction sumArray(arr) {\n    let sum = 0;\n    for(let i = 0; i < arr.length; i++) {\n        sum += arr[i];\n    }\n    return sum;\n}\n\n\u00bfQu\u00e9 hace el c\u00f3digo anterior?\n\nA) Calcula la suma de todos los elementos de un array\nB) Multiplica todos los elementos de un array\nC) Reemplaza todos los elementos de un array por su cuadrado\n```",
+        "tipo": "test con 3 opciones",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1865,
+        "pregunta": "Verdadero o falso:\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = x + 3;\n        \n        System.out.println(y);\n    }\n}\n```\n\nEl c\u00f3digo suma 3 al valor de la variable x y luego imprime el resultado. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1866,
+        "pregunta": "Verdadero o falso: El siguiente c\u00f3digo en JavaScript verifica si un n\u00famero es par.\n\n```javascript\nfunction esPar(numero) {\n  if (numero % 2 === 0) {\n    return true;\n  } else {\n    return false;\n  }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1867,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        if (x > 10) {\n            System.out.println(\"Verdadero\");\n        } else {\n            System.out.println(\"Falso\");\n        }\n    }\n}\n```\nLa salida de este c\u00f3digo es Verdadero. (Verdadero/Falso) \n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1868,
+        "pregunta": "Verdadero o falso:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    x = x * 2;\n    printf(\"%d\", x);\n    return 0;\n}\n```\n\nEste c\u00f3digo imprime el resultado de multiplicar un entero por 2. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1869,
+        "pregunta": "\u00bfVerdadero o falso?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        int z = x + y;\n        System.out.println(z);\n    }\n}\n```\n\nEste c\u00f3digo imprime la suma de dos n\u00fameros. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1870,
+        "pregunta": "Verdadero o Falso:\n\n```java\npublic class Suma {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        int resultado = x + y;\n\n        System.out.println(resultado);\n    }\n}\n```\n\nEste c\u00f3digo imprime la suma de los n\u00fameros 5 y 10. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1871,
+        "pregunta": "```java\nint num = 5;\nboolean result = num > 10;\n```\n\nEl c\u00f3digo anterior devuelve verdadero. (Verdadero/Falso) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1872,
+        "pregunta": "Verdadero o falso:\nEl siguiente c\u00f3digo en JavaScript imprime \"Hola Mundo\" en la consola.\n\n```javascript\nconsole.log(\"Hola Mundo\");\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1873,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en JavaScript muestra una alerta con el mensaje \"Hola Mundo\":\n\n```javascript\nalert(\"Hola Mundo\");\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1874,
+        "pregunta": "Verdadero o falso:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int i = 0;\n    while (i < 5) {\n        printf(\"%d\\n\", i);\n        i++;\n    }\n    return 0;\n}\n```\n\nEste c\u00f3digo imprime los n\u00fameros del 0 al 4. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1875,
+        "pregunta": "Verdadero o falso:\n\n```javascript\nfunction sumar(a, b) {\n  return a + b;\n}\n```\n\nEste c\u00f3digo realiza operaciones de resta. \n\nVerdadero o Falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1876,
+        "pregunta": "```javascript\nvar x = 10;\nvar y = 5;\nvar z = x + y;\n```\n\nEste c\u00f3digo suma dos variables y guarda el resultado en una tercera variable. \u00bfVerdadero o falso? \n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1877,
+        "pregunta": "Verdadero o falso: \u00bfEl siguiente c\u00f3digo en JavaScript suma dos n\u00fameros y muestra el resultado en la consola?\n\n```javascript\nlet a = 5;\nlet b = 3;\nlet resultado = a - b;\nconsole.log(resultado);\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1878,
+        "pregunta": "```java\npublic class Hello {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}\n```\n\nEl c\u00f3digo imprime por pantalla \"Hello, World!\". Verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1879,
+        "pregunta": "```java\nint a = 5;\nint b = 3;\nint c = a * b;\n```\n\nEste c\u00f3digo realiza una operaci\u00f3n de multiplicaci\u00f3n entre dos variables y guarda el resultado en una tercera variable. Verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1880,
+        "pregunta": "Verdadero o falso:\nEl siguiente c\u00f3digo en Python genera un n\u00famero aleatorio entre 1 y 10:\n\n```python\nimport random\n\nnumero = random.randint(1, 10)\n```\n\n\u00bfQu\u00e9 hace el c\u00f3digo? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1881,
+        "pregunta": "Verdadero o falso:\n\n```javascript\nvar num = 10;\nnum += 5;\nnum *= 2;\nnum /= 4;\n```\n\nEste c\u00f3digo realiza operaciones aritm\u00e9ticas con la variable `num`. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1882,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en JavaScript imprime \"Hola Mundo\" en la consola?\n\n```javascript\nconsole.log(\"Hola Mundo\");\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1883,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        System.out.println(x + y);\n    }\n}\n```\n\nEste c\u00f3digo imprime la suma de dos variables. Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1884,
+        "pregunta": "Verdadero o falso: El siguiente c\u00f3digo en Java crea un array de enteros de tama\u00f1o 5 e inicializa todos sus elementos en 0.\n\n```java\nint[] array = new int[5];\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1885,
+        "pregunta": "```java\nint x = 5;\nint y = 3;\nint z = x + y;\n```\n\nEste c\u00f3digo realiza una operaci\u00f3n de suma entre dos variables. Verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1886,
+        "pregunta": "```javascript\nlet x = 5;\nlet y = 10;\n\nlet result = x * y + 10;\n\nreturn result;\n```\n\nEste c\u00f3digo devuelve el resultado de una operaci\u00f3n matem\u00e1tica. Verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1887,
+        "pregunta": "Verdadero o Falso:\n\n```java\npublic class Suma {\n    public static void main(String[] args) {\n        int a = 10;\n        int b = 5;\n        int resultado = a + b;\n        \n        System.out.println(resultado);\n    }\n}\n```\n\nEste c\u00f3digo imprime la suma de dos n\u00fameros en consola. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1888,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en Java imprime \"Hola Mundo\" en la consola?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hola Mundo\");\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1889,
+        "pregunta": "**Verdadero o Falso:**\n\n```java\npublic class Suma {\n\n    public static void main(String[] args) {\n        int num1 = 5;\n        int num2 = 3;\n        \n        System.out.println(num1 + num2);\n    }\n}\n```\n\n\u00bfEl c\u00f3digo anterior imprime el resultado de la suma de los n\u00fameros 5 y 3?\n\nVerdadero o Falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1890,
+        "pregunta": "```java\npublic class SumNumbers {\n    public static void main(String[] args) {\n        int sum = 0;\n        for (int i = 1; i <= 5; i++) {\n            sum += i;\n        }\n        System.out.println(sum);\n    }\n}\n```\n\n\u00bfVerdadero o falso? El c\u00f3digo muestra por consola la suma de los n\u00fameros del 1 al 5.\n\nEjemplo:\n```\nOutput: 15\n```\n\nRespuesta: Verdadero Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1891,
+        "pregunta": "**Verdadero o falso: El siguiente c\u00f3digo en Java imprime \"Hola Mundo\" en la consola.**\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hola Mundo\");\n    }\n}\n```\n\nVerdadero. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1892,
+        "pregunta": "**Verdadero o falso: El siguiente c\u00f3digo en JavaScript imprime por consola la palabra \"Hola\"**\n\n```javascript\nconsole.log(\"Hola\");\n```\n\n**Ejemplo:** Si se ejecuta el c\u00f3digo en un navegador web, \u00bfimprimir\u00e1 por consola la palabra \"Hola\"?\n\n**Respuesta:** Verdadero. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1893,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en JavaScript imprimir\u00e1 en consola el mensaje \"Hola Mundo\":\n\n```javascript\nconsole.log(\"Hello World\");\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1894,
+        "pregunta": "Verdadero o falso: El siguiente c\u00f3digo en Java compila sin errores.\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        double y = 2.5;\n        double z = x + y;\n        System.out.println(z);\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1895,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo est\u00e1 escrito en lenguaje C++.\n\n```cpp\n#include <iostream>\n\nint main() {\n    int a = 5;\n    int b = 3;\n    \n    int resultado = a * b;\n    \n    std::cout << \"El resultado es: \" << resultado << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1896,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en Java imprimir\u00e1 por pantalla el mensaje \"Hola Mundo\":\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hola Mundo\");\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1897,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en C imprimir\u00e1 \"Hello, World!\" en la consola.\n\n```c\n#include <stdio.h>\n\nint main() {\n    printf(\"Hello, World!\");\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1898,
+        "pregunta": "El siguiente c\u00f3digo en Python es v\u00e1lido:\n\n```python\nif x == 5:\n    print(\"x es igual a 5\")\nelse:\n    print(\"x no es igual a 5\")\n``` \n\nVerdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1899,
+        "pregunta": "Verdadero o falso:\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        if (x > y) {\n            System.out.println(\"x es mayor que y\");\n        } else {\n            System.out.println(\"y es mayor que x\");\n        }\n    }\n}\n```\n\nEl c\u00f3digo Java mostrado imprimir\u00e1 \"y es mayor que x\". Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1900,
+        "pregunta": "Dado el siguiente c\u00f3digo en Java, \u00bfla variable \"resultado\" contendr\u00e1 el valor 15 al finalizar la ejecuci\u00f3n?\n\n```java\nint x = 5;\nint y = 10;\nint resultado = x + y;\n``` \n\nVerdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1901,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en Python es v\u00e1lido?\n\n```python\nfor i in range(5)\n    print(i)\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1902,
+        "pregunta": "```java\npublic class Suma {\n    public static void main(String[] args) {\n        int a = 5;\n        int b = 10;\n        int resultado = a + b;\n        System.out.println(resultado);\n    }\n}\n```\n\nLa declaraci\u00f3n de variables en este c\u00f3digo es incorrecta. True/False. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1903,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        int z = x + y;\n        System.out.println(z);\n    }\n}\n```\n\nEl resultado de este c\u00f3digo ser\u00e1 15. Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1904,
+        "pregunta": "Verdadero o falso:\n```javascript\nvar x = 10;\nvar y = 5;\nvar resultado = x + y;\n```\n\nEste c\u00f3digo calcula la suma de dos n\u00fameros y almacena el resultado en la variable `resultado`. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1905,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C es v\u00e1lido?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int num = 10;\n\n    if (num > 5) {\n        printf(\"El n\u00famero es mayor que 5\");\n    }\n    else\n        printf(\"El n\u00famero es menor o igual a 5\");\n\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1906,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 3;\n        \n        System.out.println(x > y || y < 2);\n    }\n}\n```\n\nVerdadero o falso: El resultado de este c\u00f3digo ser\u00e1 \"true\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1907,
+        "pregunta": "Dada la siguiente funci\u00f3n en C:\n\n```c\nint esPar(int numero) {\n    if(numero % 2 == 0) {\n        return 1;\n    } else {\n        return 0;\n    }\n}\n```\n\nLa afirmaci\u00f3n \"Esta funci\u00f3n devuelve 1 si el n\u00famero ingresado es par, de lo contrario devuelve 0\" es verdadera. (Verdadero/Falso) Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1908,
+        "pregunta": "Dado el siguiente c\u00f3digo en Java, \u00bfla variable \"suma\" tendr\u00e1 como valor final 20?\n\n```java\nint suma = 0;\nfor (int i = 1; i <= 10; i++) {\n    suma += i;\n}\n``` \n\nVerdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1909,
+        "pregunta": "Dado el siguiente c\u00f3digo en Java, \u00bfla variable \"resultado\" ser\u00e1 igual a 18 al finalizar su ejecuci\u00f3n?\n\n```java\nint suma = 10 + 8;\nint resultado = suma * 2;\n``` \n\nVerdadero / Falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1910,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en Java compila sin errores?\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        System.out.println(\"La suma de x e y es: \" + (x + y));\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1911,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        System.out.println(x == y);\n    }\n}\n```\n\nEl c\u00f3digo imprimir\u00e1 `false`. Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1912,
+        "pregunta": "El siguiente c\u00f3digo en Java es una implementaci\u00f3n v\u00e1lida de un algoritmo de b\u00fasqueda binaria:\n\n```java\npublic class BinarySearch {\n    public static int binarySearch(int arr[], int x) {\n        int start = 0, end = arr.length - 1;\n        while (start <= end) {\n            int mid = start + (end - start) / 2;\n            if (arr[mid] == x)\n                return mid;\n            if (arr[mid] < x)\n                start = mid + 1;\n            else\n                end = mid - 1;\n        }\n        return -1;\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 1913,
+        "pregunta": "Dado el siguiente c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int a = 5;\n    int b = 3;\n    int c = a / b;\n    \n    printf(\"El resultado es: %d\\n\", c);\n    \n    return 0;\n}\n```\n\nVerdadero o falso: El resultado impreso por este c\u00f3digo ser\u00e1 1. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1914,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en C++ compila y se ejecuta correctamente:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int i = 5;\n    int j = 10;\n    int k = i + j;\n\n    std::cout << \"El resultado es: \" << k << std::endl;\n\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1915,
+        "pregunta": "El siguiente c\u00f3digo en Java muestra un error de compilaci\u00f3n:\n\n```java\npublic class Test {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 0;\n        int z = x / y;\n        System.out.println(z);\n    }\n}\n``` \n\n\u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1916,
+        "pregunta": "En el siguiente fragmento de c\u00f3digo en C++ se est\u00e1 realizando una recursi\u00f3n correctamente:\n\n```cpp\nint factorial(int n) {\n    if (n == 0){\n        return 1;\n    }\n    return n * factorial(n - 1);\n}\n``` \n\n\u00bfVerdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1917,
+        "pregunta": "El siguiente c\u00f3digo en C++ compila sin errores:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    if (x > 3) {\n        std::cout << \"Verdadero\" << std::endl;\n    } else {\n        std::cout << \"Falso\" << std::endl;\n    }\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1918,
+        "pregunta": "Dado el siguiente c\u00f3digo en C++:\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int x = 5;\n\n    if (x > 3) {\n        cout << \"Verdadero\" << endl;\n    } else {\n        cout << \"Falso\" << endl;\n    }\n\n    return 0;\n}\n```\n\nVerdadero o falso: Este c\u00f3digo imprimir\u00e1 \"Verdadero\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1919,
+        "pregunta": "Verdadero o falso:\n\nEn el siguiente c\u00f3digo en C, se realiza correctamente la lectura de un archivo y se imprime su contenido en la consola:\n\n```c\n#include <stdio.h>\n\nint main() {\n    FILE *archivo;\n    char c;\n\n    archivo = fopen(\"archivo.txt\", \"r\");\n\n    if (archivo == NULL) {\n        printf(\"Error al abrir el archivo\");\n        return 1;\n    }\n\n    while ((c = getc(archivo)) != EOF) {\n        printf(\"%c\", c);\n    }\n\n    fclose(archivo);\n\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1920,
+        "pregunta": "Dado el siguiente c\u00f3digo en lenguaje C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    int z = x + y;\n    \n    if (z > 10) {\n        printf(\"La suma es mayor a 10.\");\n    } else {\n        printf(\"La suma es menor o igual a 10.\");\n    }\n    \n    return 0;\n}\n```\n\nVerdadero o falso: Este c\u00f3digo imprimir\u00e1 \"La suma es mayor a 10.\" en la consola. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1921,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en Java compila correctamente?\n\n```java\npublic class Test {\n    public static void main(String[] args) {\n        int x = 10;\n        int y = 5;\n        int z = x + y;\n        \n        System.out.println(\"El resultado de la suma es: \" + z);\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1922,
+        "pregunta": "El siguiente c\u00f3digo en lenguaje C es v\u00e1lido:\n\n```c\n#include<stdio.h>\n\nint main() {\n    int x = 10;\n    int y = 5;\n    \n    if (x > y)\n        printf(\"x es mayor que y\");\n    else\n        printf(\"y es mayor que x\");\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1923,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en Java compila sin errores:\n\n```java\npublic class Test {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        System.out.println(\"El resultado es: \" + sum(x, y));\n    }\n    \n    public static int sum(int a, int b) {\n        return a + b;\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1924,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ compila satisfactoriamente?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    \n    int z = x + y;\n    \n    std::cout << \"El valor de z es: \" << z << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1925,
+        "pregunta": "Dado el siguiente c\u00f3digo en C++:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n\n    int resultado = x + y;\n\n    std::cout << \"El resultado es: \" << resultado << std::endl;\n\n    return 0;\n}\n```\n\nVerdadero o falso:\nEl c\u00f3digo muestra por pantalla el resultado de la suma de dos variables. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1926,
+        "pregunta": "El siguiente c\u00f3digo en C++ compila sin errores:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 10;\n    int y = 5;\n    \n    std::cout << \"La suma de x e y es: \" << (x + y) << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1927,
+        "pregunta": "El siguiente c\u00f3digo en Java es correcto:\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int numero = 10;\n        \n        if(numero % 2 == 0) {\n            System.out.println(\"El n\u00famero es par.\");\n        } else {\n            System.out.println(\"El n\u00famero es impar.\");\n        }\n    }\n}\n```\n\nVerdadero o falso: El c\u00f3digo compila y se ejecuta correctamente. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1928,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int a = 5;\n        int b = 10;\n        a = a + b;\n        b = a - b;\n        a = a - b;\n        \n        System.out.println(\"a: \" + a);\n        System.out.println(\"b: \" + b);\n    }\n}\n```\n\nEl intercambio de valores entre las variables `a` y `b` se realiza de manera correcta. Verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1929,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en Java compila correctamente:\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        if (x > y) {\n            System.out.println(\"x es mayor que y\");\n        } else {\n            System.out.println(\"y es mayor que x\");\n        }\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1930,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en C++ compila exitosamente:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 10;\n    int y = 5;\n    \n    if (x > y) {\n        std::cout << \"x es mayor que y\" << std::endl;\n    else\n        std::cout << \"y es mayor que x\" << std::endl;\n        \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1931,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en Python imprimir\u00e1 el n\u00famero 10 en pantalla:\n\n```python\ndef funcion(x):\n    return x + 5\n\nresultado = funcion(5)\nif resultado == 10:\n    print(\"El resultado es 10\")\nelse:\n    print(\"El resultado no es 10\")\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1932,
+        "pregunta": "```java\npublic class SumArray {\n    public static int sum(int[] array) {\n        int result = 0;\n        for(int i = 0; i < array.length; i++) {\n            result += array[i];\n        }\n        return result;\n    }\n\n    public static void main(String[] args) {\n        int[] numbers = {1, 2, 3, 4, 5};\n        int total = sum(numbers);\n        System.out.println(total);\n    }\n}\n```\n\nEl c\u00f3digo dado suma todos los elementos de un arreglo de n\u00fameros en Java. True o False. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1933,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en Java es capaz de ordenar un arreglo de n\u00fameros de forma ascendente?\n\n```java\npublic class Ordenamiento {\n    public static void main(String[] args) {\n        int[] arr = {64, 34, 25, 12, 22, 11, 90};\n        int n = arr.length;\n        \n        for (int i = 0; i < n-1; i++) {\n            for (int j = 0; j < n-i-1; j++) {\n                if (arr[j] > arr[j+1]) {\n                    int temp = arr[j];\n                    arr[j] = arr[j+1];\n                    arr[j+1] = temp;\n                }\n            }\n        }\n        \n        for (int i = 0; i < n; i++) {\n            System.out.print(arr[i] + \" \");\n        }\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1934,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ est\u00e1 correctamente formateado?\n\n```cpp\n#include <iostream>\n\nint main() {\nint x = 5;\nif (x > 0) {\nstd::cout << \"El n\u00famero es positivo\" << std::endl;\n} else {\nstd::cout << \"El n\u00famero es negativo\" << std::endl;\n}\nreturn 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1935,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n\n        System.out.println(x < 10 && y > 5);\n    }\n}\n```\n\nLa expresi\u00f3n `x < 10 && y > 5` devolver\u00e1 verdadero. Verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1936,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        \n        x = x + y;\n        y = x - y;\n        x = x - y;\n        \n        System.out.println(\"x = \" + x);\n        System.out.println(\"y = \" + y);\n    }\n}\n```\n\nLa afirmaci\u00f3n es: \u00bfEl c\u00f3digo intercambia los valores de las variables `x` e `y`? Verdadero o Falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1937,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        if(x < y || y > 15) {\n            System.out.println(\"Verdadero\");\n        } else {\n            System.out.println(\"Falso\");\n        }\n    }\n}\n```\n\nEl resultado de este c\u00f3digo es verdadero.  \nVerdadero  \nFalso Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1938,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 5;\n        \n        if(num % 2 == 0) {\n            System.out.println(\"El n\u00famero es par\");\n        } else {\n            System.out.println(\"El n\u00famero es impar\");\n        }\n    }\n}\n```\n\nEl c\u00f3digo proporcionado determina si un n\u00famero es par o impar. Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1939,
+        "pregunta": "```javascript\nfunction sumNumbers(a, b) {\n  return a + b;\n}\n\nconsole.log(sumNumbers(2, 3)); // 5\n```\n\nLa siguiente afirmaci\u00f3n es verdadera o falsa: El c\u00f3digo dado suma dos n\u00fameros y devuelve el resultado. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1940,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ compila correctamente?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    \n    if (x < y) {\n        std::cout << \"x es menor que y\";\n    }\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1941,
+        "pregunta": "Dado el siguiente c\u00f3digo en C++:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int numero = 10;\n    bool resultado = numero > 5 ? true : false;\n    \n    if(resultado)\n        std::cout << \"Verdadero\" << std::endl;\n    else\n        std::cout << \"Falso\" << std::endl;\n    \n    return 0;\n}\n```\n\nVerdadero o falso: Este c\u00f3digo imprimir\u00e1 \"Verdadero\" en la consola. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1942,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ compila correctamente?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    \n    int z = x + y;\n    \n    std::cout << z << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1943,
+        "pregunta": "```java\npublic class Fibonacci {\n    public static void main(String[] args) {\n        int n = 10;\n        System.out.println(fibonacci(n));\n    }\n\n    public static int fibonacci(int n) {\n        if (n <= 1) {\n            return n;\n        } else {\n            return fibonacci(n - 1) + fibonacci(n - 2);\n        }\n    }\n}\n```\n\nEl c\u00f3digo proporcionado calcula de manera correcta el n-\u00e9simo n\u00famero de la secuencia de Fibonacci. True/False. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1944,
+        "pregunta": "Dado el siguiente c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int num = 10;\n    \n    if (num > 5) {\n        printf(\"El n\u00famero es mayor que 5\");\n    } else {\n        printf(\"El n\u00famero es menor o igual que 5\");\n    }\n\n    return 0;\n}\n```\n\nVerdadero o falso:\nEl mensaje impreso por el programa ser\u00e1 \"El n\u00famero es mayor que 5\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1945,
+        "pregunta": "```java\npublic class ArrayExample {\n    public static void main(String[] args) {\n        int[] arr = {1, 2, 3, 4, 5};\n        int sum = 0;\n        \n        for (int i = 0; i <= arr.length; i++) {\n            sum += arr[i];\n        }\n        \n        System.out.println(sum);\n    }\n}\n```\n\nEl c\u00f3digo presentado compila sin errores. True o False. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1946,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en Java es capaz de ordenar un arreglo de enteros de forma ascendente?\n\n```java\npublic static void bubbleSort(int[] arr) {\n    int n = arr.length;\n    int temp = 0;\n\n    for(int i=0; i < n; i++) {\n        for(int j=1; j < (n-i); j++) {\n            if(arr[j-1] > arr[j]) {\n                temp = arr[j-1];\n                arr[j-1] = arr[j];\n                arr[j] = temp;\n            }\n        }\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1947,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        \n        if (x < 10) {\n            System.out.println(\"Verdadero\");\n        } else {\n            System.out.println(\"Falso\");\n        }\n    }\n}\n```\n\nEste c\u00f3digo imprimir\u00e1 \"Verdadero\". Verdadero o falso? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1948,
+        "pregunta": "```java\npublic class ArraySum {\n    public static int sumArray(int[] arr) {\n        int sum = 0;\n        for (int i = 0; i < arr.length; i++) {\n            sum += arr[i];\n        }\n        return sum;\n    }\n}\n```\n\nEl c\u00f3digo proporcionado en el fragmento de Java calcula la suma de los elementos de un arreglo. Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1949,
+        "pregunta": "```java\npublic class Factorial {\n\n    public int calcularFactorial(int n) {\n        if (n == 0) {\n            return 1;\n        } else {\n            return n * calcularFactorial(n - 1);\n        }\n    }\n\n    public static void main(String[] args) {\n        Factorial factorial = new Factorial();\n        System.out.println(factorial.calcularFactorial(5)); // Se calcula el factorial de 5\n    }\n}\n```\n\nEste c\u00f3digo calcula de forma correcta el factorial de un n\u00famero ingresado. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1950,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en Java compila correctamente?\n\n```java\npublic class Example {\n    public static void main(String[] args) {\n        int x = 10;\n        int y = 5;\n        \n        if (x > y) {\n            System.out.println(\"x es mayor que y\");\n        } else if (x < y) {\n            System.out.println(\"x es menor que y\");\n        } else {\n            System.out.println(\"x es igual a y\");\n        }\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1951,
+        "pregunta": "Dado el siguiente c\u00f3digo en Java, \u00bfla variable \"resultado\" contendr\u00e1 el valor 10 al finalizar su ejecuci\u00f3n?\n\n```java\nint x = 5;\nint y = 2;\nint z = 3;\nint resultado = x + y * z;\n```\n\nVerdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1952,
+        "pregunta": "\n**\u00bfVerdadero o falso?**\n\nEl siguiente c\u00f3digo en Java utiliza el algoritmo de ordenamiento de burbuja para ordenar un arreglo de n\u00fameros:\n\n```java\npublic class BubbleSort {\n    public void bubbleSort(int arr[]) {\n        int n = arr.length;\n        for (int i = 0; i < n-1; i++) {\n            for (int j = 0; j < n-i-1; j++) {\n                if (arr[j] > arr[j+1]) {\n                    int temp = arr[j];\n                    arr[j] = arr[j+1];\n                    arr[j+1] = temp;\n                }\n            }\n        }\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1953,
+        "pregunta": "Verdadero o falso:\nEl siguiente c\u00f3digo en C++ compila correctamente:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    \n    if (x > y) {\n        std::cout << x + y << std::endl;\n    } else {\n        std::cout << x - y << std::endl;\n    }\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1954,
+        "pregunta": "Dado el siguiente c\u00f3digo en C++:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    \n    if (x < y) {\n        std::cout << \"x es menor que y\" << std::endl;\n    } else {\n        std::cout << \"x es mayor o igual que y\" << std::endl;\n    }\n    \n    return 0;\n}\n```\n\nVerdadero o falso: El programa imprimir\u00e1 \"x es menor que y\" si y solo si el valor de la variable `x` es menor que el valor de la variable `y`. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1955,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 10;\n        int y = 5;\n        \n        if (x > y) {\n            System.out.println(\"Verdadero\");\n        } else {\n            System.out.println(\"Falso\");\n        }\n    }\n}\n```\n\nLa condici\u00f3n del `if` se cumplir\u00e1. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1956,
+        "pregunta": "Dado el siguiente c\u00f3digo en Java:\n\n```java\npublic class Main {\n    public static void main(String[] args) {\n        int num = 10;\n        boolean resultado = num > 5 && num < 15 || num == 20;\n        System.out.println(resultado);\n    }\n}\n```\n\nLa expresi\u00f3n `num > 5 && num < 15 || num == 20` eval\u00faa a `true`.  \n\n**Verdadero** o **Falso**. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1957,
+        "pregunta": "La siguiente afirmaci\u00f3n es verdadera o falsa: \n\nEl siguiente c\u00f3digo en Java compila y se ejecuta sin errores:\n\n```java\npublic class Test {\n    public static void main(String[] args) {\n        int x = 5;\n        int y = 10;\n        int z = x + y;\n        System.out.println(\"La suma de x e y es: \" + z);\n    }\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1958,
+        "pregunta": "Verdadero o falso:\n\nEn el siguiente c\u00f3digo en C, se est\u00e1 realizando una asignaci\u00f3n de un valor a la variable `num`:\n\n```c\nint main() {\n    int num;\n    num = 10;\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1959,
+        "pregunta": "Dado el siguiente c\u00f3digo en C++:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 10;\n    int y = 5;\n\n    if (x > y) {\n        std::cout << \"x es mayor que y\";\n    } else {\n        std::cout << \"x no es mayor que y\";\n    }\n\n    return 0;\n}\n```\n\nVerdadero o falso:\nEl c\u00f3digo imprimir\u00e1 \"x es mayor que y\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1960,
+        "pregunta": "```javascript\nfunction fibonacci(n) {\n    if (n <= 1)\n        return n;\n    return fibonacci(n - 1) + fibonacci(n - 2);\n}\n\nfibonacci(5);\n```\n\nLa afirmaci\u00f3n es verdadera o falsa: \u00bfEl c\u00f3digo proporcionado calcula el quinto n\u00famero de la secuencia Fibonacci? Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1961,
+        "pregunta": "Dado el siguiente c\u00f3digo en Java:\n\n```java\npublic class Suma {\n    public static void main(String[] args) {\n        int a = 5;\n        int b = 10;\n        int resultado = a + b;\n        \n        System.out.println(resultado);\n    }\n}\n```\n\nLa declaraci\u00f3n de variables es incorrecta. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1962,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ compila correctamente?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    \n    int z = x + y;\n    \n    std::cout << \"La suma de x e y es: \" << z << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "media"
+    },
+    {
+        "id": 1963,
+        "pregunta": "Dado el siguiente c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    int z = 15;\n\n    x = x + y;\n    y = z - y;\n    z = x * y;\n\n    printf(\"%d %d %d\\n\", x, y, z);\n\n    return 0;\n}\n```\n\nVerdadero o falso: El valor impreso por este c\u00f3digo ser\u00e1 \"15 5 75\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1964,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ es seguro y no generar\u00e1 errores de segmentaci\u00f3n?\n\n```cpp\n#include <iostream>\n#include <vector>\n\nint main() {\n    std::vector<int> vec = {1, 2, 3, 4, 5};\n    \n    for(int i = 0; i <= vec.size(); i++) {\n        std::cout << vec[i] << std::endl;\n    }\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1965,
+        "pregunta": "```java\npublic class Main {\n    public static void main(String[] args) {\n        int x = 5;\n        x += 10;\n        x -= 3;\n        x *= 2;\n        x /= 4;\n        System.out.println(x);\n    }\n}\n```\n\nEl c\u00f3digo compila y se ejecuta correctamente sin errores. \n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1966,
+        "pregunta": "Verdadero o falso: El siguiente c\u00f3digo en C++ compila satisfactoriamente y produce el resultado esperado.\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    char *ptr = \"Hello\";\n    ptr[0] = 'h';\n    \n    cout << ptr << endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1967,
+        "pregunta": "Dado el siguiente c\u00f3digo en Java, \u00bfla funci\u00f3n \"calcular\" devuelve siempre el mismo resultado si se le pasa el mismo par\u00e1metro?\n```java\npublic int calcular(int n) {\n    if (n <= 0) {\n        return 0;\n    } else {\n        return n * n + calcular(n - 1);\n    }\n}\n``` \nVerdadero o falso: Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1968,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ es correcto?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    \n    int z = x + y;\n    \n    std::cout << \"El valor de z es: \" << z << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1969,
+        "pregunta": "Dado el siguiente c\u00f3digo en C++:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 10;\n    int y = 20;\n\n    int z = x + y;\n\n    std::cout << \"El valor de z es: \" << z << std::endl;\n\n    return 0;\n}\n```\n\nVerdadero o falso: El c\u00f3digo imprimir\u00e1 en consola el valor de z sumando x e y. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1970,
+        "pregunta": "```javascript\nfunction isPrime(num) {\n    if (num <= 1) {\n        return false;\n    }\n\n    for (let i = 2; i < num; i++) {\n        if (num % i === 0) {\n            return false;\n        }\n    }\n\n    return true;\n}\n```\n\nEl c\u00f3digo proporcionado en JavaScript verifica si un n\u00famero es primo. Verdadero o falso: Este c\u00f3digo funciona correctamente para determinar si un n\u00famero es primo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1971,
+        "pregunta": "```java\npublic class LinkedList {\n    private Node head;\n\n    public boolean contains(int data) {\n        Node current = head;\n        while (current != null) {\n            if (current.data == data) {\n                return true;\n            }\n            current = current.next;\n        }\n        return false;\n    }\n\n    private class Node {\n        int data;\n        Node next;\n    }\n}\n```\n\nEl m\u00e9todo `contains` de la clase `LinkedList` devuelve verdadero si la lista enlazada contiene el elemento especificado, falso en caso contrario. Verdadero o falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1972,
+        "pregunta": "Dado el siguiente fragmento de c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    int z = x + y;\n    \n    if (z > 10) {\n        printf(\"Verdadero\\n\");\n    } else {\n        printf(\"Falso\\n\");\n    }\n    \n    return 0;\n}\n```\n\nVerdadero o falso: El mensaje impreso siempre ser\u00e1 \"Verdadero\". Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1973,
+        "pregunta": "Dado el siguiente c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    int z = x + y;\n\n    if (z == 15) {\n        printf(\"Verdadero\");\n    } else {\n        printf(\"Falso\");\n    }\n\n    return 0;\n}\n```\n\nVerdadero o falso: El programa imprimir\u00e1 \"Verdadero\" en la consola. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1974,
+        "pregunta": "El siguiente c\u00f3digo en C++ es correcto:\n\n```c++\n#include <iostream>\n\nint main() {\n    int a = 5;\n    int b = 10;\n    int c = 15;\n\n    int *ptr = &a;\n    *ptr = b;\n    ptr = &c;\n    ptr = 20;\n\n    std::cout << a << \" \" << b << \" \" << c << std::endl;\n\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1975,
+        "pregunta": "Dada el siguiente c\u00f3digo en lenguaje C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 10;\n    int y = 0;\n    \n    while (x > 0) {\n        if (x % 2 == 0) {\n            y += x;\n        } else {\n            y -= x;\n        }\n        x--;\n    }\n    \n    printf(\"El valor de y es: %d\", y);\n    \n    return 0;\n}\n```\n\nVerdadero o falso: El valor de salida de la variable `y` ser\u00e1 un n\u00famero positivo. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1976,
+        "pregunta": "```java\npublic static int fibonacci(int n) {\n    if (n <= 1)\n        return n;\n    return fibonacci(n-1) + fibonacci(n-2);\n}\n```\n\nLa implementaci\u00f3n de la funci\u00f3n fibonacci mostrada arriba evitar\u00e1 problemas de desbordamiento de la pila (stack overflow) para valores grandes de `n`. Verdadero o Falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1977,
+        "pregunta": "```java\npublic boolean isPalindrome(String str) {\n    int i = 0, j = str.length() - 1;\n    while (i < j) {\n        if (str.charAt(i) != str.charAt(j)) {\n            return false;\n        }\n        i++;\n        j--;\n    }\n    return true;\n}\n```\n\nEste c\u00f3digo en Java verifica si una cadena de texto es un pal\u00edndromo. Verdadero o falso: el c\u00f3digo proporcionado est\u00e1 implementado de manera correcta. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1978,
+        "pregunta": "Verdadero o falso:\nEn el siguiente c\u00f3digo en C, se est\u00e1 realizando una manipulaci\u00f3n de punteros de manera incorrecta:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int arr[5] = {1, 2, 3, 4, 5};\n    int *ptr = arr;\n    \n    printf(\"%d\\n\", *(ptr + 6));\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1979,
+        "pregunta": "Dado el siguiente c\u00f3digo en C++, \u00bfla declaraci\u00f3n es incorrecta?  \n\n```cpp\nint x = 10;\nint y = 20;\nint *ptr = &x;\n*ptr = y;\n```\n\nVerdadero o Falso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1980,
+        "pregunta": "Dado el siguiente c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int a = 5;\n    int b = 10;\n    int c = a + b;\n\n    if (c > 10) {\n        printf(\"La suma es mayor a 10\");\n    } else {\n        printf(\"La suma es menor o igual a 10\");\n    }\n\n    return 0;\n}\n```\n\nVerdadero o falso: El c\u00f3digo imprimir\u00e1 \"La suma es mayor a 10\" en cualquier caso. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1981,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C++ compila sin errores?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int& y = x;\n    \n    y = 10;\n    \n    std::cout << x << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1982,
+        "pregunta": "\u00bfEl siguiente c\u00f3digo en C es v\u00e1lido?\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 10;\n    \n    for (int i = 0; i < x; i++) {\n        printf(\"%d \", i);\n        x--;\n    }\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1983,
+        "pregunta": "Verdadero o falso:\n\nEn el siguiente c\u00f3digo en C, se est\u00e1 utilizando un puntero doble:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int num = 10;\n    int *ptr = &num;\n    int **ptr2 = &ptr;\n\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1984,
+        "pregunta": "Dado el siguiente c\u00f3digo en C:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    int z;\n\n    z = (x++) + (++y);\n\n    printf(\"%d\\n\", z);\n\n    return 0;\n}\n```\n\nLa expresi\u00f3n `z = (x++) + (++y);` incrementa el valor de `x` antes de sumarlo con `y`. \n\n**Verdadero o Falso**. Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1985,
+        "pregunta": "Verdadero o Falso:\n\nEl siguiente c\u00f3digo en C++ es correcto:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int num = 10;\n    int *ptr = &num;\n    \n    *ptr = *ptr + 5;\n    std::cout << num << std::endl;\n\n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1986,
+        "pregunta": "Verdadero o falso:\n\nEl siguiente c\u00f3digo en C++ compila y se ejecuta sin errores:\n\n```cpp\n#include <iostream>\n\nint main() {\n    int n = 5;\n    int suma = 0;\n    \n    for (int i = 0; i < n; i++) {\n        suma += i;\n    }\n    \n    std::cout << \"La suma es: \" << suma << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 1987,
+        "pregunta": "Dado el siguiente c\u00f3digo en C++, \u00bfla expresi\u00f3n es true o false?\n\n```cpp\n#include <iostream>\n\nint main() {\n    int x = 5;\n    int y = 10;\n    bool resultado = (x != y) && !(x == y);\n    \n    std::cout << resultado << std::endl;\n    \n    return 0;\n}\n``` Responder \u00fanicamente con Verdadero o Falso",
+        "tipo": "verdadero o falso",
+        "tema": "codigo",
+        "dificultad": "dif\u00edcil"
     }
 ]
