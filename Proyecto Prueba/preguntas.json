@@ -19262,5 +19262,320 @@
         "tipo": "test con 3 opciones",
         "tema": "operaciones matem\u00e1ticas numericas",
         "dificultad": "media"
+    },
+    {
+        "id": 2753,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(350 * 3) + (45 / 5) - (7^2) \n\nA) 995\nB) 1044\nC) 1010",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2754,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(18 x 3) + (6\u00b2) - 10\n\nA) 82\nB) 80\nC) 76",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2755,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(15 + 8) x 4 - 23\n\nA) 69\n\nB) 45\n\nC) 53",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2756,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n\\( (17 \\times 4) + (12 \\div 3) - 5 \\)\n\nA) 75\n\nB) 73\n\nC) 67",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2757,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(3^4 * 5) - (2^3 + 7) / 12\n\nA) 403B) 403.75\nC) 35",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2758,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(9876 + 5432) x 2 - 1234\n\nA) 26544\n\nB) 29382C) 34456",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2759,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(12 x 3) - (8 + 5) / 2\n\na) 25  \nb) 29.5  \nc) 15",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2760,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (6 \\times 3) + (9 \\div 3) - 4^2 \\)\n\nA) 20\n\nB) 5\n\nC) 26",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2761,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(3527 x 89) + 2345 - (765/5)\n\nA) 315678\n\nB) 316001\n\nC) 315195",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2762,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (3^4 \\cdot 5) - 7 + 12^2 \\)\n\nA) 542  \nB) 556  \nC) 625  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2763,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica compleja?\n\n(198 + 76 x 3) / (10 - 2\u00b2)\n\nA) 67\nB) 71\nC) 82",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2764,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(5432 * 12) / 4 + 256\n\nA) 12387\n\nB) 6798\n\nC) 16552",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2765,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (452 \\times 36) + (1278 \\div 3) - 98 = \\)\n\nA) 16600  \nB) 20168  \nC) 15357  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2766,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(3564 + 246) x 3 / 2^2\n\nA) 3885  \nB) 2857.5  \nC) 3789  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2767,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(25 * 3) + (15 / 3) - 10\n\nA) 85\nB) 70\nC) 75",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2768,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (8 \\times 4) - (3^2) + 10\\)\n\nA) 33B) 43\n\nC) 31",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2769,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (25 - 3) \\times (7 + 4) \\)\n\nA) 270\n\nB) 252\n\nC) 242",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2770,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(25 * 3) + 7 - (4 / 2)\n\nA) 73\nB) 76\nC) 80",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2771,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(25 + 13) x 3 - 17 = ?\n\nA) 97\nB) 82\nC) 116",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2772,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n(15^2 - 7) \\div 4\n\nA) 56\nB) 54.4\nC) 61",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2773,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(3^2 + 4) * (5 - 2) / 2\n\nA) 19.5\nB) 20\nC) 11",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2774,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (8 \\times 4) - 5^2 \\)\n\nA) 28\n\nB) 7\n\nC) 19",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2775,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n\\( (5678 \\times 1234) - (3456 \\div 24) + 987 \\)\n\nA) 6997680\n\nB) 6997103\n\nC) 7007495",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2776,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (6^2 - 5 \\times 3) \\div 4 + 2 \\)\n\nA) 7.25  \nB) 6  \nC) 16  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2777,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\(15^2 + (3 \\times 8) - 17\\)\n\nA) 232\n\nB) 214\n\nC) 224",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2778,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\[ (9^2 + 3) \\times 5 - 8^2 \\div 4 \\]\n\nA) 404\nB) 194\nC) 197",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2779,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(15^2 + 7^2) / (3^2 - 1) + 40\n\nA) 66\nB) 74.25\nC) 82",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2780,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\[ (7^2 \\times 5) + (3^3 \\div 9) - 14 = ?\\]\n\nA) 162   \nB) 128  \nC) 234",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2781,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (45 \\div 3) \\times 15 - 20 + 5^2 \\)\n\nA) 230\nB) 100\nC) 80",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2782,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n$2^{3} \\times (4 + 5) - 12 =\n\nA) 37\nB) 60\nC) 68",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2783,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n$$(15 \\times 2) - 10 \\div 5\n\nA) 28\nB) 32\nC) 25",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2784,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n\\( (10^3 \\times 5^2) - (3^2 \\times 2^4) \\)\n\nA) 101\n\nB) 24856\n\nC) 825",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2785,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(12 x 3) - (5 x 4) + (7 x 2)\n\nA) 43\nB) 30\nC) 37",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2786,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (5^3 \\times 4) - 12 + (7 \\times 2^2) \\)\n\nA) 208\n\nB) 280\n\nC) 516",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2787,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(355 + 89) x 3 - 247\n\nA) 1085\nB) 1128\nC) 1172",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2788,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (25 * 3) - (16 + 7) \\)\n\nA) 52\n\nB) 29\n\nC) 46",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2789,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (25 \\times 4) - (3 \\times 7) + 10 \\)\n\nA) 77 \n\nB) 89 \n\nC) 85",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2790,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (9^2 + 5) \\times 3 + 12 \\div 2 - 7 \\)\n\nA) 39  \nB) 37  \nC) 257  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2791,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\(9876 + 5432 - 2345 \\cdot 2 + 6789\\)\n\nA) 17407\n\nB) 19434\n\nC) 14587",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2792,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (6^2 + 4) \\times 3 - 10 \\)\n\nA) 45\n\nB) 110\n\nC) 70",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2793,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (5^2 + 7) \\* 3^2 - 4 \\)\n\nA) 284  \nB) 70  \nC) 66  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2794,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\(12 \\times 5 - (3^2 + 4) \\div 2\\)\n\nA) 50  \nB) 23.5  \nC) 53.5  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2795,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(75 x 4) + (10/2) - 5\n\nA) 295\nB) 300\nC) 305",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2796,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( (15 \\times 8) - (3^2) + 6 = \\)\n\nA) 117\n\nB) 51\n\nC) 45",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2797,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(5^2 + 10) x 3 - 25\n\nA) 50\n\nB) 80\n\nC) 35",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "dif\u00edcil"
     }
 ]
