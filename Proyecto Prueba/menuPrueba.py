@@ -227,14 +227,51 @@ class AppGenerador:
         tema_int = self.opciones_tema[tema]
         dificultad_int = self.opciones_dificultad[dificultad]
 
-        for _ in range(5):
-            PruebaGPT.generar_pregunta(tipo_int, tema_int, dificultad_int)
+        
+        preguntas_generadas = PruebaGPT.generar_pregunta(tipo_int, tema_int, dificultad_int)
 
-        PruebaCohere.responder_preguntas()
-        resultados.verificar_respuestas()
+        self.mostrar_preguntasPreview(preguntas_generadas)
 
-        messagebox.showinfo("Generación completada", "Preguntas generadas y respondidas exitosamente.")
-        self.mostrar_preguntas()
+        #PruebaCohere.responder_preguntas()
+        #resultados.verificar_respuestas()
+
+        #messagebox.showinfo("Generación completada", "Preguntas generadas y respondidas exitosamente.")
+        #self.mostrar_preguntas()
+
+    def mostrar_preguntasPreview(self, preguntas_generadas):
+        self.preguntas_window = Toplevel(self.master)
+        self.preguntas_window.title("Preguntas Generadas")
+
+        # Mostrar cada pregunta generada con botones de eliminar y modificar
+        for pregunta in preguntas_generadas:
+            pregunta_frame = tk.Frame(self.preguntas_window, bg="white", padx=20, pady=10)
+            pregunta_frame.pack(pady=10, padx=10, fill="both", expand=True)
+
+            # Obtener solo el texto de la pregunta
+            pregunta_texto = pregunta['pregunta']
+
+            # Etiqueta de la pregunta
+            pregunta_label = tk.Label(pregunta_frame, text=pregunta_texto, bg="white", font=("Helvetica", 12))
+            pregunta_label.pack(side="top", fill="both", expand=True)
+
+            # Frame para contener los botones de eliminar y modificar
+            botones_frame = tk.Frame(pregunta_frame, bg="white")
+            botones_frame.pack(side="bottom", pady=5)
+
+            # Botones de eliminar y modificar centrados
+            eliminar_button = tk.Button(botones_frame, text="Eliminar", command=lambda p=pregunta: self.eliminar_pregunta(p))
+            eliminar_button.pack(side="left", padx=5)
+
+            modificar_button = tk.Button(botones_frame, text="Modificar", command=lambda p=pregunta: self.modificar_pregunta(p))
+            modificar_button.pack(side="left", padx=5)
+
+        # Botón de aceptar para enviar las preguntas a la corrección de Cohere
+        aceptar_button = tk.Button(self.preguntas_window, text="Aceptar", command=self.enviar_a_cohere)
+        aceptar_button.pack(pady=10)
+
+    def enviar_a_cohere(self):
+        # Método vacío para evitar el error
+        pass
 
     def mostrar_preguntas(self):
         # Create a new window

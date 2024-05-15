@@ -42,6 +42,8 @@ def guardar_pregunta_en_json(pregunta_id, pregunta, tipo, tema, dificultad):
 
 def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
     
+    preguntas_generadas = []
+
     tipos = {
         1: "respuesta corta",
         2: "test con 3 opciones",
@@ -79,50 +81,60 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
     tema = temas[tema_pregunta]
     dificultad = dificultades[dificultad_pregunta]
 
-    pregunta=f"Crea una pregunta de tipo {tipo} sobre {tema} con un nivel de dificultad {dificultad}, sin poner la solución"
+    for _ in range(5):
+
+        pregunta=f"Crea una pregunta de tipo {tipo} sobre {tema} con un nivel de dificultad {dificultad}, sin poner la solución"
 
 
-    if tema_pregunta == 2:
-        pregunta = f"Crea una pregunta de examen de tipo {tipo} sobre codigo (puede ser cualquier codigo no solo python), donde se proporciona un codigo en cualquier lenguaje con un nivel de dificultad {dificultad} y que pregunta que hace el codigo (no digas escribe el codigo si lo has puesto). No des ninguna pista de lo que hace"
+        if tema_pregunta == 2:
+            pregunta = f"Crea una pregunta de examen de tipo {tipo} sobre codigo (puede ser cualquier codigo no solo python), donde se proporciona un codigo en cualquier lenguaje con un nivel de dificultad {dificultad} y que pregunta que hace el codigo (no digas escribe el codigo si lo has puesto). No des ninguna pista de lo que hace"
+            if tipo_pregunta == 3:
+                pregunta= f"Crea una pregunta de examen de tipo {tipo} sobre codigo (puede ser cualquier codigo no solo python), donde se proporciona un codigo en cualquier lenguaje con un nivel de dificultad {dificultad}. No des ninguna pista de lo que hace. No preguntes que hace el codigo (esperando una respuesta redactada, ya que solo debe responder verdadero o falso). No des la solucion."
+
+        elif tema_pregunta == 4:
+            if tipo_pregunta == 1:
+                pregunta= f"genera una pregunta de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
+            elif tipo_pregunta == 3:
+                pregunta = f"genera una pregunta de tipo verdadero o falso de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
+            else:
+                pregunta = f"genera una pregunta de traduccion de tipo test, con 3 opciones, en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
+
+        elif tema_pregunta == 3:
+            if tipo_pregunta == 2:
+                pregunta = pregunta + " Haz bien el calculo y pon la solucion en una de las tres opciones del test, para que siempre haya una opcion correcta."
+            if tipo_pregunta == 3:
+                pregunta = pregunta + ". Que la pregunta sea con operaciones matematicas. "
+        elif tema_pregunta == 5:
+            if tipo_pregunta == 2:
+                pregunta = pregunta + " crea solo una pregunta"
+            
+
+        completion = client.chat.completions.create(
+            model="gpt-3.5-turbo-0125",
+            messages=[
+            {"role": "system", "content": pregunta}
+            ]
+        )
+        pregunta_generada = completion.choices[0].message.content
+
         if tipo_pregunta == 3:
-            pregunta= f"Crea una pregunta de examen de tipo {tipo} sobre codigo (puede ser cualquier codigo no solo python), donde se proporciona un codigo en cualquier lenguaje con un nivel de dificultad {dificultad}. No des ninguna pista de lo que hace. No preguntes que hace el codigo (esperando una respuesta redactada, ya que solo debe responder verdadero o falso). No des la solucion."
+            pregunta_generada = pregunta_generada + " Responder únicamente con Verdadero o Falso"         
 
-    elif tema_pregunta == 4:
-        if tipo_pregunta == 1:
-            pregunta= f"genera una pregunta de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
-        elif tipo_pregunta == 3:
-            pregunta = f"genera una pregunta de tipo verdadero o falso de traduccion en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
-        else:
-            pregunta = f"genera una pregunta de traduccion de tipo test, con 3 opciones, en un idioma al azar de una frase con un nivel de dificultad {dificultad}, sin poner la solución"
+        #preguntas = cargar_preguntas()
+        # Guardar la pregunta generada en el archivo JSON`.`
+        #pregunta_id = len(preguntas) + 1 if os.path.exists("preguntas.json") else 1
+        #guardar_pregunta_en_json(pregunta_id, pregunta_generada, tipo, tema, dificultad)
+        #print("Pregunta guardada exitosamente en el archivo JSON.")
+        preguntas_generadas.append({
+            "pregunta": pregunta_generada,
+            "tipo": tipo,
+            "tema": tema,
+            "dificultad": dificultad
+        })
+        print(pregunta_generada)
+        print("\n")
 
-    elif tema_pregunta == 3:
-        if tipo_pregunta == 2:
-            pregunta = pregunta + " Haz bien el calculo y pon la solucion en una de las tres opciones del test, para que siempre haya una opcion correcta."
-        if tipo_pregunta == 3:
-            pregunta = pregunta + ". Que la pregunta sea con operaciones matematicas. "
-    elif tema_pregunta == 5:
-        if tipo_pregunta == 2:
-            pregunta = pregunta + " crea solo una pregunta"
-        
-
-    completion = client.chat.completions.create(
-        model="gpt-3.5-turbo-0125",
-        messages=[
-        {"role": "system", "content": pregunta}
-        ]
-    )
-    pregunta_generada = completion.choices[0].message.content
-
-    if tipo_pregunta == 3:
-       pregunta_generada = pregunta_generada + " Responder únicamente con Verdadero o Falso"         
-
-    preguntas = cargar_preguntas()
-    # Guardar la pregunta generada en el archivo JSON`.`
-    pregunta_id = len(preguntas) + 1 if os.path.exists("preguntas.json") else 1
-    guardar_pregunta_en_json(pregunta_id, pregunta_generada, tipo, tema, dificultad)
-    print("Pregunta guardada exitosamente en el archivo JSON.")
-    print(pregunta_generada)
-    print("\n")
+    return preguntas_generadas
 
 
 def corregir(pregunta, respuesta):
