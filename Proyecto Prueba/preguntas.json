@@ -19164,5 +19164,103 @@
         "tipo": "respuesta corta",
         "tema": "cultura general",
         "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 2739,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\(12 \\times 5 + 7 - 3\\)\n\nA) 64\n\nB) 70\n\nC) 58",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2740,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(25 + 13) x 3 - 10\n\nA) 94\nB) 75\nC) 104",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2741,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\( 8 \\cdot 4 + 12 \\div 3\\)\n\nA) 36\n\nB) 32\n\nC) 34",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2742,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\(7 \\times (4 + 2) - 5\\)\n\nA) 37\n\nB) 15\n\nC) 20",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2743,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n24 + 16 / 4 x 3\n\nA) 36\nB) 48\nC) 28",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2744,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica? \n\n3 x (4 + 2) - 5 =\n\nA) 12  \nB) 14  \nC) 13",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2745,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n18 * 4 - 6\n\nA) 66\n\nB) 70\n\nC) 72",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2746,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n35 + 17 x 2 \n\nA) 69\nB) 70\nC) 66",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2747,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n3 * 5 + 2 / 2\n\nA) 17\nB) 15\nC) 16",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2748,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n?\n\n55 + 12 x 3\n\nA) 111  \nB) 91  \nC) 81  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2749,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica: (25 + 10) x 2 - 5?\n\nA) 55\n\nB) 65\n\nC) 70",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2750,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n12 + 7 x 3 / 2\n\nA) 20\nB) 19\nC) 22.5",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2751,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n\\(5 + 8 \\times 2\\)\n\nA) 20\nB) 16\nC) 21",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
+    },
+    {
+        "id": 2752,
+        "pregunta": "\u00bfCu\u00e1l es el resultado de la siguiente operaci\u00f3n matem\u00e1tica?\n\n(25 x 3) - (10 \u00f7 2) + 4 \n\nA) 69  \nB) 80  \nC) 74  ",
+        "tipo": "test con 3 opciones",
+        "tema": "operaciones matem\u00e1ticas numericas",
+        "dificultad": "media"
     }
 ]
