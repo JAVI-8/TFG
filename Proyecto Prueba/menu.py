@@ -40,11 +40,21 @@ class App:
 
         self.canvas = tk.Canvas(self.content_frame, bg="lightgray")
         self.canvas.pack(side="left", fill="both", expand=True)
-
-        self.scrollbar = tk.Scrollbar(self.content_frame, orient="vertical", command=self.canvas.yview)
-        self.scrollbar.pack(side="right", fill="y")
-
-        self.canvas.configure(yscrollcommand=self.scrollbar.set)
+        
+        # Barra de desplazamiento vertical
+        scrollbarv = ttk.Scrollbar(self.content_frame, orient="vertical", command=self.canvas.yview)
+        scrollbarv.pack(side="right", fill="y")
+        self.canvas.configure(yscrollcommand=scrollbarv.set)
+        
+        #frame para la barra de desplazamiento horizontal
+        self.bottom_frame = ttk.Frame(master)
+        self.bottom_frame.grid(row=1, column=1, sticky="ew")
+        
+        # Barra de desplazamiento horizontal
+        scrollbarh = ttk.Scrollbar(self.bottom_frame, orient="horizontal", command=self.canvas.xview)
+        scrollbarh.pack(fill="x")
+        self.canvas.configure(xscrollcommand=scrollbarh.set)
+        
         self.canvas.bind('<Configure>', lambda e: self.canvas.configure(scrollregion=self.canvas.bbox("all")))
 
         self.scrollable_frame = tk.Frame(self.canvas, bg="lightgray")
@@ -265,7 +275,7 @@ class AppGenerador:
         scrollbar = ttk.Scrollbar(preguntas_frame, orient="vertical", command=canvas.yview)
         scrollbar.pack(side="right", fill="y")
         canvas.configure(yscrollcommand=scrollbar.set)
-
+        
         # Lista de colores de fondo alternados para las preguntas
         colores_fondo = ["white", "lightgrey"]
 
