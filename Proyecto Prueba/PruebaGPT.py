@@ -136,6 +136,15 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
 
     return preguntas_generadas
 
+def guardar_preguntas_generadas(preguntasGeneradas):
+        preguntas = cargar_preguntas()
+        # Guardar la pregunta generada en el archivo JSON`.`
+        pregunta_id = len(preguntas) + 1 if os.path.exists("preguntas.json") else 1
+
+        for pregunta in preguntasGeneradas:
+            guardar_pregunta_en_json(pregunta_id, pregunta["pregunta"], pregunta["tipo"], pregunta["tema"], pregunta["dificultad"])
+            print("Pregunta guardada exitosamente en el archivo JSON.")
+            pregunta_id += 1
 
 def corregir(pregunta, respuesta):
     #texto = f"Pregunta: {pregunta}\nRespuesta: {respuesta}\n¿La respuesta es correcta?"

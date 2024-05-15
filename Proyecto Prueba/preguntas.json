@@ -19129,5 +19129,40 @@
         "tipo": "test con 3 opciones",
         "tema": "logica con trampa, para adivinar",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2734,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Francia?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 2735,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 el libro \"Cien a\u00f1os de soledad\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 2736,
+        "pregunta": "\u00bfQu\u00e9 r\u00edo es conocido como \"el r\u00edo de la plata\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 2737,
+        "pregunta": "\u00bfEn qu\u00e9 ciudad se encuentra el sanchez pijuan?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 2738,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la novela \"Moby Dick\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
     }
 ]

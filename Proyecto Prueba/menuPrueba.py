@@ -145,6 +145,10 @@ class AppGenerador:
         self.master = master
         self.master.configure(bg="lightgray")
 
+        self.preguntas_generadas = [] #donde se guardara las preguntas generadas antes de ser corregidas
+        self.inner_frame = tk.Frame(master)  # Inicializar el atributo inner_frame
+        self.inner_frame.pack(fill="both", expand=True)
+
         self.tipo_var = tk.StringVar()
         self.tema_var = tk.StringVar()
         self.dificultad_var = tk.StringVar()
@@ -228,34 +232,56 @@ class AppGenerador:
         dificultad_int = self.opciones_dificultad[dificultad]
 
         
-        preguntas_generadas = PruebaGPT.generar_pregunta(tipo_int, tema_int, dificultad_int)
+        self.preguntas_generadas = PruebaGPT.generar_pregunta(tipo_int, tema_int, dificultad_int)
 
-        self.mostrar_preguntasPreview(preguntas_generadas)
 
-        #PruebaCohere.responder_preguntas()
-        #resultados.verificar_respuestas()
-
-        #messagebox.showinfo("Generación completada", "Preguntas generadas y respondidas exitosamente.")
-        #self.mostrar_preguntas()
+        self.mostrar_preguntasPreview(self.preguntas_generadas)
 
     def mostrar_preguntasPreview(self, preguntas_generadas):
-        self.preguntas_window = Toplevel(self.master)
+        self.preguntas_window = tk.Toplevel(self.master)
         self.preguntas_window.title("Preguntas Generadas")
+        self.preguntas_window.geometry("600x600")  # Tamaño fijo de la ventana, ancho alto
+
+        # Desactivar la capacidad de redimensionamiento
+        #self.preguntas_window.resizable(False, False)
+
+        # Frame contenedor para las preguntas
+        preguntas_frame = tk.Frame(self.preguntas_window)
+        preguntas_frame.pack(fill="both", expand=True)
+
+        # Canvas para contener las preguntas y barra de desplazamiento
+        canvas = tk.Canvas(preguntas_frame)
+        canvas.pack(side="left", fill="both", expand=True)
+
+        # Frame interior para las preguntas
+        inner_frame = tk.Frame(canvas)
+        canvas.create_window((0, 0), window=inner_frame, anchor="nw")
+
+        # Barra de desplazamiento vertical
+        scrollbar = ttk.Scrollbar(preguntas_frame, orient="vertical", command=canvas.yview)
+        scrollbar.pack(side="right", fill="y")
+        canvas.configure(yscrollcommand=scrollbar.set)
+
+        # Lista de colores de fondo alternados para las preguntas
+        colores_fondo = ["white", "lightgrey"]
 
         # Mostrar cada pregunta generada con botones de eliminar y modificar
-        for pregunta in preguntas_generadas:
-            pregunta_frame = tk.Frame(self.preguntas_window, bg="white", padx=20, pady=10)
-            pregunta_frame.pack(pady=10, padx=10, fill="both", expand=True)
+        for i, pregunta in enumerate(preguntas_generadas):
+            # Determinar el color de fondo según el índice de la pregunta
+            color_fondo = colores_fondo[i % 2]
+
+            pregunta_frame = tk.Frame(inner_frame, bg=color_fondo, padx=20, pady=10)
+            pregunta_frame.pack(pady=5, padx=5, fill="both")
 
             # Obtener solo el texto de la pregunta
             pregunta_texto = pregunta['pregunta']
 
             # Etiqueta de la pregunta
-            pregunta_label = tk.Label(pregunta_frame, text=pregunta_texto, bg="white", font=("Helvetica", 12))
+            pregunta_label = tk.Label(pregunta_frame, text=pregunta_texto, bg=color_fondo, font=("Helvetica", 12))
             pregunta_label.pack(side="top", fill="both", expand=True)
 
             # Frame para contener los botones de eliminar y modificar
-            botones_frame = tk.Frame(pregunta_frame, bg="white")
+            botones_frame = tk.Frame(pregunta_frame, bg=color_fondo)
             botones_frame.pack(side="bottom", pady=5)
 
             # Botones de eliminar y modificar centrados
@@ -265,46 +291,143 @@ class AppGenerador:
             modificar_button = tk.Button(botones_frame, text="Modificar", command=lambda p=pregunta: self.modificar_pregunta(p))
             modificar_button.pack(side="left", padx=5)
 
-        # Botón de aceptar para enviar las preguntas a la corrección de Cohere
-        aceptar_button = tk.Button(self.preguntas_window, text="Aceptar", command=self.enviar_a_cohere)
-        aceptar_button.pack(pady=10)
+        # Configurar el canvas para ajustarse al contenido
+        preguntas_frame.update_idletasks()
+        canvas.config(scrollregion=canvas.bbox("all"))
 
+        # Botón de aceptar
+        aceptar_button = tk.Button(self.preguntas_window, text="Aceptar", command=self.enviar_a_cohere, width=10)
+        aceptar_button.pack(side="bottom", pady=10, padx=10, anchor="s")  # Alineado al sur (abajo) y con un pequeño margen
+                
+    def eliminar_pregunta(self, pregunta):
+         # Eliminar la pregunta del array preguntas_generadas
+        self.preguntas_generadas.remove(pregunta)
+
+        # Cerrar la ventana actual de preguntas
+        self.preguntas_window.destroy()
+
+        if not self.preguntas_generadas:  # Si no quedan preguntas
+            messagebox.showwarning("Advertencia", "No hay más preguntas.")
+        else:
+            # Mostrar las preguntas actualizadas en una nueva ventana
+            self.mostrar_preguntasPreview(self.preguntas_generadas)
+
+    def modificar_pregunta(self, pregunta):
+        # Asignar la pregunta seleccionada actualmente
+        self.pregunta_seleccionada = pregunta
+
+        # Crear una nueva ventana para la modificación
+        self.modificar_window = tk.Toplevel(self.master)
+        self.modificar_window.title("Modificar Pregunta")
+
+        # Frame contenedor para los elementos de la ventana de modificación
+        modificar_frame = tk.Frame(self.modificar_window, bg="lightgray")
+        modificar_frame.pack(padx=20, pady=20)
+
+        # Crear un Entry para ingresar la pregunta modificada
+        pregunta_modificada_entry = tk.Entry(modificar_frame, width=50)
+        pregunta_modificada_entry.insert(tk.END, pregunta['pregunta'])
+        pregunta_modificada_entry.grid(row=0, column=0, columnspan=2, pady=10)
+
+        # Función para actualizar la pregunta en el arreglo preguntas_generadas
+        def actualizar_pregunta_modificada(pregunta, pregunta_modificada):
+            pregunta = self.pregunta_seleccionada
+            pregunta['pregunta'] = pregunta_modificada_entry.get()
+            # Actualizar la pregunta en la lista de preguntas generadas
+            self.preguntas_window.destroy()
+            self.actualizar_preguntas_generadas()
+            # Cerrar la ventana de modificación
+            self.modificar_window.destroy()
+
+        # Botón para aceptar la modificación
+        aceptar_button = tk.Button(modificar_frame, text="Aceptar", command=lambda: actualizar_pregunta_modificada(pregunta, pregunta_modificada_entry.get()))
+        aceptar_button.grid(row=1, column=0, padx=5)
+
+        # Botón para cancelar la modificación
+        cancelar_button = tk.Button(modificar_frame, text="Cancelar", command=self.modificar_window.destroy)
+        cancelar_button.grid(row=1, column=1, padx=5)
+
+    def actualizar_preguntas_generadas(self):
+        # Método para actualizar la lista de preguntas generadas en la ventana principal
+        for widget in self.inner_frame.winfo_children():
+            widget.destroy()
+
+        # Mostrar las preguntas actualizadas
+        self.mostrar_preguntasPreview(self.preguntas_generadas)
+    
     def enviar_a_cohere(self):
-        # Método vacío para evitar el error
-        pass
+        PruebaGPT.guardar_preguntas_generadas(self.preguntas_generadas)
+        PruebaCohere.responder_preguntas()
+        resultados.verificar_respuestas()
+
+        messagebox.showinfo("Generación completada", "Preguntas respondidas exitosamente.")
+        self.preguntas_window.destroy()
+        self.mostrar_preguntas()
 
     def mostrar_preguntas(self):
-        # Create a new window
-        resultadosVentana = Toplevel(self.master)
-        resultadosVentana.title("Resumen de las preguntas generadas")
+        # Crear una nueva ventana
+        window = tk.Toplevel()
+        window.title("Últimas preguntas corregidas")
 
-        texto = Text(resultadosVentana, wrap='word')  # wrap='word' will wrap text at word boundaries
-        scrollbar = Scrollbar(resultadosVentana, command=texto.yview)
-        texto.configure(yscrollcommand=scrollbar.set)
+        # Frame contenedor para las preguntas corregidas
+        frame = tk.Frame(window)
+        frame.pack(fill="both", expand=True)
 
-        scrollbar.pack(side=RIGHT, fill=Y)
-        texto.pack(fill='both', expand=True)
+        # Canvas para contener las preguntas y barra de desplazamiento
+        canvas = tk.Canvas(frame)
+        canvas.pack(side="left", fill="both", expand=True)
 
-        with open("preguntas.json", 'r') as f:
-            preguntas = json.load(f)[-5:]  # Obtener las últimas 5 preguntas
+        # Frame interior para las preguntas corregidas
+        inner_frame = tk.Frame(canvas)
+        canvas.create_window((0, 0), window=inner_frame, anchor="nw")
 
-        with open("respuestas.json", 'r') as f:
-            respuestas = json.load(f)[-5:]  # Obtener las últimas 5 respuestas
+        # Barra de desplazamiento vertical
+        scrollbar = ttk.Scrollbar(frame, orient="vertical", command=canvas.yview)
+        scrollbar.pack(side="right", fill="y")
+        canvas.configure(yscrollcommand=scrollbar.set)
 
-        with open("resultados.json", 'r') as f:
-            resultados = json.load(f)[-5:]  # Obtener los últimos 5 resultados
+        # Obtener las últimas 5 preguntas
+        with open("preguntas.json", 'r') as file:
+            preguntas = json.load(file)[-len(self.preguntas_generadas):]
 
-        # Mostrar preguntas, respuestas y resultados
-        for pregunta, respuesta, resultado in zip(preguntas, respuestas, resultados):
-            texto.insert(END, "Pregunta: {}\n".format(pregunta['pregunta']))
-            texto.insert(END, "Respuesta: {}\n".format(respuesta['respuesta']))
-            texto.insert(END, "Resultado: {}\n\n".format(resultado['resultado']))            
+        # Obtener las últimas 5 respuestas
+        with open("respuestas.json", 'r') as file:
+            respuestas = json.load(file)[-len(self.preguntas_generadas):]
 
-            texto.insert(END, "\n\n")
+        # Obtener los últimos 5 resultados
+        with open("resultados.json", 'r') as file:
+            resultados = json.load(file)[-len(self.preguntas_generadas):]
 
-        # Scroll back to the top
-        texto.yview_moveto(0)
-        resultadosVentana.mainloop()
+        # Lista de colores de fondo alternados para las preguntas
+        colores_fondo = ["white", "lightgrey"]
+
+        # Mostrar cada pregunta corregida con su respuesta y corrección
+        for i, (pregunta, respuesta, resultado) in enumerate(zip(preguntas, respuestas, resultados)):
+            # Determinar el color de fondo según el índice de la pregunta
+            color_fondo = colores_fondo[i % 2]
+
+            pregunta_frame = tk.Frame(inner_frame, bg=color_fondo, padx=20, pady=10)
+            pregunta_frame.pack(pady=5, padx=5, fill="both")
+
+            # Etiqueta de la pregunta
+            pregunta_label = tk.Label(pregunta_frame, text="Pregunta: " + pregunta['pregunta'], bg=color_fondo, font=("Helvetica", 12))
+            pregunta_label.pack(side="top", fill="both", expand=True)
+
+            # Etiqueta de la respuesta
+            respuesta_label = tk.Label(pregunta_frame, text="Respuesta: " + respuesta['respuesta'], bg=color_fondo, font=("Helvetica", 12))
+            respuesta_label.pack(side="top", fill="both", expand=True)
+
+            # Etiqueta del resultado
+            resultado_label = tk.Label(pregunta_frame, text="Resultado: " + resultado['resultado'], bg=color_fondo, font=("Helvetica", 12))
+            resultado_label.pack(side="top", fill="both", expand=True)
+
+        # Configurar el canvas para ajustarse al contenido
+        frame.update_idletasks()
+        canvas.config(scrollregion=canvas.bbox("all"))
+
+         # Botón para aceptar y cerrar la ventana
+        aceptar_button = tk.Button(window, text="Aceptar", command=window.destroy)
+        aceptar_button.pack(side="bottom", pady=10)
 
 
 def main():
