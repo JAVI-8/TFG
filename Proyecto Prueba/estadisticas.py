@@ -40,18 +40,8 @@ def resultados_generales(resultados):
     # cambiar valores de texto a numéricos
     resultados['resultado_numerico'] = resultados['resultado'].map({'correcto': 1, 'incorrecto': 0})
 
-    # Calcular estadísticas generales
-    media_general = resultados['resultado_numerico'].mean()
-    desviacion_std_general = resultados['resultado_numerico'].std()
-    varianza_general = resultados['resultado_numerico'].var()
-
-    print(f"Media General: {media_general}")
-    print(f"Desviación Estándar General: {desviacion_std_general}")
-    print(f"Varianza General: {varianza_general}")
-
     # Calcular estadísticas por 'tema'
     estadisticas_por_tema = resultados.groupby('tema')['resultado_numerico'].agg(['mean', 'std', 'var'])
-    print(estadisticas_por_tema)
 
     # Histograma de resultados generales
     plt.figure(figsize=(5, 3))
