@@ -109,7 +109,7 @@ class App:
         self.stat_buttons.grid(row=2, column=0, sticky="ew", padx=20, pady=(10, 0))
 
         r = estadisticas.cargar()
-        categories = ["cultura general", "operaciones matemáticas numericas",
+        categories = ["generales","cultura general", "operaciones matemáticas numericas",
                       "traducción linguistica", "codigo", "logica con trampa, para adivinar", "definiciones de palabras"]
 
         for i, category in enumerate(categories):
@@ -128,7 +128,11 @@ class App:
 
     def show_statistics(self, category):
         r = estadisticas.cargar()
-        fig = estadisticas.resultados_categorias(r, category)
+
+        if (category == "generales"):
+            fig = estadisticas.resultados_generales(r)
+        else:
+            fig = estadisticas.resultados_categorias(r, category)
 
         for widget in self.scrollable_frame.winfo_children():
             widget.destroy()
@@ -306,7 +310,7 @@ class AppGenerador:
         # Botón "Volver"
         volver_button = tk.Button(botones_frame, text="Volver", command=self.preguntas_window.destroy)
         volver_button.pack(side="left", padx=5)  # Empaquetar a la izquierda con un pequeño margen
-        
+
     def eliminar_pregunta(self, pregunta):
          # Eliminar la pregunta del array preguntas_generadas
         self.preguntas_generadas.remove(pregunta)

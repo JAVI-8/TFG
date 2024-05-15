@@ -94,7 +94,7 @@ def resultados_generales(resultados):
     axs[1].pie(proporcionesGPT.values, labels=proporcionesGPT.index, colors=['green', 'red'], autopct='%1.1f%%')
     axs[1].set_title('Aciertos/Fallos corrección GPT')
 
-    plt.show()
+    return fig
     
 def resultados_categorias(resultados,categorias):
     categorias_temas = ['cultura general', 'operaciones matemáticas numericas', 'traducción linguistica', 'codigo', 'logica con trampa, para adivinar', 'definiciones de palabras']
