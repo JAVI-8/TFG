@@ -85,9 +85,14 @@ def resultados_generales(resultados):
     axs[1].set_title('Aciertos/Fallos corrección GPT')
 
     return fig
+
+def colorElegir(result):
+    if(result[0] == 'incorrecto'):
+        return ['red', 'green']
+    else:
+        return ['green', 'red']
     
 def resultados_categorias(resultados,categorias):
-    categorias_temas = ['cultura general', 'operaciones matemáticas numericas', 'traducción linguistica', 'codigo', 'logica con trampa, para adivinar', 'definiciones de palabras']
     revisiones = resultados[resultados['revision'] != ""]
     # Calcular la proporción de respuestas correctas e incorrectas
     general = resultados.loc[(resultados['tema'] == categorias)]
@@ -173,108 +178,110 @@ def resultados_categorias(resultados,categorias):
     proporcionesGPTVofDificil = vofDificilRevisiones['revision'].value_counts(normalize=True)
 
 
-    fig, axs = plt.subplots(8, 4, figsize=(200, 20))
-    fig.subplots_adjust(hspace=0.5, wspace=0.5)
+    fig, axs = plt.subplots(8, 4, figsize=(20, 30))
+
     # Colocar el título de la categoría
-    fig.suptitle(categorias, fontsize=32)
-    plt.subplots_adjust(top=0.92)
+    fig.suptitle(categorias, fontsize=16)
+    plt.subplots_adjust(top=0.95)
 
     # Crear el gráfico circular en el segundo subplot
-    axs[0][0].pie(proporcionesCohere.values, labels=proporcionesCohere.index, colors=['green', 'red'], autopct='%1.1f%%')
-    axs[0][0].set_title('Corrección por GPT')
+    axs[0][0].pie(proporcionesCohere.values, labels=proporcionesCohere.index, colors=colorElegir(proporcionesCohere.index), autopct='%1.1f%%')
+    axs[0][0].set_title('Corrección Cohere por GPT')
 
-    axs[0][1].pie(proporcionesCohereFacil.values, labels=proporcionesCohereFacil.index, colors=['green', 'red'], autopct='%1.1f%%')
-    axs[0][1].set_title('Corrección por GPT fácil')
 
-    axs[0][2].pie(proporcionesCohereMedia.values, labels=proporcionesCohereMedia.index, colors=['green', 'red'], autopct='%1.1f%%')
-    axs[0][2].set_title('Corrección por GPT medio')
+    axs[0][1].pie(proporcionesCohereFacil.values, labels=proporcionesCohereFacil.index, colors=colorElegir(proporcionesCohereFacil.index), autopct='%1.1f%%')
+    axs[0][1].set_title('Corrección Cohere por GPT fácil')
 
-    axs[0][3].pie(proporcionesCohereDificil.values, labels=proporcionesCohereDificil.index, colors=['green', 'red'], autopct='%1.1f%%')
-    axs[0][3].set_title('Corrección GPT dificil')
+    axs[0][2].pie(proporcionesCohereMedia.values, labels=proporcionesCohereMedia.index, colors=colorElegir(proporcionesCohereMedia.index), autopct='%1.1f%%')
+    axs[0][2].set_title('Corrección Cohere por GPT medio')
+
+    axs[0][3].pie(proporcionesCohereDificil.values, labels=proporcionesCohereDificil.index, colors=colorElegir(proporcionesCohereDificil.index), autopct='%1.1f%%')
+    axs[0][3].set_title('Corrección Cohere por GPT dificil')
 
     #revision gpt general
-    axs[1][0].pie(proporcionesGPT.values, labels=proporcionesGPT.index, colors=['green', 'red'], autopct='%1.1f%%')
-    axs[1][0].set_title('Revisión GPT')
+    axs[1][0].pie(proporcionesGPT.values, labels=proporcionesGPT.index, colors=colorElegir(proporcionesGPT.index), autopct='%1.1f%%')
+    axs[1][0].set_title('Revision GPT')
 
-    axs[1][1].pie(proporcionesGPTFacil.values, labels=proporcionesGPTFacil.index, colors=['green', 'red'], autopct='%1.1f%%')
-    axs[1][1].set_title('Revisión GPT Fácil')
+    axs[1][1].pie(proporcionesGPTFacil.values, labels=proporcionesGPTFacil.index, colors=colorElegir(proporcionesGPTFacil.index), autopct='%1.1f%%')
+    axs[1][1].set_title('Revision GPT Facil')
 
-    axs[1][2].pie(proporcionesGPTMedia.values, labels=proporcionesGPTMedia.index, colors=['green', 'red'], autopct='%1.1f%%')
-    axs[1][2].set_title('Revisión GPT Medio')
+    axs[1][2].pie(proporcionesGPTMedia.values, labels=proporcionesGPTMedia.index, colors=colorElegir(proporcionesGPTMedia.index), autopct='%1.1f%%')
+    axs[1][2].set_title('Revision GPT Media')
 
-    axs[1][3].pie(proporcionesGPTDificil.values, labels=proporcionesGPTDificil.index, colors=['green', 'red'], autopct='%1.1f%%')
-    axs[1][3].set_title('Revisión GPT Difícil')
+    axs[1][3].pie(proporcionesGPTDificil.values, labels=proporcionesGPTDificil.index, colors=colorElegir(proporcionesGPTDificil.index), autopct='%1.1f%%')
+    axs[1][3].set_title('Revision GPT Dificil')
 
-    axs[2][0].bar(proporcionesCohereCorta.index, proporcionesCohereCorta.values, color=['green', 'red'])
-    axs[2][0].set_title('Respuestas Cortas')
+    axs[2][0].bar(proporcionesCohereCorta.index, proporcionesCohereCorta.values, color=colorElegir(proporcionesCohereCorta.index))
+    axs[2][0].set_title('respuestas cortas')
 
-    axs[2][1].bar(proporcionesCohereCortaFacil.index, proporcionesCohereCortaFacil.values, color=['green', 'red'])
-    axs[2][1].set_title('Cortas Fácil')
+    axs[2][1].bar(proporcionesCohereCortaFacil.index, proporcionesCohereCortaFacil.values, color=colorElegir(proporcionesCohereCortaFacil.index))
+    axs[2][1].set_title('respuestas cortas fácil')
 
-    axs[2][2].bar(proporcionesCohereCortaMedia.index, proporcionesCohereCortaMedia.values, color=['green', 'red'])
-    axs[2][2].set_title('Cortas Medio')
+    axs[2][2].bar(proporcionesCohereCortaMedia.index, proporcionesCohereCortaMedia.values, color=colorElegir(proporcionesCohereCortaMedia.index))
+    axs[2][2].set_title('respuestas cortas medio')
 
-    axs[2][3].bar(proporcionesCohereCortaDificil.index, proporcionesCohereCortaDificil.values, color=['green', 'red'])
-    axs[2][3].set_title('Cortas Difícil')
+    axs[2][3].bar(proporcionesCohereCortaDificil.index, proporcionesCohereCortaDificil.values, color=colorElegir(proporcionesCohereCortaDificil.index))
+    axs[2][3].set_title('respuestas cortas dificil')
 
-    axs[3][0].bar(proporcionesGPTCorta.index, proporcionesGPTCorta.values, color=['green', 'red'])
-    axs[3][0].set_title('Revisión Respuestas Cortas')
+    axs[3][0].bar(proporcionesGPTCorta.index, proporcionesGPTCorta.values, color=colorElegir(proporcionesGPTCorta.index))
+    axs[3][0].set_title('revision respuestas cortas')
 
-    axs[3][1].bar(proporcionesGPTCortaFacil.index, proporcionesGPTCortaFacil.values, color=['green', 'red'])
-    axs[3][1].set_title('Revisión Cortas Fácil')
+    axs[3][1].bar(proporcionesGPTCortaFacil.index, proporcionesGPTCortaFacil.values, color=colorElegir(proporcionesGPTCortaFacil.index))
+    axs[3][1].set_title('revision respuestas cortas facil')
 
-    axs[3][2].bar(proporcionesGPTCortaMedia.index, proporcionesGPTCortaMedia.values, color=['green', 'red'])
-    axs[3][2].set_title('Revisión Cortas Medio')
+    axs[3][2].bar(proporcionesGPTCortaMedia.index, proporcionesGPTCortaMedia.values, color=colorElegir(proporcionesGPTCortaMedia.index))
+    axs[3][2].set_title('revision respuestas cortas medio')
 
-    axs[3][3].bar(proporcionesGPTCortaDificil.index, proporcionesGPTCortaDificil.values, color=['green', 'red'])
-    axs[3][3].set_title('Revisión Cortas difícil')
+    axs[3][3].bar(proporcionesGPTCortaDificil.index, proporcionesGPTCortaDificil.values, color=colorElegir(proporcionesGPTCortaDificil.index))
+    axs[3][3].set_title('revision respuestas cortas dificil')
 
-    axs[4][0].bar(proporcionesCohereTest.index, proporcionesCohereTest.values, color=['green', 'red'])
-    axs[4][0].set_title('Tipo Test')
+    axs[4][0].bar(proporcionesCohereTest.index, proporcionesCohereTest.values, color=colorElegir(proporcionesCohereTest.index))
+    axs[4][0].set_title('tipo test')
 
-    axs[4][1].bar(proporcionesCohereTestFacil.index, proporcionesCohereTestFacil.values, color=['green', 'red'])
-    axs[4][1].set_title('Tipo Test Fácil')
+    axs[4][1].bar(proporcionesCohereTestFacil.index, proporcionesCohereTestFacil.values, color=colorElegir(proporcionesCohereTestFacil.index))
+    axs[4][1].set_title('tipo test fácil')
 
-    axs[4][2].bar(proporcionesCohereTestMedia.index, proporcionesCohereTestMedia.values, color=['green', 'red'])
-    axs[4][2].set_title('Tipo Test Medio')
+    axs[4][2].bar(proporcionesCohereTestMedia.index, proporcionesCohereTestMedia.values, color=colorElegir(proporcionesCohereTestMedia.index))
+    axs[4][2].set_title('tipo test Medio')
 
-    axs[4][3].bar(proporcionesCohereTestDificil.index, proporcionesCohereTestDificil.values, color=['green', 'red'])
-    axs[4][3].set_title('Tipo Test Difícil')
+    axs[4][3].bar(proporcionesCohereTestDificil.index, proporcionesCohereTestDificil.values, color=colorElegir(proporcionesCohereTestDificil.index))
+    axs[4][3].set_title('tipo test dificil')
 
-    axs[5][0].bar(proporcionesGPTTest.index, proporcionesGPTTest.values, color=['green', 'red'])
-    axs[5][0].set_title('Revisión Tipo Test')
+    axs[5][0].bar(proporcionesGPTTest.index, proporcionesGPTTest.values, color=colorElegir(proporcionesGPTTest.index))
+    axs[5][0].set_title('revision tipo test')
 
-    axs[5][1].bar(proporcionesGPTTestFacil.index, proporcionesGPTTestFacil.values, color=['green', 'red'])
-    axs[5][1].set_title('Revisión tipo test Fácil')
+    axs[5][1].bar(proporcionesGPTTestFacil.index, proporcionesGPTTestFacil.values, color=colorElegir(proporcionesGPTTestFacil.index))
+    axs[5][1].set_title('revision tipo test facil')
 
-    axs[5][2].bar(proporcionesGPTTestMedia.index, proporcionesGPTTestMedia.values, color=['green', 'red'])
-    axs[5][2].set_title('Revisión tipo test Medio')
+    axs[5][2].bar(proporcionesGPTTestMedia.index, proporcionesGPTTestMedia.values, color=colorElegir(proporcionesGPTTestMedia.index))
+    axs[5][2].set_title('revision tipo test media')
 
-    axs[5][3].bar(proporcionesGPTTestDificil.index, proporcionesGPTTestDificil.values, color=['green', 'red'])
-    axs[5][3].set_title('Revisión tipo test Difícil')
+    axs[5][3].bar(proporcionesGPTTestDificil.index, proporcionesGPTTestDificil.values, color=colorElegir(proporcionesGPTTestDificil.index))
+    axs[5][3].set_title('revision tipo test dificil')
 
-    axs[6][0].bar(proporcionesCohereVof.index, proporcionesCohereVof.values, color=['green', 'red'])
-    axs[6][0].set_title('Tipo V o F')
+    axs[6][0].bar(proporcionesCohereVof.index, proporcionesCohereVof.values, color=colorElegir(proporcionesCohereVof.index))
+    axs[6][0].set_title('tipo Verdadero o falso')
 
-    axs[6][1].bar(proporcionesCohereVofFacil.index, proporcionesCohereVofFacil.values, color=['green', 'red'])
-    axs[6][1].set_title('Tipo V o F Fácil')
+    axs[6][1].bar(proporcionesCohereVofFacil.index, proporcionesCohereVofFacil.values, color=colorElegir(proporcionesCohereVofFacil.index))
+    axs[6][1].set_title('tipo Verdadero o falso fácil')
 
-    axs[6][2].bar(proporcionesCohereVofMedia.index, proporcionesCohereVofMedia.values, color=['green', 'red'])
-    axs[6][2].set_title('Tipo V o F Medio')
+    axs[6][2].bar(proporcionesCohereVofMedia.index, proporcionesCohereVofMedia.values, color=colorElegir(proporcionesCohereVofMedia.index))
+    axs[6][2].set_title('tipo Verdadero o falso Medio')
 
-    axs[6][3].bar(proporcionesCohereVofDificil.index, proporcionesCohereVofDificil.values, color=['green', 'red'])
-    axs[6][3].set_title('Tipo V o F Dificil')
+    axs[6][3].bar(proporcionesCohereVofDificil.index, proporcionesCohereVofDificil.values, color=colorElegir(proporcionesCohereVofDificil.index))
+    axs[6][3].set_title('tipo Verdadero o falso Dificil')
 
-    axs[7][0].bar(proporcionesGPTVof.index, proporcionesGPTVof.values, color=['green', 'red'])
-    axs[7][0].set_title('Revisión V o F')
+    axs[7][0].bar(proporcionesGPTVof.index, proporcionesGPTVof.values, color=colorElegir(proporcionesGPTVof.index))
+    axs[7][0].set_title('revision verdadero o falso')
 
-    axs[7][1].bar(proporcionesGPTVofFacil.index, proporcionesGPTVofFacil.values, color=['green', 'red'])
-    axs[7][1].set_title('Revisión V o F Fácil')
+    axs[7][1].bar(proporcionesGPTVofFacil.index, proporcionesGPTVofFacil.values, color=colorElegir(proporcionesGPTVofFacil.index))
+    axs[7][1].set_title('revision verdadero o falso facil')
 
-    axs[7][2].bar(proporcionesGPTVofMedia.index, proporcionesGPTVofMedia.values, color=['green', 'red'])
-    axs[7][2].set_title('Revisión V o F Medio')
+    axs[7][2].bar(proporcionesGPTVofMedia.index, proporcionesGPTVofMedia.values, color=colorElegir(proporcionesGPTVofMedia.index))
+    axs[7][2].set_title('revision verdadero o falso medio')
 
-    axs[7][3].bar(proporcionesGPTVofDificil.index, proporcionesGPTVofDificil.values, color=['green', 'red'])
-    axs[7][3].set_title('Revisión V o F Dificil')
+    axs[7][3].bar(proporcionesGPTVofDificil.index, proporcionesGPTVofDificil.values, color=colorElegir(proporcionesGPTVofDificil.index))
+    axs[7][3].set_title('revision verdadero o falso dificil')
+        
 
     return fig
