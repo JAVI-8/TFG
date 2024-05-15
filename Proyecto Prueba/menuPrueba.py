@@ -295,10 +295,18 @@ class AppGenerador:
         preguntas_frame.update_idletasks()
         canvas.config(scrollregion=canvas.bbox("all"))
 
+        # Frame para contener los botones de aceptar y volver
+        botones_frame = tk.Frame(self.preguntas_window)
+        botones_frame.pack(side="bottom", pady=10, padx=10, anchor="s")  # Alineado al sur (abajo) y con un pequeño margen
+
         # Botón de aceptar
-        aceptar_button = tk.Button(self.preguntas_window, text="Aceptar", command=self.enviar_a_cohere, width=10)
-        aceptar_button.pack(side="bottom", pady=10, padx=10, anchor="s")  # Alineado al sur (abajo) y con un pequeño margen
-                
+        aceptar_button = tk.Button(botones_frame, text="Aceptar", command=self.enviar_a_cohere, width=10)
+        aceptar_button.pack(side="left", padx=5)  # Empaquetar a la izquierda con un pequeño margen
+
+        # Botón "Volver"
+        volver_button = tk.Button(botones_frame, text="Volver", command=self.preguntas_window.destroy)
+        volver_button.pack(side="left", padx=5)  # Empaquetar a la izquierda con un pequeño margen
+        
     def eliminar_pregunta(self, pregunta):
          # Eliminar la pregunta del array preguntas_generadas
         self.preguntas_generadas.remove(pregunta)
