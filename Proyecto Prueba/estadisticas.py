@@ -73,11 +73,9 @@ def resultados_generales(resultados):
     plt.xticks([i + width for i in x], temas)
     plt.legend()
 
-
-    # Crear una figura con dos subplots (1 fila, 2 columnas)
     fig, axs = plt.subplots(1, 2, figsize=(8, 3))
 
-    # Crear el gráfico circular en el segundo subplot
+    #gráfico circular general
     axs[0].pie(proporcionesCohere.values, labels=proporcionesCohere.index, colors=['green', 'red'], autopct='%1.1f%%')
     axs[0].set_title('Aciertos/Fallos respuesta Cohere')
 
@@ -179,12 +177,10 @@ def resultados_categorias(resultados,categorias):
 
 
     fig, axs = plt.subplots(8, 4, figsize=(20, 30))
-
-    # Colocar el título de la categoría
     fig.suptitle(categorias, fontsize=16)
     plt.subplots_adjust(top=0.95)
 
-    # Crear el gráfico circular en el segundo subplot
+    # Crear el gráfico circular por tema, tipo y dificultad
     axs[0][0].pie(proporcionesCohere.values, labels=proporcionesCohere.index, colors=colorElegir(proporcionesCohere.index), autopct='%1.1f%%')
     axs[0][0].set_title('Corrección Cohere por GPT')
 

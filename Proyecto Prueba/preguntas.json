@@ -19577,5 +19577,33 @@
         "tipo": "test con 3 opciones",
         "tema": "operaciones matem\u00e1ticas numericas",
         "dificultad": "dif\u00edcil"
+    },
+    {
+        "id": 2798,
+        "pregunta": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 2799,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la obra \"Romeo y Julieta\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 2800,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la obra \"Romeo y Julieta\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
+    },
+    {
+        "id": 2801,
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 la novela \"Don Qha\"?",
+        "tipo": "respuesta corta",
+        "tema": "cultura general",
+        "dificultad": "f\u00e1cil"
     }
 ]

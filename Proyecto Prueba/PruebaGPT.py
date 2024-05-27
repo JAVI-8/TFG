@@ -3,12 +3,11 @@ from dotenv import load_dotenv
 from openai import OpenAI
 import json
 
-# Carga las variables de entorno del archivo .env
+#cargar claves desde .env
 load_dotenv()
 
 client = OpenAI(
   api_key=os.environ.get("OPENAI_API_KEY"),
-   #api_key = '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',
 )
 
 
@@ -56,7 +55,6 @@ def generar_pregunta(tipo_pregunta, tema_pregunta, dificultad_pregunta):
         3: "operaciones matemáticas numericas",
         4: "traducción linguistica",
         5: "definiciones de palabras",
-        6: "logica con trampa, para adivinar"
     }
 
     dificultades = {

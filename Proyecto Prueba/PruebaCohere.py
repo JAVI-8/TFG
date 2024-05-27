@@ -3,7 +3,7 @@ import cohere
 from dotenv import load_dotenv
 import json
 
-# Carga las variables de entorno del archivo .env
+#cargar claves desde .env
 load_dotenv()
 
 def cargar_preguntas():
@@ -32,7 +32,7 @@ def responder_preguntas():
         )
     preguntas = cargar_preguntas()
     respuestas = cargar_respuestas()
-    indice_inicio = len(respuestas)  # Último índice de respuesta
+    indice_inicio = len(respuestas)  #ultimo índice de respuesta
 
 
     for pregunta in preguntas[indice_inicio:]:

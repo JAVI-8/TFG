@@ -26,7 +26,7 @@ def verificar_respuestas():
 
     resultados = cargar_resultados()
 
-    # Obtener el ID de la última pregunta verificada
+    #ultimo id
     ultimo_id_verificado = resultados[-1]["id_pregunta"] if resultados else 0
 
     for pregunta in preguntas:
@@ -36,10 +36,11 @@ def verificar_respuestas():
 
         pregunta_id = pregunta["id"]
 
-        # Encontrar la respuesta correspondiente a la pregunta actual
+        #unir id y pregunta
         respuesta = next((r for r in respuestas if r["id_pregunta"] == pregunta_id), None)
         print(pregunta["pregunta"])
         print(respuesta["respuesta"])
+        #verificar pregunta
         if PruebaGPT.corregir(pregunta["pregunta"], respuesta["respuesta"]):
             resultado = {
                     "id_pregunta": pregunta_id,

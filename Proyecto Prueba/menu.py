@@ -1,6 +1,6 @@
 import time
 import tkinter as tk
-from tkinter import Scrollbar, Text, Toplevel, ttk, messagebox
+from tkinter import ttk, messagebox
 import estadisticas
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import PruebaGPT
@@ -8,7 +8,6 @@ import PruebaCohere
 import resultados
 import json
 import tkinter as tk
-from tkinter import Toplevel, Text, Scrollbar, RIGHT, Y, END
 from tkinter import ttk
 
 class App:
@@ -19,77 +18,68 @@ class App:
         self.master.title("Interfaz")
         self.master.geometry("{0}x{1}+0+0".format(master.winfo_screenwidth() - 10, master.winfo_screenheight()))
 
-        # Crear el menú en la esquina
-        self.menu_frame = tk.Frame(master, bg="white", width=200, height=600)
-        self.menu_frame.grid(row=0, column=0, sticky="ns")
-
-        # Crear los botones del menú con más margen
-        button_texts = ["Generador de preguntas", "Visualización de estadísticas"]
+        # Crear menu
+        self.menu = tk.Frame(master, bg="white", width=200, height=600)
+        self.menu.grid(row=0, column=0, sticky="ns")
+        butones = ["Generador de preguntas", "Visualización de estadísticas"]
         self.buttons = []
-        for i, text in enumerate(button_texts):
-            button = tk.Button(self.menu_frame, text=text, padx=10, pady=5, bg="white", relief="flat", borderwidth=1)
+        for i, text in enumerate(butones):
+            button = tk.Button(self.menu, text=text, padx=10, pady=5, bg="white", relief="flat", borderwidth=1)
             button.grid(row=i, column=0, sticky="ew", padx=20, pady=(10, 0))
-            button.bind("<Enter>", self.change_color)
-            button.bind("<Leave>", self.restore_color)
-            button.bind("<Button-1>", lambda e, btn=button: self.show_content(btn))
+            button.bind("<Enter>", self.cambiarColor)
+            button.bind("<Leave>", self.reiniciarColor)
+            button.bind("<Button-1>", lambda e, btn=button: self.mostrar(btn))
             self.buttons.append(button)
 
-        # Crear el área central para mostrar contenido con barra de desplazamiento
-        self.content_frame = tk.Frame(master, bg="lightgray")
-        self.content_frame.grid(row=0, column=1, sticky="nsew")
-
-        self.canvas = tk.Canvas(self.content_frame, bg="lightgray")
+        # Pantalla central donde se va a mostrar todo el contenido
+        self.contenido = tk.Frame(master, bg="lightgray")
+        self.contenido.grid(row=0, column=1, sticky="nsew")
+        self.canvas = tk.Canvas(self.contenido, bg="lightgray")
         self.canvas.pack(side="left", fill="both", expand=True)
-        
-        # Barra de desplazamiento vertical
-        scrollbarv = ttk.Scrollbar(self.content_frame, orient="vertical", command=self.canvas.yview)
-        scrollbarv.pack(side="right", fill="y")
-        self.canvas.configure(yscrollcommand=scrollbarv.set)
-        
-        #frame para la barra de desplazamiento horizontal
+        barraVertical = ttk.Scrollbar(self.contenido, orient="vertical", command=self.canvas.yview)
+        barraVertical.pack(side="right", fill="y")
+        self.canvas.configure(yscrollcommand=barraVertical.set)
+
         self.bottom_frame = ttk.Frame(master)
         self.bottom_frame.grid(row=1, column=1, sticky="ew")
         
-        # Barra de desplazamiento horizontal
-        scrollbarh = ttk.Scrollbar(self.bottom_frame, orient="horizontal", command=self.canvas.xview)
-        scrollbarh.pack(fill="x")
-        self.canvas.configure(xscrollcommand=scrollbarh.set)
-        
+        barraHorizontal = ttk.Scrollbar(self.bottom_frame, orient="horizontal", command=self.canvas.xview)
+        barraHorizontal.pack(fill="x")
+        self.canvas.configure(xscrollcommand=barraHorizontal.set)
         self.canvas.bind('<Configure>', lambda e: self.canvas.configure(scrollregion=self.canvas.bbox("all")))
 
         self.scrollable_frame = tk.Frame(self.canvas, bg="lightgray")
         self.canvas.create_window((0, 0), window=self.scrollable_frame, anchor="nw")
-
         self.scrollable_frame.bind("<Configure>", lambda e: self.canvas.configure(scrollregion=self.canvas.bbox("all")))
 
-        self.stat_buttons = None
+        self.estadisticas_buttons = None
 
         self.master.grid_rowconfigure(0, weight=1)
         self.master.grid_columnconfigure(1, weight=1)
 
-    def change_color(self, event):
+    def cambiarColor(self, event):
         event.widget.config(bg="lightgray")
 
-    def restore_color(self, event):
+    def reiniciarColor(self, event):
         event.widget.config(bg="white")
 
-    def change_colorStat(self, event):
+    def cambiarColorEstadisticas(self, event):
         event.widget.config(bg="lightgray")
 
-    def restore_colorStat(self, event):
+    def reiniciarColorEstadisticas(self, event):
         event.widget.config(bg="lightblue")
 
-    def show_content(self, button):
+    def mostrar(self, button):
         if button["text"] == "Generador de preguntas":
             self.mostrar_generador()
         elif button["text"] == "Visualización de estadísticas":
-            if not self.stat_buttons:
-                self.create_stat_buttons()
+            if not self.estadisticas_buttons:
+                self.crearEstadisticasBotones()
             else:
                 self.toggle_stat_buttons()
 
     def mostrar_generador(self):
-        # Ocultar los botones principales y mostrar el formulario cuando se selecciona "Generar pregunta"
+        # Ocultar los botones y mostrar el formulario cuando se selecciona "Generar pregunta"
         self.hora_inicio = time.time()
         try:
             with open('hora.txt', 'r') as f:
@@ -98,45 +88,45 @@ class App:
             ultima_hora = 0
 
         if ultima_hora == 0 or self.hora_inicio - ultima_hora > 60:
-            self.clear_content_frame()
+            self.borrar()
 
             self.generator_frame = tk.Frame(self.scrollable_frame, bg="white")
             self.generator_frame.pack(fill="both", expand=True)
 
-            # Crear el generador de preguntas
+            # Generador de preguntas
             self.generator = AppGenerador(self.generator_frame)
         else:
             messagebox.showerror("Error", "Por favor, espere un minuto antes de volver a intentarlo")
             return
 
-    def clear_content_frame(self):
+    def borrar(self):
         self.hora_inicio = time.time()
         for widget in self.scrollable_frame.winfo_children():
             widget.destroy()
 
-    def create_stat_buttons(self):
-        self.stat_buttons = tk.Frame(self.menu_frame, bg="white")
-        self.stat_buttons.grid(row=2, column=0, sticky="ew", padx=20, pady=(10, 0))
+    def crearEstadisticasBotones(self):
+        self.estadisticas_buttons = tk.Frame(self.menu, bg="white")
+        self.estadisticas_buttons.grid(row=2, column=0, sticky="ew", padx=20, pady=(10, 0))
 
         r = estadisticas.cargar()
         categories = ["generales","cultura general", "operaciones matemáticas numericas",
-                      "traducción linguistica", "codigo", "logica con trampa, para adivinar", "definiciones de palabras"]
+                      "traducción linguistica", "codigo", "definiciones de palabras"]
 
         for i, category in enumerate(categories):
-            button = tk.Button(self.stat_buttons, text=category, padx=10, pady=5, bg="lightblue", fg="black", relief="flat", borderwidth=1, anchor="w")
+            button = tk.Button(self.estadisticas_buttons, text=category, padx=10, pady=5, bg="lightblue", fg="black", relief="flat", borderwidth=1, anchor="w")
             button.grid(row=i, column=0, sticky="ew", padx=20, pady=5)
-            button.bind("<Enter>", self.change_colorStat)
-            button.bind("<Leave>", self.restore_colorStat)
-            button.bind("<Button-1>", lambda e, cat=category: self.show_statistics(cat))
+            button.bind("<Enter>", self.cambiarColorEstadisticas)
+            button.bind("<Leave>", self.reiniciarColorEstadisticas)
+            button.bind("<Button-1>", lambda e, cat=category: self.mostrarEstadisticas(cat))
         self.toggle_stat_buttons()
 
     def toggle_stat_buttons(self):
-        if self.stat_buttons.winfo_ismapped():
-            self.stat_buttons.grid_forget()
+        if self.estadisticas_buttons.winfo_ismapped():
+            self.estadisticas_buttons.grid_forget()
         else:
-            self.stat_buttons.grid()
+            self.estadisticas_buttons.grid()
 
-    def show_statistics(self, category):
+    def mostrarEstadisticas(self, category):
         r = estadisticas.cargar()
 
         if (category == "generales"):
@@ -160,7 +150,7 @@ class AppGenerador:
         self.master.configure(bg="lightgray")
 
         self.preguntas_generadas = [] #donde se guardara las preguntas generadas antes de ser corregidas
-        self.inner_frame = tk.Frame(master)  # Inicializar el atributo inner_frame
+        self.inner_frame = tk.Frame(master)
         self.inner_frame.pack(fill="both", expand=True)
 
         self.tipo_var = tk.StringVar()
@@ -168,11 +158,11 @@ class AppGenerador:
         self.dificultad_var = tk.StringVar()
 
         self.opciones_tipo = {"Tipo respuesta corta": 1, "Tipo test con 3 opciones": 2, "Verdadero o falso": 3}
-        self.opciones_tema = {"Cultura general": 1, "Codigo": 2, "Operaciones matematicas": 3, "Traducción": 4, "Definiciones de palabras": 5, "Preguntas lógicas":6}
+        self.opciones_tema = {"Cultura general": 1, "Codigo": 2, "Operaciones matematicas": 3, "Traducción": 4, "Definiciones de palabras": 5}
         self.opciones_dificultad = {"Fácil": 1, "Medio": 2, "Difícil": 3}
 
         self.form_frame = tk.Frame(self.master, bg="lightgray", width=800, height=500)
-        self.form_frame.pack_propagate(False)  # No dejar que el frame se ajuste automáticamente al tamaño de sus widgets
+        self.form_frame.pack_propagate(False)
         self.form_frame.pack(pady=200, padx = 350)
 
         self.formulario()
@@ -182,42 +172,34 @@ class AppGenerador:
         self.title_label = tk.Label(self.form_frame, text="Generar pregunta", bg="lightgray", font=("Helvetica", 40, "bold"))
         self.title_label.pack(anchor="w", padx=100, pady=(0, 15))
 
-        # Etiqueta y menú de selección para el tipo de pregunta
+        #selección para el tipo de pregunta
         self.tipo_label = tk.Label(self.form_frame, text="Tipo de pregunta:", bg="lightgray", font=("Helvetica", 14))
         self.tipo_label.pack(anchor="w", padx=250, pady=(0, 5))
 
-        # Variable de control para el tipo de pregunta
         self.tipo_var = tk.StringVar(self.form_frame)
-
-        # Establecer la primera opción como predeterminada para el tipo de pregunta
         first_tipo_option = list(self.opciones_tipo.keys())[0]
         self.tipo_var.set(first_tipo_option)
 
         self.tipo_option_menu = ttk.OptionMenu(self.form_frame, self.tipo_var, first_tipo_option, *self.opciones_tipo.keys())
         self.tipo_option_menu.pack(anchor="w", padx=250, pady=(0, 5))
 
-        # Etiqueta y menú de selección para el tema de la pregunta
+        #selección para el tema de pregunta
         self.tema_label = tk.Label(self.form_frame, text="Tema de la pregunta:", bg="lightgray", font=("Helvetica", 14))
         self.tema_label.pack(anchor="w", padx=250, pady=(50, 5))
 
-        # Variable de control para el tema de la pregunta
         self.tema_var = tk.StringVar(self.form_frame)
-
-        # Establecer la primera opción como predeterminada para el tema de la pregunta
         first_tema_option = list(self.opciones_tema.keys())[0]
         self.tema_var.set(first_tema_option)
 
         self.tema_option_menu = ttk.OptionMenu(self.form_frame, self.tema_var, first_tema_option, *self.opciones_tema.keys())
         self.tema_option_menu.pack(anchor="w", padx=250, pady=(0, 5))
 
-        # Etiqueta y menú de selección para la dificultad
+        #selección para la dificultad
         self.dificultad_label = tk.Label(self.form_frame, text="Dificultad:", bg="lightgray", font=("Helvetica", 14))
         self.dificultad_label.pack(anchor="w", padx=250, pady=(50, 5))
 
-        # Variable de control para la dificultad
-        self.dificultad_var = tk.StringVar(self.form_frame)
 
-        # Establecer la primera opción como predeterminada para la dificultad
+        self.dificultad_var = tk.StringVar(self.form_frame)
         first_dificultad_option = list(self.opciones_dificultad.keys())[0]
         self.dificultad_var.set(first_dificultad_option)
 
@@ -249,34 +231,25 @@ class AppGenerador:
         self.preguntas_generadas = PruebaGPT.generar_pregunta(tipo_int, tema_int, dificultad_int)
 
 
-        self.mostrar_preguntasPreview(self.preguntas_generadas)
+        self.mostrarPreguntasPreview(self.preguntas_generadas)
 
-    def mostrar_preguntasPreview(self, preguntas_generadas):
-        self.preguntas_window = tk.Toplevel(self.master)
-        self.preguntas_window.title("Preguntas Generadas")
-        self.preguntas_window.geometry("600x600")  # Tamaño fijo de la ventana, ancho alto
+    def mostrarPreguntasPreview(self, preguntas_generadas):
+        self.ventanaPreguntas = tk.Toplevel(self.master)
+        self.ventanaPreguntas.title("Preguntas Generadas")
+        self.ventanaPreguntas.geometry("600x600")  #ancho alto
 
-        # Desactivar la capacidad de redimensionamiento
-        #self.preguntas_window.resizable(False, False)
-
-        # Frame contenedor para las preguntas
-        preguntas_frame = tk.Frame(self.preguntas_window)
+        preguntas_frame = tk.Frame(self.ventanaPreguntas)
         preguntas_frame.pack(fill="both", expand=True)
-
-        # Canvas para contener las preguntas y barra de desplazamiento
         canvas = tk.Canvas(preguntas_frame)
         canvas.pack(side="left", fill="both", expand=True)
 
-        # Frame interior para las preguntas
         inner_frame = tk.Frame(canvas)
         canvas.create_window((0, 0), window=inner_frame, anchor="nw")
 
-        # Barra de desplazamiento vertical
-        scrollbar = ttk.Scrollbar(preguntas_frame, orient="vertical", command=canvas.yview)
-        scrollbar.pack(side="right", fill="y")
-        canvas.configure(yscrollcommand=scrollbar.set)
+        scrollbarVertical = ttk.Scrollbar(preguntas_frame, orient="vertical", command=canvas.yview)
+        scrollbarVertical.pack(side="right", fill="y")
+        canvas.configure(yscrollcommand=scrollbarVertical.set)
         
-        # Lista de colores de fondo alternados para las preguntas
         colores_fondo = ["white", "lightgrey"]
 
         # Mostrar cada pregunta generada con botones de eliminar y modificar
@@ -287,18 +260,13 @@ class AppGenerador:
             pregunta_frame = tk.Frame(inner_frame, bg=color_fondo, padx=20, pady=10)
             pregunta_frame.pack(pady=5, padx=5, fill="both")
 
-            # Obtener solo el texto de la pregunta
             pregunta_texto = pregunta['pregunta']
-
-            # Etiqueta de la pregunta
             pregunta_label = tk.Label(pregunta_frame, text=pregunta_texto, bg=color_fondo, font=("Helvetica", 12))
             pregunta_label.pack(side="top", fill="both", expand=True)
 
-            # Frame para contener los botones de eliminar y modificar
+            #botones de eliminar y modificar
             botones_frame = tk.Frame(pregunta_frame, bg=color_fondo)
             botones_frame.pack(side="bottom", pady=5)
-
-            # Botones de eliminar y modificar centrados
             eliminar_button = tk.Button(botones_frame, text="Eliminar", command=lambda p=pregunta: self.eliminar_pregunta(p))
             eliminar_button.pack(side="left", padx=5)
 
@@ -309,73 +277,66 @@ class AppGenerador:
         preguntas_frame.update_idletasks()
         canvas.config(scrollregion=canvas.bbox("all"))
 
-        # Frame para contener los botones de aceptar y volver
-        botones_frame = tk.Frame(self.preguntas_window)
+        #botones de aceptar y volver
+        botones_frame = tk.Frame(self.ventanaPreguntas)
         botones_frame.pack(side="bottom", pady=10, padx=10, anchor="s")  # Alineado al sur (abajo) y con un pequeño margen
 
-        # Botón de aceptar
+        # aceptar
         aceptar_button = tk.Button(botones_frame, text="Aceptar", command=self.enviar_a_cohere, width=10)
         aceptar_button.pack(side="left", padx=5)  # Empaquetar a la izquierda con un pequeño margen
 
-        # Botón "Volver"
-        volver_button = tk.Button(botones_frame, text="Volver", command=self.preguntas_window.destroy)
+        # volver
+        volver_button = tk.Button(botones_frame, text="Volver", command=self.ventanaPreguntas.destroy)
         volver_button.pack(side="left", padx=5)  # Empaquetar a la izquierda con un pequeño margen
 
     def eliminar_pregunta(self, pregunta):
-         # Eliminar la pregunta del array preguntas_generadas
+         #eliminar pregunta
         self.preguntas_generadas.remove(pregunta)
-
-        # Cerrar la ventana actual de preguntas
-        self.preguntas_window.destroy()
+        self.ventanaPreguntas.destroy()
 
         if not self.preguntas_generadas:  # Si no quedan preguntas
             messagebox.showwarning("Advertencia", "No hay más preguntas.")
         else:
             # Mostrar las preguntas actualizadas en una nueva ventana
-            self.mostrar_preguntasPreview(self.preguntas_generadas)
+            self.mostrarPreguntasPreview(self.preguntas_generadas)
 
     def modificar_pregunta(self, pregunta):
         # Asignar la pregunta seleccionada actualmente
         self.pregunta_seleccionada = pregunta
 
         # Crear una nueva ventana para la modificación
-        self.modificar_window = tk.Toplevel(self.master)
-        self.modificar_window.title("Modificar Pregunta")
+        self.ventanaModificar = tk.Toplevel(self.master)
+        self.ventanaModificar.title("Modificar Pregunta")
 
-        # Frame contenedor para los elementos de la ventana de modificación
-        modificar_frame = tk.Frame(self.modificar_window, bg="lightgray")
+        modificar_frame = tk.Frame(self.ventanaModificar, bg="lightgray")
         modificar_frame.pack(padx=20, pady=20)
 
-        # Crear un Entry para ingresar la pregunta modificada
         pregunta_modificada_entry = tk.Entry(modificar_frame, width=50)
         pregunta_modificada_entry.insert(tk.END, pregunta['pregunta'])
         pregunta_modificada_entry.grid(row=0, column=0, columnspan=2, pady=10)
 
-        # Función para actualizar la pregunta en el arreglo preguntas_generadas
-        def actualizar_pregunta_modificada(pregunta, pregunta_modificada):
+        #actualizar la pregunta
+        def actualizarPreguntaModificada(pregunta, pregunta_modificada):
             pregunta = self.pregunta_seleccionada
             pregunta['pregunta'] = pregunta_modificada_entry.get()
-            # Actualizar la pregunta en la lista de preguntas generadas
-            self.preguntas_window.destroy()
-            self.actualizar_preguntas_generadas()
+            self.ventanaPreguntas.destroy()
+            self.actualizarPreguntasGeneradas()
             # Cerrar la ventana de modificación
-            self.modificar_window.destroy()
+            self.ventanaModificar.destroy()
 
-        # Botón para aceptar la modificación
-        aceptar_button = tk.Button(modificar_frame, text="Aceptar", command=lambda: actualizar_pregunta_modificada(pregunta, pregunta_modificada_entry.get()))
+        #aceptar y cancelar
+        aceptar_button = tk.Button(modificar_frame, text="Aceptar", command=lambda: actualizarPreguntaModificada(pregunta, pregunta_modificada_entry.get()))
         aceptar_button.grid(row=1, column=0, padx=5)
-
-        # Botón para cancelar la modificación
-        cancelar_button = tk.Button(modificar_frame, text="Cancelar", command=self.modificar_window.destroy)
+        cancelar_button = tk.Button(modificar_frame, text="Cancelar", command=self.ventanaModificar.destroy)
         cancelar_button.grid(row=1, column=1, padx=5)
 
-    def actualizar_preguntas_generadas(self):
+    def actualizarPreguntasGeneradas(self):
         # Método para actualizar la lista de preguntas generadas en la ventana principal
         for widget in self.inner_frame.winfo_children():
             widget.destroy()
 
         # Mostrar las preguntas actualizadas
-        self.mostrar_preguntasPreview(self.preguntas_generadas)
+        self.mostrarPreguntasPreview(self.preguntas_generadas)
     
     def enviar_a_cohere(self):
         PruebaGPT.guardar_preguntas_generadas(self.preguntas_generadas)
@@ -383,16 +344,15 @@ class AppGenerador:
         resultados.verificar_respuestas()
 
         messagebox.showinfo("Generación completada", "Preguntas respondidas exitosamente.")
-        self.preguntas_window.destroy()
+        self.ventanaPreguntas.destroy()
         self.mostrar_preguntas()
 
     def mostrar_preguntas(self):
-        # Crear una nueva ventana
-        window = tk.Toplevel()
-        window.title("Últimas preguntas corregidas")
+        ventana = tk.Toplevel()
+        ventana.title("Últimas preguntas corregidas")
 
         # Frame contenedor para las preguntas corregidas
-        frame = tk.Frame(window)
+        frame = tk.Frame(ventana)
         frame.pack(fill="both", expand=True)
 
         # Canvas para contener las preguntas y barra de desplazamiento
@@ -448,7 +408,7 @@ class AppGenerador:
         canvas.config(scrollregion=canvas.bbox("all"))
 
          # Botón para aceptar y cerrar la ventana
-        aceptar_button = tk.Button(window, text="Aceptar", command=window.destroy)
+        aceptar_button = tk.Button(ventana, text="Aceptar", command=ventana.destroy)
         aceptar_button.pack(side="bottom", pady=10)
 
 
